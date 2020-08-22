@@ -1,0 +1,223 @@
+
+# High-availability cluster
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+High-availability clusters (also known as HA Clusters or Failover Clusters)
+are computer clusters that are implemented primarily for the purpose of
+providing high availability of services which the cluster provides. They
+operate by having redundant computers or nodes which are then used to provide
+service when system components fail. Normally, if a server with a particular
+application crashes, the application will be unavailable until someone fixes
+the crashed server. HA clustering remedies this situation by detecting
+hardware/software faults, and immediately restarting the application on
+another system without requiring administrative intervention, a process known
+as Failover. As part of this process, clustering software may configure the
+node before starting the application on it. For example, appropriate
+filesystems may need to be imported and mounted, network hardware may have to
+be configured, and some supporting applications may need to be running as
+well.
+
+HA clusters are often used for critical databases, file sharing on a network,
+business applications, and customer services such as electronic commerce
+websites.
+
+HA cluster implementations attempt to build redundancy into a cluster to
+eliminate single points of failure, including multiple network connections and
+data storage which is multiply connected via Storage area networks.
+
+HA clusters usually use a heartbeat private network connection which is used
+to monitor the health and status of each node in the cluster. One subtle, but
+serious condition every clustering software must be able to handle is split-
+brain. Split-brain occurs when all of the private links go down
+simultaneously, but the cluster nodes are still running. If that happens, each
+node in the cluster may mistakenly decide that every other node has gone down
+and attempt to start services that other nodes are still running. Having
+duplicate instances of services may cause data corruption on the shared
+storage.
+
+## Contents
+
+  * 1 Node configurations
+  * 2 Application Design Requirements
+  * 3 Node reliability
+  * 4 HA Cluster products
+    * 4.1 Common clusters
+    * 4.2 Other clusters
+  * 5 See also
+  * 6 References
+
+  
+## [edit] Node configurations
+
+<IMG>
+
+<IMG>
+
+2 node High Availability Cluster network diagram
+
+The most common size for an HA cluster is a two-node cluster, since that's the
+minimum required to provide redundancy, but many clusters consist of many
+more, sometimes dozens of nodes. Such configurations can sometimes be
+categorized into one of the following models:
+
+  * Active/Active â Traffic intended for the failed node is either passed onto an existing node or load balanced across the remaining nodes. This is usually only possible when the nodes utilize a homogeneous software configuration.
+  * Active/Passive â Provides a fully redundant instance of each node, which is only brought online when its associated primary node fails. This configuration typically requires the most amount of extra hardware.
+  * N+1 â Provides a single extra node that is brought online to take over the role of the node that has failed. In the case of heterogeneous software configuration on each primary node, the extra node must be universally capable of assuming any of the roles of the primary nodes it is responsible for. This normally refers to clusters which have multiple services running simultaneously; in the single service case, this degenerates to Active/Passive.
+  * N+M â In cases where a single cluster is managing many services, having only one dedicated failover node may not offer sufficient redundancy. In such cases, more than one (M) standby servers are included and available. The number of standby servers is a tradeoff between cost and reliability requirements.
+  * N-to-1 â Allows the failover standby node to become the active one temporarily, until the original node can be restored or brought back online, at which point the services or instances must be failed-back to it in order to restore High Availability.
+  * N-to-N â A combination of Active/Active and N+M clusters, N to N clusters redistribute the services or instances from the failed node among the remaining active nodes, thus eliminating (as with Active/Active) the need for a 'standby' node, but introducing a need for extra capacity on all active nodes.
+
+The term Logical host or Cluster logical host is used to describe the network
+address which is used to access services provided by the cluster. This logical
+host identity is not tied to a single cluster node. It is actually a network
+address/hostname that is linked with the service(s) provided by the cluster.
+If a cluster node with a running database goes down, the database will be
+restarted on another cluster node, and the network address that the users use
+to access the database will be brought up on the new node as well so that
+users can access the database again.
+
+## [edit] Application Design Requirements
+
+Not every application can run in a high-availability cluster environment, and
+the necessary design decisions need to be made early in the software design
+phase. In order to run in a high-availability cluster environment, an
+application must satisfy at least the following technical requirements:
+
+  * There must be a relatively easy way to start, stop, force-stop, and check the status of the application. In practical terms, this means the application must have a command line interface or scripts to control the application, including support for multiple instances of the application.
+  * The application must be able to use shared storage (NAS/SAN).
+  * Most importantly, the application must store as much of its state on non-volatile shared storage as possible. Equally important is the ability to restart on another node at the last state before failure using the saved state from the shared storage.
+  * Application must not corrupt data if it crashes or restarts from the saved state.
+
+The last two criteria are critical to reliable functionality in a cluster, and
+are the most difficult to satisfy fully. Finally, licensing compliance must be
+observed.
+
+## [edit] Node reliability
+
+HA clusters usually utilize all available techniques to make the individual
+systems and shared infrastructure as reliable as possible. These include:
+
+  * Disk mirroring so that failure of internal disks does not result in system crashes
+  * Redundant network connections so that single cable, switch, or network interface failures do not result in network outages
+  * Redundant Storage area network or SAN data connections so that single cable, switch, or interface failures do not lead to loss of connectivity to the storage (this would violate the share-nothing architecture)
+  * Redundant electrical power inputs on different circuits, usually both or all protected by Uninterruptible power supply units, and redundant power supply units, so that single power feed, cable, UPS, or power supply failures do not lead to loss of power to the system.
+
+These features help minimize the chances that the clustering failover between
+systems will be required. In such a failover, the service provided is
+unavailable for at least a little while, so measures to avoid failover are
+preferred.
+
+## [edit] HA Cluster products
+
+There are many commercial implementations of High-Availability clusters for
+many operating systems.
+
+### [edit] Common clusters
+
+These products are found extensively in commercial or research/academic use:
+
+  * Veritas Cluster Server \- multi-platform
+  * Sun Cluster \- Solaris/OpenSolaris only
+  * OpenVMS \- The original clustering OS - runs on VAX, Alpha and Itanium(2) only, still no EOL
+  * Egenera \- PAN Manager / BladeFrame
+  * HP ServiceGuard for HP/UX and Linux
+  * Linux-HA â a commonly used free software HA package for the Linux OS.
+  * Red Hat Cluster Suite \- Linux only
+  * IBM High Availability Cluster Multiprocessing (HACMP) for AIX and Linux
+  * Microsoft Cluster Server (MSCS) - Windows only
+  * Parallel Sysplex \- unique to IBM mainframes
+  * IBM Tivoli System Automation \- z/OS, AIX, Linux, Windows Server 2003
+  * Oracle Clusterware \- multi-platform, provides the infrastructure for Oracle Real Application Clusters (RAC) and enables the protection of both Oracle and non-Oracle applications
+
+### [edit] Other clusters
+
+These cluster systems are less commonly found in production.
+
+  * NEC ExpressCluster \- Windows & Linux
+  * TruCluster
+  * openMOSIX Gentoo Linux
+  * OpenSSI for Linux
+  * EMC Corporation AutoStart for all platforms
+  * HA/FST Solaris Sparc & x86
+
+## [edit] See also
+
+  * Service Availability Forum
+
+## [edit] References
+
+  * Greg Pfister: In Search of Clusters, Prentice Hall, ISBN 0-13-899709-8
+  * Evan Marcus, Hal Stern: Blueprints for High Availability: Designing Resilient Distributed Systems, John Wiley & Sons, ISBN 0-471-35601-8
+
+Retrieved from "http://en.wikipedia.org/wiki/High-availability_cluster"
+
+Categories: Cluster computing | Parallel computing | Quality control | High-
+availability cluster computing
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * æ¥æ¬èª
+  * PortuguÃªs
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 12 March 2009, at 09:07 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

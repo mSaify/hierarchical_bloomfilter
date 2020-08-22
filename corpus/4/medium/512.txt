@@ -1,0 +1,870 @@
+
+# McLaren F1
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For the Formula One team, see McLaren.
+
+McLaren F1 McLaren F1 logo.  
+McLaren F1  
+Manufacturer McLaren Automotive  
+Production 1992â1998  
+(106 produced)  
+Class Sports car  
+Body style(s) 2-door 3-seat coupe  
+Layout RMR layout  
+Engine(s) 60Â° 6.1 L V12  
+Transmission(s) 6-speed manual  
+Wheelbase 2,718 mm (107.0 in)  
+Length 4,287 mm (168.8 in)  
+Width 1,820 mm (71.7 in)  
+Height 1,140 mm (44.9 in)  
+Curb weight 1,140 kg (2,513 lb)  
+Designer Gordon Murray & Peter Stevens  
+The McLaren F1 is a sports car designed and manufactured by Gordon Murray and
+McLaren Automotive. On March 31, 1998, it set the record for the fastest
+production car in the world, 240.1 mph (386.7 km/h),[1] which it held until
+the introduction of the Bugatti Veyron in 2005. [2] As of January 2009, the F1
+is the fastest naturally aspirated production car (see subsection 1.10
+Performance for justification).
+
+The car features a 6.1-litre BMW S70 60Â° V12 engine and it was conceived as
+an exercise in creating what its designers hoped would be considered the
+ultimate road car. Only 106 cars were manufactured, 64 of those were street
+versions (F1), 5 were LMs, 3 were longtail roadcars (GT), 5 prototypes (XP),
+28 racecars (GTR), and 1 LM prototype (XP LM). Production began in 1992 and
+ended in 1998.[3]
+
+## Contents
+
+  * 1 Design and implementation
+    * 1.1 Engine
+      * 1.1.1 History
+      * 1.1.2 Specifications
+    * 1.2 Chassis and body
+    * 1.3 Aerodynamics
+    * 1.4 Suspension
+    * 1.5 Tyres
+    * 1.6 Brakes
+    * 1.7 Gearbox and miscellaneous
+    * 1.8 Equipment
+    * 1.9 Purchase and maintenance
+    * 1.10 Performance
+      * 1.10.1 Acceleration
+      * 1.10.2 Top speed
+      * 1.10.3 Cornering
+      * 1.10.4 Braking
+      * 1.10.5 Track tests
+  * 2 Record claims
+  * 3 Variants
+    * 3.1 Prototypes
+    * 3.2 F1 LM
+    * 3.3 F1 GT
+  * 4 Motorsports
+    * 4.1 F1 GTR '95
+    * 4.2 F1 GTR '96
+    * 4.3 F1 GTR '97
+  * 5 Replicas and Models
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Design and implementation
+
+Chief engineer Gordon Murray's design concept was a common one among designers
+of high-performance cars: low weight and high power. This was achieved through
+use of high-tech and expensive materials like carbon fibre, titanium, gold,
+magnesium and kevlar. The F1 was one of the first production cars to use a
+carbon-fibre monocoque.
+
+<IMG>
+
+<IMG>
+
+The three seat setup inside an F1.
+
+The idea was first conceived when Murray was waiting for a flight home from
+the fateful Italian Grand Prix in 1988; Murray drew a sketch of a three seater
+sports car and proposed it to Ron Dennis, pitched as the idea of creating the
+ultimate road car, a concept that would be heavily influenced by the Formula
+One experience and technology of the company and thus reflect that skill and
+knowledge through the McLaren F1.
+
+Quote from Gordon:[4] "During this time, we were able to visit with Ayrton
+Senna (the late F1 Champion) and Honda's Tochigi Research Center. The visit
+related to the fact that at the time, McLaren's F1 Grand Prix cars were using
+Honda engines. Although it's true I had thought it would have been better to
+put a larger engine, the moment I drove the Honda NSX, all the benchmark
+carsâFerrari, Porsche, LamborghiniâI had been using as references in the
+development of my car vanished from my mind. Of course the car we would
+create, the McLaren F1, needed to be faster than the NSX, but the NSX's ride
+quality and handling would become our new design target. Being a fan of Honda
+engines, I later went to Honda's Tochigi Research Center on two occasions and
+requested that they consider building for the McLaren F1 a 4.5 liter V10 or
+V12. I asked, I tried to persuade them, but in the end could not convince them
+to do it, and the McLaren F1 ended up equipped with a BMW engine."
+
+Later, a pair of Ultima MK3 kit cars, chassis numbers 12 and 13, "Albert" and
+"Edward", the last two MK3s, were used as "mules" to test various components
+and concepts before the first cars were built. Number 12 was used to test the
+gearbox with a 7.4 litre Chevrolet V8 to mimic the torque of the BMW V12, plus
+various other components like the seats and the brakes. Number 13 was the test
+of the V12, plus exhaust and cooling system. When McLaren was done with the
+cars they destroyed both of them to keep away the specialist magazines and
+because they did not want the car to be associated with "kit cars".
+
+The car was first unveiled at a launch show, 28 May 1991, at The Sporting Club
+in Monaco. The production version remained the same as the original prototype
+(XP1) except for the wing mirror which, on the XP1, was mounted at the top of
+the A-pillar. This car was deemed not road legal as it had no indicators at
+the front; McLaren was forced to make changes on the car as a result (some
+cars, including Ralph Lauren's, were sent back to McLaren and fitted with the
+prototype mirrors). The original wing mirrors also incorporated a pair of
+indicators which other car manufacturers would adopt several years later.
+
+The car's safety levels were first proved when during a testing in Namibia in
+April 1993, a test driver wearing just shorts and t-shirt hit a rock and
+rolled the first prototype car several times. The driver managed to escape
+unscathed. Later in the year, the second prototype (XP2) was especially built
+for crashtesting and passed with the front wheel arch untouched.
+
+### [edit] Engine
+
+#### [edit] History
+
+<IMG>
+
+<IMG>
+
+The McLaren F1's engine compartment contains the mid-mounted BMW S70/2 engine
+and uses gold foil as a heat shield in the exhaust compartment.
+
+Gordon Murray insisted that the engine for this car be naturally aspirated to
+increase reliability and driver control. Turbochargers and superchargers
+increase power but they increase complexity and can decrease reliability as
+well as introducing an additional aspect of latency and loss of feedback, the
+ability of the driver to maintain maximum control of the engine is thus
+decreased. Murray initially approached Honda for an NA powerplant with 550 bhp
+(410 kW; 560 PS), 600 mm (23.6 in) block length and a total weight of 250 kg
+(551 lb), it should be derived from the Formula 1 powerplant in the then-
+dominating McLaren/Honda cars.
+
+When Honda refused, Isuzu, then planning an entry into Formula 1, had a 3.5
+V12 engine being tested in a Lotus chassis. The company was very interested in
+having the engine fitted into the F1. However, the designers wanted an engine
+with a proven design and a racing pedigree.
+
+In the end BMW took an interest, and the motorsport division BMW M headed by
+engine expert Paul Rosche[5] designed and built Murray a custom-designed 6.1 L
+(6064 cc) 60-degree V12 engine, which was 14% more powerful than specified and
+16 kg (35 lb) heavier â despite being based on the original specifications
+of 550 bhp (410 kW; 560 PS), 600 mm (23.6 in) block length and total weight of
+250 kilograms (550 lb).
+
+#### [edit] Specifications
+
+The final result is a custom-built 6.1 L (6064 cc) 60-degree V12 with an
+aluminium alloy block and head, 86 mm (3.4 in) x 87 mm (3.4 in) bore/stroke,
+quad overhead camshafts for maximum flexibility of control over the four
+valves per cylinder and a chain drive for the camshafts for maximum
+reliability, the engine is dry sump. At 266 kg (586 lb), the resulting engine
+was slightly heavier than Murray's original maximum specification weight of
+250 kg (551 lb) but was also considerably more powerful than he had specified.
+The bespoke engineered engine for the F1 is called the BMW S70/2.[6]
+
+The carbon fibre body panels and monocoque required significant heat
+insulation in the engine compartment, so Murray's solution was to line the
+engine bay with a highly efficient heat-reflector: gold foil. Approximately 25
+g (0.8 ounce) of gold was used in each car.[7]
+
+The road version used a compression ratio of 11:1 to produce 627 brake
+horsepower (467 kW)[6] at 7400 rpmâconsiderably more than Murray's
+specification of 550 horsepower (404 kW). Torque output of 480 ftÂ·lb (651
+NÂ·m) at 5600 rpm.[8] The engine has a red line and rev limiter set at 7500
+rpm.
+
+In contrast to raw engine power, a car's power-to-weight ratio is a better
+method of quantifying acceleration performance than the peak output of the
+vehicle's powerplant. The standard F1 achieves 550 hp/ton (403 kW/tonne), or
+just 3.6 lb/hp. Compare with the Enzo Ferrari at 434 hp/ton (314 kW/tonne)
+(4.6 lb/hp), the SSC Ultimate Aero TT with 1003 hp/ton (747.9 kW/tonne) (2
+lb/hp), and the Bugatti Veyron at 530.2 hp/ton (395 kW/tonne) (4.1 lb/hp).
+
+The cam carriers, covers, oil sump, dry sump, and housings for the camshaft
+control are made of magnesium castings. The intake control features twelve
+individual butterfly valves and the exhaust system has four Inconel catalysts
+with individual Lambda-Sond controls. The camshafts are continuously variable
+for increased performance, using a system very closely based on BMW's VANOS
+variable timing system for the BMW M3;[9] it is a hydraulically-actuated
+phasing mechanism which retards the inlet cam relative to the exhaust cam at
+low revs, which reduces the valve overlap and provides for increased idle
+stability and increased low-speed torque. At higher RPM the valve overlap is
+increased by computer control to 42 degrees (compare 25 degrees on the M3)[9]
+for increased airflow into the cylinders and thus increased performance.
+
+To allow the fuel to atomise fully the engine uses two Lucas injectors per
+cylinder, with the first injector located close to the inlet valve â
+operating at low engine RPM â while the second is located higher up the
+inlet tract â operating at higher RPM. The dynamic transition between the
+two devices is controlled by the engine computer.[9]
+
+Each cylinder has its own miniature ignition coil. The closed-loop fuel
+injection is sequential. The engine has no knock sensor as the predicted
+combustion conditions would not cause this to be a problem. The pistons are
+forged in aluminium.
+
+Every cylinder bore has a nikasil coating giving it a high degree of wear
+resistance. [9]
+
+From 1998 to 2000, the Le Mansâwinning BMW V12 LMR sports car used a similar
+S70/2 engine.
+
+The engine was given a short development time, causing the BMW design team to
+use only trusted technology from prior design and implementation experience.
+The engine does not use titanium valves or connecting rods. Variable intake
+geometry was considered but rejected on grounds of unnecessary
+complication.[9]
+
+<IMG>
+
+<IMG>
+
+Standard McLaren F1 with all user accessible compartments opened.
+
+### [edit] Chassis and body
+
+The McLaren F1 was the first production road car to use a complete carbon
+fiber reinforced plastic (CFRP) monocoque chassis structure.[10] Aluminium and
+magnesium was used for attachment points for the suspension system, inserted
+directly into the CFRP.[11]
+
+The car features a central driving position â the driver's seat is located
+in the middle, ahead of the fuel tank and ahead of the engine, with a
+passenger seat slightly behind and on either side.[12] The doors on the
+vehicle move up and out when opened, and are thus of the type butterfly doors.
+
+### [edit] Aerodynamics
+
+The overall drag coefficient on the standard McLaren F1 is 0.32,[13] compared
+with 0.36 for the faster Bugatti Veyron, and 0.357 for the current holder of
+the fastest car world record (as of 2008) â the SSC Ultimate Aero TT (in
+terms of top speed). The vehicle's frontal area is 1.79 and the total Cx is
+0.57 respectively. Due to the fact that the machine features active
+aerodynamics[14][6][7] these are the figures presented in the most streamlined
+configuration.
+
+The normal McLaren F1 features no wings to produce downforce, however the
+design of the underbody of the McLaren F1 exploits ground effect to improve
+downforce which is increased through the use of two electric fans to further
+decrease the pressure under the car. A "high downforce mode" can be turned on
+and off by the driver.
+
+There is a small rear spoiler on the tail of the vehicle, which is dynamic,
+the device will adjust dynamically and automatically attempt to balance the
+center of gravity of the car under braking[7] â which will be shifted
+forward when the brakes are applied. The spoiler increases the overall drag
+coefficient from 0.32 to 0.39 and is activated at speeds equal to or above 40
+mph (64 km/h) by brake line pressure.[9]
+
+### [edit] Suspension
+
+Steve Randle who was the car's dynamicist was appointed responsible for the
+design of the suspension system of the McLaren F1 machine.[9] It was decided
+that the ride should be comfortable yet performance oriented, however not as
+stiff and low as that of a true track machine, as that would imply reduction
+in practical use and comfort as well as increasing noise and vibration, which
+would be a contradictory design choice in relation to the former set premise
+â the goal of creating the ultimate road car.
+
+From scratch the design of the F1 vehicle had strong focus on centering the
+mass of the car as near the middle as possible by extensive manipulation of
+placement of i.a. the engine, fuel and driver, allowing for a low polar moment
+of inertia in yaw. The F1 has 42% of its weight at the front and 58% at the
+rear,[9] this figure changes less than 1% with the fuel load.
+
+The distance between the mass centroid of the car and the suspension roll
+centre were designed to be the same front and rear to avoid unwanted weight
+transfer effects â allowing anti roll bars to be omitted. Computer
+controlled dynamic suspension were considered but not applied due to the
+inherent increase in weight, increased complexity and loss of predictability
+of the vehicle.
+
+Damper and spring specifications: 90 mm (3.5 in) bump, 80 mm (3.1 in) rebound
+with bounce frequency at 1.43 Hz at front and 1.80 Hz at the rear,[9] despite
+being sports oriented these figures imply the rather soft ride and will
+inherently decrease track performance, but again, the McLaren F1 is not in
+concept nor implementation a track machine. As can be seen from the McLaren F1
+LM, McLaren F1 GTR et al., the track performance potential is much higher than
+that in the stock F1 due to fact that car should be comfortable and usable in
+everyday conditions.
+
+The suspension is a double wishbone system with an interesting design, i.a.
+that longitudinal wheel compliance is included without loss of wheel control,
+which allows the wheel to travel backwards when it hits a bump â increasing
+the comfort of the ride.
+
+Castor wind-off at the front during braking is handled by McLaren's
+proprietary Ground Plane Shear Centre â the wishbones on either side in the
+subframe are fixed in rigid plane bearings and connected to the body by four
+independent bushes which are 25 times more stiff radially than axially.[9]
+This solution provides for a castor wind-off measured to 1.02 degrees per G of
+braking deceleration. Compare the Honda NSX at 2.91 degrees per G, the Porsche
+928 S at 3.60 degrees per G and the Jaguar XJ6 at 4.30 degrees per G
+respectively. The difference in toe and camber values are also of very small
+under lateral force application. Inclined Shear Axis is used at the rear of
+the machine provides measurements of 0.04 degrees per G of change in toe-in
+under braking and 0.08 degrees per G of toe-out under traction.[9]
+
+When developing the suspension system the facility of electro-hydraulic
+kinematics and compliance at Anthony Best Dynamics was employed to measure the
+performance of the suspension on a Jaguar XL16, a Porsche 928S and a Honda NSX
+to use as references.
+
+Steering knuckles and the top wishbone/bell crank are also specially
+manufactured in an aluminium alloy. The wishbones are machined from a solid
+aluminium alloy with CNC machines.[9]
+
+### [edit] Tyres
+
+The McLaren F1 uses 235/45ZR17 front tyres and 315/45ZR17 rear tyres.[6] These
+are specially designed and developed solely for the McLaren F1 by Goodyear and
+Michelin. The tyres are mounted on 17x9 inches and 17x11.5 inches cast
+magnesium wheels, protected by a tough protective paint. The five-spoke wheels
+are secured with magnesium retention pins.[12]
+
+The turning circle from curb to curb is 13 m (42.7 ft), or two turns from lock
+to lock.
+
+### [edit] Brakes
+
+The F1 features unassisted, vented and crossdrilled brake discs made by
+Brembo. Front size is 332 mm (13.1 in) and at the rear 305 mm (12.0 in),[6][9]
+they are all four-pot, opposed piston types, made of aluminium.[9] The rear
+brake calipers does not feature any handbrake functionality, however there is
+a mechanically actuated, fist-type caliper which is computer controlled and
+thus serves as a handbrake. As carbon brakes have a more simplified
+application envelope in pure racing environments this allows for the racing
+edition of the machine, the F1 GTR, to feature ceramic carbon brakes.[5]
+
+To increase caliper stiffness the calipers are machined from one single solid
+piece (in contrast to the more common being bolted together from two halves).
+Pedal travel is slightly over one inch. Activation of the rear spoiler will
+allow the air pressure generated at the back of the vehicle to force air into
+the cooling ducts located at either end of the spoiler which become uncovered
+upon application of it.
+
+Servo assisted ABS brakes were ruled out as they would imply increased mass,
+complexity and reduced brake feel; however at the cost of increasing the
+required skill of the driver.[citation needed]
+
+Gordon Murray attempted to utilize carbon brakes for the F1, but found the
+technology not mature enough at the time;[citation needed] with one of the
+major culprits being that of a proportional relationship between brake disc
+temperature and friction -- i.e. stopping power -- thus resulting in relative
+poor brake performance without an initial warm-up of the brakes prior to
+use.[15]
+
+### [edit] Gearbox and miscellaneous
+
+The standard McLaren F1 has a transverse 6-speed manual gearbox with an AP
+carbon triple-plate clutch[6] contained in an aluminium housing, the second
+generation GTR edition has a magnesium housing,[5] both the standard edition
+and the 'McLaren F1 LM' has the following gear ratios: 3.23:1, 2.19:1, 1.71:1,
+1.39:1, 1.16:1, 0.93:1, with a final drive of 2.37:1.[6] The gearbox is
+proprietary and developed by McLaren.[5]
+
+The Torsen LSD (Limited Slip Differential) has a 40% lock.[6]
+
+The McLaren F1 has an aluminium flywheel that has only the dimensions and mass
+absolutely needed to allow the torque from the engine to be transmitted, this
+is done in order to decrease rotational inertia and increase responsiveness of
+the system, resulting in faster gear changes and better throttle feedback.
+This is possible due to the F1 engine lacking secondary vibrational couples
+and featuring a torsional vibration damper by BMW. [9]
+
+### [edit] Equipment
+
+Standard equipment on the stock McLaren F1 includes full cabin air
+conditioning, a rarity on most sports cars and a system design which Murray
+again credited to the Honda NSX, a car he had owned and driven himself for 7
+years without, according to the official F1 website, ever needing to change
+the AC automatic setting. Further comfort features included SeKurit electric
+defrost/demist windscreen and side glass, electric window lifts, remote
+central locking, Kenwood CD stereo system, cabin access release for opening
+panels, cabin storage department, four lamp high performance headlight system,
+rear fog and reversing lights, courtesy lights in all compartments, map
+reading lights and a Facom titanium tool kit (stored in the car).[16] In
+addition tailored, proprietary luggage bags specially designed to fit the
+vehicle's storage compartments, including a tailored golf bag, were standard
+equipment.[12] Airbags are not present in the car.[5]
+
+The driver's seat of the McLaren F1 is custom fitted to the specifications
+desired by the customer for optimal fit and comfort; the seats are hand made
+from CFRP and covered in light Connolly leather.[12] By design the F1 steering
+column can not be adjusted, however prior to production each customer
+specifies the exact preferred position of the steering wheel and thus the
+steering column is tailored by default to those owner settings.
+
+During its pre-production stage, McLaren commissioned Kenwood to create a
+lightweight car audio system for the car; Kenwood, between 1992 and 1998 used
+the F1 to promote its products in print advertisements, calendars and brochure
+covers. Each car audio system was especially designed to tailor to an
+individual's listening taste, however radio was omitted because Murray never
+listened to the radio.
+
+Every standard F1 also has a modem which allows customer care to remotely
+fetch information from the ECU of the car in order to help aid in the event of
+a failure of the vehicle.[17]
+
+### [edit] Purchase and maintenance
+
+Up until 1998, when McLaren produced and sold the standard F1 models, they had
+a price tag of around 970 000 USD.[6] Today the cars can sell for up to nearly
+twice that of the original price, due to the performance and exclusivity of
+the machine. They are expected to further increase in value over time.[18]
+
+Although production stopped in 1998, McLaren still maintains an extensive
+support and service network for the F1. There are eight[18] authorized service
+centers throughout the world, and McLaren will on occasion fly a specialized
+technician to the owner of the car or the service center. All of the
+technicians have undergone dedicated training in service of the McLaren F1. In
+cases where major structural damage has occurred, the car can be returned to
+McLaren directly for repair.[18]
+
+On October 29th 2008, an F1 road car (chassis number 065) was sold at an RM
+Automobiles of London auction for $3.68 Million USD. This was the car from the
+McLaren showroom on Park Lane, London. With only 484 kilometers on its
+odometer, this pristine example set a world record for the highest price ever
+paid for an F1 road car.[19]
+
+### [edit] Performance
+
+In terms of sheer top speed, the F1 remains as of 2008 one of the fastest
+production cars ever made; as of July 2008 it is only succeeded by the
+Koenigsegg CCR,[20] the Bugatti Veyron[21] and the SSC Ultimate Aero TT.[22]
+However, all of the superior top speed machines exploit forced induction to
+reach their respective top speeds â making the McLaren F1 the fastest
+naturally aspirated production car in the world (as of January 2009).
+
+#### [edit] Acceleration
+
+  * 0-30 mph (48 km/h): 1.7 s[23]
+  * 0â60 mph (97 km/h): 3.2 s[6]
+  * 0â100 mph (160 km/h): 6.7 s[6]
+  * 0â124.28 mph (200.01 km/h): 9.4 s[24]
+  * 1/4 mile: 11.6 s[6]
+
+#### [edit] Top speed
+
+  * With rev limiter on: 231 mph (372 km/h)
+  * With rev limiter removed: 243 mph (391 km/h)
+
+See subsection on Record claims below for additional information, citations
+and discussion.
+
+#### [edit] Cornering
+
+  * When performing the lateral acceleration exercise around a 200 ft (61 m) skidpad (for testing some aspects of cornering performance), the standard F1 machine achieves 0.86 G; compared to 0.99 G for the Saleen S7, 1.01 G for the Ferrari Enzo and 1.15 G for the Koenigsegg CC (all post year 2000 vehicles).[13][25]
+  * The standard F1 can perform the slalom exercise at 64.5 miles per hour (103.8 km/h).[25]
+
+#### [edit] Braking
+
+  * The standard McLaren F1 performs the 60-0 mph brake exercise in 2.8 seconds, coming to a full halt in 127 ft (39 m), compared to 125 ft (38 m) for the Saleen S7, 109 ft (33 m) for the Ferrari Enzo and 105 ft (32 m) for the Koenigsegg CC (all post year 2000 vehicles).[13]
+
+#### [edit] Track tests
+
+  * Tsukuba Circuit, time trial: 1:04.62 on a hot lap.[24]
+  * Bedford Autodrome West Circuit, time trial: 1:21.20 on a hot lap, which is faster than the Ferrari Enzo at 1:21.30.[24]
+  * Millbrook Proving Ground in Bedfordshire, 2-mile (3.2 km) banked circuit, top speed test: An average speed of 195.3 mph (314.3 km/h), with a maximum speed of 200.8 mph (323.2 km/h) (driven by Tiff Needell using the XP5 prototype).[26]
+  * MIRA, 2.82-mile (4.54 km) banked circuit, top speed test: An average speed of 168 mph (270 km/h), with a maximum speed of 196.2 mph (315.8 km/h) (driven by Peter Taylor).[26]
+
+## [edit] Record claims
+
+The title of "world's fastest production road car" is constantly in
+contention, especially because the term "production car" is not well-defined.
+
+The McLaren F1 has a top speed of 231 mph (372 km/h),[27] restricted by the
+rev limiter at 7500 rpm. The true top speed of the McLaren F1 was reached in
+April of 1998 by the five-year-old XP5 prototype. Andy Wallace (racer) piloted
+it down the 9 km straight at Volkswagenâs Ehra test track in Wolfsburg,
+Germany, setting a new world record of 243 mph (391 km/h) at 7800 rpm. As
+Mario Andretti noted in a comparison test, the F1 is fully capable of pulling
+a seventh gear, thus with a higher gear ratio or a seventh gear the McLaren F1
+would probably be able to reach an even greater top speed (something which can
+also be observed by noticing that the top speed was reached at 7800 rpm while
+the peak power is reached at 7400 RPM).
+
+## [edit] Variants
+
+Total Production Variant Road Prototype Race Total  
+F1s 64 5 69  
+F1 LMs 5 1 6  
+F1 GTs 2 1 3  
+F1 GTR 28 28  
+Total 71 7 28 106  
+The McLaren F1 road car, of which 64 were originally sold, saw several
+different modifications over its production span which were badged as
+different models. Of the road versions, 21 are reportedly in the United
+States. One of the completed street cars remained in McLaren's London showroom
+for a decade before being offered for sale as new in 2004. This vehicle became
+the 65th McLaren F1 sold. The showroom, which was on London's luxurious Park
+Lane, has since closed. The company maintains a database to match up
+prospective sellers and buyers of the cars.
+
+According to an article by Motor Authority, the Sultan of Brunei owns a total
+of 9 McLaren F1s. This includes a GTR race car, a GT "longtail," 3 LMs, and 4
+road cars, making him the only person in the world to own at least one of
+every variant of the F1 ever produced by McLaren.[28]
+
+### [edit] Prototypes
+
+Prior to the sale of the first McLaren F1s, five prototypes were built, all
+carrying the numbers XP1 through XP5.[27] These cars carried minor subtle
+differences between each other as well as between the production road cars.
+XP1 was the first publicly unveiled car, and later destroyed in the accident
+in Namibia. XP2 was used for crash testing and also destroyed. Neither were
+ever painted. XP3 did durability testing, XP4 stress tested the gearbox system
+and XP5 was a publicity car, all owned by McLaren; they were also used for
+publicity shots and tested by reporters.[27] All were painted a different
+colour, and each was able to be distinguished by their chassis code painted on
+the side rocker panel. XP4 was seen by many viewers of Top Gear when reviewed
+by Tiff Needell in the mid 1990s, while XP5 went on to be used in McLaren's
+famous top speed run.
+
+### [edit] F1 LM
+
+McLaren F1 LM McLaren F1 LM  
+Manufacturer McLaren Automotive  
+Production 1995  
+5 produced (plus one prototype)  
+Class Sports car  
+Body style(s) 2-door 3-seat coupe  
+Layout Rear mid-engine, rear-wheel drive  
+Engine(s) 6.1 L V12  
+Transmission(s) 6-speed manual  
+Wheelbase 2,718 mm (107.0 in)  
+Length 4,365 mm (171.9 in)  
+Width 1,820 mm (71.7 in)  
+Height 1,120 mm (44.1 in)  
+Curb weight 1,062 kg (2,341 lb)  
+Designer Gordon Murray  
+Main article: McLaren F1 LM
+
+Only five McLaren F1 LM (LM for Le Mans) cars were built in honour of the five
+McLaren F1 GTR's which finished the 1995 24 Hours of Le Mans, including taking
+the overall win.[29]
+
+The weight was reduced by approximately 75 kg (165 lb) over that of original,
+through the removal of various pieces of trim and use of optional equipment.
+The car also had a different transaxle, various aerodynamic modifications,
+specially-designed 18-inch (457 mm) magnesium alloy wheels and upgraded
+gearbox. The F1 LM used the same engine as the 1995 F1 GTR, however, without
+race-mandated restrictors to produce (680 bhp/500 kW). It had a top speed of
+225 mph (362 km/h), which is less than the standard version because of added
+aerodynamic drag, despite identical gear ratios. The LM is 76 kg (168 lb)
+lighter than the stock F1 â a total mass of 1,062 kg (2,341 lb) â achieved
+by having no interior noise suppression, no audio system, a very stripped-down
+base interior, no fan-assisted ground effect and no dynamic rear wing. In the
+place of the small dynamic rear wing there is a considerably larger, fixed
+CFRP rear wing mounted on the back of the vehicle.
+
+The LM machine has the following performance figures: peak torque of 705.0 nm
+(520.0 ftÂ·lbf) at 4500 rpm and peak power of 680 bhp (500 kW) at 7800 rpm, it
+has a redline at 8500 rpm. The total weight of 1,062 kg (2,341 lb) gives the
+car a 110.16 bhp (82 kW; 112 PS) per litre ratio.[30]
+
+With a 0-60 mph (97 km/h) time of 2.9 seconds,[31] 0-100 mph (161 km/h) in 5.9
+seconds[31] the LM is the fastest accelerating incarnation of the F1 car. It
+was once the holder of the 0-100-0 mph record which it completed in 11.5
+seconds when driven by Andy Wallace at the disused airbase RAF Alconbury in
+Cambridgeshire.[31][32]
+
+The F1 LMs can be identified by their Papaya orange paint. The F1 LMs were
+painted in this colour in memory and tribute to Bruce McLaren, whose race
+colour was Papaya orange.
+
+Although only five F1 LMs were sold, a sixth chassis exists in the form of XP1
+LM, the prototype for modifications to the existing F1 to form the new F1 LM.
+This car is also painted Papaya orange and is retained by McLaren. This car,
+reportedly worth $4 million, has been promised by McLaren CEO Ron Dennis to
+his driver Lewis Hamilton if he should win an additional two Formula One World
+Championship titles.[33]
+
+### [edit] F1 GT
+
+The final incarnation of the roadcar, the F1 GT was meant as a homologation
+special. With increased competition from homologated sports cars from Porsche
+and Mercedes-Benz in the former BPR Global GT Series and new FIA GT
+Championship, McLaren required extensive modification to the F1 GTR in order
+to remain competitive. These modifications were so vast that McLaren would be
+required to build a production road-legal car on which to base the new race
+cars.
+
+The F1 GT featured the same extended rear bodywork as the GTRs for increased
+downforce and reduced drag, yet lacked the rear wing that had been seen on the
+F1 LM.[34] The downforce generated by the longer tail was found to be
+sufficient to not require the wing. The front end was also similar to the
+racing car, with extra louvers and the wheel fenders widened to fit larger
+wheels. The interior was modified and a racing steering wheel was included in
+place of the standard unit.
+
+The F1 GTs were built from standard F1 road car chassis, retaining their
+production numbers. The prototype GT, known as XPGT, was F1 chassis #056, and
+is still kept by McLaren. The company technically only needed to build one car
+and did not even have to sell it. However, demand from customers drove McLaren
+to build two production versions that were sold. The customer F1 GTs were
+chassis #054 and #058.
+
+## [edit] Motorsports
+
+Main article: McLaren F1 GTR
+
+Following its initial launch as a road car, motorsports teams convinced
+McLaren to build racing versions of the F1 to compete in international series.
+Three different versions of the race car were developed from 1995 to 1997.
+
+Many F1 GTRs, after the cars were no longer eligible in international racing
+series, were converted to street use. By adding mufflers, passenger seats,
+adjusting the suspension for more ground clearance for public streets, and
+removing the air restrictors, the cars were able to be registered for road
+use.
+
+### [edit] F1 GTR '95
+
+<IMG>
+
+<IMG>
+
+A 1995-spec F1 GTR which has been modified for street use.
+
+<IMG>
+
+<IMG>
+
+A 1997-spec F1 GTR "Long Tail" during an FIA GT Championship event.
+
+Built at the request of race teams, such as those owned by Ray Bellm and
+Thomas Bscher, in order to compete in the BPR Global GT Series, the McLaren F1
+GTR was a custom built race car which introduced a modified engine management
+system that increased power output â however, air-restrictors mandated by
+racing regulations reduced the power back to 600 hp (447 kW). The cars
+extensive modifications included changes to body panels, suspension,
+aerodynamics and the interior. The F1 GTR would go on to take its greatest
+achievement with 1st, 3rd, 4th, 5th, and 13th places in the 1995 24 Hours of
+Le Mans, beating out custom built prototype sports cars.
+
+In total, nine F1 GTRs would be built for 1995.
+
+### [edit] F1 GTR '96
+
+To follow up on the success of the F1 GTR into 1996, McLaren further developed
+the '95 model, leading to a size increase but weight decrease. Nine more F1
+GTRs were built to 1996 spec, while some 1995 cars were still campaigned by
+privateers. F1 GTR '96 chassis #14R is notable as being the first non-Japanese
+car to win a race in the All-Japan Grand Touring Car Championship (JGTC). The
+car was driven by David Brabham and John Nielsen.
+
+### [edit] F1 GTR '97
+
+With the F1 GT homologated, McLaren could now develop the F1 GTR for the 1997
+season. Weight was further reduced and a sequential transaxle was added. The
+engine was slightly destroked to 6.0L instead of the previous 6.1L. Due to the
+heavily modified bodywork, the F1 GTR '97 is often referred to as the
+"Longtail" thanks to the rear bodywork being extended to increase rear
+downforce. A total of ten F1 GTR '97s were built.
+
+## [edit] Replicas and Models
+
+<IMG>
+
+<IMG>
+
+1:87th and 1:43rd models by Minichamps/PMA.
+
+Kit car builder DDR Motorsport builds a kit that resembles the F1, based on
+the Toyota MR-2 SW20 Turbo.
+
+Certain die-cast scale models of the F1 are desirable among collectors. Most
+of these models are now out of production. Manufacturers of McLaren F1 models
+include UT Models, Maisto, Minichamps/Paul's Model Art, Guiloy and Autobarn.
+Models have been produced in 1:87, 1:64, 1:43, 1:24, 1:18 and 1:12. Among the
+most desirable of these models are the Minichamps 1:43 McLaren F1 GTR West
+Promotion model (which can sell for 1,000 dollars). And the UT Models 1:18
+silver & dark blue McLaren F1 LMs (which each can sell for over US$400 at
+auction).
+
+## [edit] References
+
+  1. ^ McLaren Automotive official website from McLaren
+  2. ^ Koenigsegg official website from Koenigsegg
+  3. ^ McLaren Automotive - Production from mclarenautomotive.com
+  4. ^ "A car dear to my mind - Gordon Murray on the Honda NSX". http://docs.google.com/View?docid=dggtsppm_6cgtnscht.
+  5. ^ a b c d e Ultimatecarpage - specifications for the standard F1 from ultimatecarpage.com
+  6. ^ a b c d e f g h i j k l "1994 McLaren F1". http://www.supercars.net/cars/1177.html. Retrieved on 2008-07-05.
+  7. ^ a b c Howstuffworks - information about the standard F1 from howstuffworks.com
+  8. ^ "McLaren Automotive - standard F1 specifications". http://www.mclarenautomotive.com/cars/f1_specifications.htm.
+  9. ^ a b c d e f g h i j k l m n o F1 - McLaren's Road Car from audiosignal.co.uk
+  10. ^ Conceptcarz - specifications for the standard F1 from conceptcarz.com
+  11. ^ Great Classic Cars on the standard F1
+  12. ^ a b c d QV500 on the standard F1
+  13. ^ a b c Modern Racer's performance figures
+  14. ^ "McLaren Automotive - Aerodynamics". http://www.mclarenautomotive.com/technology/aerodynamics.htm.
+  15. ^ Carbon brakes general information http://www.braketech.com/techtalk_article.php?id=13
+  16. ^ "McLaren Automotive - standard F1 equipment". http://www.mclarenautomotive.com/cars/f1_equipment.htm.
+  17. ^ "McLaren Automotive - standard F1 customer care". http://www.mclarenautomotive.com/cars/f1_customer-care.htm.
+  18. ^ a b c RM Auctions on the standard F1
+  19. ^ http://www.supercars.net/index-9-2008NewLayout.html
+  20. ^ "Koenigsegg CCR top speed". http://www.supercars.net/cars/2923.html.
+  21. ^ "Bugatti Veyron top speed". http://www.bugatti.com/en/veyron-16.4/technology/speed.html.
+  22. ^ "SSC Ultimate Aero TT top speed". http://www.supercars.net/cars/3621.html.
+  23. ^ RapidCars on the standard F1
+  24. ^ a b c FastestLaps on the standard F1
+  25. ^ a b 2SportsCars on the standard F1
+  26. ^ a b McLaren Automotive F1 track records
+  27. ^ a b c McLaren F1 top speed with rev limit and without
+  28. ^ http://www.motorauthority.com/the-sultan-and-his-5000-cars.html
+  29. ^ "McLaren Automotive - LM history". http://www.mclarenautomotive.com/cars/f1lm_introduction.htm.
+  30. ^ "McLaren Automotive - LM specifications". http://www.mclarenautomotive.com/cars/f1lm_specifications.htm.
+  31. ^ a b c "McLaren F1 LM". Supercars.net Publishing. http://www.supercars.net/cars/1180.html. Retrieved on 2008-05-05.
+  32. ^ "McLaren F1 LM Roadcar - Track Record". McLaren Automotive Ltd. http://www.mclarenautomotive.com/cars/f1lm_track-record.htm. Retrieved on 2008-05-05.
+  33. ^ "The Sun - Hamilton promised $4m supercar if he wins 2 titles". http://www.thesun.co.uk/sol/homepage/sport/motorsport/article964102.ece.
+  34. ^ "Supercars on the McLaren F1 GT". http://www.supercars.net/cars/1178.html.
+
+  * Driving Ambition: The Official Inside Story of the McLaren F1 (ISBN-10: 1852278412)
+  * Haymarket Magazines Ltd 1994, "F1 - McLaren's road car"
+  * F1 - McLaren's road car, An Autocar & Motor Book
+  * McLaren F1 GTR LM Sportscars Performance Portfolio (ISBN-10: 1855206552)
+
+## [edit] External links
+
+Sister project Wikimedia Commons has media related to: McLaren F1  
+  * Official McLaren Automotive website
+  * McLaren F1 in detail at Octane Magazine.
+  * QV500 \- McLaren F1 chassis index
+  * McLaren chassis list
+
+Preceded by  
+Jaguar XJ220 Fastest street-legal production car  
+386.7 km/h (240.3 mph) Succeeded by  
+Koenigsegg CCR  
+v â¢ d â¢ e
+
+Flag of the United Kingdom McLaren  
+Founder: Flag of New Zealand Bruce McLaren  
+  
+Current personnel: Flag of the United Kingdom Martin Whitmarsh | Flag of
+Germany Norbert Haug | Flag of the United Kingdom Paddy Lowe | Flag of the
+United Kingdom Neil Oatley  
+  
+Former personnel: Flag of the United Kingdom John Barnard | Flag of the United
+Kingdom Ron Dennis | Flag of the United Kingdom Robin Herd | Flag of the
+United States Teddy Mayer | Flag of the United Kingdom Gordon Murray | Flag of
+the United Kingdom Adrian Newey | Flag of the United Kingdom Steve Nichols  
+  
+Current drivers: Flag of the United Kingdom Lewis Hamilton | Flag of Finland
+Heikki Kovalainen | Flag of Spain Pedro de la Rosa | Flag of the United
+Kingdom Gary Paffett  
+  
+World Champions: Flag of Brazil Emerson Fittipaldi | Flag of the United
+Kingdom James Hunt | Flag of Austria Niki Lauda | Flag of France Alain Prost |
+Flag of Brazil Ayrton Senna | Flag of Finland Mika HÃ¤kkinen | Flag of the
+United Kingdom Lewis Hamilton  
+  
+Cars  
+Formula One: M2B | M4B | M5A | M7A | M7B | M7C | M7D | M9A | M14A | M14D |
+M19A | M19C | M23 | M26 | M28 | M29 | M29F | M30 | MP4 (MP4/1) | MP4B (MP4/1B)
+| MP4/1C | MP4/1E | MP4/2 | MP4/2B | MP4/2C | MP4/3 | MP4/4 | MP4/5 | MP4/5B |
+MP4/6 | MP4/6B | MP4/7A | MP4/8 | MP4/9 | MP4/10 | MP4/10B | MP4/10C | MP4/11
+| MP4/11B | MP4/12 | MP4/13 | MP4/14 | MP4/15 | MP4-16 | MP4-17 | MP4-17D |
+MP4-18 | MP4-19 | MP4-19B | MP4-20 | MP4-21 | MP4-22 | MP4-23 | MP4-24  
+Formula Two: M2A | M4A | M21  
+Sports cars: M1A | M1B | M1C | M6A | M6B | M6GT | M8A | M8B | M8C | M8D | M8E
+| M8F | M8FP | M12 | M20 | F1 | F1 GTR  
+USAC/IndyCar: M15 | M16A | M16B | M16C | M16C/D | M16E | M24  
+F5000/Libre: M3A | M10A | M10B | M18 | M22 | M25  
+Retrieved from "http://en.wikipedia.org/wiki/McLaren_F1"
+
+Categories: Rear mid-engine, rear-wheel drive vehicles | Coupes | 1990s
+automobiles | Vehicles introduced in 1992 | Road vehicles manufactured in the
+United Kingdom | McLaren vehicles
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since February 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 April 2009, at 04:46.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

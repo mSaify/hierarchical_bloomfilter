@@ -1,0 +1,345 @@
+
+# XScale
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+The XScale, a microprocessor core, is Marvell's (formerly Intel's)
+implementation of the fifth generation of the ARM architecture, and consists
+of several distinct families: IXP, IXC, IOP, PXA and CE (see more below).
+Intel sold the PXA family to Marvell Technology Group in June 2006[1].
+
+The XScale architecture is based on the ARMv5TE ISA without the floating point
+instructions. XScale uses a seven-stage integer and an eight-stage memory
+superpipelined RISC architecture. It is the successor to the Intel StrongARM
+line of microprocessors and microcontrollers, which Intel acquired from DEC's
+Digital Semiconductor division as the side-effect of a lawsuit between the two
+companies. Intel used the StrongARM to replace their ailing line of outdated
+RISC processors, the i860 and i960.
+
+All the generations of XScale are 32-bit ARMv5TE processors manufactured with
+a 0.18-Âµm or 0.13-Âµm (as in IXP43x parts) process and have a 32-KB data
+cache and a 32-KB instruction cache (this would be called a 64-KB Level 1
+cache on other processors). They also all have a 2-KB mini-data cache.
+
+## Contents
+
+  * 1 Processor families
+    * 1.1 PXA
+      * 1.1.1 PXA210/PXA25x
+      * 1.1.2 PXA26x
+      * 1.1.3 PXA27x
+      * 1.1.4 PXA3xx Monahans
+    * 1.2 PXA90x
+    * 1.3 IXC
+      * 1.3.1 IXC1100
+    * 1.4 IOP
+    * 1.5 IXP network processor
+    * 1.6 CE
+  * 2 Applications
+  * 3 Sale of PXA Processor Line
+  * 4 References
+  * 5 See also
+  * 6 External links
+
+  
+## [edit] Processor families
+
+The XScale core is used in a number of microcontroller families manufactured
+by Intel and Marvell, notably:
+
+  * Application Processors (with the prefix PXA). There are four generations of XScale Application Processors, described below: PXA210/PXA25x, PXA26x, PXA27x, and PXA3xx.
+  * I/O Processors (with the prefix IOP)
+  * Network Processors (with the prefix IXP)
+  * Control Plane Processors (with the prefix IXC).
+  * Consumer Electronics Processors (with the prefix CE).
+
+There are also standalone processors: the 80200 and 80219 (targeted primarily
+at PCI applications).
+
+### [edit] PXA
+
+#### [edit] PXA210/PXA25x
+
+The PXA210 was Intel's entry-level XScale targeted at mobile phone
+applications. It was released with the PXA250 in February 2002 and comes
+clocked at 133 MHz and 200 MHz.
+
+The PXA25x family consists of the PXA250 and PXA255. The PXA250 was Intel's
+first generation of XScale processors. There was a choice of three clock
+speeds: 200 MHz, 300 MHz and 400 MHz. It came out in February 2002. In March
+2003, the revision C0 of the PXA250 was renamed to PXA255. The main
+differences were a doubled bus speed (100 MHz to 200 MHz) for faster data
+transfer, lower core voltage (only 1.3 V at 400 MHz) for lower power
+consumption and writeback functionality for the data cache, the lack of which
+had severely impaired performance on the PXA250. The PXA25x family has very
+bad GPIO performance (a pin cannot be toggled more than two million times a
+second, even at multi-hundred-MHz CPU clock)
+
+#### [edit] PXA26x
+
+The PXA26x family consists of the PXA260 and PXA261-PXA263. The PXA260 is a
+stand-alone processor clocked at the same frequency as the PXA25x, but
+features a TPBGA package which is about 53% smaller than the PXA25x's PBGA
+package. The PXA261-PXA263 are the same as the PXA260 but have Intel
+StrataFlash memory stacked on top of the processor in the same package; 16 MiB
+of 16-bit memory in the PXA261, 32 MiB of 16-bit memory in the PXA262 and 32
+MiB of 32-bit memory in the PXA263. The PXA26x family was released in March
+2003. The PXA26x family inherits PXA25x family's bad GPIO performance.
+
+#### [edit] PXA27x
+
+The PXA27x family (code-named Bulverde) consists of the PXA270 and
+PXA271-PXA272 processors. This revision is a huge update to the XScale family
+of processors. The PXA270 is clocked in four different speeds: 312 MHz, 416
+MHz, 520 MHz and 624 MHz and is a stand-alone processor with no packaged
+memory. The PXA271 can be clocked to 312 MHz or 416 MHz and has 32 MiB of
+16-bit stacked StrataFlash memory and 32 MiB of 16-bit SDRAM in the same
+package. The PXA272 can be clocked to 312 MHz, 416 MHz or 520 MHz and has 64
+MiB of 32-bit stacked StrataFlash memory.
+
+Intel also added many new technologies to the PXA27x family such as:
+
+  * Wireless SpeedStep: the operating system can clock the processor down based on load to save power.
+  * Wireless MMX: 43 new SIMD instructions containing the full MMX instruction set and the integer instructions from Intel's SSE instruction set along with some instructions unique to the XScale. Wireless MMX provides 16 extra 64-bit registers that can be treated as an array of two 32-bit words, four 16-bit halfwords or eight 8-bit bytes. The XScale core can then perform up to eight adds or four MACs in parallel in a single cycle. This capability is used to boost speed in decoding and encoding of multimedia and in playing games.
+  * Additional peripherals, such as a USB-Host interface and a camera interface.
+  * Internal 256 KB SRAM to reduce power consumption and latency.
+
+The PXA27x family was released in April 2004. Along with the PXA27x family
+Intel released the 2700G embedded graphics co-processor.
+
+#### [edit] PXA3xx Monahans
+
+<IMG>
+
+<IMG>
+
+Toradex Colibri XScale Monahans PXA290 SODIMM-module (Prototype Of Marvell
+PXA320 SODIMM-module)
+
+In August 2005 Intel announced the successor to Bulverde, codenamed Monahans.
+
+They demoed it showing its capability to play back high definition encoded
+video on a PDA screen.
+
+The new processor was shown clocked at 1.25 GHz but Intel said it only offered
+a 25% increase in performance (800 MIPS for the 624 MHz PXA270 processor vs.
+1000 MIPS for 1.25 GHz Monahans). An announced successor to the 2700G graphics
+processor, code named Stanwood, has since been canceled. Some of the features
+of Stanwood are integrated into Monahans. For extra graphics capabilities,
+Intel recommends third-party chips like the NVIDIA GoForce chip family.
+
+In November 2006, Marvell Semiconductor officially introduced the Monahans
+family as Marvell PXA320, PXA300, and PXA310[2]. PXA320 is currently shipping
+in high volume, and is scalable up to 806 MHz. PXA300 and PXA310 deliver
+performance "scalable to 624 MHz", and are software-compatible with PXA320.
+
+### [edit] PXA90x
+
+The PXA90x was released by Marvell and combines an XScale Core with a GSM/CDMA
+communication module[3].
+
+### [edit] IXC
+
+#### [edit] IXC1100
+
+The IXC1100 processor features clock speeds at 266, 400, and 533 MHz, a
+133-MHz bus, 32 KB of instruction cache, 32 KB of data cache, and 2 KB of
+mini-data cache. It is also designed for low power consumption, using 2.4 W at
+533 MHz. The chip comes in the 35-mm PBGA package.
+
+### [edit] IOP
+
+The IOP line of processors is designed to allow computers and storage devices
+to transfer data and increase performance by offloading I/O functionality from
+the main CPU of the device. The IOP3XX processors are based on the XScale
+architecture and designed to replace the older 80219 processor and i960 family
+of chips. There are ten different IOP processors currently available: IOP303,
+IOP310, IOP315, IOP321, IOP331, IOP332, IOP333, IOP341, IOP342 and IOP348.
+Clock speeds range from 100 MHz to 1.2 GHz. The processors also differ in PCI
+bus type, PCI bus speed, memory type, maximum memory allowable, and the number
+of processor cores.
+
+### [edit] IXP network processor
+
+The XScale core is utilized in the second generation of Intel's IXP network
+processor line, while the first generation used StrongARM cores. The IXP
+network processor family ranges from solutions aimed at small/medium office
+network applications , IXP4XX, to high performance network processors such as
+the IXP2850, capable of sustaining up to OC-192 line rates. In IXP4XX devices
+the XScale core is used as both a control and data plane processor, providing
+both system control and data processing. The task of the XScale in the IXP2XXX
+devices is typically to provide control plane functionality only, with data
+processing performed by the microengines, examples of such control plane tasks
+include routing table updates, microengine control, memory management.
+
+### [edit] CE
+
+In April 2007, Intel announced an XScale based processor targeting consumer
+electronics markets [4], the Intel CE 2110.
+
+## [edit] Applications
+
+XScale microprocessors can be found in products such as the popular RIM
+BlackBerry handheld, the Dell Axim family of Pocket PCs, most of the Zire,
+Treo and Tungsten Handheld lines by Palm, later versions of the Sharp Zaurus,
+the Motorola A780, the Acer n50, the Compaq iPaq 3900 series and many other
+PDAs. It is used as the main CPU in the Iyonix PC desktop computer running
+RISC OS, and the NSLU2 (Slug) running a form of Linux. The XScale is also used
+in devices such as PVPs (Portable Video Players), PMCs (Portable Media
+Centres), including the Creative Zen Portable Media Player and Amazon Kindle
+E-Book reader, and industrial embedded systems. At the other end of the
+market, the XScale IOP33x Storage I/O processors are used in some Intel Xeon-
+based server platforms.
+
+## [edit] Sale of PXA Processor Line
+
+On June 27, 2006, the sale of Intel's XScale PXA mobile processor assets was
+announced. Intel agreed to sell the XScale PXA business to Marvell Technology
+Group for an estimated $600 million in cash and the assumption of unspecified
+liabilities. The move is intended to permit Intel to focus its resources on
+its core x86 and server businesses. The acquisition was completed on November
+9, 2006. Intel is expected to continue manufacturing XScale processors until
+Marvell secures other manufacturing facilities, and will continue
+manufacturing and selling the IXP and IOP processors, as they were not part of
+the deal.[5]
+
+## [edit] References
+
+  1. ^ Marvell buys Intel's handheld processor unit for $600 million
+  2. ^ Marvell Introduces Next Generation Application Processors
+  3. ^ Marvell Communications Processors product page
+  4. ^ Intel System-On-A-Chip Media Processor Powers New Generation Of Consumer Electronics Devices
+  5. ^ Intel ditches mobile phone processors
+
+## [edit] See also
+
+  * RedBoot open-source bootloader, the standard boot firmware shipped with XScale boards
+
+## [edit] External links
+
+  * Intel XScale Technology Overview
+  * IXP4XX Toolkits
+  * Intel StrataFlash Memory
+  * MarvellÂ® PXA168 high-performance processor product brief
+
+v â¢ d â¢ e
+
+Intel processors  
+Discontinued
+
+pre-8086
+
+4004 Â· 4040 Â· 8008 Â· 8080 Â· 8085  
+x86 (16 bit)
+
+8086 Â· 8088 Â· 80186 Â· 80188 Â· 80286  
+x86/IA32 (32 bit)
+
+80386 Â· 80486 Â· Pentium Â· Pentium Pro Â· Pentium II Â· Pentium III Â·
+Pentium 4 Â· Pentium M Â· Core Â· Celeron M Â· Celeron D  
+x86-64/EM64T (64 bit)
+
+Pentium 4 (Some) Â· Pentium D Â· Pentium Extreme Edition Â· Celeron D (Some)  
+Other
+
+Itanium â iAPX 432 â RISC: i860 Â· i960 Â· XScale â Microcontrollers:
+8048 Â· 8051 Â· MCS-96  
+Current
+
+Celeron Â· Pentium Dual-Core Â· Core 2 Â· A100 Â· Atom Â· Xeon Â· Itanium Â·
+Core i7  
+Upcoming
+
+Tukwila Â· Tolapai Â· Moorestown Â· Core i5  
+Lists
+
+CPU sockets Â· Chipsets Â· Microarchitectures Â· Processors Â· Codenames  
+Atom Â· Celeron Â· Core Â· Core 2 Â· Core i7 Â· Itanium Â· Pentium II Â·
+Pentium III Â· Pentium 4 Â· Pentium D Â· Pentium Dual-Core Â· Pentium M Â·
+Xeon  
+Future Celeron Â· Future Pentium Â· Future Core 2 Â· Future Core i7 Â· Future
+Xeon  
+Microarchitectures
+
+Past and present
+
+P5 Â· P6 Â· NetBurst Â· Core Â· Nehalem  
+Future
+
+Larrabee Â· Sandy Bridge Â· Haswell  
+Retrieved from "http://en.wikipedia.org/wiki/XScale"
+
+Categories: Intel microprocessors | ARM architecture
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * æ¥æ¬èª
+  * Polski
+  * Svenska
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 17 March 2009, at 06:33 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

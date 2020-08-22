@@ -1,0 +1,379 @@
+
+# Personal health record
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+A personal health record or PHR is typically a health record that is initiated
+and maintained by an individual. An ideal PHR would provide a complete and
+accurate summary of the health and medical history of an individual by
+gathering data from many sources and making this information accessible online
+to anyone who has the necessary electronic credentials to view the
+information.
+
+## Contents
+
+  * 1 Definition
+  * 2 PHR Platforms
+  * 3 Sponsors of PHRs
+  * 4 Research on PHRs
+  * 5 See also
+  * 6 Bibliography
+  * 7 References
+  * 8 External links
+
+  
+## [edit] Definition
+
+The term âpersonal health recordâ is not new. The earliest, English-
+language article indexed by PubMed that mentions the term is dated June
+1978;[1] however, search results from PubMed also reveal that most scientific
+articles written about PHRs have been published since 2000.
+
+The PHR is an ill-defined concept that has been developing over several
+years.The term has been applied to both paper-based and computerized systems;
+however, current usage usually implies an electronic resource. In recent
+years, several formal definitions of the term have been proposed by various
+organizations.[2] [3] [4] Although each definition is unique, most of the
+definitions agree that the PHR is a computerized application that stores an
+individual's personal health information.
+
+It is important to note that PHRs are not the same as EHRs (electronic health
+records). The latter are software systems designed for use by health care
+providers. Like the data recorded in paper-based medical records, the data in
+EHRs are ~~legally mandated~~ notes on the care provided by clinicians to
+patients. There is no legal mandate that compels a consumer or patient to
+store her personal health information in a PHR.
+
+PHRs can contain a diverse range of data but usually include information
+about:
+
+  * allergies and adverse drug reactions,
+  * medications (including dose and how often taken) including over the counter medications and herbal remedies,
+  * illnesses and hospitalizations,
+  * surgeries and other procedures,
+  * vaccinations,
+  * laboratory test results,
+  * and family history.
+
+In addition to storing an individual's personal health information, some PHRs
+provide added-value services such as drug-drug interaction checking or
+electronic messaging between patients and providers.
+
+## [edit] PHR Platforms
+
+One of the principle distinguishing features of a PHR is the platform by which
+it is delivered. The types of platforms include: paper, personal computers,
+the internet, and portable devices.
+
+Paper-based PHRs: Personal health information is recorded and stored in paper
+format. Printed laboratory reports, copies of clinic notes, and health
+histories created by the individual may be parts of a paper-based PHR. This
+method is low cost, reliable, and accessible without the need for a computer
+or any other hardware.
+
+Paper-based PHRs may be difficult to locate, update, and share with others.
+Paper-based PHRs are subject to physical loss and damage, such as can occur
+during a natural disaster. Paper records can also be printed from most
+electronic PHRs.
+
+PC-Based PHR: Personal health information is recorded and stored in personal
+computer-based software that may have the capability to print, backup,
+encrypt, and import data from other sources such as a hospital laboratory. The
+most basic form of a PC-based PHR would be a health history created in a word-
+processing program. The health history created in this way can be printed,
+copied, and shared with anyone with a compatible word processor.
+
+PHR software can provide more sophisticated features such as data encryption,
+data importation, and data sharing with health care providers. Some PHR
+products allow the copying of health records to a mass-storage device such as
+a CD-ROM, DVD, smart card, or USB flash drive.
+
+PC-based PHRs are subject to physical loss and damage of the personal computer
+and the data that it contains. PC-based PHRs may be vulnerable to unauthorized
+access via Internet or other data connections. The encryption of personal
+health information is a valuable feature, as is a firewall.
+
+Internet-Based PHR: Personal health information is accessed and edited via a
+Web browser. The data is stored on a remote server. Internet-based PHRs may
+have the capability to print information, backup data, import data from other
+information systems, and share information with health care providers.
+
+Internet-based PHRs are subject to physical loss and damage of the Web server.
+Internet-based PHRs may be vulnerable to unauthorized access via Internet or
+other data connections. Internet-based PHRs have the advantage of being
+accessible from any location with an Internet connection with a suitable Web
+browser.
+
+Mobile SmartPhone-based PHR: Personal health information is recorded and
+stored in personal mobile Smart Phone-based application that may have the
+capability to print, backup, encrypt, and import data from other sources such
+as a laboratory, clinics Electronic Health Record or Web based PHRs. Health
+history such as medications, immunizations and allergies may be stored in the
+application.
+
+Portable-Storage PHR: Personal health information is recorded and stored on a
+portable-storage device such as a CDROM, DVD, smart card, or USB flash drive
+and SmartPhones such as the iPhone or Android Phone. Some portable-storage
+PHRs provide features such as history editing, data encryption, data
+importation, and data sharing with health care providers.
+
+Portable-storage PHRs are subject to physical loss and damage of the storage
+device. One of the disadvantages of portable-storage PHRs is that many
+computers at physician offices and hospitals cannot read and update these
+PHRs.However,the new generation portable personal health record manager can be
+used as a free standing application without the need for specialized software.
+
+## [edit] Sponsors of PHRs
+
+PHR programs are structured in the same basic way a consumer credit report is
+structured, in that consumers may obtain a PHR from various sponsoring
+organizations. Some PHRs are marketed directly to the consumer by the product
+vendor. The direct-to-consumer PHRs often require the consumer to pay a fee
+for registering a new account. Other PHRs are offered by health care
+organizations such as hospitals. Frequently, these hospital-based PHRs are
+integrated with other information systems owned by the health care delivery
+organization such as its EHR or laboratory information systems. Recently, PHRs
+are being offered to people by employers and health insurance companies,
+however it is unclear if the PHR is transportable or transferable if a person
+switches jobs or insurance companies.
+
+## [edit] Research on PHRs
+
+Numerous articles have been published in the health literature about personal
+health records; however, few of these articles describe studies that evaluated
+the benefits of PHRs. Thus, little evidence currently exists to verify the
+benefits of PHRs.[5]
+
+## [edit] See also
+
+  * Health care
+  * Health informatics
+  * electronic health record
+
+## [edit] Bibliography
+
+Books
+
+  1. Agarwal R, Angst CM. Technology-enabled transformations in U.S. health care: early findings on personal health records and individual use,â In Galletta G, Zhang P, (Eds.), Human-Computer Interaction and Management Information Systems: Applications (Vol. 5). Armonk, NY: M.E. Sharpe, Inc., pp. 357-378. 2006.
+  2. Lewis D, Eysenbach G, Kukafka R, Stavri PZ, Jimison H. Consumer health informatics: informing consumers and improving health care. New York: Springer. 2005.
+
+Journal Articles
+
+  1. "Computerisation of personal health records". Health visitor 51 (6): 227. Jun 1978. PMID 248054.
+  2. "Recordkeeping systems: personal health records". J Am Med Rec Assoc. 55 (12): 42. Dec 1984. PMID 10310901.
+  3. "Concepts of the Health Vault". http://www.munnecke.com/papers/D03.doc. 1999 Paper by Tom Munnecke describing an architecture for the Personal Health Record
+  4. "[Personal medical records and identification card, synchronized information systems]" (in French). Rev Infirm. (106): 45â6. Dec 2004. PMID 15672518.
+  5. Swain, M (Apr 2005). "Information prescriptions (Ix): bringing internet-based health content into the treatment process; patients to your site". Internet Healthc Strateg. 7 (4): 4â8. doi:10.1016/0148-9062(76)91830-1. PMID 15929640.
+  6. "Report on attitudes about personal health records". Internet Healthc Strateg. 6 (9): 10â1. Sep 2004. PMID 15526437.
+  7. "New-age PHR comes with decision-support, multiple opportunities for DM". Dis Manag Advis. 12 (12): 140â2, 133. Dec 2006. PMID 17225631.
+  8. Kupchunas WR (2007). "Personal health record: new opportunity for patient education". Orthop Nurs. 26 (3): 185â91; quiz 192â3. doi:10.1097/01.NOR.0000276971.86937.c4. PMID 17538475.
+  9. "Readers' perspective. Personal health records will be widely used within five years, supplanting the need for regional health information organizations". Health Data Manag. 15 (10): 8. Oct 2007. PMID 17941305.
+  10. Ackerman MJ (2007). "The personal health record". J Med Pract Manage. 23 (2): 84â5. PMID 17974083.
+  11. Adler KG (2006). "Web portals in primary care: an evaluation of patient readiness and willingness to pay for online services". J Med Internet Res. 8 (4): e26. doi:10.2196/jmir.8.4.e26. PMID 17213045. PMC: 1794005. http://www.jmir.org/2006/4/e26.
+  12. Burrington-Brown J, Fishel J, Fox L, et al (Jun 2005). "Defining the personal health record. AHIMA releases definition, attributes of consumer health record". J Ahima. 76 (6): 24â5. PMID 15986557.
+  13. "Practice brief. The role of the personal health record in the EHR". Journal of AHIMA / American Health Information Management Association 76 (7): 64Aâ64D. Jul 2005. PMID 16097127.
+  14. Albright B (Feb 2007). "Prepping for PHRs. The growing trend of consumer empowerment includes the speedy rise of personal health records". Healthc Inform. 24 (2): 44, 46. PMID 17370879.
+  15. "The value of personal health records. A joint position statement for consumers of healthcare". J Ahima. 77 (9): 24. Oct 2006. PMID 17111904.
+  16. "The value of personal health records. A joint position statement for consumers of healthcare by the American Health Information Management Association and the American Medical Informatics Association". J Ahima. 78 (4): 22, 24. Apr 2007. PMID 17455841.
+  17. Atkinson NL, Massett HA, Mylks C, Hanna B, Deering MJ, Hesse BW (2007). "User-centered research on breast cancer patient needs and preferences of an Internet-based clinical trial matching system". J Med Internet Res. 9 (2): e13. doi:10.2196/jmir.9.2.e13. PMID 17513284.
+  18. Bakker A (Mar 2004). "Access to EHR and access control at a moment in the past: a discussion of the need and an exploration of the consequences". Int J Med Inform. 73 (3): 267â70. doi:10.1016/j.ijmedinf.2003.11.008. PMID 15066557.
+  19. Ball MJ, Gold J (2006). Banking on health: Personal records and information exchange. 20. pp. 71â83. PMID 16669591.
+  20. Ball MJ, Smith C, Bakalar RS (2007). "Personal health records: empowering consumers". J Healthc Inf Manag. 21 (1): 76â86. PMID 17299929.
+  21. Black D (Mar 1992). "Personal health records". J Med Ethics 18 (1): 5â6. PMID 1573654.
+  22. Burrington-Brown J, Friedman B (Oct 2005). "Educating the public about personal health records". J Ahima. 76 (9): 94â5. PMID 16274211.
+  23. Cimino JJ, Patel VL, Kushniruk AW (Dec 2002). "The patient clinical information system (PatCIS): technical solutions for and experience with giving patients access to their electronic medical records". Int J Med Inform. 68 (1-3): 113â27. doi:10.1016/S1386-5056(02)00070-9. PMID 12467796. http://linkinghub.elsevier.com/retrieve/pii/S1386505602000709.
+  24. Clarke JL, Meiris DC, Nash DB (2006). "Electronic personal health records come of age". American Journal of Medical Quality 21 (3 Suppl): 5Sâ15S. doi:10.1177/1062860606287642. PMID 16621927.
+  25. Conn J (2006). "Personal and (maybe) confidential. Questions over privacy, formats and definitions remain, but personal health records are on the way". Mod Healthc. 36 (27): 28â31. PMID 16898550.
+  26. Cooke T, Watt D, Wertzler W, Quan H (May 2006). "Patient expectations of emergency department care: phase II--a cross-sectional survey". CJEM. 8 (3): 148â57. PMID 17320008. http://caep.ca/template.asp?id=C47E9E43681744CC95052E4A44FFCEBE.
+  27. D'Alessandro DM, Dosa NP (Oct 2001). "Empowering children and families with information technology". Arch Pediatr Adolesc Med. 155 (10): 1131â6. PMID 11576008. http://archpedi.ama-assn.org/cgi/pmidlookup?view=long&pmid=11576008.
+  28. Denton IC (Sep 2001). "Will patients use electronic personal health records? Responses from a real-life experience". J Healthc Inf Manag. 15 (3): 251â9. PMID 11642143.
+  29. Earnest MA, Ross SE, Wittevrongel L, Moore LA, Lin CT (Sep 2004). "Use of a patient-accessible electronic medical record in a practice for congestive heart failure: patient and physician experiences". J Am Med Inform Assoc. 11 (5): 410â7. doi:10.1197/jamia.M1479. PMID 15187074.
+  30. Edlin M (2006). "Implementing personal health records". AHIP Coverage 47 (2): 14â6, 19. PMID 16700448.
+  31. Einbinder JS, Bates DW (2007). "Leveraging information technology to improve quality and safety". Yearbook of medical informatics: 22â9. PMID 17700900.
+  32. Endsley S, Kibbe DC, Linares A, Colorafi K (May 2006). "An introduction to personal health records". Fam Pract Manag. 13 (5): 57â62. PMID 16736906.
+  33. Fowles JB, Kind AC, Craft C, Kind EA, Mandel JL, Adlis S (Apr 2004). "Patients' interest in reading their medical record: relation with clinical and sociodemographic characteristics and patients' approach to health care". Arch Intern Med. 164 (7): 793â800. doi:10.1001/archinte.164.7.793. PMID 15078650.
+  34. Foxhall K (Mar 2007). "Now it's personal. Personal health records may be next on deck for the certification process". Healthc Inform. 24 (3): 30. PMID 17427793.
+  35. Friedman RH (2006). "Medicaid information technology architecture: an overview". Health Care Financ Rev 28 (2): 1â9. PMID 17427840.
+  36. Gawthorn EC (Jun 1983). "Personal health records (PHR)". Aust Fam Physician. 12 (6): 466â8. PMID 6626044.
+  37. Greene J (2007). "The personal health record: a key to improving health care for seniors". AHIP Coverage 48 (5): 46â8, 51â2, 55. PMID 17941574.
+  38. Halamka JD, Mandl KD, Tang PC (2008). "Early experiences with personal health records". J Am Med Inform Assoc. 15 (1): 1â7. doi:10.1197/jamia.M2562. PMID 17947615.
+  39. Hassol A, Walker JM, Kidder D, et al (Nov-Dec 2004). "Patient experiences and attitudes about access to a patient electronic health care record and linked web messaging". J Am Med Inform Assoc. 11 (6): 505â13. doi:10.1197/jamia.M1593. PMID 15299001.
+  40. Hess R, Bryce CL, Paone S, et al (Oct 2007). "Exploring challenges and potentials of personal health records in diabetes self-management: implementation and initial assessment". Telemed J E Health. 13 (5): 509â17. doi:10.1089/tmj.2006.0089. PMID 17999613.
+  41. Honeyman A, Cox B, Fisher B (2005). "Potential impacts of patient access to their electronic care records". Informatics in Primary Care. 13 (1): 55â60. PMID 15949176. http://openurl.ingenta.com/content/nlm?genre=article&issn=1476-0320&volume=13&issue=1&spage=55&aulast=Honeyman.
+  42. Iakovidis I. Towards personal health record: current situation, obstacles and trends in implementation of electronic healthcare record in Europe. Int J Med Info. Oct 1998. 52(1-3); 105-15.
+  43. Jeffs D, Harris M (Aug 1993). "The personal health record. Making it work better for general practitioners". Aust Fam Physician. 22 (8): 1417â9, 1421, 1424â7. PMID 8379881.
+  44. Jeffs D, Nossar V, Bailey F, Smith W, Chey T (Jun 1994). "Retention and use of personal health records: a population-based study". J Paediatr Child Health. 30 (3): 248â52. doi:10.1111/j.1440-1754.1994.tb00627.x. PMID 8074911.
+  45. Johnson S, Mayor P (Apr 2002). "A patient-held record for cancer patients from diagnosis onwards". Int J Palliat Nurs. 8 (4): 182, 184â9. PMID 12048447.
+  46. Joshi P, Jones KV, Hanson RM, Alperstein G, Fasher B (Oct 1993). "Personal health records". J Paediatr Child Health 29 (5): 400â1. doi:10.1111/j.1440-1754.1993.tb00549.x. PMID 8240876.
+  47. Jossi F (Feb 2006). "Personal health records". Healthc Inform. 23 (2): 52, 54. PMID 16597007.
+  48. Kardas G, Tunali ET (Jan 2006). "Design and implementation of a smart card based healthcare information system". Comput Methods Programs Biomed. 81 (1): 66â78. doi:10.1016/j.cmpb.2005.10.006. PMID 16356586.
+  49. Kim E, Mayani A, Modi S, Kim Y, Soh C. Evaluation of patient-centered electronic health record to overcome digital divide. Conf Proc IEEE Eng Med Biol Soc. 2005. 2;593-6.
+  50. Kim MI, Johnson KB (Mar-Apr 2002). "Personal health records: evaluation of functionality and utility". J Am Med Inform Assoc. 9 (2): 171â80. doi:10.1197/jamia.M0978. PMID 11861632. PMC: 344574. http://www.jamia.org/cgi/pmidlookup?view=long&pmid=11861632.
+  51. Kim MI, Johnson KB (May 2004). "Patient entry of information: evaluation of user interfaces". J Med Internet Res. 6 (2): e13. doi:10.2196/jmir.6.2.e13. PMID 15249262. PMC: 1550597. http://www.jmir.org/2004/2/e13.
+  52. Kimmel Z, Greenes RA, Liederman E (Nov-Dec 2005). "Personal health records". J Med Pract Manage. 21 (3): 147â52. PMID 16471387.
+  53. Klein-Fedyshin MS (2002). "Consumer Health Informatics--integrating patients, providers, and professionals online". Med Ref Serv Q. 21 (3): 35â50. doi:10.1300/J115v21n03_03. PMID 12238015.
+  54. Kupchunas WR (2007). "Personal health record: new opportunity for patient education". Orthop Nurs. 26 (3): 185â91; quiz 192â3. doi:10.1097/01.NOR.0000276971.86937.c4. PMID 17538475.
+  55. Kun LG. Homecare and disease prevention: reviewing a decade of evolution - privacy still the biggest hurdle. Conf Proc IEEE Eng Med Biol Soc. 2006;1:4685. Medline
+  56. Lafky DB, Tulu B, Horan TA. A user-driven approach to personal health records. Communications of the Association for Information Systems. Jun 2006. 17(46).
+  57. Lee M, Delaney C, Moorhead S (Oct 2007). "Building a personal health record from a nursing perspective". Int J Med Inform. 76 Suppl 2: S308â16. doi:10.1016/j.ijmedinf.2007.05.010. PMID 17616432.
+  58. Lin CT, Wittevrongel L, Moore L, Beaty BL, Ross SE (Aug 2005). "An Internet-based patient-provider communication system: randomized controlled trial". J Med Internet Res. 7 (4): e47. doi:10.2196/jmir.7.4.e47. PMID 16236699. PMC: 1550679. http://www.jmir.org/2005/4/e47.
+  59. Lober WB, Zierler B, Herbaugh AL, Shinstrom SE, Stolyar A, Kim EH, Kim Y. Barriers to the use of a Personal Health Record by an Elderly Population. AMIA Annu Symp Proc. 2006. 514-8.
+  60. Lowes R (Feb 2006). "Personal health records: What's the status now?". Med Econ. 83 (4): TCP13â4, TCP16. PMID 16573223.
+  61. Lu SC (2007). "CCR exchange: building a patient-driven web-based healthcare community around an emerging personal health record standard". Stud Health Technol Inform. 127: 58â64. PMID 17901599. http://booksonline.iospress.nl/Extern/EnterMedLine.aspx?ISSN=0926-9630&Volume=127&SPage=58.
+  62. Masys D, Baker D, Butros A, Cowles KE (Mar-Apr 2002). "Giving patients access to their medical records via the internet: the PCASSO experience". J Am Med Inform Assoc. 9 (2): 181â91. doi:10.1197/jamia.M1005. PMID 11861633. PMC: 344575. http://www.jamia.org/cgi/pmidlookup?view=long&pmid=11861633.
+  63. McSherry B (Aug 2006). "Access to confidential medical records by courts and tribunals: the inapplicability of the doctrine of public interest immunity". J Law Med. 14 (1): 15â9. PMID 16937777.
+  64. Moen A, Brennan PF (2005). "Health@Home: the work of health information management in the household (HIMH): implications for consumer health informatics (CHI) innovations". J Am Med Inform Assoc. 12 (6): 648â56. doi:10.1197/jamia.M1758. PMID 16049230.
+  65. Morales Rodriguez M, Casper G, Brennan PF (Apr 2007). "Patient-centered design. The potential of user-centered design in personal health records". J Ahima. 78 (4): 44â6; quiz 49â50. PMID 17455846.
+  66. Morrissey J (Nov-Dec 2005). "What does the public think? For consumers to adopt PHRs, they need reasons that hit home". J Ahima 76 (10): 42â4. PMID 16333943.
+  67. Neame R (Feb 2000). "Creating an infrastructure for the productive sharing of clinical information". Top Health Inf Manage. 20 (3): 85â91. PMID 10747439.
+  68. Nelson R (Sep 2007). "The personal health record". Am J Nurs. 107 (9): 27â8. doi:10.1097/01.NAJ.0000287504.92887.de (inactive 2008-10-21). PMID 17721144.
+  69. Nobel JJ (Nov-Dec 2005). "Health plan sponsored personal health records: a tool for information driven quality improvement". AHIP Coverage 46 (6): 14â6, 18, 20â5. PMID 16450491.
+  70. O'Flaherty S, Jandera E, Llewellyn J, Wall M (Nov 1987). "Personal health records: an evaluation". Arch Dis Child. 62 (11): 1152â5. PMID 3688919.
+  71. Odom-Wesley B (Nov-Dec 2000). "Envisioning the personal medical record". J Ahima 71 (10): 39â45. PMID 11185857.
+  72. Pagliari C, Detmer D, Singleton P (Aug 2007). "Potential of electronic personal health records". BMJ 335 (7615): 330â3. doi:10.1136/bmj.39279.482963.AD. PMID 17703042.
+  73. Poon EG, Wald J, Schnipper JL, et al (2007). "Empowering patients to improve the quality of their care: design and implementation of a shared health maintenance module in a US integrated healthcare delivery network". Studies in health technology and informatics 129 (Pt 2): 1002â6. PMID 17911866. http://booksonline.iospress.nl/Extern/EnterMedLine.aspx?ISSN=0926-9630&Volume=129&SPage=1002.
+  74. Pyper C, Amery J, Watson M, Crook C, Thomas B (2002). "Patients' access to their online electronic health records". J Telemed Telecare. 8 Suppl 2: 103â5. doi:10.1258/135763302320302244. PMID 12217158.
+  75. Pyper C, Amery J, Watson M, Crook C (Nov 2004). "Access to electronic health records in primary care-a survey of patients' views". Med Sci Monit. 10 (11): SR17â22. PMID 15507869. http://www.medscimonit.com/fulltxt.php?ICID=11808.
+  76. Ralston JD, Revere D, Robins LS, Goldberg HI (May 2004). "Patients' experience with a diabetes support programme based on an interactive electronic medical record: qualitative study". BMJ 328 (7449): 1159. doi:10.1136/bmj.328.7449.1159. PMID 15142919.
+  77. Rahul Shetty: Portable Digital Personal Health Record : To Bridge the Digital gap in Medical Information Storage of Individuals with Personal Health Records in Flash Drives. The Internet Journal of Health. 2007. Volume 5 Number 2.
+  78. Rhoads J, Metzger J (Jan-Feb 2007). "Personal health records: prospects and challenges for health plans". AHIP Coverage 48 (1): 50, 53. PMID 17315559.
+  79. Rocha RA, Romeo AN, Norlin C (2007). "Core features of a parent-controlled pediatric medical home record". Stud Health Technol Inform. 129 (Pt 2): 997â1001. PMID 17911865. http://booksonline.iospress.nl/Extern/EnterMedLine.aspx?ISSN=0926-9630&Volume=129&SPage=997.
+  80. Roop L (Feb 2007). "Technology. Big business charges ahead with personal health records". Hosp Health Netw. 81 (2): 17. PMID 17373527.
+  81. Ross SE, Lin CT (Mar-Apr 2003). "The effects of promoting patient access to medical records: a review". J Am Med Inform Assoc. 10 (2): 129â38. doi:10.1197/jamia.M1147. PMID 12595402. PMC: 150366. http://www.jamia.org/cgi/pmidlookup?view=long&pmid=12595402.
+  82. Ross SE, Moore LA, Earnest MA, Wittevrongel L, Lin CT (May 2004). "Providing a web-based online medical record with electronic communication capabilities to patients with congestive heart failure: randomized trial". J Med Internet Res. 6 (2): e12. doi:10.2196/jmir.6.2.e12. PMID 15249261. PMC: 1550594. http://www.jmir.org/2004/2/e12.
+  83. Ross SE, Todd J, Moore LA, Beaty BL, Wittevrongel L, Lin CT (May 2005). "Expectations of patients and physicians regarding patient-accessible medical records". J Med Internet Res. 7 (2): e13. doi:10.2196/jmir.7.2.e13. PMID 15914460. PMC: 1550642. http://www.jmir.org/2005/2/e13.
+  84. Sachinopoulou A, LeppÃ¤nen J, Kaijanranta H, LÃ¤hteenmÃ¤ki J (2007). "Ontology-based approach for managing personal health and wellness information". Conf Proc IEEE Eng Med Biol Soc. 2007: 1802â5. doi:10.1109/IEMBS.2007.4352662. PMID 18002328.
+  85. Sax U, Kohane I, Mandl KD (May-Jun 2005). "Wireless technology infrastructures for authentication of patients: PKI that rings". J Am Med Inform Assoc. 12 (3): 263â8. doi:10.1197/jamia.M1681. PMID 15684133.
+  86. Schneider JH (Aug 2001). "Online personal medical records: are they reliable for acute/critical care?". Crit Care Med. 29 (8 Suppl): N196â201. doi:10.1097/00003246-200108001-00009. PMID 11496043. http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0090-3493&volume=29&issue=8&spage=N196.
+  87. Schoenberg R, Safran C (Nov 2000). "Internet based repository of medical records that retains patient confidentiality". BMJ 321 (7270): 1199â203. doi:10.1136/bmj.321.7270.1199. PMID 11073513. .
+  88. Sittig DF (Apr 2002). "Personal health records on the internet: a snapshot of the pioneers at the end of the 20th Century". Int J Med Inform. 65 (1): 1â6. doi:10.1016/S1386-5056(01)00215-5. PMID 11904243. http://linkinghub.elsevier.com/retrieve/pii/S1386505601002155.
+  89. Smith SP, Barefield AC (Oct-Dec 2007). "Patients meet technology: the newest in patient-centered care initiatives". Health Care Manag (Frederick). 26 (4): 354â62. doi:10.1097/01.HCM.0000299254.29678.50 (inactive 2008-10-21). PMID 17992110.
+  90. Sprague L (Nov 2006). "Personal health records: the people's choice?". NHPF Issue Brief. (820): 1â13. PMID 17146910.
+  91. Smolij K, Dun K (Dec 2006). "Patient health information management: searching for the right model". Perspect Health Inf Manag. 3: 10. PMID 18066368.
+  92. Tang PC, Ash JS, Bates DW, Overhage JM, Sands DZ. Personal health records: definitions, benefits, and strategies for overcoming barriers to adoption. Journal of Medical Informatics Association. Mar 2006. 13(2); 121-126.
+  93. Tang PC, Lansky D (Sep 2005). "The missing link: bridging the patient-provider health information gap". Health Affairs. 24 (5): 1290â5. doi:10.1377/hlthaff.24.5.1290. PMID 16162575.
+  94. Tobacman JK, Kissinger P, Wells M, et al (Jul 2004). "Implementation of personal health records by case managers in a VAMC general medicine clinic". Patient Educ Couns. 54 (1): 27â33. doi:10.1016/S0738-3991(03)00184-8. PMID 15210257.
+  95. Tracy CS, Dantas GC, Upshur RE (Sep 2004). "Feasibility of a patient decision aid regarding disclosure of personal health information: qualitative evaluation of the Health Care Information Directive". BMC Med Inform Decis Mak. 4: 13. doi:10.1186/1472-6947-4-13. PMID 15361257.
+  96. Ueckert F, Goerz M, Ataian M, Tessmann S, Prokosch HU (Jul 2003). "Empowerment of patients and communication with health care professionals through an electronic health record". Int J Med Inform. 70 (2-3): 99â108. doi:10.1016/S1386-5056(03)00052-2. PMID 12909161. http://linkinghub.elsevier.com/retrieve/pii/S1386505603000522.
+  97. Waegemann CP (May 2005). "Closer to reality. Personal health records represent a step in the right direction for interoperability of healthcare IT systems and accessibility of patient data". Health Manag Technol. 26 (5): 16, 18. PMID 15932068.
+  98. Weingart SN, Rind D, Tofias Z, Sands DZ (Jan-Feb 2006). "Who uses the patient internet portal? The PatientSite experience". J Am Med Inform Assoc. 13 (1): 91â5. doi:10.1197/jamia.M1833. PMID 16221943.
+  99. Winkelman WJ, Leonard KJ (Mar-Apr 2004). "Overcoming structural constraints to patient utilization of electronic medical records: a critical review and proposal for an evaluation framework". J Am Med Inform Assoc. 11 (2): 151â61. doi:10.1197/jamia.M1274. PMID 14633932.
+  100. Winkelman WJ, Leonard KJ, Rossos PG (May-Jun 2005). "Patient-perceived usefulness of online electronic medical records: employing grounded theory in the development of information and communication technologies for use by patients living with chronic illness". J Am Med Inform Assoc. 12 (3): 306â14. doi:10.1197/jamia.M1712. PMID 15684128.
+  101. Wright A, Sittig DF (Feb 2007). "Security threat posed by USB-based personal health records". Ann Intern Med. 146 (4): 314â5. PMID 17310061.
+  102. Wolter J, Friedman B (Nov-Dec 2005). "Health records for the people. Touting the benefits of the consumer-based personal health record". J Ahima. 76 (10): 28â32, quiz 35â6. PMID 16333941.
+  103. Woolf SH, Krist AH, Johnson RE, et al (Mar-Apr 2006). "A practice-sponsored Web site to help patients pursue healthy behaviors: an ACORN study". Ann Fam Med. 4 (2): 148â52. doi:10.1370/afm.522. PMID 16569718.
+  104. Wright A, Sittig DF (2007). "Encryption characteristics of two USB-based personal health record devices". J Am Med Inform Assoc. 14 (4): 397â9. doi:10.1197/jamia.M2352. PMID 17460132.
+  105. Wright A, Sittig DF (Feb 2007). "Security threat posed by USB-based personal health records". Ann Intern Med. 146 (4): 314â5. PMID 17310061.
+  106. Zeng-Treitler Q, Kim H, Goryachev S, Keselman A, Slaughter L, Smith CA (2007). "Text characteristics of clinical reports and their implications for the readability of personal health records". Stud Health Technol Inform. 129 (Pt 2): 1117â21. PMID 17911889. http://booksonline.iospress.nl/Extern/EnterMedLine.aspx?ISSN=0926-9630&Volume=129&SPage=1117.
+
+Conference Proceedings
+
+  1. Angst CM, Agarwal, R, Downing, J. An empirical examination of the importance of defining the PHR for research and for practice,â Proceedings of the 41st Annual Hawaii International Conference on System Sciences. Jan 2008.
+  2. Cimino JJ, Li J, Mendoca EA, Sengupta S, Patel VL, Kuhniruk AW. An evaluation of patient access to their electronic medical records via the World Wide Web. AMIA Symposium. Sep 2000.
+  3. Dorr D, Bonner LM, Cohen AN, et al (2007). "Informatics systems to promote improved care for chronic illness: a literature review". J Am Med Inform Assoc. 14 (2): 156â63. doi:10.1197/jamia.M2255. PMID 17213491.
+  4. Iakovidis I. From electronic medical record to personal health records: present situation and trends in European Union in the area of electronic healthcare records. Medinfo. Sep 1998. 9(1 suppl); 18-22.
+  5. Ross S, Lin CT (2003). "A randomized controlled trial of a patient-accessible electronic medical record". AMIA Annu Symp Proc.: 990. PMID 14728493.
+  6. Stroetmann KA, Pieper M, Stroetmann VN. Understanding patients: participatory approaches for the user evaluation of vital data presentation. ACM Conference on Universal Usability; Proceedings of the 2003 Conference on Universal Usability . Nov 2003. 93-97.
+  7. Wuerdeman L, Volk L, Pizziferri L, et al (2005). "How accurate is information that patients contribute to their Electronic Health Record?". AMIA Annu Symp Proc.: 834â8. PMID 16779157.
+
+  
+Other
+
+  1. Americaâs Health Insurance Plans. Consumer and provider focus groups on PHR. Unpublished. Jan 2005.
+  2. Angst CM, Agarwal R, Downing J. An empirical examination of the importance of defining the PHR for research and for practice. Robert H. Smith School Research Paper. May 2006. RHS-06-011.
+  3. California Health Care Foundation. National consumer health privacy survey 2005. Nov 2005.
+  4. Canedy JT. SimplyWell PHR. AHIC Consumer Empowerment Workgroup Meeting 7/23/06. Jul 2006.
+  5. Connecting for Health. Americans want benefits of personal health records Jun 2003.
+  6. Connecting for Health. The personal health working group. Jul 2003.
+  7. Connecting for Health. Connecting Americans to their Healthcare final report: working group on policies for electronic information sharing between doctors and patients. Jul 2004.
+  8. Connecting for Health. Connecting Americans to Their Health Care: A Common Framework for Networked Personal Health Information. Dec 2006.
+  9. Department of Health and Human Services. Standards for privacy of individually identifiable health information. Federal Register. Dec 2000. Billing Code 4150-05M; 82461-82829 (45 CFR Parts 160-164).
+  10. Detmer D, Steen E. Learning from abroad: lessons and questions on personal health records for national policy. AARP. Mar 2006.
+  11. Haslmaier EF. Health care information technology â getting the policy right. Web Memo â Heritage Foundation. Jun 2006. No. 1131.
+  12. Markle Foundation. Attitudes of Americans regarding personal health records and nationwide electronic health information exchange: key findings from two surveys of Americans. Oct 2005.
+  13. Miller RH, Sim I. Physicians' use of electronic medical records: barriers and solutions. California HealthCare Foundation. Mar 2004. 116-126.
+  14. Skewes JL. Shared Health, Inc. AHIC Consumer Empowerment Workgroup Meeting 7/23/06. Jul 2006.
+  15. Taylor H. Two in five adults keep personal or family health records and almost everybody think this is a good idea. Harris Interactive. Aug 2004.
+
+## [edit] References
+
+  1. ^ "Computerisation of personal health records". Health Visitor 51 (6): 227. Jun 1978. PMID 248054.
+  2. ^ Connecting for Health. The Personal Health Working Group Final Report. July 1, 2003.
+  3. ^ American Health Information Management Association. The Role of the Personal Health Record in the EHR. July 25, 2005.
+  4. ^ America's Health Insurance Plans. What are Personal Health Records (PHRs)? December 13, 2006.
+  5. ^ Tang PC, Ash JS, Bates DW, Overhage JM, Sands DZ (Mar-Apr 2006). "Personal health records: definitions, benefits, and strategies for overcoming barriers to adoption". J Am Med Inform Assoc. 13 (2): 121â6. doi:10.1197/jamia.M2025. PMID 16357345. PMC: 1447551. http://www.jamia.org/cgi/content/full/13/2/121.
+
+## [edit] External links
+
+  * Video Interview of MIT Professor Peter Szolovitz about early developments of the Personal Health Record
+
+Retrieved from "http://en.wikipedia.org/wiki/Personal_health_record"
+
+Categories: Medical informatics | Health standards | International standards
+
+Hidden categories: Pages with DOIs broken since 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * ×¢××¨××ª
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 15 April 2009, at 16:51 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

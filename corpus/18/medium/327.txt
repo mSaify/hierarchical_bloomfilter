@@ -1,0 +1,875 @@
+
+# Metal Gear Solid
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This article is about the original PlayStation game. For the series, see Metal
+Gear (series). For the Game Boy Color game, see Metal Gear Solid (Game Boy).
+
+Metal Gear Solid  
+Official cover art for Metal Gear Solid for the North American PlayStation  
+North American Release cover art.  
+Developer(s) Konami Computer Entertainment Japan (West)  
+Digital Dialect (PC port)  
+Publisher(s) Konami (PlayStation)  
+Microsoft (Microsoft Windows)  
+Designer(s) Hideo Kojima  
+Composer(s) Takanari Ishiyama  
+Gigi Meroni  
+Kazuki Muraoka  
+Lee Jeon Myung  
+Hiroyuki Togo  
+Maki Kirioka  
+Rika Muranaka  
+Tappi Iwase  
+Series Metal Gear  
+Platform(s) Metal Gear Solid  
+PlayStation  
+MGS: Integral  
+PlayStation  
+Microsoft Windows  
+Release date(s) Metal Gear Solid  
+PlayStation  
+JP September 3, 1998[1]  
+
+NA October 21, 1998[2]  
+PAL February 26, 1999  
+MGS: Integral  
+PlayStation  
+JP June 24, 1999[3]  
+NA September 23, 1999  
+PAL October 29, 1999  
+Microsoft Windows  
+NA September 24, 2000  
+PAL October 20, 2000  
+  
+Genre(s) Stealth action  
+Mode(s) Single-player  
+Rating(s) CERO: 15+  
+ELSPA: 15+  
+ESRB: M  
+OFLC: MA15+  
+  
+Media 1 or 2 CD-ROMs  
+System requirements Pentium II 233 MHz CPU, 32 MB RAM, 4 MB video card,
+DirectX v. 7.0A[4]  
+Input methods DualShock, Keyboard and Mouse  
+Metal Gear Solid (ã¡ã¿ã«ã®ã¢ã½ãªãã ,Metaru Gia Soriddo?) (commonly
+abbreviated as MGS) is a stealth action video game directed and written by
+Hideo Kojima.[5] The game was developed by Konami Computer Entertainment Japan
+and first published by Konami in 1998 for the PlayStation video game console.
+It is the sequel to Kojima's early MSX2 computer games Metal Gear and Metal
+Gear 2: Solid Snake. The game featured an unprecedented amount of cinematic
+cut scenes rendered using the in-game engine and graphics, as well as voice
+acting in numerous codec sequences.[6]
+
+The story of Metal Gear Solid takes place in 2005, south-west of Alaska in the
+Bering sea. It follows Solid Snake, a retired soldier who infiltrates a
+nuclear weapons disposal facility to neutralize the terrorist threat from
+FOXHOUND, a renegade special forces unit.[7] Snake must liberate two hostages,
+the head of DARPA and the president of a major arms manufacturer, confront the
+terrorists, and stop them from launching a nuclear strike.[8]
+
+Metal Gear Solid was well-received, shipping more than six million copies,[9]
+and scoring an average of 94 out of 100 on the aggregate website
+Metacritic.[10] The commercial success of the title prompted the release of an
+expanded version for the PlayStation and PC, titled Metal Gear Solid:
+Integral;[11] and a remake, Metal Gear Solid: The Twin Snakes was later
+released for the Nintendo GameCube.[12][13] The game has also spawned numerous
+sequels, prequels, a port of the game to Windows PCs and spin-offs, including
+several games, a radio drama, comics, and a novel.
+
+## Contents
+
+  * 1 Gameplay
+  * 2 Plot
+    * 2.1 Characters
+    * 2.2 Story
+  * 3 Cast
+  * 4 Development
+  * 5 Release history
+    * 5.1 Original version
+    * 5.2 Integral and VR Missions
+    * 5.3 The Twin Snakes
+  * 6 Music
+  * 7 Reception and legacy
+  * 8 Related media
+  * 9 References
+  * 10 External links
+
+  
+## [edit] Gameplay
+
+<IMG>
+
+<IMG>
+
+Solid Snake hiding from a guard. When Snake leans on a corner, the camera
+shifts to his front for dramatic effect and to enable sight down corridors.
+
+<IMG>
+
+<IMG>
+
+Representation of the soliton radar.
+
+Despite a transition to 3D, the gameplay of Metal Gear Solid remains similar
+to its 2D MSX2 predecessor Metal Gear 2: Solid Snake. The player must navigate
+the protagonist, Solid Snake, through the game's areas without being detected
+by enemies.[14] Detection is triggered by the player moving into an enemy's
+field of vision and sets off an alarm that draws armed enemies to his
+location.[15] This also triggers "alert mode" and the player must then hide
+and remain undetected, at which point âevasion modeâ begins and once the
+counter reaches zero the game returns to "infiltration mode" where enemies are
+not suspicious of Snakeâs presence. The radar cannot be used in alert or
+evasion mode.[16]
+
+To remain undetected, the player can perform techniques which make use of
+Solid Snake's abilities and the environment, such as crawling under objects,
+using boxes as cover, ducking or hiding around walls, and making noise to
+distract enemies. These are carried out using the third-person camera; which
+often changes its angle to give the player the best view of the area possible,
+and an on-screen radar, which displays enemies and their field of vision.[17]
+Snake can also make use of many items and gadgets, such as infra-red goggles
+or a cardboard box disguise.[18] The emphasis on stealth promotes a less
+violent form of gameplay, as fights against large groups of enemies will often
+result in serious damage for the player.[19]
+
+Intermixed with the player's progress are cut scenes and codec conversations
+as well as encounters with bosses. To progress, players must discover the
+weaknesses of each boss to defeat them. Game controls and play strategies can
+also be accessed via the Codec radio, where advice is delivered from Snake's
+support team; for example, the support team may chastise Snake for not saving
+his progress often enough, or explain his combat moves in terms of which
+buttons to press on the gamepad. The Codec is also used to provide exposition
+on the game's backstory. Completion of the title provides the player with a
+statistical summary of their performance, and a "code name" based upon it,
+typically the name of a common animal.
+
+In a first for the Metal Gear series, a training mode is available in which
+players can practice hiding techniques, weapons use, and sneaking. In addition
+to the stealth gameplay, there are set piece sequences that entail firefights
+between the player and enemies from the third-person and first-person
+perspectives.[16]
+
+## [edit] Plot
+
+### [edit] Characters
+
+Main article: List of Metal Gear Solid characters
+
+The protagonist of Metal Gear Solid is Solid Snake, a legendary infiltrator
+and saboteur. His physique is based on Jean Claude Van Damme, while his facial
+appearance was originally based on Christopher Walken.[20][21] During the
+mission, Snake receives support and advice via codec radio. Colonel Roy
+Campbell, Solid Snake's former commanding officer, supports Snake with advice
+and tactics. While he initially keeps a number of secrets from Snake, he
+gradually reveals them.[22] He is joined by Naomi Hunter, who gives medical
+advice; Nastasha Romanenko, who provides item and weapon tips; Master Miller,
+a former drill instructor and survival coach; and Mei Ling, who invented the
+soliton radar system used in the mission and is also in charge of mission data
+- the player can call her to save the game.
+
+The main antagonist of the game is Liquid Snake, leader of the now-terrorist
+organization FOXHOUND, and genetic counterpart to Solid Snake.[16] An elite
+special forces unit, FOXHOUND contains experts specializing in unique tasks.
+Members are Revolver Ocelot, a Western-style gunslinger and expert
+interrogator whose weapon of choice is the Colt Single Action Army; Sniper
+Wolf, a preternatural sniper; Vulcan Raven, a hulking Alaskan shaman armed
+with an M61 Vulcan torn from a downed F-16; Psycho Mantis, a psychic profiler
+and psychokinesis expert; and Decoy Octopus, a master of disguise.[16]
+
+Other characters include Meryl Silverburgh, initially known as Roy Campbell's
+niece, and a rookie soldier stationed in Shadow Moses who did not join the
+revolt; Dr. Hal "Otacon" Emmerich, the lead developer of Metal Gear REX; and
+the Cyborg Ninja, a mysterious cybernetically-enhanced agent who is neither an
+ally nor an enemy of Snake but does oppose FOXHOUND.[16]
+
+### [edit] Story
+
+Metal Gear series fictional chronology  
+Metal Gear Solid 3: Snake Eater  
+Metal Gear Solid: Portable Ops  
+Metal Gear  
+Metal Gear 2: Solid Snake  
+Metal Gear Solid (The Twin Snakes)  
+Metal Gear Solid 2: Sons of Liberty  
+Metal Gear Solid 4: Guns of the Patriots  
+The story is set in 2005,[23] where a genetically enhanced next-generation
+special forces unit commanded by FOXHOUND lead an armed uprising on a remote
+island in Alaska's Fox Archipelago. This island, codenamed Shadow Moses, is
+the site of a nuclear weapons disposal facility.[19] The forces that seized
+this island have acquired the nuclear-capable mecha Metal Gear REX, and are
+threatening the US government with a nuclear reprisal if they do not receive
+the remains of the "legendary mercenary" Big Boss within 24 hours.[24]
+
+As the game begins, Solid Snake is forced out of retirement and is dispatched
+at the request of Colonel Roy Campbell to penetrate the terrorists' defenses
+and neutralize the threat.[25] Snake is also ordered to locate hostages DARPA
+Chief Donald Anderson, and ArmsTech president Kenneth Baker. Colonel
+Campbell's niece, Meryl Silverburgh is also held captive in the facility after
+refusing to take part in the uprising. Snake enters the facility via an air
+vent and eventually locates the DARPA Chief in a cell. He informs Snake of the
+new Metal Gear REX unit housed at the facility and how he can prevent it from
+being launched using a secret detonation override code, but then suddenly dies
+of what appears to be a heart attack.[26] Meryl, who is held in adjoining
+cell, manages to break out and assists Snake in his escape as enemy soldiers
+are alerted to his presence. Snake then finds the other hostage, Kenneth
+Baker. Whilst attempting to free Baker, Snake is confronted by Revolver Ocelot
+who challenges Snake to a gunfight, which is interrupted by a mysterious
+cyborg ninja who cuts off Ocelot's right hand. Baker briefs Snake on the Metal
+Gear project and advises him to contact Meryl, whom he gave a PAL card that
+could be used to prevent the launch, but like the DARPA Chief, he suddenly
+dies of what appears to be a heart attack.
+
+Snake then contacts Meryl via codec, and agrees to meet her in the base's
+warhead disposal area on the condition that he contacts Metal Gear's designer,
+Hal "Otacon" Emmerich. As he emerges onto a canyon, Snake receives an
+anonymous codec call. The mysterious voice calls himself "Deepthroat" and
+warns Snake of an ambush up ahead. Snake is confronted by Vulcan Raven in an
+M1 tank, but manages to defeat the two gunners and proceeds to the warhead
+disposal area. Snake locates Otacon in his lab. The ninja reappears, and Snake
+realizes that it is actually his former ally Gray Fox, whom he believed was
+killed years earlier. Otacon agrees to aid Snake remotely, using special
+camouflage to procure information and supplies while he remains invisible.
+Snake meets with Meryl and agrees for her to accompany him on his mission.
+Meryl gives Snake the PAL card Baker gave to her and as they head for the
+underground base, Meryl becomes possessed by Psycho Mantis's mind control tune
+and pulls her gun on Snake. Snake disarms Meryl and defeats Psycho Mantis and
+before he dies, he tells Snake that he has "a large place" in Meryl's heart
+after reading her mind. After they reach the underground passageway, Sniper
+Wolf ambushes them, wounds Meryl, and after a brief duel captures Snake.
+
+While imprisoned, Liquid confirms Snake's suspicion that they are twin
+brothers.[27] Snake is then tortured by Ocelot[28] and the player can choose
+whether or not to give in to the torture. When Snake is taken to his cell, he
+discovers the body of DARPA Chief Donald Anderson lying in the corner;
+however, though it was only hours before Snake watched Anderson die in front
+of him, the body has been decomposing as if he were dead for days. Eventually
+Snake is able to escape by fooling the guard (by either lying in ketchup or
+hiding under a bed).
+
+As Snake makes his way up the facility's communications tower, he is ambushed
+by Liquid in an attack helicopter, but swiftly defeats him. As he emerges from
+the tower onto the snowfield he is confronted once again by Sniper Wolf, and
+after a second duel he fatally wounds her. Otacon, enamoured with Wolf, is
+overcome with grief as Snake is forced to execute her. Snake descends into the
+bowels of the Shadow Moses facility. After defeating Vulcan Raven, the shaman
+reveals to Snake that the man he watched die was not the DARPA Chief. It was
+Decoy Octopus.[29] However, Raven leaves the cause of death for Snake to find
+out. Shortly after, Master Miller calls and reveals that Dr. Naomi Hunter, a
+support agent, has given Snake the genetically engineered virus "FoxDie"
+during his mission preparations, and is sending coded messages into the
+facility. Campbell swiftly orders her arrest. The virus, designed to kill
+people with particular genetic markers via cardiac arrest,[30][31] was
+responsible for the deaths of Octopus and the ArmsTech president.[32] Naomi
+contacts Snake and confesses that she joined the mission to sabotage it. But
+upon learning of Snake's own past, she no longer had the heart to kill him
+directly having reprogrammed the virus.[33]
+
+Infiltrating Metal Gear's hangar, Snake overhears Liquid and Ocelot preparing
+the launch sequence for Metal Gear REX. Thinking he is deactivating it by
+using the PAL card, Snake activates Metal Gear REX.[34] Master Miller then
+reveals himself to be Liquid in disguise. He informs Snake that his entire
+mission was manipulated by the renegades to allow the launch of the nuclear
+weapon.[35] Liquid explains that they are the product of the Les Enfants
+Terribles project, a government sponsored effort to clone Big Boss, that was
+conducted during the 1970s. Liquid explains that Solid received all of Big
+Boss' dominant genes, while he received all of the recessive genes.[36][37] He
+also reveals to Snake the government's true reason for sending him in: the
+reprogrammed FoxDie virus would kill all the members of FOXHOUND, allowing the
+government to retrieve REX undamaged.
+
+<IMG>
+
+<IMG>
+
+Solid Snake in battle against Metal Gear REX.
+
+Liquid assumes control of Metal Gear REX and a battle ensues. Gray Fox
+suddenly appears and destroys REX's radome and dies trying to fend off the
+bipedal tank from Snake. Snake destroys Metal Gear REX and is challenged again
+by Liquid in person. He fights Liquid atop REX and defeats him after knocking
+him over the edge. He is then reunited with Meryl or Otacon, depending on the
+player's actions. They escape through an underground tunnel, while being
+chased by Liquid, in a jeep. After the two vehicles crash at the tunnel
+entrance, Liquid emerges and pulls a gun on Snake but suddenly dies from the
+FoxDie virus.[38] Colonel Campbell, briefly ousted from command of the
+mission, calls off a nuclear airstrike intended to obliterate the evidence of
+the day's events and officially declares Snake killed in action to stop the US
+government's search for him in the future.
+
+There are two possible endings, depending on the player's actions during the
+torture sequence. If the player gives in to the torture, Snake discovers after
+defeating Liquid that Meryl has died and escapes with Otacon. If the player
+does not give in to the torture, Meryl survives and escapes with Snake while
+Otacon volunteers to stay behind and sacrifice himself to help Snake and Meryl
+get out, not knowing that the nuclear strike intended to hit the disposal
+facility would never come (Meryl surviving is the canon ending).
+
+After the end credits the player finds out Snake is actually genetically
+inferior to Liquid[39] and has an indeterminate amount of time left before
+FoxDie kills him. Ocelot is revealed to be a double agent for the President of
+the United States. His intention was to obtain Baker's disk containing Metal
+Gear's specifications and deliver it to the President, and kill whoever knew
+of his true motives, the reason for his "accidental" killing of the DARPA
+Chief.[40]
+
+## [edit] Cast
+
+Character Japanese version English version (pseudonyms in parenthesis)  
+Solid Snake Akio Åtsuka David Hayter (Sean Barker*)  
+Liquid Snake Banjo Ginga Cam Clarke (James Flinders)  
+Meryl Silverburgh Kyoko Terase Debi Mae West (Mae Zadler)  
+Naomi Hunter Hiromi Tsuru Jennifer Hale (Carren Learning)  
+Hal "Otacon" Emmerich Hideyuki Tanaka Christopher Randolph (Christopher Fritz)  
+Roy Campbell Takeshi Aono Paul Eiding (Paul Otis)  
+Mei Ling Houko Kuwashima Kim Mai Guest (Kim Nguyen)  
+Gray Fox Kaneto Shiozawa Greg Eagles (George Byrd)  
+Nastasha Romanenko Eiko Yamada Renee Raudman (Renee Collette)  
+Revolver Ocelot Koji Totani Patric Zimmerman (Patric Laine)  
+Vulcan Raven Yukitoshi Hori Peter Lurie (Chuck Farley)  
+Psycho Mantis Kazuyuki Sogabe Doug Stone  
+Sniper Wolf Naoko Nakamura Tasia Valenza (Julie Monroe)  
+Donald Anderson Masaharu Sato Greg Eagles (George Byrd)  
+Kenneth Baker Yuzuru Fujimoto Allan Lurie (Bert Stewart)  
+Jim Houseman Tomohisa AsÅ William Bassett (Fredrick Bloggs)  
+Johnny Sasaki Naoki Imamura Dean Scofield (Dino Schofield)  
+    *This credit appeared only in the early demo versions of the game and in the back of some versions of the user manual under Cast and Credits in the European version. David Hayter did not use a pseudonym in the game credits.
+## [edit] Development
+
+<IMG>
+
+An early artwork of Snake and Meryl, featured as an easter egg in the
+Policenauts: Pilot Disk for the 3DO.
+
+Kojima originally planned the third Metal Gear game, to be called Metal Gear
+3, and to release it for the 3DO Interactive Multiplayer in 1994. Conceptual
+artwork, by illustrator Yoji Shinkawa, of the characters Solid Snake, Meryl
+Silverburgh, who was also a character in the adventure game Policenauts, and
+the FOXHOUND team, were included in the Policenauts: Pilot Disk preceding the
+release of the full 3DO game in 1995.[41] However due to the decline of the
+3DO hardware, development of the game shifted to the PlayStation shortly after
+it was released.
+
+Kojima retitled the game Metal Gear Solid, choosing this over the working
+title Metal Gear 3. This was due to the fact that he believed that the first
+two MSX2 games in the series were not very well known.[42] He used the word
+'Solid' which was chosen due to the game being the third installment in the
+series, and because it uses 3D computer graphics.[43] Sequels to this game
+also use the Metal Gear Solid title, and follow a new numeral progression.
+
+The development for Metal Gear Solid began in mid-1995[44] with the intention
+of creating the "best PlayStation game ever".[45] Developers aimed for
+accuracy and realism while making the game enjoyable and tense. In the early
+stages of development, a SWAT team educated the creators with a demonstration
+of vehicles, weapons and explosives.[45] Hideo Kojima, the director, stated
+that "if the player isn't tricked into believing that the world is real, then
+there's no point in making the game". To fulfill this, adjustments were made
+to every detail, such as individually designed desks.[46]
+
+Hideo Kojima created the characters of Metal Gear Solid. Modifications and
+mechanics were made by conceptual artist Yoji Shinkawa. The characters were
+completed by polygonal artists using pencil drawings and clay models by
+Shinkawa.[47] Kojima wanted greater interaction with objects and the
+environment, such as allowing the player to hide bodies in a storage
+compartment. Additionally, he wanted "a full orchestra right next to the
+player"; a system which made modifications such as tempo and texture to the
+currently playing track, instead of switching to another pre-recorded track.
+Although these features could not be achieved, they were implemented in Metal
+Gear Solid 2: Sons of Liberty.[48]
+
+Metal Gear Solid was revealed to the public at the E3 gaming event in 1997 as
+a short video. It was later playable for the first time at the Tokyo Game Show
+in 1998 and officially released the same year in Japan[49] with an extensive
+promotional campaign.[45] Television and magazine advertisements, in-store
+samples, and demo give-aways contributed to a total of US$8 million in
+promotional costs.[50] An estimated 12 million demos for the game were
+distributed during 1998.[51]
+
+## [edit] Release history
+
+### [edit] Original version
+
+The English version of Metal Gear Solid, translated by Jeremy Blaustein, who
+localized the Sega CD version of Snatcher,[5] contains minor refinements made
+during localization, such as adjustable difficulty settings, a bonus tuxedo
+outfit for Snake, and a "demo theater" for viewing cut scenes and radio
+conversations.[16][52] Versions of the game dubbed in Spanish, German, French
+and Italian were released throughout Europe in addition to the English-dubbed
+version released in America. A premium package was released in Japan and Asia
+containing the game, a t-shirt, dog tags, a music CD featuring the soundtracks
+to the MSX2 games, and a booklet with information about the game's production
+and plot.[53] A European version of the package was also produced, featuring
+different content from the Japanese version.[54]
+
+The Japanese PlayStation version of Metal Gear Solid, as well as Integral, had
+been reissued twice: once under The Best range and second time as a PSone
+Books title. Likewise, the American and European versions of Metal Gear Solid
+were reissued under the "Greatest Hits" and "Platinum" ranges respectively.
+The game is included in the Japanese Metal Gear Solid: 20th Anniversary
+Collection set[55] and in the American Essential Collection set.[56] The game
+is available in Japan on the PlayStation Store for download on the PlayStation
+3 and PlayStation Portable.[57]
+
+### [edit] Integral and VR Missions
+
+Released on June 25, 1999 for the PlayStation in Japan,[11] Metal Gear Solid:
+Integral is an expanded version of the original game based on the North
+American localization, substituting the original Japanese voices with the
+English dub, while offering a choice between Japanese and English captions,
+which adds further additional features and an extra disc of virtual reality
+training missions dubbed the "VR Disc".[24] Added to the main game are an
+alternate sneaking suit outfit for Meryl that complements Snake's tuxedo and
+the red-colored Ninja, a "Very Easy" difficulty setting featuring a new
+weapon, an MP5 submachine gun with infinite ammo, a Codec frequency with staff
+commentary, a first-person view mode, an option for alternate patrol routes
+for enemies and a downloadable PocketStation minigame.
+
+The "VR Disc" features over 300 missions testing the player's sneaking and
+fighting skills, as well as less conventional tests, such as murder mysteries,
+battling giant genome soldiers, and three missions where the player controls
+the Cyborg Ninja. Special features includes trailers for Metal Gear Solid, a
+preview artwork of Metal Gear RAY from Metal Gear Solid 2: Sons of Liberty and
+a "photoshoot" mode to take pictures of Mei Ling and Naomi.[58] The VR Disc
+from Integral was released as a separate product outside of Japan â in North
+America as Metal Gear Solid: VR Missions[24] (September 23, 1999) and in
+Europe as Metal Gear Solid: Special Missions (October 29, 1999).[59] When
+loading Special Missions, the player is prompted to replace the game disk with
+either of the disks from Metal Gear Solid. If the disk is correctly
+identified, the player can insert the Special Missions disk and the game will
+then load as normal. This requirement was absent from the American VR Missions
+and Japanese VR Disc.[60] Special Missions cannot be played on pre-SCPH-70000
+PlayStation 2 consoles, as it will not recognize either Metal Gear Solid disk,
+but the game is compatible with other consoles.
+
+A PC port of Integral was also released in Europe and North America in late
+2000 with PocketStation support removed.[24][12][61] Scoring 83 in
+Metacritic's aggregate, the game was criticized for "graphic glitches", the
+aged nature of the port, and being essentially identical to the PlayStation
+version.[62]
+
+### [edit] The Twin Snakes
+
+Main article: Metal Gear Solid: The Twin Snakes
+
+<IMG>
+
+<IMG>
+
+The ability to fire a weapon while in first-person view was one of the
+gameplay features first used in Metal Gear Solid 2 that was added to The Twin
+Snakes.
+
+A remake of Metal Gear Solid, titled Metal Gear Solid: The Twin Snakes, was
+developed by Silicon Knights under the supervision of Hideo Kojima and
+released for the Nintendo GameCube in North America, Japan, and Europe in
+March 2004.[13] While Twin Snakes was largely developed at Silicon Knights,
+its cut scenes were developed in-house at Konami and directed by Japanese film
+director Ryuhei Kitamura, reflecting his dynamic signature style, utilizing
+bullet time photography and choreographed gunplay extensively.[63] While the
+storyline and settings of the game were unchanged (although a select few lines
+of dialog were re-written), a variety of gameplay features from Sons of
+Liberty were added such as the first person aiming and hanging from bars on
+walls. Another change in the English voice acting was the reduction of Mei
+Ling's, Naomi's and Nastasha's accents, as well as the recasting of the Ninja
+from Greg Eagles, who reprised the role of the DARPA chief, to Rob Paulsen.
+The graphics were also updated.[64]
+
+## [edit] Music
+
+Main article: Metal Gear Solid Original Game Soundtrack
+
+The musical score of Metal Gear Solid was composed by Konami in-house
+musicians, including Kazuki Muraoka, who also worked on Metal Gear.[65]
+Composer and lyricist Rika Muranaka provided a song called "The Best is Yet To
+Come". The main theme from MGS was called "An Cuimheann leat an Gra" which
+translated means "Do you remember the love?"[66] for the game's ending credits
+sequence.[67] The song is performed in Irish by Aoife NÃ­ Fhearraigh.[68] The
+main theme was composed by TAPPY and was also used in Ape Escape 3.[69] Music
+played in-game has a synthetic feel with increased pace and introduction of
+strings during tense moments, with a looping style endemic to video games.
+Overtly cinematic music, with stronger orchestral and choral elements, appears
+in cutscenes. The soundtrack was released on September 23, 1998, under the
+King Records label.[70]
+
+## [edit] Reception and legacy
+
+Reception  
+Aggregate scores  
+Aggregator Score  
+GameRankings 93% (based on 32 reviews)  
+9.1 (average vote) [71]  
+Metacritic 94 (based on 20 reviews)[10]  
+Review scores  
+Publication Score  
+Allgame 5/5 stars<IMG><IMG><IMG><IMG>[72]  
+Edge 9/10[73]  
+GameSpot 8.5/10.[74]  
+IGN 9.8/10[75]  
+NGamer 9/10[76]  
+Metal Gear Solid was a commercial success, shipping over 6 million copies
+worldwide.[9] Upon release, it was one of the most rented games,[77] and
+topped sales charts in the United Kingdom.[78]
+
+The game was very well received by the media and some of the most prominent
+gaming critics. NGamer said "It's like playing a big budget action
+blockbuster, only better".[76] Gaming website IGN awarded the game 9.8 out of
+10 and said it came "closer to perfection than any other game in PlayStation's
+action genre" and called it "Beautiful, engrossing, and innovative...in every
+conceivable category".[79] Users and critics of GamePro gave it an average
+score of 4.8 out of 5 calling it "this season's top offering [game] and one
+game no self-respecting gamer should be without". But they criticized the
+frame rate, saying it "occasionally stalls the eye-catching graphics" and
+"Especially annoying are instances where you zoom in with binoculars or the
+rifle scope", and also the interruptions of "advice from your team", in the
+early parts of the game, calling it an "annoyance".[80] GameSpot also
+criticized this, saying "It needlessly interrupts the game". They also
+criticized how easy it is for the player to avoid being seen, the game's short
+length, and called it "more of a work of art than ... an actual game".[74]
+Further criticism came from the website Adrenaline Vault, which said it had
+"some serious...flaws" which "made it a complete disappointment".[10] It
+received an Excellence Award for Interactive Art at the 1998 Japan Media Arts
+Festival.[81]
+
+Metal Gear Solid is often recognized for popularizing the stealth game genre.
+The idea of the player being unarmed and having to avoid being seen by enemies
+rather than fight them has been used in many games since. It is also sometimes
+acclaimed as being a film as much as a game due to the lengthy cut scenes and
+complicated storyline.[82] Entertainment Weekly said it "broke new ground
+with...movie-style production...and stealth-driven gameplay, which
+encouraged...hiding in boxes and crawling across floors".[83] GameTrailers
+said it "invented the stealth game" and called it "captivating, inventive and
+gritty".[84] The game is often considered one of the best games for the
+PlayStation, and has featured in best video games lists by GameFAQs,[85] Game
+Rankings,[86] Japanese magazine Famitsu,[87] Entertainment Weekly,[83] Game
+Informer,[88] GamePro,[89] Electronic Gaming Monthly[90] and GameTrailers.[84]
+However, its placing in these lists is inconsistent, ranging from 2nd to
+50th.[91]
+
+In 2002 IGN's editors ranked it as the best PlayStation game ever. Writer for
+the site David Smith said that just the demo for the game had "more gameplay
+[in it] than in most finished titles". They also gave it the "Best Ending" and
+"Best Villain" awards.[92] In 2005, in placing it 19th on their list of "Top
+100 Games", they said that it was "a game that truly felt like a movie", that
+the fights were "unique and innovative", and that it was "the founder of the
+stealth genre".[93][94]  
+
+Guinness World Records awarded Metal Gear Solid with a record for the "Most
+Innovative Use of a Video Game Controller" for the boss fight with Psycho
+Mantis in the Guinness World Records: Gamer's Edition 2008 edition.
+
+## [edit] Related media
+
+A Japanese radio drama version of Metal Gear Solid was produced shortly after
+the release of the original PlayStation game. Directed by Shuyo Murata and
+written by Motosada Mori, 18 episodes were aired, from 1998 to 1999 on
+Konami's CLUB db program. The series was later released on CD as a two volume
+set.[95][96] Set after the events of the PlayStation game, Snake, Meryl,
+Campbell and Mei Ling (all portrayed by their original Japanese voice actors)
+pursue missions in hostile third world nations as FOXHOUND. The new characters
+introduced include Sgt. Allen Iishiba (voiced by Toshio Furukawa), a Delta
+Force operative who assists Snake and Meryl; Col. Mark Cortez (v.b. Osamu
+Saka), an old friend of Campbell who commands the fictional Esteria Army
+Special Forces; and Capt. Sergei Ivanovich (v.b. Kazuhiro Nakata), a former
+war buddy of Revolver Ocelot from his SVR days.[97][98]
+
+<IMG>
+
+<IMG>
+
+A screenshot from the Digital Graphic Novel illustrating its artistic style.
+
+In September 2004, IDW Publications began publishing a series of Metal Gear
+Solid comics,[99] written by Kris Oprisko and illustrated by Ashley Wood.[100]
+As of 2006, 12 issues have been published, fully covering the Metal Gear Solid
+storyline.[101]
+
+The comic was adapted into a PlayStation Portable game titled Metal Gear
+Solid: Digital Graphic Novel (Metal Gear Solid: Bande DessinÃ©e in
+Japan).[102] It features visual enhancements and two interactive modes
+designed to give further insight into the publication.[103] Upon viewing the
+pages, the player can open a "scanning" interface to search for characters and
+items in a three dimensional view.[103] Discoveries are added to a database
+which can be traded with other players via Wi-Fi. The "mission mode" allows
+the player to add collected information into a library. This information must
+be properly connected to complete a mission. Metal Gear Solid: Digital Graphic
+Novel was released in North America on June 13, 2006, Japan on September 21
+and the PAL region on September 22.[104] In 2006, the game received IGN's
+award for Best Use of Sound on the PSP.[105] A DVD-Video version is included
+with its sequel (Metal Gear Solid 2: Bande DessinÃ©e), which was released in
+Japan on June 12, 2008. The DVD version features full voice acting.[106]
+
+A novelization based on the original Metal Gear Solid was written by Raymond
+Benson and published by Del Rey. The American paperback edition was published
+on May 27, 2008,[107] and the British Edition on June 5, 2008.[108]
+
+Creator Hideo Kojima confirmed in 2006 that a film adaptation of Metal Gear
+Solid was in development.[109] He also hinted that the movie may be set in
+Alaska, the original setting for the game.[110] Despite pitching his ideas
+regarding the movie, voice of Solid Snake, David Hayter, will not be writing
+the final script or directing the film.[111] The movie's producers hoped to
+invite Kurt Wimmer to write the movie, but the final decision has not yet been
+announced.[112]
+
+## [edit] References
+
+  1. ^ "Metal Gear Solid Hits Japan". IGN. September 3, 1998. http://psx.ign.com/articles/064/064699p1.html. Retrieved on May 19 2008.
+  2. ^ "Metal Gear Countdown Commences". IGN. October 19, 1998. http://psx.ign.com/articles/065/065343p1.html. Retrieved on December 31 2007.
+  3. ^ "Metal Gear Solid Integral". Gamespot. http://www.gamespot.com/ps/adventure/metalgearsolidintegral/similar.html?mode=versions. Retrieved on June 10 2008.
+  4. ^ McGuire, Thomas (October 12, 2000). "Metal Gear Solid tweak guide". 3D Spotlight. http://www.techspot.com/tweaks/metal_gear/. Retrieved on July 7 2007.
+  5. ^ a b "Metal Gear Solid Tech Info/Credits". GameSpot. http://www.gamespot.com/ps/adventure/metalgearsolid/tech_info.html. Retrieved on July 7 2007.
+  6. ^ "The History of MetalGear - Metal Gear Solid". GameSpot. http://www.gamespot.com/gamespot/features/video/mg_history/. Retrieved on June 13 2008.
+  7. ^ Colonel Campbell: Next-Generation Special Forces led by members of unit FOX-HOUND. They've presented Washington with a single demand, and they say that if it isn't met, they'll launch a nuclear weapon. (Metal Gear Solid, Briefing Mode) Konami Computer Entertainment Japan West, 1998
+  8. ^ Colonel Campbell: You'll have two mission objectives. First, you're to rescue the DARPA Chief, Donald Anderson, and the president of ArmsTech, Kenneth Baker. They're both being held as hostages. Secondly, you're to investigate whether or not the terrorists have the ability to launch a nuclear strike, and stop them if they do. (Metal Gear Solid, introductory sequence) Konami Computer Entertainment Japan West, 1998
+  9. ^ a b Big Gaz (May 15, 2003). "Metal Gear Solid 3 Exclusive For Sony". Gameplanet. http://www.gameplanet.co.nz/mag.dyn/Features/1751.html. Retrieved on July 7 2007.
+  10. ^ a b c "Metal Gear Solid (psx: 1998): Reviews". Metacritic. http://www.metacritic.com/games/platforms/psx/metalgearsolid. Retrieved on July 7 2007.
+  11. ^ a b allgame staff. "Metal Gear Solid Integral Overview". Allgame. http://www.allgame.com/cg/agg.dll?p=agg&sql=1:23084. Retrieved on October 24 2006.
+  12. ^ a b "Metal Gear Solid". Amazon.com. http://www.amazon.com/dp/B00004VP4B/. Retrieved on January 15 2007.
+  13. ^ a b "Metal Gear Solid The Twin Snakes Tech Info/Credits". GameSpot. http://www.gamespot.com/gamecube/action/metalgearworkingtitle/tech_info.html. Retrieved on October 25 2006.
+  14. ^ "Metal Gear Solid". IGN. http://psx.ign.com/objects/000/000569.html. Retrieved on October 22 2006.
+  15. ^ Kasavin, Greg (October 2, 2000). "Metal Gear Solid (PC) review". GameSpot. http://www.gamespot.com/pc/adventure/metalgearsolid/review.html. Retrieved on July 7 2007.
+  16. ^ a b c d e f Konami staff, ed (1999) (in English). Metal Gear Solid instruction manual. Konami. pp. 49\. SLES-01370.
+  17. ^ Mielke, James. "Metal Gear Solid Strategy Guide". GameSpot. http://www.gamespot.com/features/vgs/psx/mgs_gg/. Retrieved on November 15 2006.
+  18. ^ House, Matthew. "Metal Gear Solid â Overview". Allgame. http://www.allgame.com/cg/agg.dll?p=agg&sql=1:14082. Retrieved on October 22 2006.
+  19. ^ a b "Metal Gear Solid PC â Instructional Manual" (PDF). Konami / Microsoft. http://download.microsoft.com/download/b/1/8/b180af00-6eae-490e-88d6-71ec4f4af01a/metalgearsolid_booklet_EN.pdf. Retrieved on July 7 2007.
+  20. ^ "Yoji Shinkawa's Art Gallery from the official Metal Gear Solid website" (in Japanese). Konami. July 9, 1998. http://www.konami.jp/gs/game/metalgear/art/snake_v.html. Retrieved on 19 July.
+  21. ^ Hodgson, David S.J. (1998). Metal Gear Solid: Official Mission Handbook. Millennium Publications Inc.. pp. 142.
+  22. ^ Campbell: Snake, I'm sorry I kept a lot of things from you. (Metal Gear Solid)
+  23. ^ "Metal Gear Solid 3: Subsistence website â Metal Gear Saga vol. 1 section". http://www.konami.jp/gs/game/mgs3_sub/america/mgs/saga.html. Retrieved on January 12.
+  24. ^ a b c d Shoemaker, Brad. "GameSpot's The History of MetalGear". GameSpot. http://www.gamespot.com/gamespot/features/video/mg_history/. Retrieved on October 22 2006.
+  25. ^ Stratosphere. "Metal Gear Solid Brief Synopsis". Metal Gear Solid: The Unofficial Site. Archived from the original on 2007-01-30. http://web.archive.org/web/20070130214924/http://www.metalgearsolid.org/show_features.php?id=461. Retrieved on October 22 2006.
+  26. ^ Master Miller: The cause of death. Didn't the ArmsTech president and the DARPA Chief, I mean Decoy Octopus,â¦ die of something that looked like a heart attack? (Metal Gear Solid)
+  27. ^ Liquid: We're both the last surviving sons of Big Bossâ¦
+  28. ^ Liquid: (to Ocelot) We're shorthanded, so make this little torture show of yours as short as possible. (Metal Gear Solid)
+  29. ^ Raven: (Metal Gear Solid)
+  30. ^ Master Miller: Snake, have you ever heard of something called "Fox Die"? It's some kind of virus that targets specific people. (Metal Gear Solid)
+  31. ^ Master Miller: Snake, try to remember. Did Naomi give you some kind of injection? She was in the best position to have done it, but I don't know what her motive was. (Metal Gear Solid)
+  32. ^ Master Miller: Didn't the ArmsTech president and the DARPA Chief, I mean Decoy Octopus,â¦ die of something that looked like a heart attack? Well, apparently Fox Die kills its victims by simulating a heart attack. (Metal Gear Solid)
+  33. ^ Naomi Hunter You killed my benefactor and sent my brother home a cripple. (Metal Gear Solid)
+  34. ^ Computer: PAL code number three confirmed. PAL code entry completeâ¦ (Metal Gear Solid)
+  35. ^ Campbell: Snake, you've been talking toâ¦ Liquid: â¦Meâ¦ dear brother. (Metal Gear Solid)
+  36. ^ Liquid: It is for this purpose that we were created. Snake: Created? Liquid: Yes, created, Les Enfantes Terribleâ¦the terrible children. Clones of Big Boss
+  37. ^ Snake: You mean you had this planned from the beginning? Just to get me to input the detonation code? (Metal Gear Solid)
+  38. ^ Snake: Naomi, Liquid died from Fox Die too. (Metal Gear Solid)
+  39. ^ Ocelot: Until the very end, Liquid thought he was the inferior one. (Metal Gear Solid)
+  40. ^ Ocelot: The vector? Yes sir, FoxDie should become activated soonâ¦ (Metal Gear Solid)
+  41. ^ (Japanese) Konami. Policenauts Pilot Disk. 3DO Interactive Multiplayer. (in Japanese).
+  42. ^ Hogdson, David. Metal Gear Solid: Official Mission Handbook. "Kojima: "Metal Gear" is as it is, and "Solid" has a deep meaning. Let me explain. This time Metal Gear is displayed in full polygonal form, and I used "Solid" to describe the cubic structure. also, the "Solid" means to the third power mathematically. Also, most of the people don't know that there is a Metal Gear 1 and 2 for the MSX, and I wanted it to be the sequel for those. And, of course, Solid from Solid Snake."
+  43. ^ Kent, Steven. "Hideo Kojima: Game Guru, Movie Maniac". Gamers Today. http://www.gamerstoday.com/world_tour/kojima/index.html. Retrieved on July 7 2007.
+  44. ^ GameSpot staff (June 17, 1997). "Metal Gear Solid Comes to the Nintendo 64". GameSpot. http://www.gamespot.com/news/2466851.html. Retrieved on July 7 2007.
+  45. ^ a b c Bartholow, Peter. "Metal Gear Solid Casts Its Spell". GameSpot. http://www.gamespot.com/news/2467579.html. Retrieved on July 7 2007.
+  46. ^ IGN staff (April 28, 1998). "More News From Metal Gear Solid Creator". IGN. http://psx.ign.com/articles/064/064632p1.html. Retrieved on November 14 2006.
+  47. ^ IGN staff (December 12, 2000). "The Art of Design: MGS2 & Z.O.E.". IGN. http://ps2.ign.com/articles/088/088856p1.html. Retrieved on November 14 2006.
+  48. ^ IGN staff (May 15, 2000). "E3: Hideo Kojima Interview". IGN. http://ps2.ign.com/articles/079/079352p1.html. Retrieved on July 13 2007.
+  49. ^ Grant. "The Metal Gear Timeline". The Metal Gear Edge. Archived from the original on 2007-06-10. http://web.archive.org/web/20070610145345/http://www.classicgaming.com/metalgear/history.html. Retrieved on November 14 2006.
+  50. ^ GameSpot staff (October 16, 1998). "Metal Gear Gears Up". GameSpot. http://www.gamespot.com/news/2465034.html. Retrieved on July 7 2007.
+  51. ^ Konami / M2 Presswire (October 19, 1998). Details announced on massive marketing campaign for Konami's Metal Gear Solid. Press release.
+  52. ^ Liam Beatty, ed (1999) (in English). Metal Gear Solid â The Official Strategy Guide. Piggyback. pp. 148\. ISBN 2-913364-07-1.
+  53. ^ "Metal Gear Solid Premium Package". NCSX. http://www.ncsx.com/www/ncs083198/mgs_ltd.htm. Retrieved on October 21 2006.
+  54. ^ "Metal Gear Solid Limited Edition Premium Package Scans". Junker HQ. http://junkerhq.net/MetalGear/psxeppimages.html. Retrieved on June 9 2008.
+  55. ^ "ãâéæç¡æãMETAL GEAR 20th ANNIVERSARYãMETAL GEAR SOLID COLLECTIONãååæ å ± - ã³ããã¹ã¿ã¤ã«" (in Japanese). http://www.konamistyle.jp/ecitem/item40296.html.
+  56. ^ "MGS Essential Collection Detailed". IGN.com. February 5, 2008. http://ps2.ign.com/articles/849/849861p1.html. Retrieved on 2008-03-28.
+  57. ^ "PLAYSTATION Store - METAL GEAR SOLID - (æ ª)ã³ãããã¸ã¿ã«ã¨ã³ã¿ãã¤ã³ã¡ã³ã" (in Japanese). http://store.playstation.com/game/product.vm?id=JP0101-NPJJ00145_00-0000000000000001.
+  58. ^ Mielke, James (July 22, 1999). "Metal Gear Solid Integral review". GameSpot. http://www.gamespot.com/ps/adventure/metalgearsolidintegral/review.html. Retrieved on July 7 2007.
+  59. ^ "Metal Gear Solid VR Missions Info". GameFAQs. http://www.gamefaqs.com/console/psx/data/197911.html. Retrieved on October 24 2006.
+  60. ^ "Metal Gear Solid Special Missions". Absolute Playstation. http://www.absolute-playstation.com/api_review/rmgsmission.htm. Retrieved on June 9 2008.
+  61. ^ "Metal Gear Solid". Amazon.co.uk. http://www.amazon.co.uk/dp/B00004W3G2/. Retrieved on January 15 2007.
+  62. ^ "Metal Gear Solid (pc:2000): Reviews". Metacritic. http://www.metacritic.com/games/platforms/pc/metalgearsolid. Retrieved on July 7 2007.
+  63. ^ GameSpot staff (May 30, 2003). "Hideo Kojima Q&A". GameSpot. http://www.gamespot.com/gamecube/action/metalgearworkingtitle/news.html?sid=6029270. Retrieved on July 7 2007.
+  64. ^ Shoemaker, Brad (March 8, 2004). "Metal Gear Solid: The Twin Snakes review". GameSpot. http://www.gamespot.com/gamecube/action/metalgearworkingtitle/review.html. Retrieved on July 7 2007.
+  65. ^ IMDb site staff. "Kazuki Muraoka". Internet Movie Database. http://www.imdb.com/name/nm1072342/. Retrieved on October 23 2006.
+  66. ^ IMDb site staff. "Rika Muranaka". Internet Movie Database. http://www.imdb.com/name/nm1394438/. Retrieved on October 23 2006.
+  67. ^ "Metal Gear Solid Game Credits". The Unofficial Facts Site. http://www.mgsaga.net/Team-Game-MGS.htm. Retrieved on October 23 2006.
+  68. ^ Aoife NÃ­ Fhearraigh. "My Albums". Aoife NÃ­ Fhearraigh. http://www.aoife.ie/myalbums.htm. Retrieved on October 23 2006.
+  69. ^ IMDb site staff. "TAPPY". Internet Movie Database. Archived from the original on 2006-06-23. http://web.archive.org/web/20060623062400/http://www.imdb.com/name/nm1432563/. Retrieved on October 23 2006.
+  70. ^ Justin Shertzer. "Metal Gear Solid Original Game Soundtrack". SoundtrackCentral.com. http://www.altpop.com/stc/reviews/mgsogs.htm. Retrieved on January 5 2007.
+  71. ^ "Metal Gear Solid - PS". http://www.gamerankings.com/htmlpages2/197909.asp. Retrieved on February 19 2008.
+  72. ^ "allgame ((( Metal Gear Solid > Overview )))". Allgame. http://www.allgame.com/cg/agg.dll?p=agg&sql=1:14082. Retrieved on March 26 2008.
+  73. ^ "Konami". Edge Reviews Database. http://www.lowbrowculture.com/edge/?querytype=developer&query=Konami. Retrieved on 2008-09-17.
+  74. ^ a b Gerstmann, Jeff (September 25, 1998). "Metal Gear Solid (PlayStation) review". GameSpot. http://www.gamespot.com/ps/adventure/metalgearsolid/review.html. Retrieved on October 28.
+  75. ^ "Metal Gear Solid". IGN. http://psx.ign.com/articles/150/150569p1.html. Retrieved on February 19 2008.
+  76. ^ a b "Ngamer â Review: SMetal Gear Solid". NGamer. http://www.computerandvideogames.com/game.php?id=1377. Retrieved on 2008-05-12.
+  77. ^ "Metal Gear Breaks Into Rentals". IGN. 1998-11-19. http://psx.ign.com/articles/065/065813p1.html. Retrieved on January 13 2007.
+  78. ^ "News: World". Acorn Gaming. 1999-04-09. http://www.acorn-gaming.org.uk/index.php3?p=News/WorldOld. Retrieved on January 13 2007.
+  79. ^ Nelson, Randy (October 21, 1998). "Metal Gear Solid review". IGN. http://psx.ign.com/articles/150/150569p1.html. Retrieved on July 7.
+  80. ^ MAJORMIKE (2005-07-13). "Review: Metal Gear Solid". GamePro. http://www.gamepro.com/sony/psx/games/reviews/236.shtml. Retrieved on 2007-01-15.
+  81. ^ "1998 Japan Media Arts Festival Digital Art (Interactive Art) Excellence Prize Metal Gear Solid". Japan Media Arts Plaza. http://plaza.bunka.go.jp/english/festival/1998/degital/000311/. Retrieved on 2007-08-28.
+  82. ^ "Sneak Attack". 1up. http://www.1up.com/do/feature?cId=3136603. Retrieved on May 15 2008.
+  83. ^ a b EW staff (2006). "The 100 greatest video games: 21â30". Entertainment Weekly. http://www.ew.com/ew/article/commentary/0,6115,450400_8. Retrieved on November 17 2006.
+  84. ^ a b "Top Ten Best and Worst Games of All Time". GameTrailers. 2006-11-17. http://www.gametrailers.com/player/15147.html. Retrieved on 2008-05-13.
+  85. ^ "Fall 2005: 10-Year Anniversary Contest â The 10 Best Games Ever". GameFAQs. http://www.gamefaqs.com/features/contest/top10. Retrieved on November 17 2006.
+  86. ^ "The Rankings". Game Rankings. http://www.gamerankings.com/itemrankings/simpleratings.asp?rankings=y. Retrieved on 2008-06-09.
+  87. ^ Colin Campbell (2006). "Japan Votes on All Time Top 100". Next Generation. http://www.next-gen.biz/index.php?option=com_content&task=view&id=2401&Itemid=2. Retrieved on March 11 2006.
+  88. ^ "Top 100 Games of All Time". Game Informer 100: 34. August 2001.
+  89. ^ "10 Modern Classics Every Gamer Should Own". GamePro 200: 49. May 2005.
+  90. ^ EGM staff (2001). "Electronic Gaming Monthly's 100 Best Games of All Time". http://web.archive.org/web/20030611191341/http%3A//gamers.com/feature/egmtop100/index.jsp. Retrieved on November 17 2006.
+  91. ^ "The Best Video Games in the History of Humanity". http://www.filibustercartoons.com/games.htm. Retrieved on May 14.
+  92. ^ IGN staff (2002-01-22). "Top 25 Games of All Time: Complete List". IGN. http://psx.ign.com/articles/080/080401p1.html. Retrieved on November 3 2006.
+  93. ^ IGN staff. "IGN's Top 100 Games: 11â20". IGN. http://top100.ign.com/2005/011-020.html. Retrieved on November 17 2006.
+  94. ^ IGN staff. "Reader's Picks Top 10 games: 1â10". IGN. http://top100.ign.com/2006/001-010.html. Retrieved on November 17 2006.
+  95. ^ "DRAMA CD ã¡ã¿ã«ã®ã¢ ã½ãªãããVol.1" (in Japanese). http://www.konami.jp/gs/game/mgs2/japanese/goods/goods_mgs_cd02.html. Retrieved on August 3 2006.
+  96. ^ "DRAMA CD ã¡ã¿ã«ã®ã¢ ã½ãªãããVol.2" (in Japanese). http://www.konami.jp/gs/game/mgs2/japanese/goods/goods_mgs_cd03.html. Retrieved on August 3 2006.
+  97. ^ Mori, Motosada (1998). Album notes for Drama CD Metal Gear Solid Vol.1 by Konami Kukeiha Club. Japan: King Records.
+  98. ^ Mori, Motosada (1999). Album notes for Drama CD Metal Gear Solid Vol. 2 by Konami Kukeiha Club. Japan: King Records.
+  99. ^ Shawn Patty. "IDW to Release Metal Gear Solid Comic Book". Silver Bullet Comic Books. http://www.silverbulletcomicbooks.com/news/108430843479391.htm. Retrieved on October 25 2006.
+  100. ^ "IDW Publishing and Konami Present Metal Gear Solid â The Comic Book". IDW Publishing. http://www.idwpublishing.com/news/43.shtml. Retrieved on October 25 2006.
+  101. ^ "Metal Gear Solid". IDW Publishing. http://www.idwpublishing.com/titles/metalgear.shtml. Retrieved on October 25 2006.
+  102. ^ Surette, Tim (January 25, 2006). "MGS digitally stripped for PSP". GameSpot. http://www.gamespot.com/psp/adventure/metalgearsolidcomic/news.html?sid=6143053. Retrieved on July 7 2007.
+  103. ^ a b Matthew Rorie. "E3 06: Metal Gear Solid Digital Graphic Novel Exclusive Hands-On". GameSpot. http://www.gamespot.com/psp/adventure/metalgearsolidcomic/news.html?sid=6149155. Retrieved on October 29 2006.
+  104. ^ "Metal Gear Solid: Digital Graphic Novel Info". GameFAQs. http://www.gamefaqs.com/portable/psp/data/931233.html. Retrieved on July 7 2007.
+  105. ^ IGN staff. "PSP: Best Use of Sound". IGN. http://bestof.ign.com/2006/psp/25.html. Retrieved on January 12 2007.
+  106. ^ "ãâéæç¡æãMETAL GEAR SOLID 2 BANDE DESSINÃE ï¼DVDï¼ãååæ å ± - ã³ããã¹ã¿ã¤ã«" (in Japanese). http://www.konamistyle.jp/ecitem/item50248.html.
+  107. ^ (in English)Metal Gear Solid. Del Rey. 2008. pp. 336\. ISBN 0345503287.
+  108. ^ "Amazon.co.uk: Metal Gear Solid: Raymond Benson: Books". Amazon.co.uk. http://www.amazon.co.uk/Metal-Gear-Solid-Raymond-Benson/dp/1841497355. Retrieved on 2008-10-06.
+  109. ^ Bramwell, Tom (2006-05-02). "Kojima confirms MGS movie". EuroGamer.net. http://www.eurogamer.net/article.php?article_id=64225. Retrieved on 2008-07-25.
+  110. ^ "Metal Gear Solid : The Movie". Gamekyo.com. http://www.gamekyo.com/news15552_metal-gear-solid-the-movie.html. Retrieved on 2008-07-25.
+  111. ^ Stax (2007-05-14). "Metal Gear Solid Movie Exclusive: Will David Hayter be involved?". IGN. http://movies.ign.com/articles/788/788169p1.html. Retrieved on 2008-07-25.
+  112. ^ Douglas, Edward (2008-03-13). "EXCL: Kurt Wimmer Adapting Metal Gear Solid?". IGN. http://www.comingsoon.net/news/movienews.php?id=42924. Retrieved on 2008-07-25.
+
+## [edit] External links
+
+Listen to this article (info/dl)  
+
+Play sound
+
+Spoken Wikipedia
+
+This audio file was created from a revision dated 2008-01-12, and does not
+reflect subsequent edits to the article. (Audio help)
+
+More spoken articles
+
+This is a spoken version of the article. Click here to listen.
+
+Sister project Wikiquote has a collection of quotations related to: Metal Gear
+Solid  
+  * Konami Europe
+  * Konami America
+  * The Metal Gear Wiki
+
+v â¢ d â¢ e
+
+Metal Gear series  
+Canonical series
+
+Metal Gear Â· MG2: Solid Snake Â· Metal Gear Solid Â· MGS2: Sons of Liberty Â·
+MGS3: Snake Eater Â· MGS: Portable Ops Â· MGS4: Guns of the Patriots  
+Supplements & remakes
+
+MGS expansions Â· The Document of MGS2 Â· MGS2: Substance Â· MGS: The Twin
+Snakes Â· MGS3: Subsistence Â· MGS: Digital Graphic Novel Â· MPO Plus Â· MGS2:
+Digital Graphic Novel Â· MGS4 Database  
+Spin-off games
+
+Snake's Revenge Â· MG: Ghost Babel Â· Metal Gear Acid Â· Metal Gear Acid 2 Â·
+MG Online Â· MGS Mobile Â· MGA Mobile Â· MGS Touch  
+Creators
+
+Hideo Kojima Â· Shuyo Murata Â· Yoji Shinkawa Â· Motosada Mori Â· Shinta
+Nojiri  
+Voice actors
+
+Japanese
+
+Akio Ohtsuka Â· Banjo Ginga Â· KÅji Totani Â· Kenyu Horiuchi Â· Hideyuki
+Tanaka Â· Takeshi Aono Â· Kyoko Terase Â· Kikuko Inoue Â· Houko Kuwashima  
+English
+
+David Hayter Â· Cam Clarke Â· Patric Zimmerman Â· Quinton Flynn Â· Christopher
+Randolph Â· Paul Eiding Â· Kim Mai Guest Â· Debi Mae West Â· Jennifer Hale  
+Characters
+
+Solid Snake (Old Snake) Â· Big Boss (Naked Snake) Â· Raiden Â· Revolver Ocelot  
+Recurring Â· MGS Â· MGS2 Â· MGS3 Â· MPO Â· MGS4  
+Related
+
+Metal Gear Â· Soundtracks  
+List of media Â· Category  
+Retrieved from "http://en.wikipedia.org/wiki/Metal_Gear_Solid"
+
+Categories: Spoken articles | 1998 video games | Konami games | PlayStation
+games | Windows games | PlayStation 3 games | PlayStation Network games |
+Metal Gear games | Terrorism in fiction | Comics based on video games |
+Japanese radio drama
+
+Hidden categories: Articles containing Japanese language text
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * CatalÃ 
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Hrvatski
+  * Italiano
+  * Bahasa Melayu
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 6 April 2009, at 09:39.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

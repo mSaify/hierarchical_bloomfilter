@@ -1,0 +1,1094 @@
+
+# Polish language
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Polish  
+
+jÄzyk polski, polszczyzna  
+Pronunciation: /pÉlski/  
+Spoken in: <IMG> Poland[1] Minorities: Belarus, Ukraine, Lithuania, Latvia,
+United Kingdom, Romania, Czech Republic, Russia, Brazil, United States,
+Canada, Germany, France, Australia, Ireland and elsewhere.  
+Total speakers: 42,708,133 [2]  
+Ranking: 28  
+Language family: Indo-European  
+Balto-Slavic  
+Slavic  
+West Slavic  
+Lechitic  
+Polish  
+Writing system: Latin (Polish variant)  
+Official status  
+Official language in: <IMG> European Union  
+<IMG> Poland
+
+* * *
+Minority language:[3]  
+<IMG> Czech Republic  
+<IMG> Slovakia  
+<IMG> Romania  
+<IMG> Ukraine  
+Regulated by: Polish Language Council  
+Language codes  
+ISO 639-1: `pl`  
+ISO 639-2: `pol`  
+ISO 639-3: `pol`  
+Note: This page may contain IPA phonetic symbols in Unicode.  
+Polish (jÄzyk polski, polszczyzna), an official language of Poland, has the
+largest number of speakers of any West Slavic language.[4] Polish-speakers use
+the language in a uniform manner through most of Poland, and it has a Latin-
+based orthography. The language developed indigenously and retains many
+ancient Slavic features of pronunciation and grammar. Although non-Polish
+administrations in Poland sometimes attempted, historically, to suppress the
+Polish language, a rich literature has nonetheless developed over the
+centuries, and many works by Polish authors are available in translations in
+English and other languages.
+
+## Contents
+
+  * 1 Geographic distribution
+  * 2 Dialects
+  * 3 Phonology
+  * 4 Orthography
+  * 5 Grammar
+    * 5.1 Nouns and adjectives
+    * 5.2 Verbs
+    * 5.3 Word order
+    * 5.4 Conjugation
+  * 6 Borrowed words
+  * 7 Borrowings from Polish
+  * 8 Brief vocabulary
+    * 8.1 Personal pronouns
+    * 8.2 Numerals
+    * 8.3 Chronology
+    * 8.4 Weather
+    * 8.5 Seasons
+    * 8.6 Locations
+  * 9 See also
+  * 10 Notes
+  * 11 References
+  * 12 External links
+    * 12.1 Dictionaries
+
+  
+## [edit] Geographic distribution
+
+Nearly 97% of Poland's citizens declare Polish as their mother tongue. As a
+result of World War II Poland was forced to change its borders, which resulted
+in various migrations (World War II evacuation and expulsion, German
+expulsions, Operation WisÅa) as well as in ethnic cleansing of the Poles
+across the current borders such as the Massacres of Poles in Volhynia.
+Nevertheless, after the Second World War the previously Polish territories
+annexed by the Soviet Union retained a significant proportion of the Polish
+population unwilling or unable to undergo forced migration toward the
+post-1945 Poland. Even today ethnic Poles constitute large minorities in
+Lithuania, Belarus, and among the Poles in Ukraine. Polish is by far the most
+widely used minority language in Lithuania's Vilnius County (26% of the
+population, according to the 2001 census results), and it is also present in
+other counties. In Ukraine, Polish is most often used in the Lviv and Lutsk
+regions. Western Belarus has an important Polish minority, especially in the
+Brest and Grodno regions.
+
+Significant numbers of Polish speakers also inhabit: Argentina, Andorra,
+Australia, Austria, Azerbaijan, Belarus, Belgium, Brazil, Bulgaria, Canada,
+Croatia, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France,
+Germany, Greece, Hungary, Israel, Iceland, Ireland, Italy, Kazakhstan, Latvia,
+Lebanon, Luxembourg, Mexico, The Netherlands, New Zealand, Norway, South
+Africa, Sweden, Peru, Romania, Russia, Serbia, Slovakia, Spain, Ukraine, UAE,
+the UK, Uruguay and the United States.
+
+In the United States, Polish Americans number more than 11 million, but most
+of them cannot speak Polish fluently. According to the United States 2000
+Census, 667,414 Americans of age 5 years and over reported Polish as the
+language spoken at home: about 1.4% of people who speak languages other than
+English, or 0.25% of the U.S. population. The largest concentrations of Polish
+speakers reported in the census (over 50%) occur in three states: Illinois
+(185,749), New York (111,740) and New Jersey (74,663).[5]
+
+Canada has a significant Polish Canadian population. The 2006 census recorded
+242,885 speakers of Polish, with a particular concentration in the city of
+Toronto, Ontario (91,810 speakers).[6]
+
+## [edit] Dialects
+
+Main article: Dialects of the Polish language
+
+The Polish language became far more homogeneous in the second half of the 20th
+century, in part due to the mass-migration of several million Polish citizens
+from the eastern to the western part of the country after the Soviet Union
+annexed the eastern Polish lands in 1939.
+
+The inhabitants of different regions of Poland still[update] speak "Standard"
+Polish somewhat differently, although the differences between these broad
+"dialects" appear slight. First-language speakers of Polish never experience
+any difficulty in mutual understanding, and non-native speakers can generally
+not easily distinguish regional variations. The differences are slight
+compared to different dialects of English, for example.
+
+The regional differences correspond mainly to old tribal divisions[citation
+needed] from around a thousand years ago; the most significant of these in
+terms of numbers of speakers relate to:
+
+  * Great Polish (spoken in the west)
+  * Lesser Polish (spoken in the south and southeast)
+  * Mazovian (Mazur) spoken throughout the central and eastern parts of the country. Mazovian shares some features with the Kashubian language (see below).
+  * Silesian, spoken in the southwest (controversy)
+
+Some more characteristic but less widespread regional dialects include:
+
+  1. The distinctive Podhale dialect (GÃ³ralski) occurs in the mountainous areas bordering the Czech and Slovak Republics. The GÃ³rale (highlanders) take great pride in their culture and the dialect. It exhibits some cultural influences from the Vlach shepherds[citation needed] who migrated from Wallachia (southern Romania) in the 14th-17th centuries[citation needed]. The language of the coextensive East Slavic ethnic group, the Lemkos, which demonstrates significant lexical and grammatical commonality with the GÃ³ralski dialect, bears no significant Vlach or other Romanian influences. Most urban Poles find it difficult to understand this very distinct dialect.[7]
+  2. In the western and northern regions where Poles from the territories annexed by the Soviet Union resettled, the older generation speaks a dialect of Polish characteristic of the Eastern Borderlands which resembles Russian â especially in the "longer" pronunciation of vowels.
+  3. The Kashubian language, spoken in the Pomorze region west of GdaÅsk on the Baltic Sea, a language closely related to Polish, has seemed like a dialect to some observers. However, it exhibits sufficient significant differences to merit its classification as a separate language; for instance, it is not readily understandable to Polish speakers unless written. There are about 53,000 speakers according to the 2002 census.
+  4. The Silesian language, spoken in the Silesia region west of Katowice, a language related to Polish, has seemed like a dialect to some observers. However, it exhibits sufficient significant differences to merit its classification as a separate language; for instance, it is not readily understandable to Polish speakers. There are about 60,000 speakers according to the 2002 census.
+  5. Poles living in Lithuania (particularly in the Vilnius region), in Belarus (particularly the northwest), and in the northeast of Poland continue to speak the Eastern Borderlands dialect which sounds "slushed", and is easily distinguishable.
+  6. Some city dwellers, especially the less affluent population, had their own distinctive dialects â for example the Warsaw dialect, still spoken by some of the population of Praga on the eastern bank of the Vistula. (Praga remained the only part of Warsaw where the population survived World War II relatively intact.) However, these city dialects are now[update] mostly extinct due to assimilation with standard Polish.
+  7. Many Poles living in emigrant communities (for example in the USA) whose families left Poland just after World War II, retain a number of minor features of Polish vocabulary as spoken in the first half of the 20th century, but which now sound archaic to contemporary visitors from Poland.
+
+## [edit] Phonology
+
+Main article: Polish phonology
+
+Polish has a relatively simple vowel-system, with only six oral and two nasal
+vowels. The Polish consonant system shows more complexity: its characteristic
+features include the series of affricates and palatal consonants that resulted
+from four Proto-Slavic palatalizations and two further palatalizations which
+took place in Polish and Belarusian. The stress falls generally on the
+penultimate (second to last) syllable.
+
+## [edit] Orthography
+
+Main article: Polish orthography
+
+This article contains IPA phonetic symbols. Without proper rendering support,
+you may see question marks, boxes, or other symbols instead of Unicode
+characters.  
+The Polish alphabet derives from the Latin alphabet but uses diacritics, such
+as kreska (graphically similar to the acute accent), kropka (superior dot) and
+ogonek ("little tail"). Unlike other Latin-character Slavic languages (apart
+from Kashubian), Polish did not adopt a version of the Czech orthography, but
+developed one independently.
+
+Upper  
+case HTML  
+code Lower  
+case HTML  
+code Name of the letter Usual  
+phonetic value Other  
+phonetic values  
+A a a [a]  
+Ä &#260; Ä  &#261; Ä  [ÉÉ°Ì] [É], [Ém], [Én], [ÉÅ], [ÉÉ²], [ÉjÌ]  
+B b be [b] [p]  
+C c ce [tÍ¡s] [dÍ¡z], [tÍ¡É]  
+Ä &#262; Ä &#263; ci [tÍ¡É] [dÍ¡Ê]  
+D d de [d] [t]  
+E e e [É] [e] after and between palatalized consonants  
+Ä &#280; Ä &#281; Ä [ÉÉ°Ì] [É], [Ém], [Én], [ÉÅ], [ÉÉ²], [ÉjÌ]  
+F f ef [f] [v]  
+G g gie [g] [k]  
+H h ha [x] [É£], [É¦] (Eastern Bordelands, Silesia)  
+I i i [i] [iÌ¯], mute (softens preceding consonant)  
+J j jot [j] [i]  
+K k ka [k] [g]  
+L l el [l]  
+Å &#321; Å &#322; eÅ [w] [É«] in older pronunciation and eastern dialects  
+M m em [m]  
+N n en [n] [Å], [É²]  
+Å &#323; Å &#324; eÅ [É²]  
+O o o [É]  
+Ã &Oacute; Ã³ &oacute; Ã³ kreskowane [u]  
+P p pe [p] [b]  
+R r er [r]  
+S s es [s] [z], [É]  
+Å &#346; Å &#347; eÅ [É] [Ê]  
+T t te [t] [d]  
+U u u or u otwarte [u] [uÌ¯]  
+W w wu [v] [f]  
+Y y igrek [É¨]  
+Z z zet [z] [s], [Ê]  
+Å¹ &#377; Åº &#378; ziet [Ê] [É]  
+Å» &#379; Å¼ &#380; Å¼et [Ê] [Ê]  
+Note the laminal postalveolars [Ê], [Ê], [tÍ¡Ê], [dÍ¡Ê], perhaps most
+accurately transcribed using the IPA retracted diacritic as [sÌ ], [zÌ ],
+[tÍ¡ÊÌ ], [dÍ¡ÊÌ ] respectively. Also note that Polish Å (transcribed here
+as [É²]) is not palatal, having the same place of articulation as [É] and
+[Ê]. However, as the IPA does not have a symbol for a nasal alveolo-palatal
+consonant, a more accurate representation would be [nÊ²] or the obselete [Èµ].
+
+The letters Q (ku), V (fau) and X (iks) do not belong to the Polish alphabet,
+but they occur in some commercial names and in some foreign words. Some
+letters, such as those listed are used but not that often. In Polish
+pronunciation there is no need for them. They are replaced with K, W and KS/GZ
+respectively. Some letters, like Y and W are pronounced differently.
+
+Polish orthography also includes seven digraphs:
+
+Capitalized HTML  
+code Lower  
+case HTML  
+code Usual  
+phonetic value Other  
+phonetic values  
+Ch ch [x] [É£]  
+Cz cz [tÍ¡Ê] [dÍ¡Ê]  
+Dz dz [dÍ¡z] [tÍ¡s], [dÍ¡Ê], [d-z]  
+DÅº D&#377; dÅº d&#378; [dÍ¡Ê] [tÍ¡É], [d-Ê]  
+DÅ¼ D&#379; dÅ¼ d&#380; [dÍ¡Ê] [tÍ¡Ê], [d-Ê]  
+Rz rz [Ê] [Ê], [r-z]  
+Sz sz [Ê] [Ê]  
+Note that although the Polish orthography mostly follows phonetic-
+morphological lines, some sounds may appear in more than one written form:
+
+  * [x] as either h or ch
+  * [Ê] as either Å¼ or rz (though rÅ¼ denotes a [r-Ê] cluster)
+  * [u] as either u or Ã³
+  * soft consonants are spelt either Ä, dÅº, Å, Å, Åº, or ci, dzi, ni, si, zi (Ä, Å etc. are spelt before a consonant or at the end of a word, whereas ci, ni etc. are used before vowels a, Ä , e, Ä, o, u; c, dz, n, s, z alone are used before i.)
+
+The two consonants rz very occasionally reflect the sounds "r z", not [Ê], as
+in words "zamarzaÄ" (to get frozen), "marznÄ Ä" (to feel cold) or in the
+name "Tarzan".
+
+The pronunciation of geminates (doubled consonants) in Polish always sounds
+distinct from single consonants. Note that they should not be pronounced in a
+prolonged manner, as in Finnish and Italian, but it happens often in informal
+conversations. In correct pronunciation, speakers should articulate and
+release each of the two consonants separately. The prolongation is therefore
+rather a repetition of the consonant. For example, the word panna (young
+lady/maiden) is not read the same way as pana (mr.'s/master's), but should be
+pronounced pan-na, with two n. This includes not only native Polish words
+(like panna or oddech), but also loan-words (lasso, attyka). In Polish,
+geminates may appear in the beginning of a word, as in czczenie (worshipping),
+dÅ¼dÅ¼ownica (earth-worm), ssak (mammal), wwÃ³z (importation), zstÄ piÄ (to
+descend; to step down), and zza (from behind; from beyond) but never appear at
+the end of a word of Slavic origin.
+
+## [edit] Grammar
+
+### [edit] Nouns and adjectives
+
+<IMG>
+
+Please help improve this article or section by expanding it. Further
+information might be found on the talk page. (March 2009)  
+[Case declension should be covered as well.]
+
+A highly inflected language, Polish retains the Old Slavic case-system with
+seven cases for nouns, pronouns, and adjectives:
+
+  1. nominative (mianownik)
+  2. genitive (dopeÅniacz)
+  3. dative (celownik)
+  4. accusative (biernik)
+  5. instrumental (narzÄdnik)
+  6. locative (miejscownik)
+  7. vocative (woÅacz)
+
+Modern Polish has only two number classes: singular and plural. In the past
+there was also a dual number, which applied only to pairs. This form, however,
+vanished around the 15th century and now is present only in few traces. For
+instance, the proverb "MÄ drej gÅowie doÅÄ dwie sÅowie" (Two words are
+enough for a clever head) may seem to be not grammatically correct ("MÄ drej
+gÅowie doÅÄ dwa sÅowa"), but it is a relict of dual number.
+
+Like many other Slavic languages, including Russian, Polish uses no definite
+or indefinite articles.
+
+The Polish gender system, like that of Russian and of almost all the other
+Balto-Slavic languages, appears complex, due to its combination of three
+categories: gender (masculine, feminine, neuter), personhood (personal versus
+non-personal) and animacy (animate versus inanimate). Personhood and animacy
+are relevant within the masculine gender but do not affect the feminine or
+neuter genders. The resulting system can be presented as comprising five
+gender classes: personal masculine, animate (non-personal) masculine,
+inanimate masculine, feminine, and neuter. These classes can be identified
+based on declension patterns, adjective-noun agreement, and pronoun-antecedent
+agreement.
+
+Gender Nominative singular Accusative singular Nominative plural Meaning  
+Adjective Noun Adjective Noun Adjective Noun  
+Personal masculine nowy student nowego studenta nowi studenci "new student(s)"  
+Animate masculine nowy pies nowego psa nowe psy "new dog(s)"  
+Inanimate masculine nowy stÃ³Å nowy stÃ³Å nowe stoÅy "new table(s)"  
+Feminine nowa szafa nowÄ  szafÄ nowe szafy "new wardrobe(s)"  
+Neuter nowe krzesÅo nowe krzesÅo nowe krzesÅa "new chair(s)"  
+The gender classes display the following inflectional properties (with rare
+exceptions):
+
+  1. Personal masculine: accusative = genitive (both singular and plural), distinctive softening ending in the nominative plural
+  2. Animate (non-personal) masculine: nominative singular ending in a consonant (nouns), accusative singular = genitive singular, accusative plural = nominative plural
+  3. Inanimate masculine: nominative singular ending in a consonant (nouns), accusative = nominative (singular and plural)
+  4. Neuter: nominative singular in "-o" or "-e", genitive singular in "-a" (nouns), accusative = nominative (singular and plural)
+  5. Feminine: dative singular = locative singular, accusative plural = nominative plural.
+
+The gender classification of masculine nouns does not always match up with
+their semantic reference (human, animate, or inanimate). In particular, the
+class of grammatically animate nouns includes a significant number of nouns
+referring to inanimate entities (e.g. zÅoty "zloty", cukierek "candy",
+papieros "cigarette") as well as nouns used figuratively to refer to people
+(geniusz "genius", oryginaÅ "original"). In the plural, personal masculine
+forms are used for referring to groups of males, or mixed groups of males and
+females.
+
+To determine correct adjective-noun agreement, only four genders need to be
+distinguished in the singular (classes 1 and 2 can be combined), and only two
+genders are needed in the plural (class 1 contrasting with 2-3-4-5 combined).
+For correct pronoun selection, the gender system can be further simplified to
+three classes in the singular, and two in the plural. The following table
+shows which 3rd person nominative pronoun corresponds to nouns of each gender
+class:
+
+Gender of antecedent Singular Plural  
+Personal masculine on oni  
+Animate masculine one  
+Inanimate masculine  
+Feminine ona  
+Neuter ono  
+### [edit] Verbs
+
+Polish inflects verbs according to gender as well as person and number, but
+the tense forms have been simplified through elimination of three old tenses
+(the aorist, imperfect, and past perfect). The so-called Slavic perfect is the
+only past tense form used in common speech. In Polish, one distinguishes
+between
+
+  * three tenses (present, past and future)
+  * three moods (indicative, imperative and conditional)
+  * three voices (active, passive and reflexive).
+
+Aspect, a grammatical category of the verb, affects almost all Polish verbs in
+their two aspects, in each tense:
+
+  1. imperfective (often translated as a progressive tense in English with -ing, for example 'was going', 'is going', "will be going")
+  2. perfective (often translated as a simple tense in English, for example 'went', 'go' 'will go').
+
+The tenses include:
+
+construction (for perfective verbs) (for imperfective verbs) example
+imperfective example perfective  
+verb+Ä infinitive infinitive robiÄ zrobiÄ  
+verb+suffix future simple tense present tense robicie zrobicie  
+past participle+suffix past perfective tense past imperfective tense
+robiliÅcie zrobiliÅcie  
+(this suffix can be moved) coÅcie robili / co robiliÅcie coÅcie zrobili /
+co zrobiliÅcie  
+Movable suffixes (those of the past tenses) usually attach to the verb or to
+the most accented word of a sentence, like question preposition.
+
+The fifth Polish tense, the future imperfective, expressed in analytic form,
+consists of the simple future form of the auxiliary verb byÄ âto beâ
+(bÄdÄ, bÄdziesz...), and either infinitive or past participle
+(imperfective). The choice between bÄdziecie robiÄ and bÄdziecie robili is
+free, and both forms have the same meaning.
+
+Sometimes the sentence may be emphasised with a particle -Å¼e- (-Å¼).
+
+So what have you done? can be:
+
+  * Co zrobiliÅcie?
+  * CoÅcie zrobili?
+  * Co Å¼eÅcie zrobili? (although this form is considered regional and/or incorrect by some)
+
+(It is also well worth noticing that the two latter forms - "coÅcie zrobili?"
+and "co Å¼eÅcie zrobili?" often carry a negative emotional load, a possible
+translation of these examples being "what (the hell) have you done!?" The
+third form, using "Å¼eÅcie", would be even stronger - fitting for situations
+involving desperation, etc. (and indeed being a little archaic or regional))
+
+All the above examples show inflected forms of the verb "zrobiÄ" for the
+subject "you" informal plural ("wy"). However, it is worthy of notice that
+none of the above examples includes the subject itself. The inclusion of the
+subject is not necessary here because Polish is a pro-drop language. This
+means that with an inflected verb the subject does not need to be mentioned.
+Instead, the reader or listener can tell, by the ending on the verb, which is
+different for each person, singular and plural, what is the implied subject.
+Because the subject can be dropped, using it with an inflected verb signals
+emphasis. Of the above three examples, a native speaker would not include the
+subject in the middle sentence and would be unlikely to include the subject in
+the last one.
+
+The past participle depends on number and gender, so the third person, past
+perfect tense, can be:
+
+  * \- singular
+  * zrobiÅ (he made/did)
+  * zrobiÅa (she made/did)
+  * zrobiÅo (it made/did)
+  * \- plural
+  * zrobili (they made/did {men, people of both sexes})
+  * zrobiÅy (they made/did {women, children})
+
+### [edit] Word order
+
+Basic word order in Polish is SVO, however, as it is a synthetic language, it
+is possible to move words around in the sentence, and to drop the subject,
+object or even sometimes verb, if they are obvious from context.
+
+These sentences mean more or less the same ("Alice has a cat"), but different
+shades of meaning are emphasized by selecting different word orders.
+
+  * Alicja ma kota - standard order
+  * Alicja kota ma - emphasis on "ma" = "has" - it could be said in response to a statement saying that the relation is opposite, like "- Alicja nie ma kota. - Ale ona kota ma!" ("- Alice doesn't have a cat. - But she has!")
+  * Kota ma Alicja - emphasis on "Alicja" - "It is Alice, who has the cat."
+  * Ma Alicja kota - rarely useful and often awkward, but still correct. Precise meaning is context- and pronounciation dependant.
+  * Kota Alicja ma - similar to the word order above
+  * Ma kota Alicja - similar to the word order above
+
+Note that each word order could carry a slightly different meaning, which
+might be really hard to get ahold of for a non-native speaker. There are no
+rules governing this, and even the emphases listed above could be easily
+changed with proper pronounciation.
+
+Sometimes if apparent from context, the subject, object or even the verb, can
+be dropped:
+
+  * Ma kota - can be used if it is obvious who is the person talked about
+  * Ma - short answer for "Czy Alicja ma kota?" (as in "Yes, she does")
+  * Alicja - answer for "Kto ma kota?" (as in "Alice does")
+  * Kota - answer for "Co ma Alicja?" (as in "The cat")
+  * Alicja ma - (as in "Alice does [have one]") answer for "Kto z naszych znajomych ma kota?" ("Who among our acquaintances has a cat?")
+
+Note the interrogative particle "czy", which is used to start a yes/no
+question, much like the French "est-ce que". (See also tag question.) The
+particle is not obligatory, and sometimes rising intonation is the only signal
+of the interrogative character of the sentence: "Alicja ma kota?".
+
+There is a tendency in Polish to drop the subject rather than the object as it
+is uncommon to know the object but not the subject. If the question were "Kto
+ma kota?" (Who has a/the cat?), the answer should be "Alicja" alone, without a
+verb.
+
+In particular, "ja" (I) and "ty" (you, singular), and their plural equivalents
+"my" (we) and "wy" (you, plural), are almost always dropped, much like the
+respective Spanish pronouns.
+
+### [edit] Conjugation
+
+<IMG> This section requires expansion.  
+Conjugation of "byÄ" (to be) in the present tense:
+
+  * Ja jestem - I am
+  * Ty jesteÅ - You are (familiar singular)
+  * On/ona/ono jest - He/she/it is
+  * My jesteÅmy - We are
+  * Wy jesteÅcie - You are (plural)
+  * Oni/one sÄ - They are (masculine/feminine)
+
+  * Pan/Pani jest - You are (masculine/feminine, singular, polite)
+  * PaÅstwo sÄ - You are (plural, both sexes together, polite)
+  * Panowie sÄ - You are (plural, masculine, polite)
+  * Panie sÄ - You are (plural, feminine, polite)
+
+Conjugation of "byÄ" (to be) in the past tense:
+
+  * Ja byÅem/byÅam - I (masculine/femine) was
+  * Ty byÅeÅ/byÅaÅ - You (masculine/feminine) were
+  * On byÅ/ona byÅa/ono byÅo - He/she/it was
+  * My byliÅmy/byÅyÅmy - We (masculine/feminine) were
+  * Wy byliÅcie/byÅyÅcie - You (masculine/feminine) were (plural)
+  * Oni byli/one byÅy - They (masculine/femenine) were
+  * Pan byÅ/Pani byÅa - You were (masculine/feminine, singular, polite)
+  * PaÅstwo byli - You were (plural, both sexes together, polite)
+  * Panowie byli - You were (plural, masculine, polite)
+  * Panie byÅy - You were (plural, feminine, polite)
+
+Past tense for verbs is usually made this way, by replacing the infinitive
+final "-Ä" with "-Å(+V)".
+
+Conjugation of "byÄ" (to be) in the future tense:
+
+  * Ja bÄdÄ - I (masculine/femine) will be
+  * Ty bÄdziesz - You (masculine/feminine) will be
+  * On/ona/ono bÄdzie - He/she/it will be
+  * My bÄdziemy - We (masculine/feminine) will be
+  * Wy bÄdziecie - You (masculine/feminine) will be (plural)
+  * Oni/one bÄdÄ - They (masculine/femenine) will be
+  * Pan/Pani bÄdzie - You will be (masculine/feminine, singular, polite)
+  * PaÅstwo bÄdÄ - You will be (plural, both sexes together, polite)
+  * Panowie bÄdÄ - You will be (plural, masculine, polite)
+  * Panie bÄdÄ - You will be (plural, feminine, polite)
+
+Conjugation of "iÅÄ" ("to go, walk" in the present tense):
+
+  * Ja idÄ â I am going
+  * Ty idziesz â You are going (singular)
+  * On/ona/ono idzie â He/she/it is going
+  * My idziemy â We are going
+  * Wy idziecie â You are going (plural)
+  * Oni/one idÄ â They are going ("oni" masculine personal, "one" feminine, neuter, masculine animate or masculine inanimate)
+  * Pan/Pani idzie - You are going (masculine/feminine, singular, polite)
+  * PaÅstwo idÄ - You are going (plural, both sexes together, polite)
+  * Panowie idÄ - You are going (plural, masculine, polite)
+  * Panie idÄ - You are going (plural, feminine, polite)
+
+Conjugation of "iÅÄ" ("to go, walk" in the past imperfect tense):
+
+  * Ja szedÅem - (masculine) - Ja szÅam (feminine) - I was going
+  * Ty szedÅeÅ - (masculine) - Ty szÅaÅ (feminine) - you were going
+  * On szedÅ - (masculine) - Ona szÅa (feminine) - Ono szÅo (neutral) - He/she/it was going
+  * Pan szedÅ - (masculine) - Pani szÅa (feminine) - You were going (polite)
+  * My szliÅmy (inf myÅmy szli) - (masculine, masculine + feminine, masculine + neutral)- We were going
+  * My szÅyÅmy (inf, myÅmy szÅy) - (feminine + feminine) - We were going
+  * Wy szliÅcie (inf. wyÅcie szli) - (masculine, masculine + feminine, masculine + neutral)- You were going
+  * Wy szÅyÅcie (inf. wyÅcie szÅy) - (feminine + feminine) - You were going
+  * Oni szli - (masculine, masculine + feminine, masculine + neutral)- They were going
+  * One szÅy - (feminine + feminine) - They were going
+  * PaÅstwo szli - (masculine, masculine + feminine, masculine + neutral)- You were going (polite)
+  * Panie szÅy - (feminine + feminine) - You were going (polite)
+
+In Polish, the use of personal pronouns to mark the subject is not necessary
+because flexed word contains such information. Therefore, one may omit the
+personal pronouns as follows, while retaining the same meaning:
+
+  * IdÄ (= I am going)
+  * Idziesz (= You are going)
+  * Idzie (= She/He/It is going)
+  * Idziemy (= We are going)
+  * Idziecie (= You are going)
+  * IdÄ (= They are going)
+
+## [edit] Borrowed words
+
+Polish has, over the centuries, borrowed a number of words from other
+languages. Usually, borrowed words have been adapted rapidly in the following
+ways:
+
+  1. Spelling was altered to approximate the pronunciation, but written according to Polish phonetics.
+  2. Word endings are liberally applied to almost any word to produce verbs, nouns, adjectives, as well as adding the appropriate endings for cases of nouns, diminutives, augmentatives, etc.
+
+Depending on the historical period, borrowing has proceeded from various
+languages. Recent borrowing is primarily of "international" words from the
+English language, mainly those that have Latin or Greek roots, for example
+komputer (computer), korupcja (corruption) etc. Slang sometimes borrows and
+alters common English words, e.g. luknÄ Ä (to look). Concatenation of parts
+of words (e.g. auto-moto), which is not native to Polish but common in e.g.
+English, is also sometimes used. When borrowing international words, Polish
+often changes their spelling. For example, Latin suffix '-tio' corresponds to
+-cja. To make the word plural, -cja becomes -cje. Examples of this include
+inauguracja (inauguration), dewastacja (devastation), konurbacja (conurbation)
+and konotacje (connotations). Also, the digraph qu becomes kw (kwadrant =
+quadrant; kworum = quorum).
+
+Other notable influences in the past have been Latin (9th-18th century), Czech
+(10th and 14th-15th century), Italian (15th-16th century), French (18th-19th
+century), German (13-15th and 18th-20th century, Hungarian (14th-16th
+century), Turkish (17th century), Old Belarusian, Ukrainian, and Russian.
+
+The Latin language, for a very long time the only official language of the
+Polish state, has had a great influence on Polish. Many Polish words
+(rzeczpospolita from res publica, zdanie for both "opinion" and "sentence",
+from sententia) were direct calques from Latin.
+
+Many words have been borrowed from the German language, as a result of being
+neighbours for a millennium, and also due to a sizable German population in
+Polish cities since medieval times.
+
+The regional dialects of Upper Silesia and Masuria (Modern Polish East
+Prussia) have noticeably more German loanwords than other dialects. Latin was
+known to a larger or smaller degree by most of the numerous szlachta in the
+16th to 18th centuries (and it continued to be extensively taught at secondary
+schools until World War II). Apart from dozens of loanwords, its influence can
+also be seen in somewhat greater number of verbatim Latin phrases in Polish
+literature (especially from the 19th century and earlier), than, say, in
+English.
+
+In the 18th century, with rising prominence of France in Europe, French
+supplanted Latin in this respect. Some French borrowings also date from the
+Napoleonic era, when the Poles were enthusiastic supporters of Napoleon.
+Examples include ekran (from French Ã©cran, screen), abaÅ¼ur (abat-jour, lamp
+shade), rekin (requin, shark), meble (meuble, furniture), bagaÅ¼ (bagage,
+luggage), walizka (valise, suitcase), fotel (fauteuil, armchair), plaÅ¼a
+(plage, beach) and koszmar (cauchemar, nightmare). Some place names have also
+been adapted from French, such as the two Warsaw boroughs of Å»oliborz (joli
+bord=beautiful riverside) and MokotÃ³w (mon coteau=my hill), as well as the
+town of Å»yrardÃ³w (from the name Girard, with the Polish suffix -Ã³w attached
+to point at owner/founder of a town).
+
+Other words are borrowed from other Slavic languages, for example, sejm,
+haÅba and brama from Czech.
+
+Some words like bachor (an unruly boy or child) and ciuchy (slang for
+clothing) were borrowed from Yiddish, spoken by the large Polish Jewish
+population before their numbers were severely depleted during the Holocaust.
+
+Typical loanwords from Italian include pomidor from pomodoro (tomato),
+kalafior from cavolfiore (cauliflower), pomaraÅcza from l'arancio (orange),
+etc. Those were introduced in the times of queen Bona Sforza (the wife of
+Polish king Sigismund the Old) who was famous for introducing Poland to
+Italian cuisine, especially vegetables. Another interesting word of Italian
+origin is autostrada (from Italian "autostrada", highway).
+
+The contacts with Ottoman Turkey in the 17th century brought many new words,
+some of them still in use, such as: jar (deep valley), szaszÅyk (shish
+kebab), filiÅ¼anka (cup), arbuz (water melon), dywan (carpet), kieÅbasa
+(sausage) [8] , etc.
+
+The mountain dialects of the GÃ³rale in southern Poland, have quite a number
+of words borrowed from Hungarian (e.g. baca, gazda, juhas, hejnaÅ) and
+Romanian from historical contacts with Hungarian-dominated Slovakia and
+Wallachian herders who travelled north along the Carpathians.
+
+Thieves' slang includes such words as kimaÄ (to sleep) or majcher (knife) of
+Greek origin, considered then unknown to the outside world.
+
+Direct borrowings from Russian are extremely rare, in spite of long periods of
+dependence on tzarist Russia and the Soviet Union, and are limited to few
+internationalisms as sputnik or pieriestrojka[citation needed].
+
+There are also few words borrowed form Mongolian language, those are dzida
+(spear) or szereg (a line, column). Those words were brought to Polish
+language during wars with Genghis Khan's armies.
+
+## [edit] Borrowings from Polish
+
+The Polish language has influenced others. Particular influences show in
+German and in other Slavic languages â due to their proximity and shared
+borders. Examples of loanwords include German Grenze (border) from Polish
+granica, Peitzker from piskorz (weatherfish). Quite a few culinary loanwords
+exist in German and in other languages, some of which describe distinctive
+features of Polish cuisine. These include German Quark from twarÃ³g (cottage
+cheese) and Gurke from ogÃ³rek (cucumber). The word pierogi (a plural noun in
+Polish) has spread internationally, as have pÄ czki and ogonek ("little tail")
+â the word describing a diacritic hook-sign added below some letters in
+various alphabets.
+
+## [edit] Brief vocabulary
+
+### [edit] Personal pronouns
+
+Singular Plural  
+ja - I my - we  
+ty - you wy - you (Plural)  
+on - he  
+ona - she  
+ono - it oni - they (group of people, including at least one male)  
+one - they (group of female persons or group not involving persons)  
+### [edit] Numerals
+
+jeden - one dwa - two  
+trzy - three cztery - four  
+piÄÄ - five szeÅÄ - six  
+siedem - seven osiem - eight  
+dziewiÄÄ - nine dziesiÄÄ - ten  
+jedenaÅcie - eleven dwanaÅcie - twelve  
+trzynaÅcie - thirteen czternaÅcie - fourteen  
+piÄtnaÅcie - fifteen szesnaÅcie - sixteen  
+siedemnaÅcie - seventeen osiemnaÅcie - eighteen  
+dziewiÄtnaÅcie - nineteen dwadzieÅcia - twenty  
+dwadzieÅcia jeden - twenty-one dwadzieÅcia dziewiÄÄ - twenty-nine  
+trzydzieÅci - thirty czterdzieÅci - forty  
+piÄÄdziesiÄ t - fifty szeÅÄdziesiÄ t - sixty  
+siedemdziesiÄ t - seventy osiemdziesiÄ t - eighty  
+dziewiÄÄdziesiÄ t - ninety sto - one hundred  
+piÄÄset - five hundred tysiÄ c - one thousand  
+milion - one million miliard - one billion  
+### [edit] Chronology
+
+(Note the use of lower case)
+
+czas time  
+sekunda second  
+minuta minute  
+godzina hour  
+dzieÅ day  
+doba 24 hours  
+tydzieÅ week  
+dwa tygodnie fortnight (two weeks)  
+miesiÄ c month  
+rok year  
+dziesiÄciolecie or dekada decade  
+wiek or stulecie a century  
+tysiÄ clecie a millennium  
+styczeÅ January  
+luty February  
+marzec March  
+kwiecieÅ April  
+maj May  
+czerwiec June  
+lipiec July  
+sierpieÅ August  
+wrzesieÅ September  
+paÅºdziernik October  
+listopad November  
+grudzieÅ December  
+### [edit] Weather
+
+bardzo zimno very cold  
+deszczowo rainy  
+sÅonecznie sunny  
+mokro wet  
+pochmurno cloudy  
+wietrznie windy  
+sucho dry  
+gorÄ co hot  
+duszno muggy  
+Å¼ar leje siÄ z nieba it's boiling hot  
+### [edit] Seasons
+
+wiosna Spring  
+lato Summer  
+jesieÅ Autumn  
+zima Winter  
+### [edit] Locations
+
+dom house/home  
+lotnisko airport  
+dworzec kolejowy train station  
+dworzec autobusowy bus station  
+sklep shop/store  
+zamek castle or zip  
+plaÅ¼a beach  
+miasto city/town  
+wieÅ village, country-side  
+kino cinema/movie theater  
+koÅciÃ³Å church  
+rynek market square  
+wiÄzienie prison/jail  
+poczta post office  
+szkoÅa school  
+cmentarz cemetery  
+ulica street  
+## [edit] See also
+
+  * Poglish
+  * Slavic languages
+  * Slavic people
+  * Swadesh list of Slavic languages
+  * Wiktionary:Polish language
+  * Wikibooks:Basic Polish language course
+  * Holy Cross Sermons
+  * Adam Mickiewicz Institute
+
+## [edit] Notes
+
+  1. ^ Polish language - Britannica Online Encyclopedia
+  2. ^ Ethnologue http://www.ethnologue.com/show_language.asp?code=pol
+  3. ^ European Charter for Regional or Minority Languages
+  4. ^ "The West Slavic Languages". Britannica Student Encyclopaedia. http://student.britannica.com/comptons/article-208119/Slavic-languages. Retrieved on 2008-02-22.
+  5. ^ US Census 2000
+  6. ^ Statistics Canada: 2006 Census
+  7. ^ Magosic, Paul Robert (2005). "The Rusyn Question". http://litopys.org.ua/rizne/magocie.htm. Retrieved on 2008-01-30.
+  8. ^ kielbasa. The American Heritage Dictionary of the English Language: Fourth Edition. 2000
+
+## [edit] References
+
+  * Swan, Oscar E. (2002). A Grammar of Contemporary Polish. Bloomington, IN: Slavica. ISBN 0-89357-296-9.
+
+## [edit] External links
+
+Wikipedia
+
+Polish language edition of Wikipedia, the free encyclopedia
+
+Sister project Wikibooks has a book on the topic of
+
+Polish  
+Sister project Wikiquote has a collection of quotations related to: Polish
+language  
+<IMG>
+
+This article's external links may not follow Wikipedia's content policies or
+guidelines. Please improve this article by removing excessive or inappropriate
+external links. (December 2007)  
+  * "A Touch of Polish," BBC
+  * 1,000 free multi-choice Polish grammar drills online
+  * Polish language online course
+  * A Concise Polish Grammar, by Ronald F. Feldstein (110-page 600-KB pdf)
+  * Univ. of Pittsburgh: Polish Language Website
+  * Map of Polish dialects
+  * Oneness City - Polish Lessons with Activities
+  * Polish verb conjugator from Logos Translations
+  * A short English-Polish-Japanese phrase list(renewal) incl. sound file
+
+### [edit] Dictionaries
+
+Sister project Polish language edition of Wiktionary, the free
+dictionary/thesaurus  
+  * Free Dictionary Translation
+  * Polish bilingual dictionaries
+  * Basic English-Polish Dictionary
+  * Polish Dictionary from Webster's Dictionary
+  * English-Polish-English dictionary DICT
+  * English-Polish-English dictionary from lingvoSoft
+  * English-Polish dictionary with 14,000 words
+
+Sister project Wikimedia Commons has media related to: Polish language  
+v â¢ d â¢ e
+
+Slavic languages  
+West Slavic
+
+Czech Â· Kashubian Â· Knaanic Â· Lower Sorbian Â· Pannonian Rusyn Â· Polabian
+Â· Polish Â· Pomeranian Â· Slovak Â· Slovincian Â· Upper Sorbian Â· Silesian  
+East Slavic
+
+Belarusian Â· Old East Slavic Â· Old Novgorod dialect Â· Russian Â· Carpathian
+Rusyn Â· Ruthenian Â· Ukrainian  
+South Slavic
+
+Bosnian Â· Bulgarian Â· Bunyev Â· Church Slavonic Â· Croatian Â· Macedonian Â·
+Montenegrin Â· Old Church Slavonic Â· Serbian Â· Slavic dialects of Greece Â·
+Slovene  
+Other
+
+Proto-Slavic Â· Russenorsk Â· Slavoserbian Â· Serbo-Croatian  
+Italics indicate extinct languages.  
+v â¢ d â¢ e
+
+Official languages of the European Union  
+Bulgarian Â· Czech Â· Danish Â· Dutch Â· English Â· Estonian Â· Finnish Â·
+French Â· German Â· Greek Â· Hungarian Â· Irish Â· Italian Â· Latvian Â·
+Lithuanian Â· Maltese Â· Polish Â· Portuguese Â· Romanian Â· Slovak Â· Slovene
+Â· Spanish Â· Swedish  
+v â¢ d â¢ e
+
+<IMG> Silesia topics  
+History
+
+Offensives Â· Uprisings Â· Wars Â· Upper Silesia plebiscite Â· Treaty of
+Dresden Â· Treaty of Teschen Â· Book of HenrykÃ³w Â· Battle of GÅogÃ³w Â·
+Battle of Legnica Â· more  
+Economy
+
+Tourism Â· Upper Silesian Industrial Region Â· Rybnik Coal Area Â· Upper
+Silesian Coal Basin Â· Lower Silesian Coal Basin Â· Legnicko-GÅogowski OkrÄg
+Miedziowy Â· Bielski OkrÄg PrzemysÅowy Â· Silesian metropolitan area Â·
+Katowice urban area  
+Cuisine
+
+Silesian noodles Â· Black noodles Â· MakÃ³wki Â· Siemieniotka Â· Å»ur ÅlÄ ski
+Â· Wodzionka Â· SzaÅot Â· Kreple Â· KoÅocz Â· Galert Â· Krupniok Â·
+Karminadle Â· Bryja Â· Moczka Â· Modra kapusta Â· Ciapkapusta Â· Hauskyjza  
+Languages
+
+Silesian (Silesian alphabet Â· Cieszyn Silesian dialect Â· Niemodlin Silesian
+dialect Â· Gliwice Silesian dialect Â· JabÅonkÃ³w Silesian dialect Â·
+Kluczbork Silesian dialect Â· Prudnik Silesian dialect Â· Opole Silesian
+dialect Â· Sulkovian Silesian dialect) Â· German Â· Polish Â· Czech Â· Lower
+Silesian  
+Administrative  
+divisions
+
+Former
+
+Duchies (Piasts Â· Dukes) Â· Autonomous Silesian Voivodeship (Parliament) Â·
+State country Â· Province of Silesia / Upper Silesia / Lower Silesia Â·
+Sudetenland Â· New Silesia Â· Austrian Silesia  
+Present
+
+Silesian Â· Opole Â· Lower Silesian Â· Lubusz Voivodeships Â· Silesian-
+Moravian Region Â· JesenÃ­k District (Olomouc Region) Â· Saxony Â· Brandenburg  
+Geography
+
+Mountains
+
+Carpathian (Silesian Â· Moravian-Silesian Beskids) Â· Sudetes (Eastern Â·
+Central Â· Western)  
+Rivers
+
+Oder
+
+BÃ³br Â· KÅodnica Â· Liswarta Â· Nysa KÅodzka Â· Olza Â· ÅlÄza Â· Kaczawa
+Â· Kwisa Â· Barycz Â· MaÅa Panew  
+Vistula
+
+BiaÅa Â· Brynica Â· Przemsza Â· Rawa Â· Pszczynka Â· Gostynia  
+Elbe
+
+Jizera Â· DivokÃ¡ Orlice Â· Ãpa  
+Lakes
+
+Jezioro GoczaÅkowickie Â· Jezioro Nyskie Â· Jezioro Otmuchowskie Â· Jezioro
+SÅawskie Â· SlezskÃ¡ Harta  
+Highlands  
+Lowlands  
+Other
+
+Silesian Highlands Â· Silesian Lowlands Â· Silesian-Lusatian Lowlands Â·
+Silesian Foothills Â· Silesian-Moravian Foothills Â· OÅwiÄcim Valley Â·
+Ostrava Valley Â· Zielona GÃ³ra Acclivity Â· WaÅ Trzebnicki Â· PrzedgÃ³rze
+Sudeckie Â· ObniÅ¼enie Milicko-GÅogowskie Â· Silesia Walls  
+WikiProject Silesia Â· Portal  
+Retrieved from "http://en.wikipedia.org/wiki/Polish_language"
+
+Categories: Polish language | Fusional languages | Languages of Poland |
+Languages of Russia | Languages of Ukraine
+
+Hidden categories: Articles containing potentially dated statements from 2008
+| All articles containing potentially dated statements | All articles with
+unsourced statements | Articles with unsourced statements since December 2008
+| Articles with unsourced statements since February 2007 | Articles to be
+expanded since March 2009 | All articles to be expanded | All pages needing
+cleanup | Articles to be expanded since October 2007 | Articles with unsourced
+statements since September 2007 | Wikipedia external links cleanup
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Alemannisch
+  * Anglo-Saxon
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * AragonÃ©s
+  * ÜÜªÜ¡ÜÜ
+  * Arpetan
+  * Asturianu
+  * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ
+  * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ (ÑÐ°ÑÐ°ÑÐºÐµÐ²ÑÑÐ°)
+  * Bosanski
+  * Brezhoneg
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Ð§ÄÐ²Ð°ÑÐ»Ð°
+  * Äesky
+  * Corsu
+  * Cymraeg
+  * Dansk
+  * Deutsch
+  * ÞÞ¨ÞÞ¬ÞÞ¨ÞÞ¦ÞÞ°
+  * Dolnoserbski
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * EÊegbe
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Frysk
+  * Gaeilge
+  * Gaelg
+  * GÃ idhlig
+  * Galego
+  * Hak-kÃ¢-fa
+  * íêµ­ì´
+  * ÕÕ¡ÕµÕ¥ÖÕ¥Õ¶
+  * Hornjoserbsce
+  * Hrvatski
+  * Ido
+  * Bahasa Indonesia
+  * Interlingua
+  * ÐÑÐ¾Ð½Ð°Ñ
+  * isiZulu
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * Basa Jawa
+  * á¥áá áá£áá
+  * KaszÃ«bsczi
+  * ÒÐ°Ð·Ð°ÒÑÐ°
+  * Kernewek
+  * Kiswahili
+  * KurdÃ® / ÙÙØ±Ø¯Û
+  * Latina
+  * LatvieÅ¡u
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * LÃ­guru
+  * Limburgs
+  * Magyar
+  * ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+  * Malti
+  * MÄori
+  * à¤®à¤°à¤¾à¤ à¥
+  * Ù ØµØ±Ù
+  * Bahasa Melayu
+  * ÐÐ¾ÐºÑÐµÐ½Ñ
+  * NÄhuatl
+  * Nederlands
+  * Nedersaksisch
+  * æ¥æ¬èª
+  * Nnapulitano
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Occitan
+  * Tok Pisin
+  * PlattdÃ¼Ã¼tsch
+  * Polski
+  * PortuguÃªs
+  * QÄ±rÄ±mtatarca
+  * RomÃ¢nÄ
+  * Runa Simi
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SÃ¡megiella
+  * Scots
+  * Shqip
+  * Sicilianu
+  * Simple English
+  * SlovenÄina
+  * Ð¡Ð»Ð¾Ð²Ñ£ÌÐ½ÑÑÐºÑ / â°â°â°â°â°¡â°â° â°â°â°
+  * SlovenÅ¡Äina
+  * ÅlÅ¯nski
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Srpskohrvatski / Ð¡ÑÐ¿ÑÐºÐ¾Ñ ÑÐ²Ð°ÑÑÐºÐ¸
+  * Suomi
+  * Svenska
+  * à®¤à®®à®¿à®´à¯
+  * Tetun
+  * à¹à¸à¸¢
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * VÃ¨neto
+  * Tiáº¿ng Viá»t
+  * ××Ö´×××©
+  * ZeÃªuws
+  * Å½emaitÄÅ¡ka
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 6 April 2009, at 16:19.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,261 @@
+
+# TCP congestion avoidance algorithm
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article's factual accuracy is disputed. Please see the relevant
+discussion on the talk page. (March 2008)  
+The TCP uses a network congestion avoidance algorithm that includes various
+aspects of an additive-increase-multiplicative-decrease (AIMD) scheme, with
+other schemes such as slow-start in order to achieve congestion avoidance.
+
+## Contents
+
+  * 1 TCP Tahoe and Reno
+  * 2 TCP Vegas
+  * 3 TCP New Reno
+  * 4 TCP Hybla
+  * 5 TCP BIC
+  * 6 TCP CUBIC
+  * 7 Compound TCP
+  * 8 References
+  * 9 Other TCP congestion avoidance algorithms
+  * 10 See also
+
+  
+## [edit] TCP Tahoe and Reno
+
+Two such variations are those offered by TCP Tahoe and Reno. The two
+algorithms were retrospectively named after the 4.3BSD Unix operating system
+in which each first appeared. The âTahoeâ algorithm first appeared in
+4.3BSD-Tahoe (which was made to support the CCI Power 6/32 âTahoeâ
+minicomputer), and was made available to non-AT&T licensees as part of the
+â4.3BSD Networking Release 1â; this ensured its wide distribution and
+implementation. Improvements, described below, were made in 4.3BSD-Reno and
+subsequently released to the public as âNetworking Release 2â and later
+4.4BSD-Lite. The âTCP Fooâ names for the algorithms appear to have
+originated in a 1996 paper by Kevin Fall and Sally Floyd.[1]
+
+To avoid congestion collapse, TCP uses a multi-faceted congestion control
+strategy. For each connection, TCP maintains a congestion window, limiting the
+total number of unacknowledged packets that may be in transit end-to-end. This
+is somewhat analogous to TCP's sliding window used for flow control. TCP uses
+a mechanism called slow start[2] to increase the congestion window after a
+connection is initialised and after a timeout. It starts with a window of two
+times the maximum segment size (MSS). Although the initial rate is low, the
+rate of increase is very rapid: for every packet acknowledged, the congestion
+window increases by 1 MSS so that for every round trip time (RTT), the
+congestion window has doubled. When the congestion window exceeds a threshold
+ssthresh the algorithm enters a new state, called congestion avoidance. In
+some implementations (e.g., Linux), the initial ssthresh is large, and so the
+first slow start usually ends after a loss. However, ssthresh is updated at
+the end of each slow start, and will often affect subsequent slow starts
+triggered by timeouts.
+
+Congestion avoidance: As long as non-duplicate ACKs are received, the
+congestion window is additively increased by one MSS every round trip time.
+When a packet is lost, the likelyhood of duplicate ACKs being received is very
+high (it's possible though unlikely that the stream just underwent extreme
+packet reordering, which would also prompt duplicate ACKs). The behaviour of
+Tahoe and Reno differ in how they detect and react to packet loss:
+
+  * Tahoe: Loss is detected when a timeout expires before an ACK is received. Tahoe will then reduce congestion window to 1 MSS, and reset to slow-start state.[citation needed]
+  * Reno: If three duplicate ACKs are received (i.e., three ACKs acknowledging the same packet, which are not piggybacked on data, and do not change the receiver's advertised window), Reno will halve the congestion window, perform a "fast retransmit", and enter a phase called Fast Recovery. If an ACK times out, slow start is used as it is with Tahoe.[citation needed]
+
+Fast Recovery. (Reno Only) In this state, TCP retransmits the missing packet
+that was signaled by 3 duplicate ACKs, and waits for an acknowledgment of the
+entire transmit window before returning to congestion avoidance. If there is
+no acknowledgment, TCP Reno experiences a timeout and enters the slow-start
+state.
+
+Both algorithms reduce congestion window to 1 MSS on a timeout event.
+
+## [edit] TCP Vegas
+
+Main article: TCP Vegas
+
+Until the mid 1990s, all TCPs set timeouts and measured round-trip delays were
+based upon only the last transmitted packet in the transmit buffer. University
+of Arizona researchers Larry Peterson and Lawrence Brakmo introduced TCP
+Vegas, in which timeouts were set and round-trip delays were measured for
+every packet in the transmit buffer. In addition, TCP Vegas uses additive
+increases and additive decreases in the congestion window. This variant was
+not widely deployed outside Peterson's laboratory.
+
+## [edit] TCP New Reno
+
+TCP New Reno improves retransmission during the fast recovery phase of TCP
+Reno. During fast recovery, for every duplicate ACK that is returned to TCP
+New Reno, a new unsent packet from the end of the congestion window is sent,
+to keep the transmit window full. For every ACK that makes partial progress in
+the sequence space, the sender assumes that the ACK points to a new hole, and
+the next packet beyond the ACKed sequence number is sent.
+
+Because the timeout timer is reset whenever there is progress in the transmit
+buffer, this allows New Reno to fill large holes, or multiple holes, in the
+sequence space - much like TCP SACK. Because New Reno can send new packets at
+the end of the congestion window during fast recovery, high throughput is
+maintained during the hole-filling process, even when there are multiple
+holes, of multiple packets each. When TCP enters fast recovery it records the
+highest outstanding unacknowledged packet sequence number. When this sequence
+number is acknowledged, TCP returns to the congestion avoidance state.
+
+A problem occurs with New Reno when there are no packet losses but instead,
+packets are reordered by more than 3 packet sequence numbers. When this
+happens, New Reno mistakenly enters fast recovery, but when the reordered
+packet is delivered, ACK sequence-number progress occurs and from there until
+the end of fast recovery, every bit of sequence-number progress produces a
+duplicate and needless retransmission that is immediately ACKed.
+
+New Reno performs as well as SACK at low packet error rates, and substantially
+outperforms Reno at high error rates.
+
+## [edit] TCP Hybla
+
+TCP Hybla aims to eliminate penalization of TCP connections that incorporate a
+high-latency terrestrial or satellite radio link, due to their longer round
+trip times. It stems from an analytical evaluation of the congestion window
+dynamics, which suggests the necessary modifications to remove the performance
+dependence on RTT.
+
+## [edit] TCP BIC
+
+Binary Increase Congestion control is an implementation of TCP with an
+optimized congestion control algorithm for high speed networks with high
+latency (called LFN, long fat networks, in RFC 1072). BIC is used by default
+in Linux kernels 2.6.8 through 2.6.18.
+
+## [edit] TCP CUBIC
+
+CUBIC is a less aggressive and more systematic derivative of BIC, in which the
+window is a cubic function of time since the last congestion event, with the
+inflection point set to the window prior to the event. CUBIC is used by
+default in Linux kernels since version 2.6.19.
+
+## [edit] Compound TCP
+
+Main article: Compound TCP
+
+Compound TCP is a Microsoft implementation of TCP which maintains two
+different congestion windows simultaneously, with the goal of achieving good
+performance on LFNs while not impairing fairness. It has been widely deployed
+with Microsoft Windows Vista and Windows Server 2008 and has been ported to
+older Microsoft Windows versions as well as Linux.
+
+## [edit] References
+
+  1. ^ Fall, Kevin; Sally Floyd (July 1996). "Simulation-based Comparisons of Tahoe, Reno and SACK TCP" (PostScript). Computer Communications Review. ftp://ftp.ee.lbl.gov/papers/sacks.ps.Z.
+  2. ^ Jacobson, Van (1995). "Congestion Avoidance and Control". ACM SIGCOMM Computer Communication Review 25 (1): 157â187. doi:10.1145/205447.205462. http://ee.lbl.gov/papers/congavoid.pdf.
+
+## [edit] Other TCP congestion avoidance algorithms
+
+  * FAST TCP
+  * H-TCP
+  * High Speed TCP
+  * HSTCP-LP
+  * TCP-Illinois
+  * TCP-LP
+  * TCP SACK
+  * Scalable TCP
+  * TCP Veno
+  * Westwood
+  * Westwood+
+  * XCP
+  * YeAH-TCP
+
+TCP New Reno is the most commonly implemented algorithm, SACK support is very
+common and is an extension to Reno/New Reno. Most others are competing
+proposals which still need evaluation. Starting with 2.6.8 the Linux kernel
+switched the default implementation from reno to BIC. The default
+implementation was again changed to CUBIC in the 2.6.19 version.
+
+When the per-flow product of bandwidth and latency increases, regardless of
+the queuing scheme, TCP becomes inefficient and prone to instability. This
+becomes increasingly important as the Internet evolves to incorporate very
+high-bandwidth optical links.
+
+TCP Interactive (iTCP) allows applications to subscribe to TCP events and
+respond accordingly enabling various functional extensions to TCP from outside
+TCP layer. Most TCP congestion schemes work internally. iTCP additionally
+enables advanced applications to directly participate in congestion control
+such as to control the source generation rate.
+
+## [edit] See also
+
+  * Transmission Control Protocol#Development of TCP
+  * Congestion avoidance
+  * TCP CANIT
+
+Retrieved from
+"http://en.wikipedia.org/wiki/TCP_congestion_avoidance_algorithm"
+
+Categories: TCP/IP | Flow control
+
+Hidden categories: Accuracy disputes from March 2008 | All articles with
+unsourced statements | Articles with unsourced statements since April 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 May 2009, at 15:30 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

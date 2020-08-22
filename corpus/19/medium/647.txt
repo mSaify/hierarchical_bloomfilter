@@ -1,0 +1,235 @@
+
+# GNU Screen
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+GNU Screen <IMG>  
+GNU Screen with split-screen  
+Developed by GNU Project  
+Initial release ?  
+Stable release 4.0.3 (August 8, 2008) [+/â]  
+Preview release none [+/â]  
+Written in C  
+Operating system Unix-like  
+Available in ?  
+Type Command line interface  
+License GPL  
+Website www.gnu.org/software/screen  
+GNU Screen is a free terminal multiplexer developed by the GNU Project since
+at least 1995.[1][dubious â discuss] It allows a user to access multiple
+separate terminal sessions inside a single terminal window or remote terminal
+session. It is useful for dealing with multiple programs from the command
+line, and for separating programs from the shell that started the program.
+
+## Contents
+
+  * 1 Features
+  * 2 Other terminal multiplexers
+  * 3 See also
+  * 4 References
+  * 5 External links
+    * 5.1 Official resources
+    * 5.2 Third-party resources
+
+  
+## [edit] Features
+
+GNU Screen can be thought of as a text version of graphical window managers,
+or as a way of putting virtual terminals into any login session. It is a
+wrapper that allows multiple text programs to run at the same time, and
+provides features that allow the user to use the programs within a single
+interface productively.
+
+Persistence
+
+    Similar to VNC, GNU Screen allows the user to start applications from one computer, and then reconnect from a different computer and continue using the same application without having to restart it. This makes migration between locations like work and home simple. Screen provides terminal-agnostic functionality so that users can disconnect and reconnect using different terminal types, allowing applications to continue running without being aware of the change in terminals.
+Multiple windows
+
+    Multiple terminal sessions can be created, each of which usually runs a single application. The windows are numbered, and the user can use the keyboard to switch between them. Some GUI terminal emulators provide tabs or otherwise similar functionality to this. Each window has its own scroll-back buffer, so that output is captured even when the window isn't actively displayed, and that history can be saved even when migrating to another computer. Windows can be split-screened. While some text applications have this functionality built in, Screen allows any application to be horizontally split-screened alongside any number of other applications.
+Session Sharing
+
+    Screen allows multiple computers to connect to the same session at once, allowing collaboration between multiple users. The same computer can also be used to make multiple simultaneous connections, providing alternative functionality to screen-splitting, particularly for computers with multiple monitors.
+## [edit] Other terminal multiplexers
+
+Other text-mode multiplexers exist with similar functionality. These include:
+
+  * splitvt â split terminal utility
+  * tmux â terminal multiplexer
+  * Text windows (Twin) â a textmode windowing environment
+  * Window (BSD) â window is a program on BSD Unix that implements a window environment on ASCII terminals.
+  * dvtm \- a tiling terminal multiplexer which can display several applications at once
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * dtach â a minimalist implementation of a subset of Screen's features
+  * Ratpoison â a mouseless window manager inspired by Screen
+
+## [edit] References
+
+  1. ^ screen ftp
+
+## [edit] External links
+
+### [edit] Official resources
+
+  * GNU's Screen official site
+  * GNU Screen on Savannah
+  * GNU Screen The program's manpage
+  * Screen User's Manual
+
+### [edit] Third-party resources
+
+  * GNU Screen Wiki
+  * softpanorama screen page
+  * GNU Screen: an introduction and beginner's tutorial (an article originally posted at Kuro5hin)
+  * A GNU Screen Interface Application
+  * A guide to using irssi in screen
+  * A Guide to Efficiently Using Irssi and screen
+  * A guide to screen's scrollback buffer
+  * Screen FAQ
+  * SSH-Agent forwarding and GNU Screen
+  * Various Screen recipes and tips
+  * Extending GNU Screen - Adding a taskbar (with program names, clock and cpu load)
+
+v â¢ d â¢ e
+
+Unix command line programs and builtins (more)  
+File system
+
+cat Â· cd Â· chmod Â· chown Â· chgrp Â· cksum Â· cmp Â· cp Â· du Â· df Â· file
+Â· fsck Â· fuser Â· ln Â· ls Â· lsattr Â· lsof Â· mkdir Â· mount Â· mv Â· pwd
+Â· rm Â· rmdir Â· split Â· touch  
+Processes
+
+at Â· chroot Â· cron Â· exit Â· kill Â· killall Â· nice Â· pgrep Â· pidof Â·
+pkill Â· ps Â· pstree Â· sleep Â· time Â· top Â· wait  
+User environment
+
+env Â· finger Â· id Â· logname Â· mesg Â· passwd Â· su Â· sudo Â· uname Â·
+uptime Â· w Â· wall Â· who Â· whoami Â· write  
+Text processing
+
+awk Â· comm Â· cut Â· ed Â· ex Â· fmt Â· head Â· iconv Â· join Â· less Â· more
+Â· paste Â· sed Â· sort Â· tac Â· tail Â· tr Â· uniq Â· vi Â· wc Â· xargs  
+Shell programming
+
+alias Â· basename Â· dirname Â· echo Â· expr Â· false Â· printf Â· test Â·
+true Â· unset  
+Networking
+
+inetd Â· netstat Â· ping Â· rlogin Â· netcat Â· traceroute  
+Searching
+
+find Â· grep Â· strings  
+Miscellaneous
+
+banner Â· bc Â· cal Â· clear Â· date Â· dd Â· lp Â· man Â· size Â· tee Â· tput
+Â· yes Â· umask  
+v â¢ d â¢ e
+
+GNU Project  
+History
+
+GNU Manifesto Â· Free Software Foundation Â· History of free software
+
+GNU is not a gnu  
+Licences
+
+GNU General Public License Â· GNU Lesser General Public License Â· Affero
+General Public License Â· GNU Free Documentation License Â· GPL linking
+exception  
+Software
+
+GNU (variants) Â· Hurd Â· GNOME Â· Gnuzilla Â· IceCat Â· Gnash Â· Bash Â· GCC
+Â· GNU Emacs Â· glibc Â· Coreutils Â· Build system Â· Bazaar Â· LilyPond Â·
+Other GNU packages and programs  
+Public speakers
+
+Robert J. Chassell Â· LoÃ¯c Dachary Â· Ricardo Galli Â· Joshua Gay Â· Georg C.
+F. Greve Â· Federico Heinz Â· Benjamin Mako Hill Â· Bradley M. Kuhn Â· Matt
+Lee Â· Eben Moglen Â· Alexandre Oliva Â· Richard Stallman Â· John Sullivan  
+Other topics
+
+GNU/Linux naming controversy Â· Revolution OS  
+Retrieved from "http://en.wikipedia.org/wiki/GNU_Screen"
+
+Categories: GNU project | GNU project software | Unix software | Termcap |
+Terminal multiplexers
+
+Hidden categories: All pages needing cleanup | Articles with disputed
+statements from January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Magyar
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Svenska
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 24 February 2009, at 04:21.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,906 @@
+
+# Muscle
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Semi-protected
+
+For other uses of "Muscle", see Muscle (disambiguation).
+
+<IMG>
+
+<IMG>
+
+A top-down view of skeletal muscle
+
+Muscle (from Latin musculus, diminutive of mus "mouse"[1]) is the contractile
+tissue of the body and is derived from the mesodermal layer of embryonic germ
+cells. Muscle cells contain contractile filaments that move past each other
+and change the size of the cell. They are classified as skeletal, cardiac, or
+smooth muscles. Their function is to produce force and cause motion. Muscles
+can cause either locomotion of the organism itself or movement of internal
+organs. Cardiac and smooth muscle contraction occurs without conscious thought
+and is necessary for survival. Examples are the contraction of the heart and
+peristalsis which pushes food through the digestive system. Voluntary
+contraction of the skeletal muscles is used to move the body and can be finely
+controlled. Examples are movements of the eye, or gross movements like the
+quadriceps muscle of the thigh. There are two broad types of voluntary muscle
+fibers: slow twitch and fast twitch. Slow twitch fibers contract for long
+periods of time but with little force while fast twitch fibers contract
+quickly and powerfully but fatigue very rapidly.
+
+## Contents
+
+  * 1 Types
+  * 2 Anatomy
+    * 2.1 Gross anatomy
+    * 2.2 Microanatomy
+  * 3 Physiology
+  * 4 Nervous control
+    * 4.1 Efferent leg
+    * 4.2 Afferent leg
+  * 5 Exercise
+  * 6 Disease
+    * 6.1 Atrophy
+      * 6.1.1 Physical inactivity and atrophy
+  * 7 Strength
+    * 7.1 The "strongest" human muscle
+  * 8 Efficiency
+  * 9 Density of muscle tissue compared to adipose tissue
+  * 10 Muscle evolution
+  * 11 See also
+  * 12 Footnotes
+  * 13 References
+  * 14 External links
+
+  
+## Types
+
+<IMG>
+
+<IMG>
+
+Types of muscle
+
+There are three types of muscle:
+
+  * Skeletal muscle or "voluntary muscle" is anchored by tendons to bone and is used to effect skeletal movement such as locomotion and in maintaining posture. Though this postural control is generally maintained as a subconscious reflex, the muscles responsible react to conscious control like non-postural muscles. An average adult male is made up of 40â50% of skeletal muscle and an average adult female is made up of 30â40% (as a percentage of body mass).[citation needed]
+  * Smooth muscle or "involuntary muscle" is found within the walls of organs and structures such as the esophagus, stomach, intestines, bronchi, uterus, urethra, bladder, blood vessels, and even the skin (in which it controls erection of body hair). Unlike skeletal muscle, smooth muscle is not under conscious control.
+  * Cardiac muscle is also an "involuntary muscle" but is more akin in structure to skeletal muscle, and is found only in the heart.
+
+Cardiac and skeletal muscles are "striated" in that they contain sarcomeres
+and are packed into highly-regular arrangements of bundles; smooth muscle has
+neither. While skeletal muscles are arranged in regular, parallel bundles,
+cardiac muscle connects at branching, irregular angles (called intercalated
+discs). Striated muscle contracts and relaxes in short, intense bursts,
+whereas smooth muscle sustains longer or even near-permanent contractions.
+
+Skeletal muscle is further divided into several subtypes:
+
+  * Type I, slow oxidative, slow twitch, or "red" muscle is dense with capillaries and is rich in mitochondria and myoglobin, giving the muscle tissue its characteristic red color. It can carry more oxygen and sustain aerobic activity.
+  * Type II, fast twitch muscle, has three major kinds that are, in order of increasing contractile speed:[2]
+    * Type IIa, which, like slow muscle, is aerobic, rich in mitochondria and capillaries and appears red.
+    * Type IIx (also known as type IId), which is less dense in mitochondria and myoglobin. This is the fastest muscle type in humans. It can contract more quickly and with a greater amount of force than oxidative muscle, but can sustain only short, anaerobic bursts of activity before muscle contraction becomes painful (often incorrectly attributed to a build-up of lactic acid). N.B. in some books and articles this muscle in humans was, confusingly, called type IIB.[3]
+    * Type IIb, which is anaerobic, glycolytic, "white" muscle that is even less dense in mitochondria and myoglobin. In small animals like rodents this is the major fast muscle type, explaining the pale color of their flesh.
+
+## Anatomy
+
+The anatomy of muscles includes both gross anatomy, comprising all the muscles
+of an organism, and, on the other hand, microanatomy, which comprises the
+structures of a single muscle.
+
+### Gross anatomy
+
+<IMG>
+
+<IMG>
+
+Muscles, anterior view (See Gray's muscle pictures for detailed pictures)
+
+<IMG>
+
+<IMG>
+
+Muscles, posterior view (See Gray's muscle pictures for detailed pictures)
+
+The gross anatomy of a muscle is the most important indicator of its role in
+the body. The action a muscle generates is determined by the origin and
+insertion locations. The cross-sectional area of a muscle (rather than volume
+or length) determines the amount of force it can generate by defining the
+number of sarcomeres which can operate in parallel. The amount of force
+applied to the external environment is determined by lever mechanics,
+specifically the ratio of in-lever to out-lever. For example, moving the
+insertion point of the biceps more distally on the radius (farther from the
+joint of rotation) would increase the force generated during flexion (and, as
+a result, the maximum weight lifted in this movement), but decrease the
+maximum speed of flexion. Moving the insertion point proximally (closer to the
+joint of rotation) would result in decreased force but increased velocity.
+This can be most easily seen by comparing the limb of a mole to a horse - in
+the former, the insertion point is positioned to maximize force (for digging),
+while in the latter, the insertion point is positioned to maximize speed (for
+running).
+
+One particularly important aspect of gross anatomy of muscles is pennation or
+lack thereof. In most muscles, all the fibers are oriented in the same
+direction, running in a line from the origin to the insertion. In pennate
+muscles, the individual fibers are oriented at an angle relative to the line
+of action, attaching to the origin and insertion tendons at each end. Because
+the contracting fibers are pulling at an angle to the overall action of the
+muscle, the change in length is smaller, but this same orientation allows for
+more fibers (thus more force) in a muscle of a given size. Pennate muscles are
+usually found where their length change is less important than maximum force,
+such as the rectus femoris.
+
+There are approximately 639 skeletal muscles in the human body. However, the
+exact number is difficult to define because different sources group muscles
+differently.
+
+Main article: Table of muscles of the human body
+
+### Microanatomy
+
+Muscle is mainly composed of muscle cells. Within the cells are myofibrils;
+myofibrils contain sarcomeres, which are composed of actin and myosin.
+Individual muscle fibres are surrounded by endomysium. Muscle fibers are bound
+together by perimysium into bundles called fascicles; the bundles are then
+grouped together to form muscle, which is enclosed in a sheath of epimysium.
+Muscle spindles are distributed throughout the muscles and provide sensory
+feedback information to the central nervous system.
+
+Skeletal muscle is arranged in discrete muscles, an example of which is the
+biceps brachii. It is connected by tendons to processes of the skeleton.
+Cardiac muscle is similar to skeletal muscle in both composition and action,
+being comprised of myofibrils of sarcomeres, but anatomically different in
+that the muscle fibers are typically branched like a tree and connect to other
+cardiac muscle fibers through intercalcated discs, and form the appearance of
+a syncytium.
+
+## Physiology
+
+Main article: muscle contraction
+
+The three (skeletal, cardiac and smooth) types of muscle have significant
+differences. However, all three use the movement of actin against myosin to
+create contraction. In skeletal muscle, contraction is stimulated by
+electrical impulses transmitted by the nerves, the motor nerves and
+motoneurons in particular. Cardiac and smooth muscle contractions are
+stimulated by internal pacemaker cells which regularly contract, and propagate
+contractions to other muscle cells they are in contact with. All skeletal
+muscle and many smooth muscle contractions are facilitated by the
+neurotransmitter acetylcholine.
+
+Muscular activity accounts for much of the body's energy consumption. All
+muscle cells produce adenosine triphosphate (ATP) molecules which are used to
+power the movement of the myosin heads. Muscles conserve energy in the form of
+creatine phosphate which is generated from ATP and can regenerate ATP when
+needed with creatine kinase. Muscles also keep a storage form of glucose in
+the form of glycogen. Glycogen can be rapidly converted to glucose when energy
+is required for sustained, powerful contractions. Within the voluntary
+skeletal muscles, the glucose molecule can be metabolized anaerobically in a
+process called glycolysis which produces two ATP and two lactic acid molecules
+in the process (note that in aerobic conditions, lactate is not formed;
+instead pyruvate is formed and transmitted through the citric acid cycle).
+Muscle cells also contain globules of fat, which are used for energy during
+aerobic exercise. The aerobic energy systems take longer to produce the ATP
+and reach peak efficiency, and requires many more biochemical steps, but
+produces significantly more ATP than anaerobic glycolysis. Cardiac muscle on
+the other hand, can readily consume any of the three macronutrients (protein,
+glucose and fat) aerobically without a 'warm up' period and always extracts
+the maximum ATP yield from any molecule involved. The heart, liver and red
+blood cells will also consume lactic acid produced and excreted by skeletal
+muscles during exercise.
+
+## Nervous control
+
+<IMG>
+
+<IMG>
+
+Mind Mapshowing a summary of Upper Limb Muscle Innervation
+
+<IMG>
+
+<IMG>
+
+Mind Mapshowing a summary of Lower Limb Muscle innervation
+
+### Efferent leg
+
+The efferent leg of the peripheral nervous system is responsible for conveying
+commands to the muscles and glands, and is ultimately responsible for
+voluntary movement. Nerves move muscles in response to voluntary and autonomic
+(involuntary) signals from the brain. Deep muscles, superficial muscles,
+muscles of the face and internal muscles all correspond with dedicated regions
+in the primary motor cortex of the brain, directly anterior to the central
+sulcus that divides the frontal and parietal lobes.
+
+In addition, muscles react to reflexive nerve stimuli that do not always send
+signals all the way to the brain. In this case, the signal from the afferent
+fiber does not reach the brain, but produces the reflexive movement by direct
+connections with the efferent nerves in the spine. However, the majority of
+muscle activity is volitional, and the result of complex interactions between
+various areas of the brain.
+
+Nerves that control skeletal muscles in mammals correspond with neuron groups
+along the primary motor cortex of the brain's cerebral cortex. Commands are
+routed though the basal ganglia and are modified by input from the cerebellum
+before being relayed through the pyramidal tract to the spinal cord and from
+there to the motor end plate at the muscles. Along the way, feedback, such as
+that of the extrapyramidal system contribute signals to influence muscle tone
+and response.
+
+Deeper muscles such as those involved in posture often are controlled from
+nuclei in the brain stem and basal ganglia.
+
+### Afferent leg
+
+The afferent leg of the peripheral nervous system is responsible for conveying
+sensory information to the brain, primarily from the sense organs like the
+skin. In the muscles, the muscle spindles convey information about the degree
+of muscle length and stretch to the central nervous system to assist in
+maintaining posture and joint position. The sense of where our bodies are in
+space is called proprioception, the perception of body awareness. More easily
+demonstrated than explained, proprioception is the "unconscious" awareness of
+where the various regions of the body are located at any one time. This can be
+demonstrated by anyone closing their eyes and waving their hand around.
+Assuming proper proprioceptive function, at no time will the person lose
+awareness of where the hand actually is, even though it is not being detected
+by any of the other senses.
+
+Several areas in the brain coordinate movement and position with the feedback
+information gained from proprioception. The cerebellum and red nucleus in
+particular continuously sample position against movement and make minor
+corrections to assure smooth motion.
+
+## Exercise
+
+Exercise is often recommended as a means of improving motor skills, fitness,
+muscle and bone strength, and joint function. Exercise has several effects
+upon muscles, connective tissue, bone, and the nerves that stimulate the
+muscles.
+
+Various exercises require a predominance of certain muscle fiber utilization
+over another. Aerobic exercise involves long, low levels of exertion in which
+the muscles are used at well below their maximal contraction strength for long
+periods of time (the most classic example being the marathon). Aerobic events,
+which rely primarily on the aerobic (with oxygen) system, use a higher
+percentage of Type I (or slow-twitch) muscle fibers, consume a mixture of fat,
+protein and carbohydrates for energy, consume large amounts of oxygen and
+produce little lactic acid. Anaerobic exercise involves short bursts of higher
+intensity contractions at a much greater percentage of their maximum
+contraction strength. Examples of anaerobic exercise include sprinting and
+weight lifting. The anaerobic energy delivery system uses predominantly Type
+II or fast-twitch muscle fibers, relies mainly on ATP or glucose for fuel,
+consumes relatively little oxygen, protein and fat, produces large amounts of
+lactic acid and can not be sustained for as long a period as aerobic exercise.
+The presence of lactic acid has an inhibitory effect on ATP generation within
+the muscle; though not producing fatigue, it can inhibit or even stop
+performance if the intracellular concentration becomes too high. However,
+long-term training causes neovascularization within the muscle, increasing the
+ability to move waste products out of the muscles and maintain contraction.
+Once moved out of muscles with high concentrations within the sarcomere,
+lactic acid can be used by other muscles or body tissues as a source of
+energy, or transported to the liver where it is converted back to pyruvate.
+The ability of the body to export lactic acid and use it as a source of energy
+depends on training level.
+
+Humans are genetically predisposed with a larger percentage of one type of
+muscle group over another. An individual born with a greater percentage of
+Type I muscle fibers would theoretically be more suited to endurance events,
+such as triathlons, distance running, and long cycling events, whereas a human
+born with a greater percentage of Type II muscle fibers would be more likely
+to excel at anaerobic events such as a 200 meter dash, or weightlifting.
+People with high overall musculation and balanced muscle type percentage
+engage in sports such as rugby or boxing and often engage in other sports to
+increase their performance in the former.[citations needed]
+
+Delayed onset muscle soreness is pain or discomfort that may be felt one to
+three days after exercising and subsides generally within two to three days
+later. Once thought to be caused by lactic acid buildup, a more recent theory
+is that it is caused by tiny tears in the muscle fibers caused by eccentric
+contraction, or unaccustomed training levels. Since lactic acid disperses
+fairly rapidly, it could not explain pain experienced days after exercise.[4]
+
+## Disease
+
+Main article: Neuromuscular disease
+
+Symptoms of muscle diseases may include weakness, spasticity, myoclonus and
+myalgia. Diagnostic procedures that may reveal muscular disorders include
+testing creatine kinase levels in the blood and electromyography (measuring
+electrical activity in muscles). In some cases, muscle biopsy may be done to
+identify a myopathy, as well as genetic testing to identify DNA abnormalities
+associated with specific myopathies and dystrophies.
+
+Neuromuscular diseases are those that affect the muscles and/or their nervous
+control. In general, problems with nervous control can cause spasticity or
+paralysis, depending on the location and nature of the problem. A large
+proportion of neurological disorders leads to problems with movement, ranging
+from cerebrovascular accident (stroke) and Parkinson's disease to Creutzfeldt-
+Jakob disease.
+
+A non-invasive elastography technique that measures muscle noise is undergoing
+experimentation to provide a way of monitoring neuromuscular disease. The
+sound produced by a muscle comes from the shortening of actomyosin filaments
+along the axis of the muscle. During contraction, the muscle shortens along
+its longitudinal axis and expands across the transverse axis, producing
+vibrations at the surface.[5]
+
+### Atrophy
+
+There are many diseases and conditions which cause a decrease in muscle mass,
+known as muscle atrophy. Example include cancer and AIDS, which induce a body
+wasting syndrome called cachexia. Other syndromes or conditions which can
+induce skeletal muscle atrophy are congestive heart disease and some diseases
+of the liver.
+
+During aging, there is a gradual decrease in the ability to maintain skeletal
+muscle function and mass, known as sarcopenia. The exact cause of sarcopenia
+is unknown, but it may be due to a combination of the gradual failure in the
+"satellite cells" which help to regenerate skeletal muscle fibers, and a
+decrease in sensitivity to or the availability of critical secreted growth
+factors which are necessary to maintain muscle mass and satellite cell
+survival. Sarcopenia is a normal aspect of aging, and is not actually a
+disease state.
+
+#### Physical inactivity and atrophy
+
+Inactivity and starvation in mammals lead to atrophy of skeletal muscle,
+accompanied by a smaller number and size of the muscle cells as well as lower
+protein content.[6] In humans, prolonged periods of immobilization, as in the
+cases of bed rest or astronauts flying in space, are known to result in muscle
+weakening and atrophy. Such consequences are also noted in small hibernating
+mammals like the golden-mantled ground squirrels and brown bats.[7]
+Representatives of the Ursid species make for an interesting exception to this
+expected norm.
+
+Bears are famous for their ability to survive unfavorable environmental
+conditions of low temperatures and limited nutrition availability during
+winter by means of hibernation. During that time Ursids go through a series of
+physiological, morphological and behavioral changes.[8] Their ability to
+maintain skeletal muscle number and size at time of disuse is of a significant
+importance. During hibernation bears spend four to seven months of inactivity
+and anorexia without undergoing muscle atrophy and protein loss.[7] There are
+a few known factors that contribute to the sustaining of muscle tissue. During
+the summer period, Ursids take advantage of the nutrition availability and
+accumulate muscle protein. The protein balance of bears at time of dormancy is
+also maintained by lower levels of protein breakdown during the winter
+time.[7] At times of immobility, muscle wasting in Ursids is also suppressed
+by a proteolytic inhibitor that is released in circulation.[6] Another factor
+that contributes to the sustaining of muscle strength in hibernating bears is
+the occurrence of periodic voluntary contractions and involuntary contractions
+from shivering during torpor.[9] The three to four daily episodes of muscle
+activity are responsible for the maintenance of muscle strength and
+responsiveness in bears during hibernation.[9]
+
+## Strength
+
+A display of "strength" (e.g. lifting a weight) is a result of three factors
+that overlap: physiological strength (muscle size, cross sectional area,
+available crossbridging, responses to training), neurological strength (how
+strong or weak is the signal that tells the muscle to contract), and
+mechanical strength (muscle's force angle on the lever, moment arm length,
+joint capabilities). Contrary to popular belief, the number of muscle fibres
+cannot be increased through exercise; instead the muscle cells simply get
+bigger. Muscle fibres have a limited capacity for growth through hypertrophy
+and some believe they split through hyperplasia if subject to increased
+demand.[citation needed]
+
+### The "strongest" human muscle
+
+Since three factors affect muscular strength simultaneously and muscles never
+work individually, it is misleading to compare strength in individual muscles,
+and state that one is the "strongest". But below are several muscles whose
+strength is noteworthy for different reasons.
+
+  * In ordinary parlance, muscular "strength" usually refers to the ability to exert a force on an external objectâfor example, lifting a weight. By this definition, the masseter or jaw muscle is the strongest. The 1992 Guinness Book of Records records the achievement of a bite strength of 4,337 N (975 lbf) for 2 seconds. What distinguishes the masseter is not anything special about the muscle itself, but its advantage in working against a much shorter lever arm than other muscles.
+  * If "strength" refers to the force exerted by the muscle itself, e.g., on the place where it inserts into a bone, then the strongest muscles are those with the largest cross-sectional area. This is because the tension exerted by an individual skeletal muscle fiber does not vary much. Each fiber can exert a force on the order of 0.3 micronewton. By this definition, the strongest muscle of the body is usually said to be the quadriceps femoris or the gluteus maximus.
+  * A shorter muscle will be stronger "pound for pound" (i.e., by weight) than a longer muscle. The myometrial layer of the uterus may be the strongest muscle by weight in the human body. At the time when an infant is delivered, the entire human uterus weighs about 1.1 kg (40 oz). During childbirth, the uterus exerts 100 to 400 N (25 to 100 lbf) of downward force with each contraction.
+  * The external muscles of the eye are conspicuously large and strong in relation to the small size and weight of the eyeball. It is frequently said that they are "the strongest muscles for the job they have to do" and are sometimes claimed to be "100 times stronger than they need to be." However, eye movements (particularly saccades used on facial scanning and reading) do require high speed movements, and eye muscles are exercised nightly during rapid eye movement sleep.
+  * The statement that "the tongue is the strongest muscle in the body" appears frequently in lists of surprising facts, but it is difficult to find any definition of "strength" that would make this statement true. Note that the tongue consists of sixteen muscles, not one.
+  * The heart has a claim to being the muscle that performs the largest quantity of physical work in the course of a lifetime. Estimates of the power output of the human heart range from 1 to 5 watts. This is much less than the maximum power output of other muscles; for example, the quadriceps can produce over 100 watts, but only for a few minutes. The heart does its work continuously over an entire lifetime without pause, and thus does "outwork" other muscles. An output of one watt continuously for eighty years yields a total work output of two and a half gigajoules.
+
+## Efficiency
+
+The efficiency of human muscle has been measured (in the context of rowing and
+cycling) at 14% to 27%. The efficiency is defined as the ratio of mechanical
+work output to the total metabolic cost.[citation needed]
+
+## Density of muscle tissue compared to adipose tissue
+
+The density of mammalian skeletal muscle tissue is about 1.06 kg/liter[10].
+This can be contrasted with the density of adipose tissue (fat), which is
+0.9196 kg/liter[11]. This makes muscle tissue approximately 15% denser than
+fat tissue.
+
+## Muscle evolution
+
+Evolutionarily, specialized forms of skeletal and cardiac muscles predated the
+divergence of the vertebrate/arthropod evolutionary line.[12] This indicates
+that these types of muscle developed in a common ancestor sometime before 700
+million years ago (mya). Vertebrate smooth muscle was found to have evolved
+independently from the skeletal and cardiac muscles.
+
+## See also
+
+Sister project Look up muscle in  
+Wiktionary, the free dictionary.  
+Sister project Wikimedia Commons has media related to: muscles  
+  * Fascia
+  * Bodybuilding
+  * List of muscles of the human body
+  * Myopathy (pathology of muscle cells)
+  * Myotomy
+  * Rapid plant movement
+  * Atrophy
+  * Muscle atrophy
+  * Muscle tone (residual muscle tension)
+  * Electroactive polymers (materials that behave like muscles, used in robotics research)
+  * Muscle memory
+  * Musculoskeletal system
+  * Hand strength
+  * Preflexes
+
+## Footnotes
+
+  1. ^ Definition and origin of the word 'muscle'
+  2. ^ Larsson, L; Edstrom L, Lindegren B, Gorza L, Schiaffino S (July 1991). "MHC composition and enzyme-histochemical and physiological properties of a novel fast-twitch motor unit type". The American Journal of Physiology 261 (1 pt 1): C93â101. PMID 1858863. http://ajpcell.physiology.org/cgi/reprint/261/1/C93. Retrieved on 2006-06-11.
+  3. ^ Smerdu, V; Karsch-Mizrachi I, Campione M, Leinwand L, Schiaffino S (December 1994). "Type IIx myosin heavy chain transcripts are expressed in type IIb fibers of human skeletal muscle". The American Journal of Physiology 267 (6 pt 1): C1723â1728. PMID 7545970. http://ajpcell.physiology.org/cgi/reprint/267/6/C1723. Retrieved on 2006-06-11. Note: Access to full text requires subscription; abstract freely available
+  4. ^ Robergs R, Ghiasvand F, Parker D (2004). "Biochemistry of exercise-induced metabolic acidosis.". Am J Physiol Regul Integr Comp Physiol 287 (3): R502â16. PMID 15308499.
+  5. ^ 'Muscle noise' could reveal diseases' progression 18 May 2007, NewScientist.com news service, Belle DumÃ©
+  6. ^ a b Fuster G, Busquets S, Almendro V, LÃ³pez-Soriano FJ, ArgilÃ©s JM (2007). "Antiproteolytic effects of plasma from hibernating bears: a new approach for muscle wasting therapy?". Clin Nutr 26 (5): 658â61. doi:10.1016/j.clnu.2007.07.003. PMID 17904252. http://linkinghub.elsevier.com/retrieve/pii/S0261-5614(07)00124-0.
+  7. ^ a b c Lohuis TD, Harlow HJ, Beck TD (2007). "Hibernating black bears (Ursus americanus) experience skeletal muscle protein balance during winter anorexia". Comp. Biochem. Physiol. B, Biochem. Mol. Biol. 147 (1): 20â8. doi:10.1016/j.cbpb.2006.12.020. PMID 17307375. http://linkinghub.elsevier.com/retrieve/pii/S1096-4959(07)00053-X.
+  8. ^ Carey HV, Andrews MT, Martin SL (2003). "Mammalian hibernation: cellular and molecular responses to depressed metabolism and low temperature". Physiol. Rev. 83 (4): 1153â81. doi:10.1152/physrev.00008.2003 (inactive 2008-06-24). PMID 14506303. http://physrev.physiology.org/cgi/pmidlookup?view=long&pmid=14506303.
+  9. ^ a b Harlow, H.J.; Lohuis, T.; Anderson-sprecher, R.C.; Beck, T.D.I. (2004). "Body Surface Temperature Of Hibernating Black Bears May Be Related To Periodic Muscle Activity". Journal of Mammalogy 85 (3): 414â419. doi:10.1644/1545-1542(2004)085< (inactive 2008-06-24).
+  10. ^ Urbancheka M, Pickenb E, Kaliainenc L, Kuzon W (2001). "Specific Force Deficit in Skeletal Muscles of Old Rats Is Partially Explained by the Existence of Denervated Muscle Fibers. [1]". The Journals of Gerontology Series A: Biological Sciences and Medical Sciences 56:B191-B197.
+  11. ^ Farvid M, Ng, T, Chan D, Barrett P, Watts G (2005). "Association of adiponectin and resistin with adipose tissue compartments, insulin resistance and dyslipidaemia. [http://answers.google.com/answers/threadview?id=576481".
+  12. ^ Evolution of muscle fibers
+
+## References
+
+  * Costill, David L and Wilmore, Jack H. (2004). Physiology of Sport and Exercise. Champaign, Illinois: Human Kinetics. ISBN 0-7360-4489-2.
+  * Phylogenetic Relationship of Muscle Tissues Deduced from Superimposition of Gene Trees, Satoshi OOta and Naruya Saitou, Mol. Biol. Evol. 16(6) 856â7, 1999
+  * Johnson George B. (2005) "Biology, Visualizing Life." Holt, Rinehart, and Winston. ISBN 0-03-016723-X
+
+## External links
+
+  * Muslumova, Irada (2003). "Power of a Human Heart". The Physics Factbook. http://hypertextbook.com/facts/2003/IradaMuslumova.shtml. (Heart output 1.3 to 5 watts, lifetime output 2 to 3 Ã109 joules)
+  * University of Dundee article on performing neurological examinations (Quadriceps "strongest")
+  * Muscle efficiency in rowing
+  * Human Muscle Tutorial (clear pictures of main human muscles and their Latin names, good for orientation)
+  * Microscopic stains of skeletal and cardiac muscular fibers to show striations. Note the differences in myofibrilar arrangements.
+
+v â¢ d â¢ e
+
+Biological tissue  
+Animals
+
+Epithelium \- Connective \- Muscular \- Nervous  
+Plants
+
+Dermal \- Vascular \- Ground  
+v â¢ d â¢ e
+
+Muscular system  
+Topics
+
+Muscular tissue Â· Muscle contraction Â· Muscles of the human body  
+Types of muscles
+
+Cardiac muscle Â· Skeletal muscle Â· Smooth muscle  
+v â¢ d â¢ e
+
+Histology: muscle tissue  
+Striated  
+muscle
+
+Skeletal  
+muscle
+
+Costamere/  
+DAPC
+
+Membrane/  
+extracellular
+
+DAP: Sarcoglycan (SGCA, SGCB, SGCD, SGCE, SGCG, SGCZ) Â· Dystroglycan  
+Sarcospan Â· Laminin, alpha 2  
+Intracellular
+
+Dystrophin Â· Dystrobrevin (A, B) Â· Syntrophin (A, B1, B2, G1, G2) Â·
+Syncoilin Â· Dysbindin Â· Synemin/desmuslin  
+related: NOS1 Â· Caveolin 3  
+General
+
+Neuromuscular junction Â· Motor unit Â· Muscle spindle Â· Excitation-
+contraction coupling Â· Sliding filament mechanism  
+Cardiac  
+muscle
+
+Myocardium Â· Intercalated disc Â· Nebulette  
+General
+
+Connective tissue
+
+Epimysium Â· Fascicle Â· Perimysium Â· Endomysium  
+Fiber
+
+Muscle fiber (intrafusal, extrafusal) Â· Myofibril Â·
+Microfilament/Myofilament  
+Sarcomere/  
+(a, i, and h bands;  
+z and m lines)
+
+Myofilament (thin filament/actin, thick filament/myosin, elastic
+filament/titin, nebulin)  
+
+Tropomyosin
+
+Troponin (T, C, I)  
+Cells
+
+Myoblast/Myocyte Â· Satellite cell  
+Other
+
+Desmin Â· Sarcoplasm Â· Sarcolemma (T-tubule) Â· Sarcoplasmic reticulum  
+Smooth  
+muscle
+
+Calmodulin Â· Vascular smooth muscle  
+Other/  
+ungrouped
+
+Myotilin Â· Telethonin Â· Dysferlin Â· Fukutin Â· Fukutin-related protein  
+v â¢ d â¢ e
+
+List of muscles of head and neck: the head  
+Extraocular (CN III, IV, VI)
+
+oblique (inferior, superior) Â· rectus (superior, inferior, medial, lateral)
+Â· levator palpebrae superioris (superior tarsal)  
+Mastication (CN V3)
+
+masseter Â· temporalis Â· pterygoid (lateral, medial)  
+Facial (CN VII)
+
+Ear
+
+auriculares (anterior, superior, posterior) Â· temporoparietalis  
+Scalp/eyelid
+
+occipitofrontalis (occipitalis, frontalis) Â· orbicularis oculi (depressor
+supercilii) Â· corrugator supercilii  
+Nose
+
+procerus Â· nasalis (dilatator naris) Â· depressor septi nasi Â· levator labii
+superioris alaeque nasi  
+Mouth
+
+levator anguli oris Â· levator labii superioris Â· zygomaticus (major, minor)
+
+orbicularis oris Â· risorius Â· buccinator
+
+depressor anguli oris Â· depressor labii inferioris Â· mentalis  
+Mouth/throat (CN IX, X, XI)  
+(except TVP=V3)
+
+Soft palate
+
+veli palatini (tensor, levator) Â· musculus uvulae Â· palatopharyngeus (to
+pharnyx) Â· palatoglossus (to tongue)  
+Pharynx
+
+pharyngeal constrictor (superior, middle, inferior) Â· longitudinal
+(stylopharyngeus, salpingopharyngeus)  
+Larynx
+
+cricothyroid Â· cricoarytenoid (posterior, lateral) Â· arytenoid (oblique
+arytenoid/aryepiglottic, transverse arytenoid) Â· thyroarytenoid (vocal,
+thyroepiglottic)  
+Tongue (CN XII)
+
+extrinsic (genioglossus, hyoglossus/chondroglossus, styloglossus) Â· intrinsic
+(superior longitudinal, inferior longitudinal, transverse, vertical)  
+v â¢ d â¢ e
+
+List of muscles of head and neck: the neck  
+Cervical
+
+CN VII (superficial): platysma  
+CN XI (deep): sternocleidomastoid  
+Suprahyoid
+
+CN V3 (medial): mylohyoid Â· anterior belly of digastric
+
+CN VII (lateral): stylohyoid Â· posterior belly of digastric
+
+C1 (deep): geniohyoid  
+Infrahyoid/strap
+
+C1: thyrohyoid  
+C1-C3: sternohyoid Â· sternothyroid Â· omohyoid  
+Vertebral
+
+C1-C6 (anterior): rectus capitis (anterior, lateralis) Â· longus (capitis,
+colli)  
+C3-C8 (lateral): scalene (anterior, medius, posterior)  
+v â¢ d â¢ e
+
+List of muscles of torso  
+BACK
+
+splenius (capitis, cervicis) Â· erector spinae (iliocostalis, longissimus,
+spinalis) Â· latissimus dorsi  
+transversospinales: (semispinalis dorsi, semispinalis cervicis, semispinalis
+capitis, multifidus, rotatores) Â· interspinales Â· intertransversarii  
+SUBOCCIPITAL
+
+rectus capitis posterior (major, minor) Â· obliquus capitis (inferior,
+superior)  
+CHEST
+
+intercostales (external, internal, innermost) Â· subcostales Â· transversus
+thoracis Â· levatores costarum Â· serratus posterior (inferior, superior) Â·
+diaphragm  
+ABDOMEN
+
+anterior/lateral wall: obliques (external, internal) Â· transversus abdominis
+Â· rectus abdominis Â· pyramidalis
+
+posterior wall: quadratus lumborum Â· psoas major/psoas minor Â· iliacus
+
+cremaster  
+PELVIS/FLOOR
+
+levator ani (iliococcygeus, pubococcygeus, puborectalis) Â· coccygeus  
+PERINEUM
+
+anal triangle: sphincter ani (externus, internus)
+
+superficial perineal pouch (superficial transverse perineal, bulbospongiosus,
+ischiocavernosus)
+
+deep perineal pouch (deep transverse perineal, sphincter urethrae
+membranaceae)  
+v â¢ d â¢ e
+
+List of muscles of upper limbs  
+Vertebral column
+
+trapezius Â· latissimus dorsi Â· rhomboid (major, minor) Â· levator scapulae  
+Thoracic cavity
+
+pectoralis major Â· pectoralis minor Â· subclavius Â· serratus anterior  
+Shoulder
+
+deltoid Â· rotator cuff (supraspinatus, infraspinatus, teres minor,
+subscapularis) Â· teres major  
+Arm
+
+Anterior
+
+coracobrachialis Â· biceps brachii Â· brachialis  
+Posterior
+
+triceps brachii Â· anconeus  
+Forearm
+
+Anterior
+
+superficial: pronator teres Â· palmaris longus Â· flexor carpi radialis Â·
+flexor carpi ulnaris Â· flexor digitorum superficialis  
+deep: pronator quadratus Â· flexor digitorum profundus Â· flexor pollicis
+longus  
+Posterior
+
+superficial: mobile wad (brachioradialis, extensor carpi radialis longus and
+brevis) Â· extensor digitorum Â· extensor digiti minimi Â· extensor carpi
+ulnaris  
+deep: supinator Â· anatomical snuff box (abductor pollicis longus, extensor
+pollicis brevis, extensor pollicis longus) Â· extensor indicis  
+Hand
+
+Lateral volar
+
+thenar (opponens pollicis, flexor pollicis brevis, abductor pollicis brevis)
+Â· adductor pollicis  
+Medial volar
+
+hypothenar (opponens digiti minimi, flexor digiti minimi brevis, abductor
+minimi digiti) Â· palmaris brevis  
+Intermediate
+
+lumbrical Â· interossei (dorsal, palmar)  
+v â¢ d â¢ e
+
+List of muscles of lower limbs  
+ILIAC Region  
+/ ILIOPSOAS
+
+psoas major/psoas minor Â· iliacus  
+BUTTOCKS
+
+gluteals: (maximus, medius, minimus) Â· tensor fasciae latae  
+lateral rotator group: piriformis Â· inferior gemellus Â· obturator internus
+Â· superior gemellus Â· quadratus femoris  
+THIGH
+
+Anterior
+
+sartorius Â· quadriceps (rectus femoris, vastus lateralis, vastus intermedius,
+vastus medialis) Â· articularis genu  
+Posterior/hamstring
+
+biceps femoris Â· semitendinosus Â· semimembranosus  
+Medial
+
+pectineus Â· obturator externus Â· gracilis Â· adductor (longus, brevis,
+magnus)  
+LEG
+
+Anterior
+
+tibialis anterior Â· extensor hallucis longus Â· extensor digitorum longus Â·
+peroneus tertius  
+Posterior
+
+superficial Â· calf/triceps surae (gastrocnemius, soleus) Â· plantaris  
+deep Â· tarsal tunnel (flexor hallucis longus, flexor digitorum longus,
+tibialis posterior) Â· popliteus  
+Lateral
+
+peroneus muscles (longus, brevis)  
+FOOT
+
+Dorsal
+
+extensor hallucis brevis Â· extensor digitorum brevis  
+Plantar
+
+1st layer (abductor hallucis, flexor digitorum brevis, abductor digiti minimi)
+
+2nd layer (quadratus plantae, lumbrical muscle)
+
+3rd layer (flexor hallucis brevis, adductor hallucis, flexor digiti minimi
+brevis)
+
+4th layer (dorsal interossei, plantar interossei)  
+Retrieved from "http://en.wikipedia.org/wiki/Muscle"
+
+Categories: Muscular system | Tissues | Exercise physiology
+
+Hidden categories: Pages with DOIs broken since 2008 | Wikipedia indefinitely
+semi-protected pages | All articles with unsourced statements | Articles with
+unsourced statements since April 2008 | Articles with unsourced statements
+since February 2007 | Articles with unsourced statements since May 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * View source
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * AragonÃ©s
+  * ÜÜªÜ¡ÜÜ
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Cymraeg
+  * Dansk
+  * Deutsch
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Frysk
+  * Galego
+  * íêµ­ì´
+  * Hrvatski
+  * Ido
+  * Bahasa Indonesia
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * á¥áá áá£áá
+  * KurdÃ® / ÙÙØ±Ø¯Û
+  * Latina
+  * LatvieÅ¡u
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * LingÃ¡la
+  * Magyar
+  * ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+  * à¤®à¤°à¤¾à¤ à¥
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Pangasinan
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Runa Simi
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð¡Ð°Ñ Ð° ÑÑÐ»Ð°
+  * Shqip
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Basa Sunda
+  * Suomi
+  * Svenska
+  * Tagalog
+  * à®¤à®®à®¿à®´à¯
+  * à°¤à±à°²à±à°à±
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * VÃµro
+  * ××Ö´×××©
+  * Å½emaitÄÅ¡ka
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 22 March 2009, at 20:36.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

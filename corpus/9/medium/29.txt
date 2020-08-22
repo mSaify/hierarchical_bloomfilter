@@ -1,0 +1,316 @@
+
+# Address Resolution Protocol
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it has insufficient inline citations. Please help to
+improve this article by introducing more precise citations where appropriate.  
+In computer networking, the Address Resolution Protocol (ARP) is the method
+for finding a host's link layer (hardware) address when only its Internet
+Layer (IP) or some other Network Layer address is known. ARP is defined in RFC
+826.[1] It is Internet Standard STD 37.
+
+ARP has been implemented in many types of networks; it is not an IP-only or
+Ethernet-only protocol. It can be used to resolve many different network layer
+protocol addresses to interface hardware addresses, although, due to the
+overwhelming prevalence of IPv4 and Ethernet, ARP is primarily used to
+translate IP addresses to Ethernet MAC addresses. It is also used for IP over
+other LAN technologies, such as Token Ring, FDDI, or IEEE 802.11, and for IP
+over ATM.
+
+In the next generation Internet Protocol, IPv6, ARP's functionality is
+provided by the Neighbor Discovery Protocol (NDP).
+
+The Internet Protocol Suite  
+Application Layer  
+BGP Â· DHCP Â· DNS Â· FTP Â· GTP Â· HTTP Â· IMAP Â· IRC Â· Megaco Â· MGCP Â·
+NNTP Â· NTP Â· POP Â· RIP Â· RPC Â· RTP Â· RTSP Â· SDP Â· SIP Â· SMTP Â· SNMP
+Â· SOAP Â· SSH Â· Telnet Â· TLS/SSL Â· XMPP Â· (more)  
+Transport Layer  
+TCP Â· UDP Â· DCCP Â· SCTP Â· RSVP Â· ECN Â· (more)  
+Internet Layer  
+IP (IPv4, IPv6) Â· ICMP Â· ICMPv6 Â· IGMP Â· IPsec Â· (more)  
+Link Layer  
+ARP Â· RARP Â· NDP Â· OSPF Â· Tunnels (L2TP) Â· Media Access Control
+(Ethernet, MPLS, DSL, ISDN, FDDI) Â· Device Drivers Â· (more)  
+This box: view â¢ talk â¢ edit  
+## Contents
+
+  * 1 Operating Scope
+  * 2 Packet structure
+  * 3 ARP Announcements
+  * 4 ARP Probe
+  * 5 ARP mediation
+  * 6 Variants of the protocol
+  * 7 Inverse ARP and Reverse ARP
+  * 8 See also
+  * 9 References
+  * 10 External links
+
+  
+## [edit] Operating Scope
+
+ARP is a Link Layer protocol because it only operates on the local area
+network or point-to-point link that a host is connected to.[2]
+
+ARP is also very often discussed in terms of the Open Systems Interconnect
+(OSI) networking model, because that model addresses hardware-to-software
+interfaces more explicitly and is preferred by some equipment manufacturers.
+However, ARP was not developed based on the design principles and strict
+encapsulation hierarchy of this model and, therefore, such discussions create
+a number of conflicts as to the exact operating layer within this model. Most
+often ARP is placed into the Data Link Layer (Layer 2), but it also requires
+the definitions of network addresses of the Network Layer.
+
+## [edit] Packet structure
+
+The following is the packet structure used for ARP requests and replies. On
+Ethernet networks, these packets use an EtherType of 0x0806, and are sent to
+the broadcast MAC address of FF:FF:FF:FF:FF:FF. Note that the EtherType
+(0x0806) is used in the Ethernet header, and should not be used as the PTYPE
+of the ARP packet. The ARP type (0x0806) should never be used in the PTYPE
+field of an ARP packet, since a hardware protocol address should never be
+linked to the ARP protocol. Note that the packet structure shown in the table
+has SHA, SPA, THA, & TPA as 32-bit words but this is just for convenience â
+their actual lengths are determined by the hardware & protocol length fields.
+
++ Bits 0 - 7 8 - 15 16 - 31  
+0 Hardware type (HTYPE) Protocol type (PTYPE)  
+32 Hardware length (HLEN) Protocol length (PLEN) Operation (OPER)  
+64 Sender hardware address (SHA) (first 32 bits)  
+96 Sender hardware address (SHA) (last 16 bits) Sender protocol address (SPA)
+(first 16 bits)  
+128 Sender protocol address (SPA) (last 16 bits) Target hardware address (THA)
+(first 16 bits)  
+160 Target hardware address (THA) (last 32 bits)  
+192 Target protocol address (TPA)  
+Hardware type (HTYPE)
+
+    Each data link layer protocol is assigned a number used in this field. For example, Ethernet is 1.
+Protocol type (PTYPE)
+
+    Each protocol is assigned a number used in this field. For example, IP is 0x0800.
+Hardware length (HLEN)
+
+    Length in bytes of a hardware address. Ethernet addresses are 6 bytes long.
+Protocol length (PLEN)
+
+    Length in bytes of a logical address. IPv4 address are 4 bytes long.
+Operation
+
+    Specifies the operation the sender is performing: 1 for request, 2 for reply, 3 for RARP request, and 4 for RARP reply.
+Sender hardware address (SHA)
+
+    Hardware address of the sender.
+Sender protocol address (SPA)
+
+    Protocol address of the sender.
+Target hardware address (THA)
+
+    Hardware address of the intended receiver. This field is ignored in requests.
+Target protocol address (TPA)
+
+    Protocol address of the intended receiver.
+## [edit] ARP Announcements
+
+An ARP announcement (also known as Gratuitous ARP) is a packet containing a
+valid Sender HA and SPA for the host which sent it, with TPA equal to SPA (ie
+destination IP = source IP). Such a request is not intended to solicit a
+reply, but merely updates the ARP caches of other hosts that receive the
+packet. This Gratuitous ARP is usually an ARP request [3], but it may also be
+an ARP reply [4].
+
+Many operating systems perform this during startup. It helps to resolve
+problems which would otherwise occur if, for example, a network card was
+recently changed (changing the IP-address-to-MAC-address mapping) and other
+hosts still have the old mapping in their ARP caches.
+
+Gratuitous ARP is also used by some drivers to ensure load balancing on
+incoming traffic. In a team of network cards, it is used to announce a
+different MAC address in the team to receive incoming packets.
+
+ARP announcements can be used to defend link-local IP addresses in the
+(Zeroconf) protocol (RFC 3927), and for IP address takeover within high-
+availability clusters.
+
+## [edit] ARP Probe
+
+This term is used in the IPv4 Address Conflict Detection specification (RFC
+5227). Before beginning to use an IPv4 address (whether received from manual
+configuration, DHCP, or some other means), a host implementing this
+specification must test to see if the address is already in use, by
+broadcasting ARP probe packets. An ARP Request constructed with an all-zero
+sender IP address is referred to as an ARP Probe.
+
+## [edit] ARP mediation
+
+ARP mediation refers to the process of resolving Layer 2 addresses when
+different resolution protocols are used on multiple connected circuits, e.g.,
+ATM on one end and Ethernet on the others.
+
+## [edit] Variants of the protocol
+
+ARP has also been adapted to resolve many types of Layer 2 addresses; for
+example, ATMARP is used to resolve ATM NSAP addresses in the Classical IP over
+ATM protocol.
+
+## [edit] Inverse ARP and Reverse ARP
+
+The Inverse Address Resolution Protocol, also known as Inverse ARP or InARP,
+is a protocol used for obtaining Layer 3 addresses (e.g., IP addresses) of
+other nodes from Layer 2 addresses (e.g. the DLCI in Frame Relay networks). It
+is primarily used in Frame Relay and ATM networks, where Layer 2 addresses of
+virtual circuits are sometimes obtained from Layer 2 signaling, and the
+corresponding Layer 3 addresses must be available before these virtual
+circuits can be used.
+
+ARP translates Layer 3 addresses to Layer 2 addresses, therefore InARP can be
+viewed as its inverse. In addition, InARP is actually implemented as an
+extension to ARP. The packet formats are the same; only the operation code and
+the certain field values differ.
+
+Reverse ARP (RARP), like InARP, also translates Layer 2 addresses to Layer 3
+addresses. However, RARP is used to obtain the Layer 3 address of the
+requesting station itself, while in InARP the requesting station is querying
+the Layer 3 address of another node. RARP was obsoleted by BOOTP which itself
+has been superseded by the Dynamic Host Configuration Protocol (DHCP).
+
+## [edit] See also
+
+  * Arping
+  * Arptables
+  * Arpwatch
+  * ARP spoofing
+  * Proxy ARP
+  * Reverse ARP (RARP)
+  * Serial line ARP
+  * Zeroconf
+
+## [edit] References
+
+  1. ^ RFC 826 Address Resolution Protocol, Internet Standard STD-37
+  2. ^ RFC 1122 Requirements for Internet Hosts -- Communication Layers
+  3. ^ Re: [dhcwg] Gratuitous ARP in DHCP vs. IPv4 ACD Draft
+  4. ^ RFC 2002 Section 4.6
+
+## [edit] External links
+
+  * RFC 903 \- Reverse Address Resolution Protocol, Internet Standard STD 38.
+  * RFC 2390 \- Inverse Address Resolution Protocol, draft standard
+  * ArpON home page
+  * draft - IPv4 Address Conflict Detection
+  * ARP Sequence Diagram (pdf)
+  * Gratuitous ARP
+  * ARP Questions and Answers
+  * Free ARP tools with source code (French)
+  * ARP-SK ARP traffic generation tools*
+  * ARP demo
+
+This article was originally based on material from the Free On-line Dictionary
+of Computing, which is licensed under the GFDL.
+
+Retrieved from "http://en.wikipedia.org/wiki/Address_Resolution_Protocol"
+
+Categories: Internet standards | Link protocols
+
+Hidden categories: Articles lacking in-text citations | Wikipedia articles
+incorporating text from FOLDOC
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * AragonÃ©s
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Euskara
+  * FranÃ§ais
+  * íêµ­ì´
+  * Hrvatski
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * LatvieÅ¡u
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 30 March 2009, at 06:19.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,189 @@
+
+# Guide number
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article does not cite any references or sources. Please help improve this
+article by adding citations to reliable sources. Unverifiable material may be
+challenged and removed. (December 2007)  
+The guide number for an electronic flash measures its ability to illuminate
+the subject to be photographed at a specific film or sensor speed and angle of
+view. A higher guide number indicates a more powerful flash.
+
+For example, doubling the guide number means the flash can illuminate an
+object at twice the distance, or for an object at the same distance can be
+used at one quarter the film speed. Doubling the guide number requires a
+quadrupling of the flash's power, as the area to be illuminated increases as
+the square of the distance. (cf. inverse-square law)
+
+## Contents
+
+  * 1 Value
+    * 1.1 Distance
+    * 1.2 Examples
+  * 2 Applications
+  * 3 References
+
+  
+## [edit] Value
+
+The guide number is the product of the maximum flash-to-subject distance and
+the f-number of the aperture that will correctly expose a specified speed of
+film.
+
+    
+    GN = distance Ã f-number
+    
+The guide number represents an exposure constant for a flash unit. For
+example, a guide number of 80 feet at ISO 100 means that a target 20 feet away
+can be fully illuminated with an aperture of f/4 (80 = 20 Ã 4) using a
+sensitivity of ISO 100. For the same guide number and an aperture of f/8, the
+light source should be 10 feet from the subject (80 = 10 Ã 8). [1]
+
+Guide numbers can be given in feet or metres, and are usually given for ISO
+100 sensitivity. The guide number of 80 feet in the previous example
+corresponds to a guide number of approximately 24 metres. The calculations
+remain the same: a target 6 metres (20 feet) away requires an aperture of f/4
+(24 = 6 Ã 4).
+
+Guide numbers do not depend on the focal length of the lens, but if the flash
+unit can be adjusted to match the focal length, this adjustment will influence
+the guide number: the wider the angle of the flash, the lower the guide
+number.
+
+When comparing flash units, make sure to compare the guide numbers for the
+same ISO rating and the same focal length.
+
+### [edit] Distance
+
+The distance in the guide number calculation is the distance from the flash to
+the subject. The position of the camera is not relevant.
+
+The flash-to-subject distance is longer when bounced flash is used, and the
+illumination is less when a diffuser is attached to the flash unit. In the
+former case it is possible to calculate the flash to subject distance that the
+light travels along the bounce path instead, but this still does not take into
+account the loss of light due to incomplete reflection. Most photographers
+apply a rule of thumb such as opening up by one to two stops.
+
+### [edit] Examples
+
+Typical built-in flash devices on cameras may have a guide numbers of 15 feet
+(5 m) or less, while high-powered flashes can have guide numbers of over 250
+ft or 75 m. [2] [3] [4] [5] [6] [7] [8]
+
+## [edit] Applications
+
+Guide numbers are especially useful in dealing with manual flash units when
+calculating the aperture for a particular exposure or the maximum flash range
+for a given aperture. In practice, it's normal to know the guide number and
+the distance and need the aperture, so the equation is rearranged to:
+
+    
+    f-number = GN / Distance
+    
+Some flash units have a dial on the back (in fact, a simple form of slide
+rule) or a chart to help in calculating the desired settings.
+
+More recently, guide numbers are being used to market the power of a flash
+unit. However, guide numbers are not measurements of the amount of light
+output of a flash device, which is normally measured in terms of luminous
+intensity (candlepower) or energy capacity (watt seconds). Some modern flash
+units come with zoom attachments that can diffuse or concentrate the light
+output according to the angle of view of the lens, making it difficult to
+compare different flash units based on the guide number alone.
+
+## [edit] References
+
+  1. ^ "Strobist page on Guide Numbers.". http://strobist.blogspot.com/2007/12/guide-number-your-free-flash-meter.html.
+  2. ^ "a Metz potato-masher flash with a GN of 54, @ 50mm, or 76 @ 105mm zoom, ISO 100.". http://www.metz.de/en/foto-elektronik/metz-mecablitz-modelle/sca-blitzgeraete/mecablitz-76-mz-5-digital/datenblatt.html.
+  3. ^ "a Canon flash with a GN of 58 @ 105mm, ISO 100.". http://www.usa.canon.com/consumer/controller?act=ModelInfoAct&tabact=ModelTechSpecsTabAct&fcategoryid=141&modelid=14998.
+  4. ^ "a Nikon flash with a GN of 38 @ 35mm, and 56 @ 105mm, ISO 100.". http://nikonusa.com/Find-Your-Nikon/Product/Flashes/4801/SB-800-AF-Speedlight-.html#Tech%20Specs.
+  5. ^ "a Sunpak flash for pocket cameras, with a GN of 20, but no information about what angle of coverage that is measured at, ISO 100.". http://sunpak.jp/english/products/pf20xd/index.html.
+  6. ^ "a Nikon flash for smaller cameras with a GN of 30m, "18mm zoom head position", ISO 200.". http://nikonusa.com/Find-Your-Nikon/Product/Flashes/4806/SB-400-Speedlight-Unit.html#Tech%20Specs.
+  7. ^ "Canon flash with a GN of 190 feet (58m) at 105mm zoom, ISO 100.". http://www.usa.canon.com/consumer/controller?act=ModelInfoAct&fcategoryid=141&modelid=10514#ModelTechSpecsAct.
+  8. ^ "Mecablitz 76 MZ-5 digital with guide number 249ft (76 m) at ISO 100 and 105 mm.". http://www.metz.de/en/photo-electronics/mecablitz-models/sca-flash-units/mecablitz-76-mz-5-digital.html.
+
+Retrieved from "http://en.wikipedia.org/wiki/Guide_number"
+
+Categories: Flash photography | Metrics
+
+Hidden categories: Articles lacking sources from December 2007 | All articles
+lacking sources
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Boarisch
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * Italiano
+  * Nederlands
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 26 March 2009, at 01:58.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

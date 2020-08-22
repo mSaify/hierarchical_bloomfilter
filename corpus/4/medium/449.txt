@@ -1,0 +1,716 @@
+
+# Civilization IV
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Sid Meier's Civilization IV  
+Sid Meier's Civilization IV  
+  
+Developer(s) Firaxis Games  
+Publisher(s) 2K Games & Aspyr  
+Designer(s) Soren Johnson  
+Engine Gamebryo  
+Version 1.74[1] (July 20, 2007)  
+Platform(s) Windows, Mac OS X  
+Release date(s) Microsoft Windows  
+NA October 25, 2005  
+PAL November 4, 2005  
+Mac OS X  
+June 30, 2006  
+Genre(s) Turn-based strategy game  
+Mode(s) Single player, multiplayer  
+Rating(s) ESRB: E10+  
+OFLC: PG  
+PEGI: 12+  
+  
+Media CD (2), DVD (1)  
+System requirements Windows 2000/XP/Vista  
+1.2 GHz Processor  
+256 MB RAM  
+1.7 GB free space  
+4x DVD Drive  
+DirectX 9.0c âcompatible 64 MB video card with hardware T&L & pixel shader  
+DirectX 9.0c-compatible sound card  
+Input methods Mouse, Keyboard  
+Sid Meier's Civilization IV (Civilization 4 or Civ4) is a strategy computer
+game released in 2005 and developed by lead designer Soren Johnson under the
+direction of Sid Meier and Meier's studio Firaxis Games. It is the fourth
+installment of the Civilization series. Civilization IV was released between
+October 25 and November 4, 2005 in North America, Europe, and Australia. The
+game's first expansion, Warlords, was released on July 24, 2006 in the United
+States and July 28, 2006 in the European Union. A second expansion, Beyond the
+Sword, was released worldwide between July 18 and July 30, 2007. As of March
+26, 2008, Civilization IV has sold 3 million copies according to Take-Two
+Interactive.[2] The game was re-released along with both its expansions in
+2007 in an edition entitled Sid Meier's Civilization IV: Complete.
+
+Civilization IV is a turn-based game in which the player builds an empire from
+very limited initial resources. All standard full-length games begin in 4000
+BC with a settler who builds a single city. From there, the player expands an
+empire while contending with rival nations, using the geography, developing
+infrastructure, and encouraging scientific and cultural progress. By default,
+players can win the game by accomplishing one of five goals: conquering all
+other civilizations, controlling the majority of the world's land and
+population, being the first to land a colonizing ship on Alpha Centauri,
+increasing the Culture ratings of three different cities to "legendary"
+levels, or by being declared "World Leader" by winning a popularity election
+through the United Nations. If the game's clock runs out (by default in the
+year 2050 AD) with none of these goals fulfilled by any nation, the nation
+with the highest score is declared the winner.
+
+Civilization IV was released in English, German, French, Spanish, Italian,
+Japanese, and Chinese.
+
+## Contents
+
+  * 1 Gameplay
+    * 1.1 Diplomacy
+    * 1.2 Combat
+    * 1.3 Production and trade
+    * 1.4 Religions
+    * 1.5 Civilizations and leaders
+    * 1.6 Technologies
+    * 1.7 Wonders
+    * 1.8 Scoring system
+    * 1.9 Victory conditions
+  * 2 New features
+    * 2.1 Gameplay
+    * 2.2 Interface changes
+    * 2.3 Audio-visual
+    * 2.4 Wonders and Projects
+    * 2.5 Official maps and scenarios
+  * 3 Customization
+    * 3.1 World Builder
+    * 3.2 XML
+    * 3.3 Python
+    * 3.4 Software development kit
+  * 4 Launch problems
+  * 5 Platforms
+  * 6 Reception
+    * 6.1 Critics' scores
+    * 6.2 Awards
+  * 7 Expansions
+  * 8 See also
+  * 9 References
+  * 10 External links
+
+  
+## [edit] Gameplay
+
+### [edit] Diplomacy
+
+Diplomacy in Civilization generally involves the trading of goods. Specific
+technologies are required to trade different commodities (for instance, one
+must know the secret of paper to trade world maps). Players may trade
+technologies, resources (including luxuries such as wine), maps (to reveal
+information about the rest of the world) and gold. Advanced diplomacy options
+include the creation of trade embargoes, the promise of military aid, and the
+adoption of particular civics and/or a religion. Finally, the United Nations
+wonder allows the passing of global resolutions (e.g. the Nuclear Non-
+Proliferation Treaty) in addition to granting access to the diplomatic
+victory.
+
+The reasoning behind diplomacy is more transparent when compared to
+Civilization III (Civ3): the Diplomacy window now not only displays the other
+leader's disposition towards the player (from friendly to furious), but why
+they feel that way (e.g. "-2: You refused to stop trading with our worst
+enemies!"). When a leader is sympathetic towards another civilization, they
+are more likely to accept deals without unfair bargaining.
+
+### [edit] Combat
+
+Instead of receiving generic increases in rank as in Civ3, the player is
+allowed to "promote" Civilization IV units with specific upgrades that provide
+bonuses in certain situations (+25% city defense, +25% vs. melee units, etc).
+There are 41 different types of combat promotions. It is also now possible for
+players to examine "combat odds" before attacking, giving the player an idea
+as to whether a given attack will succeed or not.
+
+### [edit] Production and trade
+
+The game features 32 types of resources which require a terrain improvement
+(such as a farm or an oil well) to be used or traded. Resources enable
+construction (a knight unit cannot be built without horses and iron), double
+the speed of construction (the Pyramids are built twice as fast with stone
+available) or simply add happiness or health to all cities. To trade goods or
+to send them to other cities within one's border, they must have some form of
+connection between the goods and the city. In the later game, this connection
+can be through ocean tiles, but in the early game, it is limited to roads and
+rivers. Cities on the same river or same coastline (with the sailing
+technology) are automatically connected for trading purposes. Unlike in Civ3,
+the player is no longer able to transfer all production from one project to
+another, but all production on an already-begun project will remain. For
+example, if the player is building a temple but decides to switch to a harbor,
+production on the harbor will start from scratch, but the temple will stay in
+the building queue and retain all previous progress, aside from some decay
+over time. As an ancillary rule, if one culture is building a World Wonder but
+another empire completes it first, the losing culture is compensated with gold
+proportional to the number of production points lost in the failed attempt to
+build the wonder.
+
+Trade can be conducted with any civilization that the player has made contact
+with. AI Civ leaders tend to view resources in two groups. There are key
+resources such as stone, iron, uranium, and the likes that assist in weapon
+and building production, and all other resources, such as incense and spices,
+which are helpful to a Civilization but not necessary for unit production. The
+AI will typically not trade key resources away unless another key resource is
+being given. Thus all key resources are considered of equal value to the
+computer. Similarly all other resources that do not affect units and building
+are considered equal as well. This can lead to exploitation by using a less
+valuable Key resource to obtain a high demand one. For instance ivory
+(elephants) can be traded equally for uranium and the AI will gladly oblige if
+they are on fair terms with the player. Trading for a single instance of a
+resource gives you all the benefits of it.
+
+### [edit] Religions
+
+The concept of religion is new to Civilization IV, where in previous games
+players built generic temples and cathedrals to contribute to happiness and
+culture. There are now seven distinct religions in the game: Buddhism,
+Christianity, Confucianism, Hinduism, Islam, Judaism and Taoism. Each religion
+in the default game is associated with a specific technology on the tech tree;
+the first civilization that gains the technology founds the religion. For
+example, Christianity is founded by the civilization that discovers "Theology"
+before any of the others do. The four later religions (Christianity,
+Confucianism, Islam, and Taoism) begin with a free Missionary unit for reasons
+of game balance; missionaries can later be trained only at a city that has
+constructed an associated monastery. Custom games can link the founding of a
+religion to a technology but the player has their pick of which religion is
+founded. Other than this, there are no special traits or bonuses associated
+with any particular religion in order to avoid controversy.[3]
+
+Religion factors into a number of existing game mechanics. Civilizations that
+share a common state religion will find themselves more agreeable in their
+diplomatic dealings; conversely, civilizations with differing state religions
+will not be as close diplomatically. The religion's founder may also receive
+an economic benefit: if that civilization expends a Great Prophet at their
+religion's holy (founding) city, they will construct that religion's most
+sacred building, and it will generate 1 gold per turn for every other city
+that hosts said religion. If a player has a missionary, it can be sent into a
+friendly or rival city to spread the religion of the missionary. Once a
+religion has spread to a city, there is no way it can be removed. Finally, if
+a civilization has adopted a religion as a state religion and owns that
+religion's holy city, they will receive 'line-of-sight' (fog of war is lifted)
+in every other city hosting that religion.
+
+When it comes to selecting a player's civic options, there are five under the
+"religion" category. Players impose a theocracy, adopt pacifism, have freedom
+of worship or have an organised and integrated religious policy. These civics
+can provide a great incentive to spread a state religion throughout one's
+empire, as the best bonuses will only be applied to cities in which the
+religion is present. Atheism is not a religious choice in the game.
+
+### [edit] Civilizations and leaders
+
+Each of the eighteen civilizations has at least one leader, and eight have two
+leaders. Each leader has two 'personality traits' which offer bonuses to
+various game mechanics, as well as a distinct personality and behavior.
+Several historic figures not used in previous Civilization games, but included
+in Civ IV are: Asoka, Cyrus II, Franklin D. Roosevelt, George Washington,
+Hatsheput, Mansa Musa, Kublai Khan, Peter the Great, Qin Shi Huang, Saladin
+(though Saladin was a hidden leader in Civilization II), and Queen Victoria.
+Some art assets also existed in the game files for a Sumerian civilization led
+by Gilgamesh and they were used by the modding community to introduce the
+Sumerians into the game. Other unfinished art included leader head artwork for
+Pericles, Augustus, and Menes. Gilgamesh, Pericles and Augustus were
+officially added in the expansion packs later.[4]
+
+All civilizations have some element of uniqueness and all leaders have certain
+traits based on their achievements in life. All civilizations also have a
+unique unit, which replaces a standard unit (such as Persian Immortals
+replacing Chariots).
+
+### [edit] Technologies
+
+<IMG>
+
+<IMG>
+
+Tech tree of Civilization IV
+
+As in prior versions of Civilization, a set of technologies are arranged in a
+tech tree. A total of 86 are included in the game, up from 81 in Civilization
+III.[5] Technologies have many uses; they can be used for trade, for the
+construction of new terrain improvements, units, buildings and wonders, to
+reveal new resources, for the founding of new religions, or for the
+development of new forms of government. To discover a new technology, it is
+first necessary to discover the prerequisite technologies (for example,
+democracy can only be discovered after the printing press).
+
+Unlike previous versions, Technology development is flexible: certain
+technologies can be discovered by following more than just one path, and
+others (all six starting technologies, for example hunting) are not linked to
+any technology and must be found from scratch. The game's technology tree
+displays all the techs in the game and their relation with one another, and
+allows the player to queue any number of technologies for research. If
+multiple paths lead to the target technology, the AI will pick the shortest.
+The final technology in the game, as in previous versions, is called "Future
+Tech", followed by a number; each iteration of it imparts a happiness and
+health bonus to that nation's cities. In previous Civ games, Future tech gave
+a score bonus, but no gameplay advantages.
+
+The discovery of each technology is announced by the game's narrator, Leonard
+Nimoy of Star Trek fame. In the single-player game, he reads off a famous
+quotation pertaining to the technology; the sources of the quotations range
+from the Buddha, Charles Darwin and the Bible to Lonnie Donegan, Steve
+Wozniak, Dan Quayle, and a monotonic "Beep. Beep. Beep." attributed to the
+Sputnik space probe. In multi-player games, Nimoy simply declares, "You have
+discovered [Name of Technology]."
+
+### [edit] Wonders
+
+The game features a number of World Wonders which bestow certain advantages to
+the city or the empire of the civilization that construct it. A number of
+World Wonders which have been present in earlier versions of the game have
+been tweaked to reduce their overall effect on the game dynamic. For example,
+in prior versions the Pyramids (granary in every city) and Sistene Chapel
+(cathedral in every city) could dramatically alter the balance of gameplay. In
+Civilization IV, many of the World Wonders provide a temporary boost to money,
+science and a permanent boost to culture. A Wonder can only be built once
+although multiple civilizations can compete to be the first to complete said
+wonder.
+
+There are a number of National Wonders which can be built by all civilizations
+once which give city-specific bonuses and often have a particular pre-
+requisite gameplay conditions to permit construction as well the relevant
+technologies. Only two National Wonders can be built in any one city (National
+Wonders created by expending Great Prophets in the Holy City of a religion are
+immune from this limitation) which encourages players to think strategically
+about which National Wonders should be built in which cities.
+
+### [edit] Scoring system
+
+In Civilization IV the leadership skills of players are compared to a
+subjective list of twenty of the best or worst leaders in history, similar to
+the list in the first Civilization game. The score is based on a number of
+factors, including military growth and success, population size and attitude,
+technological advancement, turns taken to win, construction of wonders and
+economic growth.
+
+The released version of the game abandoned Civilization III's graded scale. In
+Civ3, a spectacular victory on the easiest difficulty would provide the player
+with only a middling score, and the best titles were only awarded to players
+attempting the hardest difficulties. The original Civilization, as well as
+Civilization IV, on the other hand, allows the player to obtain any score on
+any difficulty level. As of the v1.61 patch, the grading system has returned
+to the curved-by-difficulty scale.
+
+### [edit] Victory conditions
+
+  * Conquest Victory - achieved by the player who successfully eliminates all of their rivals.
+  * Domination Victory - awarded when a player uses military might and cunning negotiation tactics to conquer a certain (often large) percent of the world's population and a certain (also, but not quite as large) percent of the global land mass.
+  * Cultural Victory - awarded when a player has developed a culture so powerful that three of their cities have achieved legendary culture status.
+  * Space Race Victory - achieved when a player completes all of the components necessary to send colonists off into space to found a new colony on Alpha Centauri and is the first to have their ship arrive there.
+  * Diplomatic Victory - awarded to the diplomatically gifted player who is elected to a achieve diplomatic victory by the players by garnering 75% of the "Yes" votes (abstentions don't count)
+  * Time Victory - achieved by the player who can do whatever it takes throughout all of human history to defeat enemies, expand their civs, win the hearts and minds of the people, and boasts the highest score at the end of the game, in 2050 AD. A time victory will only be enabled if any of the previous five victories are not achieved by 2050. A time victory, like all the other victory conditions, can be disabled, and the player can build his civilization past 2050 AD (although he/she occasionally will be subjected to "Global Warming").
+
+## [edit] New features
+
+### [edit] Gameplay
+
+Many aspects of Civilization IV are new to the series. These include:
+
+  * Great People that fall into seven categories, the original great people are: artists, merchants, prophets, engineers and scientists; generals and spies are added in expansion packs. Great People can be used to create several different effects: they can join the city as a Specialist; provide a one-time bonus or unique building; contribute to the discovery of a new technology; or be used to trigger a Golden Age, at least two at a time, except with the Beyond the Sword expansion where the first is triggered by only one. Great People include Aristotle, Plato, Moses, Homer, William Shakespeare, Ramakrishna, Michelangelo, Leonardo Da Vinci, Isaac Newton, Zoroaster, Jalal al-Din Muhammad Rumi, Coco Chanel, Albert Einstein, Marie Curie, and more. They can be born to any civilization.
+  * Great artists visually resemble famous people, such as Elvis Presley and William Shakespeare, even when they are not given those names. The Shakespeare-like one holds out a skull and says something sounding like "To be...or not...to be". This is a reference to Hamlet. The "create great work" button for the Great Artists is a picture of the Mona Lisa.
+  * The founding and spreading of religions and the adoption of a state religion (see above).
+  * Instead of subtracting from a city's population upon completion, Settler and Worker units cause the city to suspend its population growth by contributing its food production to the unit's total. Both units are relatively expensiveâwhich, as implied by the in-game "Hints" feature, is to slow the pace of expansion by forcing players to spend time maturing their cities. (A Settler requires 100 points of food and/or production to create; in comparison, the Musketmen military unit requires only 80.)
+  * The cash flow of cities and city improvements has been reversed completely from predecessor games. The concept of "city maintenance" replaces the concept of "corruption" (an unpopular feature of Civilization III), which was previously used to discourage reckless building of numerous, underdeveloped cities. Previously, a city would lose part of its production due to corruption (but would still produce net income). Now, each city in a CivIV empire pays a certain maintenance fee which rises when new cities are created. Thus a new city with no improvements is a net drain on income. City improvements in Civ IV now produce money rather than costing money every turn, so spending time to build improvements will allow cities to eventually yield net income. Thus, civilizations with many small, underdeveloped or inefficient cities will find their empire too expensive to maintain as the city maintenance costs exceed the income from improvements in cities.
+
+<IMG>
+
+<IMG>
+
+A screenshot of Civics option menu in Civilization 4'.
+
+  * Governments have been replaced with a more flexible civics model with five different categories â Government, Legal, Labor, Economy, and Religion â and five separate civic options within each category. For example, the Labor category includes the civics tribalism, slavery, serfdom, caste system and emancipation. This appears to be adapted from the Social Engineering section of Sid Meier's Alpha Centauri.
+  * AI civilizations no longer act as if they start the game knowing what the map looks like. Instead, they make full use of all options and exhibit better long-term planning.
+  * Barbarians now form cities in unexplored or unwatched territories, often named after their tribe or culture (Hun, Visigoth, etc). These cities act and react like any other city: they send out worker units to improve terrain, can be captured or razed by military force, can be culture-flipped, and so on. However, they cannot be contacted via diplomacy. Barbarian cities do not produce settlers to expand with new cities, although new barbarian cities can crop up in unexplored territories, as mentioned above.
+  * The United Nations can pass resolutions, which appears to be adapted from Sid Meier's Alpha Centauri. Until the Beyond the Sword expansion pack, these resolutions were binding.
+  * Units now gain different promotions when they gain experience, enabling the player to specialize their units more. These promotions generally increase the unit's strength under certain conditions (in forests or jungles; against gunpowder-based units; when attacking cities) or provide other bonuses. Many units have inherent promotions, which help define their intended use (archers, for example, have an inherent promotion which increases their strength when defending cities or hills).
+  * Military units no longer have separate ratings for attack, defense and health, but instead a single strength rating. In general, when two units are set against each other, the one with the higher number wins; however, the aforementioned promotions may cause changes in the outcome. (Relatedly, a player may consult the probability of success before commissioning an attack.) Finally, as of the game's most recent patch, a damaged unit loses half that amount of combat strength. This revised combat system was largely in response to the "spearman-defeats-tank" problem that has plagued Civilization since its first iteration, wherein nuances of the game's mathematics would allow weak and obsolete units (generally controlled by the AI) to defeat stronger and more modernized forces (generally controlled by the player) on a far more regular basis than common sense would suggest possible.
+  * Individual citizens in each city no longer have their own nationality, as they did in Civ III. Instead, the nationality breakdown of each city has changed to a cultural breakdown; foreign culture can also affect a city without the use of military conquest.
+
+### [edit] Interface changes
+
+  * Pollution, size restrictions, and similar aspects from earlier games are combined into one "City Health" system. Resources and buildings â such as wheat and hospitals â add health points, while population growth and industry add unhealthiness points. Terrain near the city can have positive and negative effects on the health score; for example, forests and fresh water increase the health score, and detrimental terrain features such as jungles add unhealthiness. An imbalance in favor of sickness causes a food production penalty for the city. Fallout continues to exist in the case of a nuclear attack or meltdown.
+  * Some streamlining elements have been introduced, such as the ability to select and issue orders to multiple units at the same time. When population grows, a new technology is discovered, or a new unit/improvement is built, any excess food, research, or production is carried over rather than wasted (truncated).
+  * Greater emphasis has been placed on the overall map-view mode. Where, in previous Civilization games, a player was often forced to access the City Management screen, almost all of its functions have been integrated into (or made accessible via) the standard map view, as have many abilities (diplomacy, research topic selection, tax rate, etc) that were formerly the domain of the Advisor screens. New players often play without leaving the map view, only as players gain the ability and need to micromanage are the specialized screens utilized.
+
+### [edit] Audio-visual
+
+    See also: Music in Civilization IV
+  * More emphasis has also been put on the game's soundtrack, which features compositions of Medieval, Renaissance, Baroque, Classical, Romantic and Minimalist origin, and contemporary pieces (mainly by Jeff Briggs). The name of the title song played at the start of the game is "Baba Yetu". The title means "Our Father" in Swahili, and the song itself is a rendition of the Christian Lord's Prayer. It is performed by Stanford University's Talisman A Cappella and was composed by Christopher Tin. (lyrics and more information, sample)
+  * Each leader has a unique piece of music played during diplomacy (with the exception of Kublai Khan and Genghis Khan who share music). Many of the pieces are popular and familiar; for example, Roosevelt's music is the "Marines' Hymn", and Napoleon's is a variant on "La Marseillaise". Some are renditions of famous pieces of classical music, such as Frederick's piece, which is a paraphrase of the fourth of the Goldberg Variations, or Bismarck's, which is the opening theme of the second movement of Beethoven's Symphony No. 3. Others, such as Mao Zedong and Alexander the Great have music that has been modified from earlier games, such as Civilization III. Still others have entirely original scores.
+  * Narrative voice acting, previously heard in Sid Meier's Alpha Centauri but never used in a game with Civilization in its title, is provided by Leonard Nimoy, who reads a quotation related to a technology when it is discovered. Land-based units also offer short phrases in their culture's native language when selected. If the player's view is near a city, they will hear sounds related to the nation which owns that city.
+  * Sound effects are played when certain buildings or improvements are built, such as coins jingling when a bank is completed. Ambient sounds can also be heard near different terrains when zoomed in. For example, near the ocean or on its shore, waves splashing and breaking up can be heard.
+  * Civilization 4 uses the same 3D engine (Gamebryo) used in Sid Meier's Pirates!, which allows players to zoom smoothly from world map levels down to features in individual cities.
+  * Wonder movies have returned after being absent in Civilization III.
+  * As game time passes and the player enters new eras, pictures of devices that measure the passage of time are shown. When the player leaves the Ancient era and enters the Classical era, a picture of a sundial appears. The player is shown a picture of an hourglass upon entering the medieval era, an armillary sphere upon entering the Renaissance, an analog clock upon entering the Industrial Age, and a digital clock upon entering the Modern Era.
+
+### [edit] Wonders and Projects
+
+  * The Three Gorges Dam has replaced the Hoover Dam, which was a Wonder used in previous versions.
+  * Spaceship journeys to Alpha Centauri are always successful in games prior to the second expansion, Beyond the Sword, after which the chance of success once again varies depending on how complete the spacecraft is; it is possible, by fully constructing the spacecraft, to guarantee success.
+  * Civ IV is the first in the franchise not to feature SETI as a wonder.
+
+### [edit] Official maps and scenarios
+
+Sid Meier's Civilization IV included some bonus content, released with mainly
+the purpose of showing modding capabilities:
+
+  * Earth - This is the world map of the game. 124x68 tiles big, it features just 9 ancient civilizations. It is based on the Robinson projection of the Earth in order to optimize its size.[citation needed] Later, an 18 civilizations version was released, and being reckoned "flawless", it won the first prize at GameFlood modding contest.[6]
+  * Earth Ice Age - This map is set in the world during the last ice age (20,000 years before present). 11 randomly-picked civilizations are contained in this map.[citation needed]
+  * Earth 1000 AD - 13 civilizations populate the world in this exact recreation of the Earth at the time of the Crusades.[citation needed]
+  * Greek World - To reenact the classical Mediterranean, a special map was made, based on Hecataeus' map of the world, as it was known by the Greeks. Extra detail is borrowed from other ancient maps such as Homer's, Herodotus's and Ptolemy's.[citation needed]
+  * Desert War - This scenario represents the Mediterranean theater of World War II. Axis and Allies have different cities as objective. They can win the game holding them for 10 turns.
+  * American Revolution - This scenario begins in 1775 AD. Player can side with American colonists or with the British Crown.
+
+## [edit] Customization
+
+Civilization IV is much more open to modification than its predecessors. Game
+data and rules are stored in XML files, and a Software Development Kit was
+released in April 2006 to allow AI customization. Major parts of the
+interface, map generation, and scripted events are written entirely in Python
+and can be customized.
+
+### [edit] World Builder
+
+The World Builder allows a player to create a map from scratch or to use an
+in-game situation as a starting point for a new scenario. The terrain can be
+altered, as you can add rivers, land, mountains, and such, resources, military
+units and cities on the map can be added, removed or modified. For example,
+you can adjust a city's population or culture. Additionally, each
+civilization's technological progress as well as its diplomatic and military
+ties to other civilizations can be edited. The World Builder for Civilization
+IV is in-game, in contrast to previous Civilization games where the Map Editor
+was an external application.[citation needed]
+
+### [edit] XML
+
+More game attributes are stored in XML files, which must be edited with an
+external text editor or application. Barry Caudill, a senior producer at
+Firaxis Games, said in September:[7]
+
+â Editing these files will allow players to tweak simple game rules and
+change or add content. For instance, they can add new unit or building types,
+change the cost of wonders, or add new civilizations. Players can also change
+the sounds played at certain times or edit the play list for your soundtrack.
+â  
+At the current time the XML processing in Windows is permissive of errors,
+whereas the Mac OS X version is not. As a result, some XML files which will
+work on the Windows version of the game may need correcting before they
+function correctly on the Macintosh version.[citation needed]
+
+### [edit] Python
+
+The game uses boost.python to allow the Python programming language access to
+many parts of the game (including the style and content of all interface
+screens). Python can also be used to modify random map generation and to add
+complex scripted events.
+
+The version of Python present in the Windows version of the game differs from
+the version in Mac OS X up to and including version 10.4.7, and as a result,
+while most Python files for the Windows version will work on the Macintosh
+version, not all will. The reverse is also true.[citation needed]
+
+### [edit] Software development kit
+
+The Civilization IV software development kit was released on April 13, 2006 to
+coincide with the release of the v1.61 patch. The kit allows players to view,
+modify, or completely re-write the game's DLL source code, enabling the
+modification of the game's AI and other integral parts of the game.[8]
+
+As of the first official patch for the Macintosh version (v1.61 Revision A),
+there is no SDK for the Macintosh version of the game. In fact the Macintosh
+version lacks the separate library of game related code which the PC version
+uses, but instead includes the code compiled into the main executable. There
+is as of yet no indication of whether this will change in a future
+patch.[citation needed]
+
+## [edit] Launch problems
+
+The release of Civilization IV reportedly included some technical, production
+and shipping problems.
+
+  * As originally shipped, the game functioned poorly on minimum-specification machines, and suffered from performance problems. It also conflicted with certain mainstream graphics cards. Version 1.52 patched these problems.[citation needed]
+  * The most common packaging errors have been French and German technology charts in English-language boxes[9] and the erroneous packing of two of the same CD-ROM, rendering the game unplayable.[10] 2K games replaced such shipments. Other copies have mislabeled disks; since this does not affect gameplay, users are asked to just use the right CD-ROM when applicable.[11] There have also been some cases in which the game manual has pages placed in the wrong spot (e.g. page one is the very last page of the manual). There are also many typographical errors in the Dutch manual.
+  * Civilization IV uses SafeDisc 4, which refuses to acknowledge legitimate game copies if certain CD burning or "virtual drive" packages are installed.[citation needed]
+
+## [edit] Platforms
+
+Civilization IV is available for Windows (PC) and Mac OS X.
+
+The Mac OS X version is published by Aspyr and was released in June 2006.
+Though it lacks some of the customization features which were added to the PC
+version in v1.61, it is otherwise identical to v.1.61 of the PC
+version.[citation needed] The game was released as a Universal binary, running
+natively on both PPC\- and x86-based Macintoshes. Mac OS X users may also, in
+addition to the cross-platform GameSpy service (although Revision B is
+required for GameSpy), use GameRanger to play multiplayer games.[citation
+needed]
+
+Civilization IV and its expansions are also available via Steam and Turner
+Broadcasting System's GameTap subscription service.[citation needed]
+
+Multiplayer games involving both game platforms work, but require the use of
+one of the multiplayer options other than "Internet Play" due to the
+incompatible formats employed.[citation needed]
+
+Recently Civilization IV also has moved into the mobile market with
+Civilization IV: War of Two Cities. Oasys Mobile published this game in the
+spring of 2008.[12]
+
+## [edit] Reception
+
+### [edit] Critics' scores
+
+  * IGN 9.4/10 Editors' Choice Award [13]
+  * GameSpot 9.4/10 Editors' Choice Award, Nominee for 2005 Game of the Year [14]
+  * Eurogamer 9/10 [15]
+  * GameSpy 5/5 [16]
+  * Game-Revolution A- [17]
+  * Computer Gaming World A (5 November 2005) [18]
+  * ActionTrip 93/100 (5 November 2005) [19]
+  * Metacritic 94/100 [20]
+  * Newspaper: The Times 5/5 stars [21]
+  * Newspaper: Chicago Tribune 4/4 stars [22]
+  * Magazine: PC Gamer 92%[citation needed]
+  * Magazine: Game Informer 9.5/10[citation needed]
+  * Magazine: PC Gamer (USA) 94%[citation needed]
+  * Magazine: PC Powerplay (German): 91%[citation needed]
+  * Magazine: PC Powerplay (Australian): 10/10[citation needed]
+  * Magazine: Pelit (Finnish): 97/100[citation needed]
+  * Magazine: Hyper (Australian): 96%[citation needed]
+  * Magazine: Atomic MPC (Australian): 10/10[citation needed]
+  * Magazine: GameStar (Hungarian): 92%[citation needed]
+  * Television: X-Play 5/5[citation needed]
+
+### [edit] Awards
+
+  * IGN:
+
+    
+  * PC Game of the Year 2005
+  * Best Strategy Game 2005
+  * Best Online Game 2005
+  * 2nd PC Game Of All Time
+
+  * GameSpy:
+
+    
+  * PC Game of the Year 2005
+  * Best Turn-Based Strategy Game 2005
+  * Game of the Year 2005
+
+  * GameSpot:
+
+    
+  * Best Strategy Game 2005
+  * Best PC Game 2005
+
+  * Time: Top Pick (E3 2005)
+  * Scripps Howard News Service: Game of the Year 2005 (PC)
+  * Other awards from 2KGame's site
+
+## [edit] Expansions
+
+Main articles: Civilization IV: Warlords and Civilization IV: Beyond the Sword
+
+Two expansion packs have been published for Civilization IV. The first one,
+called Civilization IV: Warlords, was released in the United States on July
+24, 2006 and in Europe two days later, on July 26, 2006.
+
+The second expansion pack, Civilization IV: Beyond the Sword was released on
+July 18, 2007 in the United States and on July 20, 2007 in Europe. The
+expansion focuses on adding content to the in-game time periods following the
+invention of gunpowder, and includes more general content such as 11 new
+scenarios, 10 new civilizations, and 16 new leaders.
+
+## [edit] See also
+
+  * 4X
+
+## [edit] References
+
+  * Civilization IV Official Strategy Guide. BradyGames. 2005-10-25. ISBN 0-7440-0580-9.
+  * PC Zone Staff (2006-07-06). "Looking Back... Civilization IV". ComputerAndVideoGames.com. http://www.computerandvideogames.com/article.php?id=142558&skip=yes. Retrieved on 2007-02-28.
+  * Torsen, Tor (2006-12-01). "Q&A: Sid Meier chronicles Civilization". GameSpot. http://www.gamespot.com/news/6162633.html?q=Civilization. Retrieved on 2007-02-28.
+  * Sid Meier's Civilization IV manual (German). 2K Games/Firaxis. 2005. p. 69.
+
+  1. ^ "Firaxis Games: Games: Sid Meier's Civilization IV". Firaxis.com. http://www.firaxis.com/support/support_detail.php?gameid=6&patch=1. Retrieved on 2008-10-27.
+  2. ^ "Recommendation of the Board of Directors to Reject Electronic Arts Inc.'s Tender Offer" (PDF). Take-Two Interactive Software, Inc.. 2008-03-26. 16. http://taketwovalue.com/documents/TTWO_Value.pdf#page=16. Retrieved on 2008-04-01.
+  3. ^ (2005) Sid Meier's Civilization IV manual (English). 2K Games/Firaxis, p.79
+  4. ^ "Expansion Pack PREVIEW! - Civilization Fanatics' Forums". Forums.civfanatics.com. http://forums.civfanatics.com/showthread.php?t=139720. Retrieved on 2008-10-27.
+  5. ^ Comparison of Civilization and 4[dead link] Retrieved on 3/8/08
+  6. ^ http://www.gameflood.com/Index.cfm/Mod/Contest/stgAct/ContestLanding
+  7. ^ "Civilization IV". 2kgames.com. http://www.2kgames.com/civ4/blog_03.htm. Retrieved on 2008-10-27.
+  8. ^ "Civilization IV". 2kgames.com. http://www.2kgames.com/civ4/downloads.htm. Retrieved on 2008-10-27.
+  9. ^ "Civilization IV". 2kgames.com. http://www.2kgames.com/civ4/techtree_support.htm. Retrieved on 2008-10-27.
+  10. ^ "great job guys - two disk 1's, no disk 2. - Civilization Fanatics' Forums". Forums.civfanatics.com. http://forums.civfanatics.com/showthread.php?t=133172. Retrieved on 2008-10-27.
+  11. ^ "Civilization IV". 2kgames.com. http://www.2kgames.com/civ4/support_cannotlocate.htm. Retrieved on 2008-10-27.
+  12. ^ "Oasys Mobile | A premier publisher and developer of mobile entertainment". Oasysmobile.com. http://www.oasysmobile.com. Retrieved on 2008-10-27.
+  13. ^ [1]
+  14. ^ [2]
+  15. ^ [3]
+  16. ^ [4]
+  17. ^ [5]
+  18. ^ [6]
+  19. ^ [7]
+  20. ^ [8]
+  21. ^ [9]
+  22. ^ [10]
+
+## [edit] External links
+
+Official sites
+
+  * Official site
+  * Developer's site
+  * Civilization IV Comparisons
+  * Civilization IV Macintosh site
+
+Third-party sites
+
+  * Sid Meier's Civilization IV at MobyGames
+  * Civilization IV at the Open Directory Project
+  * Civilization series at wikia
+
+v â¢ d â¢ e
+
+Sid Meier's Civilization series  
+Official series
+
+Civilization (CivNet) Â· Civilization II (Test of Time) Â· Civilization III
+(Play the World Â· Conquests) Â· Civilization IV (Warlords Â· Beyond the Sword
+Â· Colonization) Â· Civilization Revolution  
+Related games
+
+Sid Meier's Colonization Â· Master of Magic Â· Sid Meier's Alpha Centauri
+(Alien Crossfire)  
+Other games
+
+Civilization: Call to Power Â· Call to Power II Â· Freeciv Â· FreeCol Â· C-evo
+Â· CivCity: Rome Â· Sid Meier's Pirates! Â· Sid Meier's Railroads!  
+v â¢ d â¢ e
+
+NetImmerse / Gamebryo engine games  
+Bethesda Softworks
+
+The Elder Scrolls III: Morrowind Â· The Elder Scrolls III: Tribunal Â· The
+Elder Scrolls III: Bloodmoon Â· The Elder Scrolls IV: Oblivion Â· The Elder
+Scrolls IV: Shivering Isles Â· Fallout 3  
+Firaxis Games
+
+Sid Meier's Civilization IV Â· Sid Meier's Pirates! Â· Sid Meier's Railroads!  
+Irrational Games
+
+Freedom Force Â· Freedom Force vs The 3rd Reich  
+Mad Doc Software
+
+Empire Earth II Â· Empire Earth III  
+Other
+
+Axis & Allies Â· Bully: Scholarship Edition Â· Dark Age of Camelot Â· Defense
+Grid: The Awakening Â· Entropia Universe Â· Futurama Â· Kohan II: Kings of War
+Â· Memorick: The Apprentice Knight Â· Playboy: The Mansion Â· Prince of Persia
+3D Â· Red Ocean Â· RidingClub Championships Â· Sadness Â· Simon the Sorcerer
+3D Â· Sovereign Symphony Â· Star Trek: Bridge Commander Â· Tenchu: Shadow
+Assassins Â· The Guild 2 Â· Warhammer Online: Age of Reckoning Â· Wildlife
+Park 2 Â· Zoo Tycoon 2  
+Retrieved from "http://en.wikipedia.org/wiki/Civilization_IV"
+
+Categories: 2005 video games | 4X video games | Civilization franchise |
+Cooperative video games | Firaxis games | Gamebryo engine games | Interactive
+Achievement Award winners | Mac OS X games | Multiplayer hotseat games |
+Multiplayer online games | Turn-based strategy video games | Video games with
+expansion packs | Windows games
+
+Hidden categories: All articles with dead external links | Articles with dead
+external links since November 2008 | All articles with unsourced statements |
+Articles with unsourced statements since March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * íêµ­ì´
+  * Hrvatski
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * LatvieÅ¡u
+  * Magyar
+  * Malagasy
+  * Bahasa Melayu
+  * Nederlands
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 16:40.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

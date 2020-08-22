@@ -1,0 +1,335 @@
+
+# Glutamine
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article or section has multiple issues. Please help improve the article
+or discuss these issues on the talk page.  
+<IMG>
+
+This article may contain improper references to self-published sources. Please
+help improve it by removing references to unreliable sources where they are
+used inappropriately. (December 2008)  
+Glutamine  
+<IMG>
+
+<IMG>  
+IUPAC name
+
+L-Glutamine  
+(2S)-2-amino-4-carbamoylbutanoic acid  
+Identifiers  
+Abbreviations Gln, Q  
+CAS number 56-85-9  
+PubChem 738  
+SMILES
+
+` `
+
+`N[C@@H](CCC(N)=O)C(O)=O`  
+ChemSpider ID 718  
+Properties  
+Molecular formula C5H10N2O3  
+Molar mass 146.14 g molâ1  
+Supplementary data page  
+Structure and  
+properties n, Îµr, etc.  
+Thermodynamic  
+data Phase behaviour  
+Solid, liquid, gas  
+Spectral data UV, IR, NMR, MS  
+Except where noted otherwise, data are given for  
+materials in their standard state  
+(at 25 Â°C, 100 kPa)  
+Infobox references  
+Glutamine (abbreviated as Gln or Q; the abbreviation Glx or Z represents
+either glutamine or glutamic acid) is one of the 20 amino acids encoded by the
+standard genetic code. Its side chain is an amide formed by replacing the
+side-chain hydroxyl of glutamic acid with an amine functional group. It can
+therefore be considered the amide of glutamic acid. Its codons are CAA and
+CAG. Recent studies have proven its effectiveness in anabolic muscle growth
+from prolonged consumption.[citation needed]
+
+## Contents
+
+  * 1 Nutrition
+    * 1.1 Occurrences in nature
+      * 1.1.1 Dietary sources
+    * 1.2 Functions
+    * 1.3 Use
+    * 1.4 Aiding gastrointestinal function
+    * 1.5 Aiding recovery after surgery
+  * 2 References
+  * 3 External links
+
+  
+## [edit] Nutrition
+
+### [edit] Occurrences in nature
+
+Glutamine is the most abundant naturally occurring, non-essential amino acid
+in the human body and one of the only amino acids which directly crosses the
+blood-brain barrier.[1] In the body it is found circulating in the blood as
+well as stored in the skeletal muscles. It becomes conditionally essential
+(requiring intake from food or supplements) in states of illness or injury.
+
+#### [edit] Dietary sources
+
+Dietary sources of L-glutamine include beef, chicken, fish, eggs, milk, dairy
+products, wheat, cabbage, beets, beans, spinach, and parsley. Small amounts of
+free L-glutamine are also found in vegetable juices and fermented foods, such
+as miso.[2]
+
+### [edit] Functions
+
+Glutamine has a variety of biochemical functions including:
+
+  1. A substrate for DNA synthesis
+  2. Major role in protein synthesis
+  3. Primary source of fuel for enterocytes (cells lining the inside of the small intestine)
+  4. Precursor for rapidly dividing immune cells, thus aiding in immune function
+  5. Regulation of acid-base balance in the kidney by producing ammonium[3]
+  6. Alternative source of fuel for the brain and helps to block cortisol-induced protein catabolism
+  7. As a form of fixed nitrogen by heterocysts, exchanged for photosynthate from undifferentiated cyanobacterial cells
+
+### [edit] Use
+
+It is normal in nutritional tablet form to take as a suppository to increase
+its effects as most of the amino acids are absorbed in the lower stomach. In
+catabolic states of injury and illness, GLN becomes conditionally-essential
+(requiring intake from food or supplements). Glutamine has been studied
+extensively over the past 10â15 years and has been shown to be useful in
+treatment of serious illnesses, injury, trauma, burns, cancer and its
+treatment related side-effects as well as in wound healing for postoperative
+patients.[4][unreliable source?] That is why it is now also classified as a
+nutraceutical. Glutamine is also marketed as a supplement used for muscle
+growth in weightlifting, bodybuilding, endurance and other sports.[5]
+
+Glutamine has also been taken to enhance brain function as it fuels two of the
+brain's most important neurotransmitters: glutamic acid and gamma-aminobutyric
+acid (GABA). It also assists in nitrogen transportation and reduces toxic
+build up of ammonia in the brain (though is contra-indicated for those with
+Reye's Syndrome). Hence, it has been used to aid memory, increase IQ in those
+with mental retardation, and to support people with schizophrenia and
+senility.[6]
+
+It has also been used in the treatment of ADHD, anxiety.[7][unreliable
+source?] and depression.[8][9]
+
+It has also been used in recovery programs to break sugar craving cycles in
+alcoholics (although is contra-indicated for those with cirrhosis of the liver
+or kidney disease) and assist diabetics in the management of sugar
+cravings.[6][10]
+
+It is also used as an anti-inflammatory in the treatment of autoimmune
+diseases and preserves Glutathione (important for detoxification and immune
+support) levels in the liver.[10]
+
+Glutamine is contraindicated for those with Reye's syndrome, cirrhosis of the
+liver and kidney disease.[11][unreliable source?]
+
+### [edit] Aiding gastrointestinal function
+
+<IMG> This section may require cleanup to meet Wikipedia's quality standards.  
+In recent studies, glutamine-enriched diets have been linked with intestinal
+effects including maintenance of gut barrier function, and cell
+differentiation. This may relate to the fact that the intestinal extraction
+rate of glutamine is higher than that for other amino acids, and is therefore
+thought to be the most viable option when attempting to alleviate conditions
+relating to the gastrointestinal tract. These conditions were discovered after
+comparing plasma concentration within the gut between glutamine-enriched and
+non glutamine-enriched diets. However, even though glutamine is thought to
+have "cleansing" properties and effects, it is unknown to what extent
+glutamine has clinical benefits, due to the varied concentrations of glutamine
+in varieties of food.
+
+### [edit] Aiding recovery after surgery
+
+It is also known that glutamine has various effects in reducing healing time
+after operations. Hospital-stay times after abdominal surgery can be reduced
+by providing parenteral nutrition regimes containing high amounts of glutamine
+to patients. Clinical trials have revealed that patients on supplementation
+regimes containing glutamine have improved nitrogen balances, generation of
+cysteinyl-leukotrienes from polymorphonuclear neutrophil granulocytes and
+improved lymphocyte recovery and intestinal permeability (in postoperative
+patients) - in comparison to those who had no glutamine within their dietary
+regime; all without any side-effects.[12]
+
+## [edit] References
+
+[13]
+
+  1. ^ [1]
+  2. ^ "Glutamine". Vitamins & health supplements. http://www.vitamins-supplements.org/amino-acids/glutamine.php. Retrieved on November 1 2007.
+  3. ^ Textbook of Medical Physiology Guyton & Hall (11th edition), p. 393
+  4. ^ [2]
+  5. ^ John Ivy and Portman, Robert, Nutrient Timing,(Laguna Beach: Basic Health Publications, 2004), page 57
+  6. ^ a b [3]
+  7. ^ [4]
+  8. ^ [5]
+  9. ^ [6]
+  10. ^ a b [7]
+  11. ^ [8]
+  12. ^ Morlion, B.J.; Stehle, P.; Wachtler, P.; Siedhoff, H.P.; Koller, M.; Konig, W.; Furst, P.; Puchstein, C. (1998). "Total parenteral nutrition with glutamine dipeptide after major abdominal surgery: a randomized, double-blind, controlled study". Ann Surg 227 (2): 302â8. doi:10.1097/00000658-199802000-00022. http://www.annalsofsurgery.com/pt/re/annos/fulltext.00000658-199802000-00022.htm. Retrieved on 2007-11-01.
+  13. ^ Jian, Z.M.; Cao, J.D.; Zhu, X.G.; Zhao, W.X.; Yu, J.C.; Ma, E.L.; Wang, X.R.; Zhu, M.W.; Shu, H.; Liu, Y.W. (1999). "The impact of alanyl-glutamine on clinical safety, nitrogen balance, intestinal permeability, and clinical outcome in postoperative patients: a randomized, double-blind, controlled study of 120 patients.". JPEN J Parenter Enteral Nutr 23 (5 Suppl): S62â6. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10483898&dopt=Citation. Retrieved on 2007-11-01.
+
+## [edit] External links
+
+  * Glutamine definition, usage, dietary sources, and general details
+  * Nutrients and HIV: Part Three
+  * Supplemental uses
+
+v â¢ d â¢ e
+
+The 20 Common Amino Acids ("dp" = data page)  
+Branched-chain amino acids
+
+Isoleucine (dp) | Leucine (dp) | Valine (dp)  
+Non Branch-chain
+
+Alanine (dp) | Arginine (dp) | Asparagine (dp) | Aspartic acid (dp) | Cysteine
+(dp) | Glutamic acid (dp) | Glutamine (dp) | Glycine (dp) | Histidine (dp) |
+Lysine (dp) | Methionine (dp) | Phenylalanine (dp) | Proline (dp) | Serine
+(dp) | Threonine (dp) | Tryptophan (dp) | Tyrosine (dp)  
+Other classifications
+
+Essential amino acids | Ketogenic amino acid | Glucogenic amino acid  
+Major families of biochemicals  
+Saccharides/Carbohydrates/Glycosides Â· Amino
+acids/Peptides/Proteins/Glycoproteins Â· Lipids/Terpenes/Steroids/Carotenoids
+Â· Alkaloids/Nucleobases/Nucleic acids Â· Cofactors/
+Flavonoids/Polyketides/Tetrapyrroles  
+v â¢ d â¢ e
+
+Dietary supplements  
+Types
+
+Amino acids â¢ Bodybuilding supplement â¢ Energy drink â¢ Energy bar â¢
+Fatty acids â¢ Herbal Supplements â¢ Minerals â¢ Prebiotics â¢ Probiotics
+(Lactobacillus, Bifidobacterium) â¢ Vitamins â¢ Whole food supplements,
+effervescent  
+Vitamins and minerals
+
+Retinol (Vitamin A) â¢ B vitamins: Thiamine (B1) â¢ Riboflavin (B2) â¢
+Niacin (B3) â¢ Pantothenic acid (B5) â¢ Pyridoxine (B6) â¢ Biotin (B7) â¢
+Folic acid (B9) â¢ Cyanocobalamin (B12) â¢ Ascorbic acid (Vitamin C) â¢
+Ergocalciferol and Cholecalciferol (Vitamin D) â¢ Tocopherol (Vitamin E) â¢
+Naphthoquinone (Vitamin K) â¢ Calcium â¢ Choline â¢ Chlorine â¢ Chromium
+â¢ Cobalt â¢ Copper â¢ Fluorine â¢ Iodine â¢ Iron â¢ Magnesium â¢
+Manganese â¢ Molybdenum â¢ Phosphorus â¢ Potassium â¢ Selenium â¢ Sodium
+â¢ Sulfur â¢ Zinc  
+Other common ingredients
+
+Carnitine â¢ Chondroitin sulfate â¢ Cod liver oil â¢ Copper gluconate â¢
+Creatine/Creatine supplements â¢ Dietary fiber â¢ Elemental calcium â¢
+Ephedra â¢ Fish oil â¢ Folic acid â¢ Ginseng â¢ Glucosamine â¢ Glutamine
+â¢ Iron supplements â¢ Japanese Honeysuckle â¢ Krill oil â¢ Lingzhi â¢
+Linseed oil â¢ Melatonin â¢ Red yeast rice â¢ Royal jelly â¢ Saw palmetto
+â¢ Spirulina â¢ Taurine â¢ Wheatgrass â¢ Wolfberry â¢ Yohimbine â¢ Zinc
+gluconate  
+Related articles
+
+Codex Alimentarius â¢ Enzyte â¢ Metabolife â¢ Hadacol â¢ Nutraceutical â¢
+Multivitamin â¢ Nutrition  
+Retrieved from "http://en.wikipedia.org/wiki/Glutamine"
+
+Categories: Proteinogenic amino acids | Dietary supplements | Glucogenic amino
+acids
+
+Hidden categories: Accuracy disputes from December 2008 | All articles with
+unsourced statements | Articles with unsourced statements since March 2009 |
+All pages needing cleanup | Articles with unsourced statements since August
+2008 | Cleanup from December 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * FranÃ§ais
+  * íêµ­ì´
+  * Hrvatski
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * LatvieÅ¡u
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Occitan
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 22 March 2009, at 03:22.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

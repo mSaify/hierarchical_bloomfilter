@@ -1,0 +1,269 @@
+
+# Front side bus
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article does not cite any references or sources. Please help improve this
+article by adding citations to reliable sources (ideally, using inline
+citations). Unsourced material may be challenged and removed. (June 2008)  
+<IMG>
+
+<IMG>
+
+A typical north/southbridge layout
+
+In personal computers, the Front Side Bus (FSB) is the bus that carries data
+between the CPU and the northbridge.
+
+Depending on the processor used, some computers may also have a back side bus
+that connects the CPU to the cache. This bus and the cache connected to it is
+faster than accessing the system memory via the front side bus.
+
+The bandwidth or maximum theoretical throughput of the front side bus is
+determined by the product of the width of its data path, its clock frequency
+(cycles per second) and the number of data transfers it performs per clock
+cycle. For example, a 32-bit (4-byte) wide FSB operating at a frequency of 100
+MHz that performs 4 transfers per cycle has a bandwidth of 1600 megabytes per
+second (MB/s).
+
+The number of transfers per clock cycle is dependent on the technology used.
+For example, GTL+ performs 1 transfer/cycle, EV6 2 transfers/cycle, and AGTL+
+4 transfers/cycle. Intel calls the technique of four transfers per cycle Quad
+Pumping.
+
+Many manufacturers today publish the speed of the FSB in megatransfers per
+second (MT/s), not the FSB clock frequency in megahertz (MHz). This is because
+the actual speed is determined by how many transfers can be performed each
+clock cycle as well as by the clock frequency. For example, if a motherboard
+(or processor) has a FSB clocked at 200 MHz and performs 4 transfers per clock
+cycle, the FSB is rated at 800 MT/s.
+
+## Contents
+
+  * 1 History and current usage
+  * 2 Related component speeds
+    * 2.1 CPU
+    * 2.2 Memory
+    * 2.3 Peripheral buses
+    * 2.4 Overclocking
+  * 3 Pros and cons
+    * 3.1 Pros
+    * 3.2 Cons
+  * 4 See also
+
+  
+## [edit] History and current usage
+
+The front side bus is an alternative name for the data and address buses of
+the CPU as defined by the manufacturer's datasheet. The term is mostly
+associated with the various CPU buses used on PC-related motherboards
+(including servers etc), seldom with the data and address buses used in
+embedded systems and similar small computers.
+
+Front side buses serve as a connection between the CPU and the rest of the
+hardware via a so-called chipset. This chipset is usually divided in a
+northbridge and a southbridge part, and is the connection point for all other
+buses in the system. Buses like the PCI, AGP, and memory buses all connect to
+the chipset in order for data to flow between the connected devices. These
+secondary system buses usually run at speeds derived from the front side bus
+clock, but are not necessarily synchronous to it.
+
+In response to AMD's Torrenza initiative, Intel has opened its FSB CPU socket
+to third party devices [1][2]. Prior to this announcement, made in Spring 2007
+at Intel Developer Forum in Beijing, Intel had very closely guarded who had
+access to the FSB, only allowing Intel processors in the CPU socket. This is
+now changing, the first example being FPGA co-processors, a result of
+collaboration between Intel-Xilinx-Nallatech [3] and Intel-Altera-XtremeData
+[4] [5].
+
+## [edit] Related component speeds
+
+### [edit] CPU
+
+The frequency at which a processor (CPU) operates is determined by applying a
+clock multiplier to the front side bus (FSB) speed in some cases. For example,
+a processor running at 3200 MHz might be using a 400 MHz FSB. This means there
+is an internal clock multiplier setting (also called bus/core ratio) of 8.
+That is, the CPU is set to run at 8 times the frequency of the front side bus:
+400 MHz Ã 8 = 3200 MHz. By varying either the FSB or the multiplier,
+different CPU speeds can be achieved.
+
+### [edit] Memory
+
+See also: Memory divider
+
+Setting an FSB speed is related directly to the speed grade of memory a system
+must use. The memory bus connects the northbridge and RAM, just as the front
+side bus connects the CPU and northbridge. Often, these two buses must operate
+at the same frequency. Increasing the front-side bus to 450 MHz in most cases
+also means running the memory at 450 MHz.
+
+In newer systems, it is possible to see memory ratios of "4:5" and the like.
+The memory will run 5/4 times as fast as the FSB in this situation, meaning a
+400 MHz bus can run with the memory at 500 MHz. This is often referred to as
+an 'asynchronous' system. It is important to realize that due to differences
+in CPU and system architecture, overall system performance can vary in
+unexpected ways with different FSB-to-memory ratios.
+
+In image, audio, video, gaming and scientific applications that perform a
+small amount of work on each element of a large data set, FSB speed becomes a
+major performance issue. A slow FSB will cause the CPU to spend significant
+amounts of time waiting for data to arrive from system memory. However, if the
+computations involving each element are more complex the processor will spend
+longer performing these and the FSB will be able to keep pace, because the
+rate at which memory is accessed is reduced.
+
+### [edit] Peripheral buses
+
+Similar to the memory bus, the PCI and AGP buses can also be run
+asynchronously from the front side bus. In older systems, these buses operated
+at a set fraction of the front side bus frequency. This fraction was set by
+the BIOS. In newer systems the PCI, AGP, and PCI Express peripheral buses
+often receive their own clock signals, which eliminates their dependence on
+the front side bus for timing.
+
+### [edit] Overclocking
+
+Main article: Overclocking
+
+Overclocking is the practice of making computer components operate beyond
+their stock performance levels.
+
+Many motherboards allow the user to manually set the clock multiplier and FSB
+settings by changing jumpers or BIOS settings. Many CPU manufacturers now
+"lock" a preset multiplier setting into the chip. It is possible to unlock
+some locked CPUs; for instance, some Athlons can be unlocked by connecting
+electrical contacts across points on the CPU's surface. For all processors,
+increasing the FSB speed can be done to boost processing speed.
+
+This practice pushes components beyond their specifications and may cause
+erratic behaviour, overheating or premature failure. Even if the computer
+appears to run normally, problems may appear under heavy load. Most PCs
+purchased from retailers or manufacturers, such as Hewlett-Packard or Dell, do
+not allow the user to change the multiplier or Front Side Bus settings due to
+the probability of erratic behavior or failure. Motherboards purchased
+separately to build a custom machine are more likely to allow the user to edit
+the multiplier and FSB settings in the PC's BIOS.
+
+## [edit] Pros and cons
+
+### [edit] Pros
+
+Although the front side bus architecture is an aging technology, it does have
+the advantage of high flexibility and low cost. There is no theoretical limit
+to the number of CPUs that can be placed on a FSB, though performance will not
+scale linearly across additional CPUs (due to the architecture's bandwidth
+bottleneck).
+
+### [edit] Cons
+
+The front side bus as it is traditionally known may be disappearing.
+Originally, this bus was a central connecting point for all system devices and
+the CPU. In recent years this has been breaking down with increasing use of
+individual point-to-point buses (see HyperTransport and QuickPath). The front
+side bus has been criticized by AMD as being an old and slow technology that
+bottlenecks today's computer systems. While a faster CPU can execute
+individual instructions faster, this is wasted if it can't fetch instructions
+and data as fast as it can execute them; when this happens, the CPU must wait
+for one or more clock cycles until the memory returns its value. Furthermore,
+a fast CPU can be delayed when it must access other devices attached to the
+FSB. Thus, a slow FSB can become a bottleneck that slows down a fast CPU.
+
+## [edit] See also
+
+  * HyperTransport
+  * Intel QuickPath Interconnect
+
+Sister project Wikimedia Commons has media related to: Computer motherboards  
+Retrieved from "http://en.wikipedia.org/wiki/Front_side_bus"
+
+Categories: Computer buses | Motherboard
+
+Hidden categories: Articles lacking sources from June 2008 | All articles
+lacking sources
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Bosanski
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * à¤¹à¤¿à¤¨à¥à¤¦à¥
+  * Bahasa Indonesia
+  * LietuviÅ³
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Suomi
+  * Svenska
+  * Ø§Ø±Ø¯Ù
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 22 March 2009, at 14:15.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,907 @@
+
+# iPAQ
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+    This article is about the iPAQ PDA; for the iPAQ Desktop Personal Computer, see iPAQ (desktop computer).
+iPAQ presently refers to a Pocket PC and personal digital assistant first
+unveiled by Compaq in April 2000; the name was borrowed from Compaq's earlier
+iPAQ Desktop Personal Computers. Since Hewlett-Packard's acquisition of
+Compaq, the product has been marketed by HP. The device is the main
+competition to the Palm, but provides more multimedia capabilities using a
+Microsoft Windows interface. In addition to this, there are several Linux
+distributions that will also operate on some of these devices. Earlier, units
+were modular. "Sleeve" accessories, technically called jackets, which slide
+around the unit and add functionality such as a card reader, wireless
+networking, GPS, and even extra batteries were used. Current iPAQs have most
+of these features integrated into the base device itself.
+
+Hewlett-Packard introduced the first SmartPhone iPaq Pocket PC that looks like
+a regular cell phone and has VoIP capability. The series is the HP iPAQ 500
+Series Voice Messenger.[1]
+
+## Contents
+
+  * 1 History and development of iPAQ models
+  * 2 Model variations
+    * 2.1 Compaq iPAQ H3600 series
+    * 2.2 Compaq iPAQ H3100 series
+    * 2.3 Compaq iPAQ H3700 series
+    * 2.4 Compaq iPAQ H3800 series
+    * 2.5 Compaq iPAQ H3900 series
+      * 2.5.1 Compaq iPAQ H3950
+      * 2.5.2 Compaq iPAQ H3955
+      * 2.5.3 Compaq iPAQ H3970
+      * 2.5.4 Compaq iPAQ H3975
+    * 2.6 HP iPAQ H1900 series
+    * 2.7 HP iPAQ H5400 series
+    * 2.8 HP iPAQ H5500 series
+    * 2.9 HP iPAQ H5100 series
+    * 2.10 HP iPAQ H2200 series
+    * 2.11 HP iPAQ H4300 series
+    * 2.12 HP iPAQ H4100 series
+    * 2.13 HP iPAQ hx2000 series
+      * 2.13.1 HP iPAQ hx21xx sequence
+      * 2.13.2 HP iPAQ hx24xx sequence
+      * 2.13.3 HP iPAQ hx27xx sequence
+    * 2.14 HP iPAQ hx4700 series
+    * 2.15 HP iPAQ rz1700 series
+    * 2.16 HP iPAQ rx4000, rx3100, rx3400 and rx3700 series
+    * 2.17 HP iPAQ h6300 series
+    * 2.18 HP iPAQ Mobile Messenger hw6500 series
+    * 2.19 HP iPAQ Mobile Messenger hw6900 series
+    * 2.20 HP iPAQ rw6800 series
+    * 2.21 HP iPAQ rx4000 series
+    * 2.22 HP iPAQ rx5000 series
+      * 2.22.1 HP iPAQ rx5900
+    * 2.23 HP iPAQ 100 Series Classic Handheld
+    * 2.24 HP iPAQ 200 Series Enterprise Handheld
+    * 2.25 HP iPAQ 300 Series Travel Companion
+    * 2.26 HP iPAQ 500 Series Voice Messenger
+    * 2.27 HP iPAQ 600 Series Business Navigator
+    * 2.28 HP iPAQ 900 Series Business Messenger
+  * 3 Quick reference chart
+    * 3.1 Jacket-compatible
+    * 3.2 Newer models
+  * 4 Alternative operating systems for the iPAQ
+    * 4.1 NetBSD
+    * 4.2 Familiar Linux
+    * 4.3 Plan 9 from Bell Labs
+    * 4.4 Ã ngstrÃ¶m distribution
+  * 5 Upgrades
+    * 5.1 Internal Li-ion battery
+    * 5.2 RAM Upgrade
+  * 6 See also
+  * 7 References
+  * 8 External links
+
+  
+## [edit] History and development of iPAQ models
+
+The iPaq was developed by Digital Equipment Corporation Western Research
+Laboratory (WRL), the internal code name for it was Itsy. The name was used by
+Compaq to continue their Compaq Aero handheld line. With the acquisition of
+Compaq by Hewlett-Packard, HP stopped producing their Jornada line of
+Microsoft Windows powered Pocket PCs and continued developing and marketing
+Pocket PCs in the iPAQ line.
+
+In June 2003, HP retired the h3xxx line of iPAQs and introduced the h1xxx line
+of iPAQs targeted at price conscious buyers, the h2xxx consumer line, and the
+h5xxx line, targeted at business customers. They were sold pre-installed with
+the Windows Mobile for Pocket PC 2003 Operating System. The h63xx series of
+iPAQs running the Phone Edition of Windows Mobile 2003, the hx47xx series and
+the rz17xx series, both running the Second Edition of Windows Mobile 2003 were
+introduced in August 2004. In February 2005 the iPAQ Mobile Messenger hw6500
+series was introduced to selected media at the 3GSM conference in Cannes,
+France.
+
+In February 2007, HP announced the iPAQ rx4000 Mobile Media Companion devices
+to work as a PDA/media device and rx5000 Travel Companion series to work as
+PDA/GPS units. Both series of iPAQs work on the Windows Mobile 5 Operating
+System. In the same month, HP announced their first Windows Mobile 6 device,
+the iPAQ 500 Series Voice Messenger, with the Windows Mobile 6 Standard
+Operating System, and numeric pad. Currently, the only iPAQs being sold which
+run the Windows Mobile 5 Operating System are the hx2000 series, the rx5900
+series and the hw6900 series.
+
+The entire iPAQ line was completely revamped by the introduction of five new
+iPAQ series to complement the introduction of the iPAQ 500 Series Voice
+Messenger earlier in the year. The models announced were the 100 Series
+Classic Handheld, the 200 Series Enterprise Handheld, the 300 Series Travel
+Companion, the 600 Series Business Navigator and the 900 Series Business
+Messenger. Of these newly introduced models, the 100 and 200 Series are
+regular touchscreen PDAs without phone functionality, and hence run the
+Windows Mobile 6 Classic Operating System. The 300 Series Travel Companion is
+a first for HP since it is not a PDA. Marketed as a Personal Navigation
+Device, it is a handheld GPS unit operating on the Windows CE 5.0 core
+Operating System with an HP-built custom user-interface. The 600 and 900
+series are phones with integrated GPS and 3G capabilities, running the Windows
+Mobile 6 Professional Operating System. The 600 series featuring a numeric pad
+and the 900 series features a full QWERTY keyboard.
+
+## [edit] Model variations
+
+<IMG>
+
+<IMG>
+
+Compaq iPAQ 3630
+
+### [edit] Compaq iPAQ H3600 series
+
+Compaq's flagship iPAQs were the 3600 series models. Originally running the
+Microsoft Windows for Pocket PC 2000 OS, these devices featured 12-bit color
+displays, 32/64 MB of RAM, and 16 MB ROM.
+
+Models in the 3600 series are:
+
+3630, 3635, 3650 - which are identical models with 16 MB ROM and 32 MB RAM
+sold via different marketing channels. The 3635 was accompanied by a CF
+expansion sleeve that was sold separately with the other 2.
+
+3660, 3670 - 64MB RAM. The 3670 was distributed in the US while the 3660 was
+distributed in Europe.
+
+A Pocket PC 2002 OS upgrade is available, but the smaller ROM requires some
+software such as the media player to install in volatile RAM instead of the
+ROM as in the previous Pocket PC 2000.
+
+As used units are low price, they are a great way to inexpensively get started
+with a PDA.
+
+While limited by no on-board expansion slot, the iPAQ 3600 series memory and
+functionality can still be expanded by optional Compact Flash and PCMCIA
+sleeves, which allow users to add memory and peripherals. Some of these
+sleeves contain extra batteries to extend the iPAQ's battery life under the
+strain of added devices.
+
+### [edit] Compaq iPAQ H3100 series
+
+This was identical to the H3600 series, except it used a black and white
+screen and the central D-Pad (up/down/left/right controller) was black instead
+of silver. This only came with the original Pocket PC operating system (Pocket
+PC 2000).
+
+### [edit] Compaq iPAQ H3700 series
+
+These devices had the exact same form factor as their 3600 model predecessors,
+however, they had an increased ROM size and ran the PPC2002 OS natively.
+
+### [edit] Compaq iPAQ H3800 series
+
+Compaq's original high-end series models. These units were also the first to
+include 16-bit screens, incorporated an SD card reader and the highest RAM
+capacity of any Pocket PC. They were also the first to offer integrated
+Bluetooth, on select models such as the 3870. The 3850 had 206 MHz StrongARM
+CPU, with 32MB ROM and 64MB RAM, 240x320 TFT screen, running Microsoft Pocket
+PC 2002.
+
+### [edit] Compaq iPAQ H3900 series
+
+#### [edit] Compaq iPAQ H3950
+
+ROM 32Mb RAM 64Mb 1x Secure Digital (SD) port IrDA interface
+
+Note: this base model does not have a Bluetooth interface.
+
+#### [edit] Compaq iPAQ H3955
+
+400MHz Intel XScale processor Windows CE 3.0 (Pocket PC 2002) ROM 32Mb RAM
+64Mb 16-bit color TFT LCD display with over 65,000 colors 1x Secure Digital
+(SD) port Consumer IR and IrDA (115kbit/s) No Bluetooth interface on 3955 -
+see 3970/75 External i/o ports -- USB/Serial software includes nevo tv remote,
+calculator and windows media 8.0 optional Expansion Packs with removable
+batteries - for standard PC and CF cards
+
+#### [edit] Compaq iPAQ H3970
+
+US commercial / worldwide It uses a 400mhz processor and has 48MB of ROM and
+64MB of RAM. It has one SD card slot. It has IrDA and Bluetooth 1.1
+interfaces. Expansion systems are available for power and for expansion cards
+such as wireless. Software includes nevo tv remote, calculator and Windows
+Media Player.
+
+#### [edit] Compaq iPAQ H3975
+
+This model is identical to the H3970, it is the US retail release
+
+### [edit] HP iPAQ H1900 series
+
+After HP's acquisition of Compaq, the 1900 series was the answer to Palm's
+budget units. A smaller, slimmer frame made it more competitive in terms of
+portability. The HP devices contained 64 MB of main memory, larger than all
+other budget units, and ran PPC2002 (H1910 only) or 2003. They introduced
+removable batteries, allowing the user to buy extra batteries and swap as
+necessary. Unlike older iPAQs, many existing iPAQ accessories were
+incompatible or unsupported due to the budget nature of the new series.
+
+The H1900 series did not implement support for RS232,[2] so many GPS devices
+are incompatible with the handhelds in the series. Only the rx1950/rx1955 had
+a serial interface implemented.[3]
+
+### [edit] HP iPAQ H5400 series
+
+Introduced as the next generation of the iPAQ corporate line after the 3900
+series, adding Wi-Fi support, improved Bluetooth and a biometric scanner.
+However, the 5400 was plagued with many bugs, though most were corrected
+through firmware upgrades. The CPU is the ARM-based Intel XScale PXA250.
+
+### [edit] HP iPAQ H5500 series
+
+A corrected version of the 5400 series with double the RAM (128 MB) running on
+PPC2003, PXA255 CPU.
+
+<IMG>
+
+<IMG>
+
+The 5500 showing the logon screen, requiring a fingerprint
+
+### [edit] HP iPAQ H5100 series
+
+A cutdown version of the 5500 series, without Wi-Fi support and the extra RAM
+(only 64 MB). iPAQ Backup allows for safe, easy, automatic data copying
+
+### [edit] HP iPAQ H2200 series
+
+Targeting the general consumer, the 2200 series is almost every bit as capable
+as their corporate counterparts (less RAM, no integrated Wi-Fi, no biometric
+scanner). Main memory size was 64 MB RAM, PPC2003, better support for iPAQ
+accessories than the 1900 series though still no iPAQ expansion "sleeve"
+support. Bluetooth, SD card and CompactFlash card support built-in. There is
+an advanced IR port built into the h2210,the h2212e and the h2215, and the
+software bundle includes a program which essentially turns this device into a
+universal remote control.
+
+### [edit] HP iPAQ H4300 series
+
+Similar to the 2200 series in terms of features, the 4300 series targets the
+corporate audience by having a beefier battery and integrated Wi-Fi in
+addition to Bluetooth. No CompactFlash reader, but does have a SD-card and
+SDIO slot. A thumb keyboard is integrated into the device.
+
+### [edit] HP iPAQ H4100 series
+
+Essentially the corporate version of the 1900 series with many of the
+functionalities that were stripped from the budget unit. Also adds Wi-Fi and
+SDIO. Closer to the 4300-series internally. It came with PPC2003.
+
+### [edit] HP iPAQ hx2000 series
+
+Aimed at the business market, this series of PDAs supports built-in Wi-Fi (but
+not in the hx21xx sequence), Bluetooth, SD Card and CF Card slots, and Windows
+Mobile 2003 SE. Some have included a Microsoft Windows CE 5.0 firmware upgrade
+disc. The different models have some different features.
+
+#### [edit] HP iPAQ hx21xx sequence
+
+This series of PDAs sported only the barebones set of features listed above,
+and ran a slower 312 MHz XScale PXA270 processor. No fingerprint reader or Wi-
+Fi and only 64 MB of memory.
+
+#### [edit] HP iPAQ hx24xx sequence
+
+520 MHz PXA270 CPU, 64 MB RAM and ROM. WiFi and Bluetooth.
+
+#### [edit] HP iPAQ hx27xx sequence
+
+A very full featured business class PDA. Sporting a 624 MHz Intel PXA270
+XScale processor, 128 MB of RAM and ROM (each), bluetooth, WiFI and a built-in
+biometric fingerprint reader, this model set is aimed at high-security and
+-performance enterprises. The fingerprint reader, with the proprietary HP
+ProtectTools software, can create "encrypted folders" in RAM or on storage
+cards (in these models' case, the iPAQ File Store, the SD Card, or the CF
+Card) to prevent anyone from swiping the memory cards and reading sensitive
+company-critical data. The processor, running at the aforementioned 624 MHz,
+helps with the encryption/decryption processes (HP ProtectTools can also
+encrypt the entire contents of the onboard memory).
+
+### [edit] HP iPAQ hx4700 series
+
+The hx4700 series was designed to replace the corporate-targeted 5500 line.
+Specifications included a sturdy magnesium-alloy casing, 4-inch diagonal VGA
+screen at 65K colors, integrated Wi-Fi, Bluetooth 1.2, MMC and Secure Digital
+slot with SDIO, Compact Flash slot, 64 MB of RAM and 128 MB of ROM, and an
+Intel XScale PXA270 624 MHz processor.
+
+The unit ships with a removable 1800 mAh battery in the original package, with
+a 3600 mAh extended battery as an option. The hx4700 is known as the first and
+only[citation needed] Windows Mobile PDA with a dual-mode touchpad.
+
+By design, models of this series are not compatible with previous IPAQ jacket
+accessories, but the proprietary USB connector at the bottom is still the
+same. No case is included in the factory-shipped box; the unit comes with a
+screen cover only. 3.5 mm headphone jack accepts iPaq 55xx series 4-pin
+plugs.[4]
+
+At first release, the hx4700 units ran Windows Mobile 2003 Second Edition.
+Pocket Informant 2005, built-in encryption software were also included. The
+after-market NEVO TV (remote control software) is incompatible with the Fast
+IR included with the device, as NEVO Remote requires Consumer IR.
+
+In April 2006 HP finally issued a Windows Mobile 5 upgrade option for hx4700
+users, available at the HP website. The upgrade included updates for most of
+the other included software, including Pocket Informant.
+
+In June 2007 an unaffiliated Russian programmer updated the WM5 ROM to a much
+improved WM5 AKU 3.5, thereby fixing many problems the earlier WM5 (AKU 2.02)
+had been plagued with and giving an old device a "second life."[5]
+
+In August 2007, the same Russian programmer released a WM6 ROM for the hx4700,
+which was in its fourth revision as of January 2008.[6]
+
+In October 2007 a so called "ROM kitchen" was adapted for the hx4700 using the
+above WM6 ROM.[7]
+
+### [edit] HP iPAQ rz1700 series
+
+The HP iPAQ rz1700 series is a series of PocketPC's that were designed for the
+budget user. They have 32MB of RAM which has been divided into 22 MB volatile
+and 10 MB non-volatile that was known as iPAQ File Store, a built-in
+microphone, a SDIO slot, 3.5 mm headphone jack, a 3 inch 240x320 colour screen
+capable of displaying 65,355 colours and a 203 MHz Samsung processor. The
+PocketPC's were shipped with Windows Mobile 2003 SE which included all of the
+standard programs such as Pocket Word, Pocket Excel, a PIM etc. They also came
+with Macromedia Flash Player for mobile and a redesigned home screen that the
+user could turn on and off depending on whether or not the user wanted it.
+
+### [edit] HP iPAQ rx4000, rx3100, rx3400 and rx3700 series
+
+Billed as "Mobile Media Companions", some of these models feature Nevo
+personal media software, onboard 1.2 megapixel cameras (rx3400 and rx3700),
+Bluetooth, Wi-Fi, and an onboard Secure Digital card slot for extra documents
+or media.
+
+The rx4240 and rx4250 are great medium entry PDAs: bluetooth, Wi-Fi, Windows
+Mobile 5, Mobile Office and heaps more are preloaded. The rx4000 range
+features a Samsung 400 MHz Processor, and boasts a larger 128 MB ROM and 64 MB
+SDRAM, Up to 64 MB user-available memory on the 4240.
+
+The rx3100 and rx3400 had 32 MB of RAM and 300 MHz processors, whereas the
+rx3700 had 64 MB of RAM and a 400 MHz processor. The latter also came with a
+1440 mAh battery as standard, rather than the rx3400's 920 mAh unit.
+
+These models have been known to suffer from a bug related to the way the iPAQ
+File Store, the rx3700's ROM, operates and manages files. This bug prevents
+the user from deleting or renaming files on the ROM, causing significant
+deficiencies in its operation. This bug is known by HP, but there is not yet
+an official solution for the problem.
+
+The current version of the Windows Mobile 2003 SE operating system has been
+known to cause issues with Bluetooth functionality. Some patches have been
+released by the manufacturer, such as for Bluetooth headphones, but others,
+such as connectivity with HP GPS devices, have not been released. The devices
+continue to be non-functional for these models despite being published as
+compatible.
+
+### [edit] HP iPAQ h6300 series
+
+<IMG>
+
+<IMG>
+
+Ipaq h6340
+
+Pocket PC Phone. Contains a GSM phone, 64 MB RAM, 168 MHz Texas Instruments
+OMAP processor, and comes with a detachable thumb keyboard. Also includes VGA
+quality camera and 1800 mAh battery. It has built in Bluetooth and Wi-Fi
+(802.11b).
+
+T-Mobile used to sell the h6315 but has decided to withdraw it from the
+market. The firmware was never updated to remove all of the bugs which cause
+sporadic behaviour, including dropped calls, not answering calls, turning off,
+erasing all user memory (factory reset), etc.
+
+Variants include the h6340 which is sold in parts of Europe without a camera
+through normal distribution points- hence is not carrier specific. The h6365
+has identical specifications to the h6315 but it is not signed to a carrier.
+
+### [edit] HP iPAQ Mobile Messenger hw6500 series
+
+This iPAQ is the first Pocket PC phone to have built in Global Positioning
+System (GPS) capabilities with support for NMEA. When no GPS signal is
+available the device attempts to calculate its location by switching to cell
+triangulation. It has an integrated keyboard and unique 240x240 resolution. It
+may seem that the screen size can be an advantage regarding the standby time,
+but there are reports that actually many software products do not work on this
+device as they should because they were created for the standard 320x240
+resolution (menus are not fully visible, hidden buttons- sort of problems).
+However this issue can be resolved via 3rd party virtual screen applications
+enabling you to scroll down to the truncated buttons.
+
+It has two card slots SD SDIO and mini-SD and like its predecessor the h6300,
+two versions are/were available: one with camera and one without.
+
+Most notably, compared to the previous model, this unit does not have internal
+support for WiFi.
+
+Specifications can be found here.
+
+This unit, as with most similar units, comes in a variety of languages. For a
+number of reasons, including the assurance of price in higher priced markets,
+languages are designed to not be changeable on the units. For example, if you
+have a unit with a German operating system, you cannot "officially" change the
+language.
+
+The language can, however, be changed to English at this time by flashing the
+BIOS using upgrades released by HP.
+
+### [edit] HP iPAQ Mobile Messenger hw6900 series
+
+These units entered the market in late 2006. Anticipated specifications can be
+found here (PDF)
+
+Like other iPAQs released in the prior to this one, this unit has internal
+support for WiFi as well as Windows Mobile 5. It includes a GSM phone,
+Bluetooth, and GPS built-in.
+
+The IPAQ HW6915 is available in the market as of 2007.
+
+### [edit] HP iPAQ rw6800 series
+
+In addition to mobile messaging, the rw6828 offers virtually every
+connectivity option under the sun, including tri-band (900/1800/1900MHz) GSM,
+GPRS/EDGE, Bluetooth 1.2, Infrared and 802.11b Wi-Fi. All of these features
+can be turned off, which not only conserves battery power but also enables
+users to operate the device like a regular PDA during air travel.
+
+Naturally, the phone/push-e-mail combination puts the device in direct
+competition with the BlackBerry. However, one qualm that we've always had with
+the BlackBerry is that its lack of multimedia features alienates non-corporate
+users and even corporate customers that use their device for non-work
+purposes. Although RIM promises that a "prosumer" BlackBerry is in the works,
+HP has beaten it to the punch with the rw6828, which offers a slew of
+multimedia functions.
+
+Audio playback is catered for by an integrated FM radio and PocketMusic MP3
+playback software. These can be tapped into using either a regular set of
+headphones or the integrated dual stereo speakers, and both options offer up
+impressive sound quality. You'll want to buy an expansion card to stick into
+the device's mini-SD slot, however, as it only comes with 128MB of flash ROM.
+These audio features are certainly attractive, but make no mistake, it won't
+replace the intuitive interface and long battery life of your current MP3
+player. But that's OK, since HP reps said it themselves at the launch event in
+Hong Kong -- "we're not targeting iPod."
+
+In addition to audio, the rw6828 also supports video playback using any
+Windows Mobile 5 media player software such as VLC. Again, picture quality is
+pleasing and playback is smooth.
+
+Rounding out the device's excellent multimedia feature-set is an integrated HP
+2.0-megapixel camera with a flash and self-portrait mirror. This is similar to
+the O2 Atom's camera offering, and while shots are suitable for e-mailing
+around to your mates, the quality is distinctly underwhelming and you
+certainly won't be making prints of any photographs.
+
+Since the device runs on Windows Mobile 5 Phone Edition, it also comes with
+Microsoft Word, Excel, PowerPoint, Internet Explorer and Outlook 2002 pre-
+installed. These are handy for those that need to stay productive whilst on
+the move, and offer more features than many of the third-party software
+offerings available for the BlackBerry. However, keep in mind that the mobile
+version of PowerPoint only allows you to view, not edit, presentations, so
+don't bank on making last-minute modifications before entering the board room.
+
+### [edit] HP iPAQ rx4000 series
+
+### [edit] HP iPAQ rx5000 series
+
+#### [edit] HP iPAQ rx5900
+
+Dubbed the travel companion, this series of iPAQ PocketPC from HP has a built
+in GPS navagation system, 802.11 B/G wireless, Bluetooth 2.0, a 400 MHz
+Samsung processor, Windows Mobile 5.0, and anywhere from 64 MB to 2 GB of
+internal memory. It also has an integrated microphone and speaker, with a 3.5
+mm headphone jack, an SD slot, and a 1700 mAh removable battery.
+
+### [edit] HP iPAQ 100 Series Classic Handheld
+
+<IMG>
+
+<IMG>
+
+Ipaq 112
+
+This is the simplest series of iPAQs in the revamped iPAQ line. It features
+the following:[8]
+
+Processor: Marvell PXA310, 624 MHz  
+ROM: 256MB  
+RAM: 64MB for running applications  
+Display: 3.5-inch QVGA TFT with touch screen, portrait oriented  
+Wireless LAN: 802.11b/g 1,2  
+Bluetooth: v2.0 with EDR  
+Headphone jack: 3.5mm 4-pin  
+Connector: mini-USB  
+Battery: 1200mAh, removable/rechargeable  
+Expansion: SDIO, high-capacity  
+Speaker, microphone (In some countries,microphone is blocked by HP.)  
+Input: touch, stylus  
+Buttons: 5-way navigation with press to activate, 4 programmable, voice
+recorder, power, reset  
+LED: 2 multi-light  
+Operating system: Windows Mobile 6 Classic Edition
+
+### [edit] HP iPAQ 200 Series Enterprise Handheld
+
+Known as the Enterprise Handheld, this series features a Marvell 624 MHz
+PXA310 XScale ARM Processor, 256 MB ROM and 128MB of RAM. It also features
+Bluetooth and 802.11b/g wireless connectivity and Windows Mobile 6.0
+Classic.[9]
+
+Model: HP iPAQ 200 Enterprise Handheld  
+Operating System : Windows Mobile 6 Classic  
+Screen Size: 4 inch  
+Weight: 6.8 ounces  
+Processor: Marvell 624 MHz PXA310 XScale ARM  
+Battery: 2200 mAh battery
+
+It includes both SD (SDIO and also supports SDHC memory cards) and
+CompactFlash card slots. While the iPaq connector may appear to be the same as
+the one on the hx4700 model it replaces, it is not.
+
+### [edit] HP iPAQ 300 Series Travel Companion
+
+This is the first HP iPAQ which is not a PDA. It is a device meant solely for
+navigation. Users can synchronize their Contacts with a Host PC's Outlook
+using a HP proprietary utility. The www.iPAQ.com portal was also
+simultaneously launched to complement the functionality of the device and to
+deliver updates. HP does not support the installation of third-party
+applications on the device. All have been discontinued and HP will no longer
+offer navigation only devices.
+
+Features:[10]
+
+Operating System : Windows CE 5.0 with an HP-built custom user interface  
+Processor: SiRF Titan 600 MHz ARM11 dual-core processor  
+ROM: 2GB (user available memory varies based on maps installed)  
+RAM: 128MB  
+Display: 4.3-inch WVGA 800x480 TFT with touch screen, antiglare, landscape
+orientation, 16bit RGB depth  
+Bluetooth: v2.0 with EDR1  
+Headphone jack: 3.5mm 3-pin for stereo and microphone  
+Connector: mini-USB  
+Battery: 1700mAh, removable  
+Expansion: SD, high-capacity, supports SDHC class 2, class 4, and class 6
+memory cards  
+Speaker: 1, large for navigation volume  
+Microphone: 1, positioned speakerphone, echo cancellation  
+Input: touch, stylus  
+Buttons: power, reset, scroll wheel  
+LEDs: 2 - 1 blue for wireless, 1 dual-color for charge (amber for charging,
+green for fully charged)
+
+### [edit] HP iPAQ 500 Series Voice Messenger
+
+Introduced in the first half of 2007, the iPAQ 500 Series Voice Messenger was
+the first iPAQ from HP running the Windows Mobile 6 Operating System. It is
+also the first and currently, the only iPAQ which runs the SmartPhone version
+of the Windows Mobile series of Operating Systems from Microsoft. Unlocked
+phones purchased from HP or 3rd party vendors are "app locked", preventing
+some 3rd party software from being installed. There are unlocking utilities
+available on the internet. It has been discontinued by HP.
+
+Features:[11]
+
+Smartphone with 12-function keys  
+Operating System : Windows Mobile 6 Standard  
+Quad band GSM/GPRS/EDGE wireless radio with automatic band transition1,2,3,4  
+WiFi: 802.11 b/g with WPA2 security. GPRS connects to the internet by default
+regardless of any available wi-fi & must be disabled via a 3rd party utility.  
+Bluetooth: Bluetooth v1.2 wireless technology  
+Processor: TI OMAP 850 Processor 200 MHz  
+Expansion: Micro-SD slot (memory only)  
+Camera: Integrated 1.3 MP  
+Battery: Li-ion 1100 mAh  
+Display: 2.0" micro-reflective TFT 176x220 with 64K color LED backlight
+
+### [edit] HP iPAQ 600 Series Business Navigator
+
+The device features a revolutionary touch-wheel interface on the numeric
+keypad. Also, the HP Enterprise Mobility Agent is included which helps
+businesses deliver updates to multiple devices simultaneously from a central
+location.
+
+Devices with model numbers ending in c come with an in-built camera, such as
+610c, 612c, 614c.[12]
+
+Features:[12]
+
+3G wireless broadband connectivity for voice and data  
+
+  *     * Tri-band HSDPA 7.2 Mbit/s (850/1900/2100 MHz)
+    * Quad-band GSM/GPRS/EDGE (850/900/1800/1900 MHz)
+
+Wireless LAN: IEEE 802.11 b/g5  
+Bluetooth 2.0 with EDR1  
+Assisted GPS (A-GPS) navigation  
+Operating System: Windows Mobile 6 Professional  
+Navigation: Smart Touch Wheel, 3-way thumb wheel, touchscreen, and 12-key
+numeric pad  
+Display: 2.8-inch 240x320 TFT color touch screen  
+Camera: 3 Megapixel autofocus (optional)  
+Battery: 1590 mAh Li-ion  
+RAM: 128MB SDRAM  
+ROM: 256MB Flash ROM  
+Expansion: Micro-SD (SDHC)  
+Interface: Mini-USB connector for charge/sync
+
+### [edit] HP iPAQ 900 Series Business Messenger
+
+The 900 Series Business Messenger is very similar in features to the 600
+Series Business Navigator, in that the 900 Series also has 3G capabilities,
+A-GPS navigation, runs Windows Mobile 6 Professional, cameras are included
+only with models ending in c and the HP Enterprise Mobility Agent can be used
+to deliver updates to several devices from a central location.
+
+Features:[13]
+
+3G wireless broadband connectivity for voice and data  
+
+  *     * Tri-band HSDPA 3.6/7.2 Mbit/s (850/1900/2100 MHz)
+    * Quad-band GSM/GPRS/EDGE (850/900/1800/1900 MHz)
+
+Wireless LAN: IEEE 802.11 b/g with WPA2 security  
+Bluetooth: v2.0 with EDR1  
+Navigation: Assisted GPS (A-GPS)  
+Operating System: Windows Mobile 6.1 Professional  
+Navigation: Alphanumeric keyboard, scroll wheel, 5-way navigation, 2 soft keys  
+Display: 2.46-inch 320x240 TFT color touch panel  
+Camera: 3 Megapixel autofocus (select models)  
+Battery: 1940 mAh Lithium-ion  
+Processor: Marvell PXA270 Processor at 416Mhz  
+RAM: 128MB SDRAM  
+ROM: 256MB Flash ROM  
+Expansion: Micro-SD card slot  
+Interface: Mini-USB connector for charge/sync
+
+## [edit] Quick reference chart
+
+### [edit] Jacket-compatible
+
+These older models are compatible with the iPAQ Jacket which can have 1
+CompactFlash, 1 PC Card or 2 PC Card slots.
+
+iPAQ jacket PN 173396-001 PCMCIA (PC port) x1 internal Li-ion battery PN
+167648 3.7v 1500mAh (upgradable)
+
+Model RAM (MiB) ROM (MiB) Slots CPU MHz OS WiFi Bluetooth IrDA PN 173396-001
+Special Feature  
+H3100 16 16 None ARM SA1110 206 PPC2000  
+H3630 32 16 None ARM SA1110 206 PPC2000  
+H3660 64 16 None ARM SA1110 206 PPC2000  
+H3760 64 32 None ARM SA1110 206 PPC2002  
+H3850 64 32 1SD ARM SA1110 206 PPC2002  
+H3870 64 32 1SD ARM SA1110 206 PPC2002 BT1.1 Yes Yes  
+H3950 64 32 1SD/IO PXA250 400 PPC2002 Yes NEVO TV Remote Software  
+H3970 64 48 1SD PXA250 400 PPC2002 BT1.1 Yes Yes NEVO TV Remote Software  
+H5150 64 32 1SD PXA255 400 WM2003 BT1.1 Yes Yes  
+H5400 64 48 1SD PXA250 400 WM2003 802.11b BT1.1 Yes  
+H5500 128 48 1SD PXA255 400 WM2003 802.11b BT1.1 Yes Yes  
+### [edit] Newer models
+
+Model RAM (MiB) ROM (MiB) Slots CPU MHz OS WiFi Bluetooth More  
+H1910 64 16 1SD PXA250 200 PPC2002 No RS232 Support  
+H1915 64 16 1SD PXA255 200 PPC2002 No RS232 Support  
+H1930 64 16 1SDIO S3C2410 203 WM2003 No RS232 Support  
+H1940 64 32 1SDIO S3C2410 266 WM2003 BT1.1 No RS232 Support  
+rx1950 32 64 1SDIO S3C2442 300 WM5 802.11b RS232 Support  
+H2210 64 32 1CF 1SDIO PXA250 400 WM2003 BT1.1  
+H4150 64 64 1SDIO PXA255 400 WM2003 802.11b BT1.1  
+hx2410 64 64 1CF 1SDIO PXA270 520 WM2003SE 802.11b BT1.2  
+hx2415 64 64 1CF 1SDIO 1MMC PXA270 520 WM2003SE 802.11b BT1.2  
+hx2495b 64 192 1CF 1SDIO PXA270 520 WM5 802.11b BT1.7.1  
+hx2750 128 128 1CF 1SDIO PXA270 624 WM2003SE 802.11b BT1.2  
+hx2790 64 192 1CF 1SDIO PXA270 624 WM5 802.11b BT1.7.1  
+hx2790b 64 320 1CF 1SDIO PXA270 624 WM5 802.11b BT1.7.1  
+hx2790c 64 512 1CF 1SDIO PXA270 624 WM5 802.11b BT1.7.1  
+hx4700 64 128 1CF 1SDIO PXA270 624 WM2003SE 802.11b BT1.2 VGA  
+rz1700 32 32 1SDIO S3C2410 203 WM2003SE  
+rx3100 32 64 1SDIO S3C2440 300 WM2003SE 802.11b BT1.2  
+rx3400 32 64 1SDIO S3C2440 300 WM2003SE 802.11b BT1.2  
+rx3700 64 64 1SDIO S3C2440 400 WM2003SE 802.11b BT1.2  
+h6300 64 64 1SDIO TI OMAP 168 WM2003 802.11b BT1.1 GPRS  
+hw6500 64 64 1SDIO 1miniSD PXA270 312 WM2003SE BT1.2 GPRS/EDGE, GPS  
+hw6900 64 64 1miniSD PXA270 416 WM5.0 802.11b BT1.2 GPRS/EDGE, GPS  
+rw6800 64 128 1miniSD PXA270 416 WM5.0 802.11b BT1.2 GPRS/EDGE  
+110 64 256 1SDHC/SDIO PXA310 624 WM6.0 802.11b/g BT2.0 w/ EDR  
+210/211 128 256 1CF 1SDHC/SDIO PXA310 624 WM6.0 802.11b/g BT2.0 w/ EDR VGA  
+614c 128 256 1SDHC/SDIO PXA270 520 WM6.0 802.11b/g BT2.0 w/ EDR QVGA,
+GPRS/EDGE, GPS  
+## [edit] Alternative operating systems for the iPAQ
+
+### [edit] NetBSD
+
+NetBSD will install and run on iPAQ.
+
+### [edit] Familiar Linux
+
+An alternative Linux-based OS is available for the iPAQ, called Familiar. It
+is available with the Opie or GPE GUI environment, or as a base Linux system
+with no GUI if preferred.
+
+Both Opie and GPE provide the usual PIM suite (calendar, contacts, todo list,
+and notes) as well as a long list of other applications. Support for
+handwriting recognition, on-screen keyboard, bluetooth, IrDA and add-on
+hardware such as keyboards are standard in both environments.
+
+The v0.8.4 (2006-08-20) version supports HP iPAQ H3xxx and H5xxx series of
+handhelds, and introduces initial support for the HP iPAQ H2200, Hx4700, and
+H6300 series.
+
+about linux un h36** see http://www.elinux.org/Flameman/ipaq/status
+
+### [edit] Plan 9 from Bell Labs
+
+Plan 9 from Bell Labs runs on the iPAQ. The nickname of the architecture is
+"bitsy," after the name of the ARM-based chipsets used in many of the
+machines.
+
+### [edit] Ã ngstrÃ¶m distribution
+
+See Ã ngstrÃ¶m Distribution
+
+## [edit] Upgrades
+
+Some of the iPAQ series are upgradeable to newer versions of the Windows
+Mobile software. This is limited to very recent releases, such as the hx2000
+series. Upgrades are available from HP for approximately US$39.99 + shipping,
+and include the Windows Mobile 5.0 software and an updated version of
+Microsoft ActiveSync.
+
+### [edit] Internal Li-ion battery
+
+iPAQ model 3100 - 3700 are fitted with internal Li-ion battery PN 167648 3.7v
+1500mAh which can be replaced with a 2200mAh upgrade. The same battery is used
+in the iPAQ jacket PN 173396-001 PCMCIA (PC port), which can also be upgraded
+to 2200mAh.
+
+### [edit] RAM Upgrade
+
+It is possible to have the internal RAM of an iPAQ H3970 upgraded to 128Mb,
+however this requires a specialist service as the RAM chips are surface mount
+BGAs which cannot be removed with normal soldering equipment.
+
+## [edit] See also
+
+  * Personal digital assistant
+  * Windows Mobile
+  * Hewlett-Packard
+  * Jornada (PDA)
+  * SuperWaba: Free and open software development kit for Pocket PC and Linux iPAQs.
+  * Pocket PC
+
+## [edit] References
+
+  1. ^ HP Press release
+  2. ^ HP iPAQ h1910,h1915,h1920,h1930,h1935,h1937,h1945, h2200,h2210,h2215,h3800,h3900, h4150,h4155, h4300,h4350,h4355, h5100,h5155,h5400,h5500,h5450,h5455,h5500,h5550,h5555, h6315,h6340,h6340,h6365, hw6510,hw6515,hx2000,hx2100,hx2400,hx2700,hx4700,hx4705 pinout and signals @ pinouts.ru
+  3. ^ HP iPAQ rx1950 Pocket PC - North America/Canada QuickSpecs
+  4. ^ Forum post relating to the release
+  5. ^ Forum post relating to the release
+  6. ^ Forum post relating to the release
+  7. ^ Forum post relating to the release
+  8. ^ iPAQ 100 Series - Quickspecs
+  9. ^ iPAQ 200 Series - Quickspecs
+  10. ^ iPAQ 300 Series - Quickspecs
+  11. ^ iPAQ 500 Series
+  12. ^ a b iPAQ 600 Series - Quickspecs
+  13. ^ iPAQ 900 Series - Quickspecs
+
+## [edit] External links
+
+  * iPAQ Choice \- Website for purchasing iPAQ software
+  * iPAQ Repair and Parts Website dedicated to iPAQ Repairs in UK
+  * iPAQ Accessories & Repair Parts \- dedicated website for IPAQ Accessories & Spare Parts
+  * NetBSD on iPAQ
+  * Plan 9 from Bell Labs on iPAQ (referred to as Bitsy)
+
+v â¢ d â¢ e
+
+The Hewlett-Packard Company  
+Corporate Directors:
+
+Lawrence T. Babbio, Jr. â¢ Sari M. Baldauf â¢ Richard A. Hackborn â¢ John
+H. Hammergren â¢ Mark V. Hurd â¢ Joel Z. Hyatt â¢ John R. Joyce â¢ Robert
+L. Ryan â¢ Lucille S. Salhany â¢ G. Kennedy Thompson  
+Company Founders:
+
+William Hewlett â¢ David Packard â¢ Rod Canion â¢ Jim Harris â¢ Bill Murto  
+Computer Hardware Products:
+
+HP Compaq PCs â¢ Compaq Presario â¢ HP Pavilion â¢ VoodooPC  
+Consumer Electronics and Accessories:
+
+iPAQ â¢ HP calculators â¢ HP Photosmart â¢ LaserJet â¢ Lightscribe â¢ HP
+Digital Cameras â¢ Deskjet  
+Other Divisions:
+
+ProCurve â¢ Logoworks â¢ Neoware â¢ Indigo Digital Pressâ¢ TOWER
+Softwareâ¢ HP Mercury  
+Discontinued Products:
+
+HP Vectra â¢ HP Omnibook â¢ HP Jornada â¢ HP Digital Entertainment Center
+â¢ Compaq Evo â¢ Compaq Deskpro â¢  
+See also
+
+Acquisitions  
+Annual Revenue: US$104.2 billion (â²15% FY 2007) â¢ Employees: 309,000 â¢
+Stock Symbol: NYSE: HPQ â¢ Website: hp.com  
+Retrieved from "http://en.wikipedia.org/wiki/IPAQ"
+
+Categories: Windows Mobile Classic devices | Windows Mobile Professional
+devices | Windows Mobile Standard devices | Mobile computers | Embedded Linux
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since February 2007
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 26 March 2009, at 22:44.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,123 @@
+
+# MacPorts
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+MacPorts Latest release 1.7 / December 14, 2008  
+Written in Tcl  
+OS Mac OS X  
+Development status Active  
+Type Package Management  
+License BSD license  
+Website http://www.macports.org/  
+MacPorts, formerly called DarwinPorts,[1] is a free/open source software
+project to simplify installation of other free/open source software on the Mac
+OS X and Darwin operating systems. Similar in aim and function to Fink and the
+BSDs' ports collections, DarwinPorts was started in 2002 as part of the
+OpenDarwin project, with the involvement of a number of Apple Inc. employees
+including Landon Fuller, Kevin Van Vechten, and Jordan Hubbard.
+
+It allows the installation of a number of packages by simply entering the
+command `port install packagename` in the Terminal, which will then download,
+compile and install the requested software, while also installing any required
+dependencies automatically. Similar to APT in Debian.
+
+On April 28, 2005, the project released version 1.0 of their software.[2] In
+December 2005, the project reached a milestone, passing 3000 ports.[3] As of
+January 2009, MacPorts version 1.7.0 contains more than 5000 ports.
+
+MacPorts are hosted on Mac OS Forge, which was created and maintained by Apple
+Inc..
+
+## [edit] References
+
+  1. ^ "DarwinPorts project announces New Hosting and New Name". darwinports.opendarwin.org (archived). August 7, 2006. http://www.macports.org/?p=46. Retrieved on 2007-03-05.
+  2. ^ Markus Weissmann (April 28, 2005). "DarwinPorts v1.0". darwinports.opendarwin.org (archived). http://web.archive.org/web/20060629031249/http://darwinports.opendarwin.org/archives.php?id=22. Retrieved on 2007-03-05.
+  3. ^ "3000 ports landmark". darwinports.opendarwin.org (archived). December 17, 2005. http://web.archive.org/web/20060629031529/http://darwinports.opendarwin.org/archives.php?id=33. Retrieved on 2007-03-05.
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * Gentoo/Alt
+  * Fink
+  * Debian
+  * APT
+
+## [edit] External links
+
+  * Official site
+  * MacPorts Guide
+  * List of available ports
+  * MacPorts installation tutorials
+
+Retrieved from "http://en.wikipedia.org/wiki/MacPorts"
+
+Categories: Mac OS X software | Free package management systems
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Polski
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 20 February 2009, at 19:48.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,287 @@
+
+# Apache Struts
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it has insufficient inline citations. Please help to
+improve this article by introducing more precise citations where appropriate.  
+Apache Struts Apache Struts Logo  
+Developed by Apache Software Foundation  
+Latest release 2.1.6 / 2009-01-13; 82 days ago  
+Written in Java  
+Operating system Cross-platform  
+Type Web application framework  
+License Apache License 2.0  
+Website http://struts.apache.org/  
+"Struts" redirects here. For the part of a car, hang glider, aircraft, see
+strut or suspension (vehicle).
+
+Apache Struts is an open-source web application framework for developing Java
+EE web applications. It uses and extends the Java Servlet API to encourage
+developers to adopt a model-view-controller (MVC) architecture. It was
+originally created by Craig McClanahan and donated to the Apache Foundation in
+May, 2000. Formerly located under the Apache Jakarta Project and known as
+Jakarta Struts, it became a top level Apache project in 2005.
+
+Struts2 is the rebranding of WebWork under the Apache Struts make.
+
+## Contents
+
+  * 1 Design goals and overview
+  * 2 History
+  * 3 Competing MVC frameworks
+  * 4 See also
+  * 5 References
+  * 6 External links
+
+  
+## [edit] Design goals and overview
+
+In a standard Java EE web application, the client will typically submit
+information to the server via a web form. The information is then either
+handed over to a Java Servlet which processes it, interacts with a database
+and produces an HTML-formatted response, or it is given to a JavaServer Pages
+(JSP) document which intermingles HTML and Java code to achieve the same
+result. Both approaches are often considered inadequate for large projects
+because they mix application logic with presentation and make maintenance
+difficult.
+
+The goal of Struts is to cleanly separate the model (application logic that
+interacts with a database) from the view (HTML pages presented to the client)
+and the controller (instance that passes information between view and model).
+Struts provides the controller (a servlet known as `ActionServlet`) and
+facilitates the writing of templates for the view or presentation layer
+(typically in JSP, but XML/XSLT and Velocity are also supported). The web
+application programmer is responsible for writing the model code, and for
+creating a central configuration file `struts-config.xml` which binds together
+model, view and controller.
+
+Requests from the client are sent to the controller in the form of "Actions"
+defined in the configuration file; if the controller receives such a request
+it calls the corresponding Action class which interacts with the application-
+specific model code. The model code returns an "ActionForward", a string
+telling the controller which output page to send to the client. Information is
+passed between model and view in the form of special JavaBeans. A powerful
+custom tag library allows it to read and write the content of these beans from
+the presentation layer without the need for any embedded Java code.
+
+Struts also supports internationalization, provides facilities for the
+validation of data submitted by web forms, and includes a template mechanism
+called "Tiles" which (for instance) allows the presentation layer to be
+composed from independent header, footer, and content components.
+
+## [edit] History
+
+The Apache Struts Project was launched in May 2000 by Craig R. McClanahan to
+provide a standard MVC framework to the Java community. In July 2001, version
+1.0 was released.
+
+## [edit] Competing MVC frameworks
+
+Although Struts is a well-documented, mature, and popular framework for
+building front ends to Java applications, it is facing new challenges from
+newer "light weight" MVC frameworks such as Spring MVC, Stripes and Tapestry.
+The new XForms standards and frameworks may also be another option to building
+complex web Form validations with Struts in the future.
+
+The WebWork framework spun off from Apache Struts several years ago, aiming to
+offer enhancements and refinements while retaining the same general
+architecture of the original Struts framework. However, it was announced in
+December 2005 that Struts would re-merge with WebWork. WebWork 2.2 has been
+adopted as Apache Struts2, which reached its first full release in February
+2007.
+
+In 2004 Sun launched an addition to the Java platform, called JavaServer Faces
+(JSF). Aside from the original Struts framework, the Apache project also
+offers a JSF-based framework called Shale.
+
+Other MVC frameworks that are not Java based include Ruby on Rails,
+WebObjects, Django, Catalyst, TurboGears, Castle MonoRail for ASP.NET MVC
+Framework, CakePHP, Symfony (for PHP), Zend Framework, Achievo ATK,
+CodeIgniter (for PHP) and Mach-II (for CFML). Struts4php is a version of the
+Struts framework for the PHP web scripting language [1]. Girders is a port of
+the Struts framework in C# for Microsoft .NET [2].
+
+## [edit] See also
+
+  * Model-view-controller
+  * Jakarta
+  * Java EE
+  * Google Web Toolkit
+  * JavaServer Faces
+  * Stripes
+  * Comparison of web application frameworks
+  * Struts2 Tutorial
+
+## [edit] References
+
+  1. ^ struts4php.org
+  2. ^ SourceForge.net: Girders
+
+  * James Holmes: Struts: The Complete Reference, McGraw-Hill Osborne Media, ISBN 0-07-223131-9
+  * Bill Dudney and Jonathan Lehr: Jakarta Pitfalls, Wiley, ISBN 978-0-471-44915-7
+  * Bill Siggelkow: Jakarta Struts Cookbook, O'Reilly, ISBN 0-596-00771-X
+  * James Goodwill, Richard Hightower: Professional Jakarta Struts, Wrox Press, ISBN 0-7645-4437-3
+  * John Carnell and Rob Harrop: Pro Jakarta Struts, Second Edition, Apress, ISBN 1-59059-228-X
+  * John Carnell, Jeff Linwood and Maciej Zawadzki: Professional Struts Applications: Building Web Sites with Struts, ObjectRelationalBridge, Lucene, and Velocity, Apress, ISBN 1-59059-255-7
+  * Ted Husted, etc: Struts in Action, Manning Publications Company, ISBN 1-930110-50-2
+  * Struts View Assembly and Validation, (PDF format).
+  * Stephan Wiesner: Learning Jakarta Struts 1.2, Packt Publishing, 2005 ISBN 1-904811-54-X
+
+## [edit] External links
+
+  * Apache Struts official website
+
+v â¢ d â¢ e
+
+List of Web Application Frameworks  
+ASP.NET
+
+ASP.NET MVC Â· BFC Â· DotNetNuke Â· MonoRail Â· Umbraco  
+ColdFusion
+
+ColdSpring Â· Fusebox Â· Mach-II Â· Model-Glue Â· onTap  
+Common Lisp
+
+ABCL-web Â· blow Â· BKNR Â· SymbolicWeb Â· UnCommon Web  
+Java
+
+Apache Struts Â· AppFuse Â· Flexive Â· Google Web Toolkit Â· IT Mill Toolkit
+Â· ItsNat Â· JavaServer Faces Â· JBoss Seam Â· Makumba Â· OpenXava Â·
+Reasonable Server Faces Â· RIFE Â· Restlet Â· Spring Â· Stripes Â· Tapestry Â·
+WebWork Â· Wicket Â· ZK  
+JavaScript (client-side)
+
+Ample SDK Â· Clean AJAX Â· CougarXML Â· Dojo Â· Echo Â· Ext Â· jQuery Â·
+midori Â· MochiKit Â· MooTools Â· OpenLink AJAX Â· Prototype JavaScript Â·
+qooxdoo Â· Rialto Â· Rico Â· script.aculo.us Â· SmartClient Â· SproutCore Â·
+Spry Â· Yahoo! UI Library Â· Google Web Toolkit  
+JavaScript (server-side)
+
+AppJet Â· Jaxer  
+Perl
+
+Catalyst Â· Interchange Â· Mason  
+PHP
+
+Akelos Â· CakePHP Â· Chisimba Â· CodeIgniter Â· Drupal Â· Horde Â· Kolibri Â·
+KumbiaPHP Â· Midgard Â· PEAR Â· PHPNuke Â· PHPonTrax Â· Seagull Â· Simplicity
+Â· Symfony Â· Zend Â· Zoop  
+Smalltalk
+
+AIDA/Web Â· Seaside  
+Other languages
+
+Application Express (PL/SQL) Â· Fusebox (ColdFusion and PHP) Â· OpenACS (Tcl)
+Â· Yaws (Erlang) Â· HAppS (Haskell) Â· Cappuccino (Objective-J)  
+v â¢ d â¢ e
+
+Apache Software Foundation  
+Top level projects
+
+ActiveMQ Â· Ant Â· Apache HTTP Server Â· APR Â· Beehive Â· Buildr Â· Camel Â·
+Cayenne Â· Cocoon Â· Commons Â· CouchDB Â· CXF Â· Derby Â· Directory Â·
+Excalibur Â· Felix Â· Forrest Â· Geronimo Â· Gump Â· Hadoop Â· Harmony Â·
+HiveMind Â· iBATIS Â· Jackrabbit Â· James Â· Lenya Â· Maven Â· mod_perl Â·
+MyFaces Â· OFBiz Â· OpenEJB Â· OpenJPA Â· POI Â· Roller Â· Shale Â·
+SpamAssassin Â· stdcxx Â· Struts Â· Tapestry Â· Tomcat Â· Tuscany Â· Velocity
+Â· Wicket Â· XMLBeans  
+Other projects
+
+Jakarta Project Â· Apache Lucene Â· Apache XML Â· Apache Incubator  
+Sub-projects
+
+BCEL Â· BSF Â· Cactus Â· Chainsaw Â· JMeter Â· Slide Â· Xerces Â· Batik Â· FOP
+Â· Log4j Â· XAP Â· River Â· ServiceMix Â· Log4Net Â· Abdera Â· Ivy Â· ODE Â·
+JSPWiki  
+License: Apache License Â· Website: http://apache.org/  
+Retrieved from "http://en.wikipedia.org/wiki/Apache_Struts"
+
+Categories: Java enterprise platform | Apache Software Foundation | Web
+application frameworks | Free cross-platform software | Free software
+programmed in Java
+
+Hidden categories: Articles lacking in-text citations
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Svenska
+  * Tiáº¿ng Viá»t
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 30 March 2009, at 10:16.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

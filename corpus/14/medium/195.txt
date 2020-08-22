@@ -1,0 +1,265 @@
+
+# Vundo
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (February 2009)  
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it lacks inline citations. Please improve this article
+by introducing more precise citations where appropriate. (March 2009)  
+Vundo, or the Vundo Trojan (also known as Virtumonde or Virtumondo and
+sometimes referred to as MS Juan) is a Trojan horse that is known to cause
+popups and advertising for rogue antispyware programs, and sporadically other
+misbehavior including performance degradation and denial of service with some
+websites including Google and Facebook.
+
+## Contents
+
+  * 1 Infection
+  * 2 Symptoms
+  * 3 Information
+  * 4 Immunize
+  * 5 See also
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Infection
+
+A Vundo infection is typically caused either by opening an e-mail attachment
+carrying the trojan, or through a variety of browser exploits, including
+vulnerabilities in popular browser plug-ins, such as Java. Many of the popups
+advertise fraudulent programs including (but not limited to) Sysprotect,
+Storage Protector, AntiSpywareMaster, WinFixer, AntiVirus 2009, AntiVirus 360,
+and Virus Doctor (not to be confused with Spyware Doctor). There are two main
+components to the Virtumonde.dll file: Browser Helper Objects and Class ID.
+Each of these components are in the Windows Registry under Local Machine, and
+the file names are dynamic. It attaches to the system using bogus Browser
+Helper Objects and DLL files attached to Winlogon and Explorer.exe. Some
+recent variants have begun attaching to lsass.exe instead of winlogon.exe.[1]
+According to Spybot - Search & Destroy scans, there are two Virtumonde.prx
+files and one Virtumonde.dll file located in the Windows Registry as well as
+the system32 directory.[2] The hosts file may also have an entry for browser-
+security.microsoft.com.
+
+## [edit] Symptoms
+
+Since there are many different varieties of Vundo trojans, symptoms of Vundo
+vary widely, ranging from the relatively benign to the severe. Almost all
+varieties of Vundo feature some sort of pop-up advertising as well as rooting
+themselves to make them difficult to delete.
+
+Computers infected exhibit some or all of the following symptoms:
+
+  * Vundo will cause the infected web browser to pop up advertisements; many of which claim a need for software to fix system "deterioration".
+  * The desktop background may be changed to the image of an installation window saying there is adware on the computer.
+  * The screensaver may be changed to the Blue Screen of Death.
+  * In the Display Properties Control Panel, the background and screensaver tabs are missing because their "Hide" values in the Registry were changed to 1.
+  * Both the background and screensaver are in the System32 folder, however the screensaver cannot be deleted.
+  * Windows Automatic Updates (and other web-based services) may also be disabled and it is not possible to turn them back on.
+  * Infected DLLs (with randomized names such as "__c00369AB.dat" and "slmnvnk.dll") will be present in the Windows/System32 folder and references to the DLLs will be found in the user's start up (viewable in MSConfig), registry, and as browser add ons in Internet Explorer.
+  * Vundo may attempt to prevent the user from removing it or otherwise impede its operation, such as by disabling the task manager or Windows registry editor and disables msconfig, preventing you from booting into safe mode.
+  * Some firewalls or antivirus software may also be disabled by the virus leaving the system even more vulnerable. Especially, it disables Norton AntiVirus and in turn uses it to spread the infection. Norton will show prompts to enable phishing filter, all by itself. Upon pressing OK, it will try to connect to real-av.org and try to download more malware.
+  * Another symptom of Vundo may be that the desktop icons and taskbar will disappear and reappear after a short period. This becomes very frustrating for the user, as starting processes are automatically aborted.
+  * In addition, popular anti-Malware programs such as Spybot - Search & Destroy or Malwarebytes' Anti-Malware may be deleted or immediately closed upon loading; on one recently infected machine the "TeaTimer" component of Spybot - Search & Destroy was deleted between reboots. A workaround is to copy or rename the executable, giving it a random name, and selecting the option to run in windows 2000 compatibility mode; this bypasses the automatic shutdown defenses of Vundo, allowing the scan to run.
+  * Web access may also be negatively affected. Vundo may cause many websites to be inaccessible.
+  * Google search links will direct you to rogue antispyware sites - can be avoided by copy-pasting the address
+  * The hard drive may start to be constantly accessed by the winlogon process, thus periodic freezes may be experienced.
+  * Warnings about SuperMWindow not shutting down[3]
+  * Explorer.exe may constantly crash resulting in an endless loop of crashing then restarting.
+  * Create a virus critical driver in C:/Windows/system32/drivers/ (ati0dgxx.sys)
+
+  * It has also been observed that the virus will "eat" away at available hard drive memory. Also, available memory can fluctuate so much as +3 to -3 Gb of memory, evident of Vundo's attempt at "Hiding" when being antagonized.
+
+  * Vundo will also impede download progress, stopping the status bar and process in its tracks.
+
+  * Entering safe mode after attempting to use HijackThis results in a true blue screen of death, which cannot be recovered from without either restoring the deleted safe mode registry keys, or a reinstall of Windows.
+
+  * Sometimes gives a "Run a DLL as an APP" error when some of the randomly named DLLs have been deleted.
+
+  * Will rewrite randomly named DLLs while any of them reside on machine. In other words, the rootkit attempts to reinstall missing parts if any of the parts remain.
+
+  * vfw_32.reg related. Contains <profile/> reference. Shows up in many infected HijackThis logs.
+
+  * Randomly named DLLs commonly have the following approximate sizes: 73KB, 102KB.
+
+  * Randomly named INIs have the following approximate sizes: 8KB, 1,591KB, 1,758KB, 1,770KB.
+
+  * Changes \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run and RunOnce entries to provide itself with startup.
+
+  * Changes msconfig to provide itself with startup.
+
+  * \system32\PerfStringBackup.INI, \system32\perfc009.dat and \system32\perfh009.dat are suspect.
+
+  * Installs adware that 25% of the time is pornographic
+
+## [edit] Information
+
+On infected systems, there is usually a listing for "MS Juan" inside of the
+registry. This registry key causes a browser hijack, disallowing navigation to
+certain sites. There will be an entry listing the search page, which also
+calls upon a random windows dll file, causing the search functions on that
+site to fail. Google searches are disabled, as is access to Hotmail, Gmail,
+MySpace, and Facebook. Said pages usually become unresponsive.
+
+Often infects files on peer sharing and bittorrent sites.
+
+Uses web advertising, e.g. a popunder from the header of That's My Home, for
+delivery.
+
+>
+
+>     <!-- Casale Media 2004 (C) -->
+
+>     <!-- Ad Format: Pop Under -->
+
+>     <!-- Domain(s): thatsmyhome.com -->
+
+>     <script language="Javascript"><!--
+
+>     var d=new Date();var r=(d.getTime()%8673806982)+Math.random();var
+u=escape(window.location.href);
+
+>     var host=' language="Javascript" src="http://as.casalemedia.com/s?s=';
+
+>     document.write('<scr'+'ipt'+host+'55474&u='+u+'&f=1&id='+r+'">
+
+>     </scr'+'ipt>');
+
+>     //--></script>
+
+>     <!-- Casale Media 2004 (C) -->
+
+>  
+## [edit] Immunize
+
+Most antivirus programs are not able to block this infection; however it is
+possible to block many variants of Vundo with applications such as
+Malwarebytes' Anti-Malware or Peer Guardian.
+
+Spybot - Search & Destroy is able to block some newer versions of Vundo. Some
+modern variants of Vundo can exploit the presence of Spybot Search & Destroy
+by infecting TeaTimer.exe, a program that is bundled with Spybot, or by using
+an undetected "puppetmaster" to copy critical DLLs.
+
+An out of date version of Spybot - Search & Destroy such as 1.5.2.20 may well
+falsely report the presence of Virtumode, citing zipfldr.dll in the System 32
+directory as being the infected file. Upgrading to the current version of
+Spybot - Search & Destroy and rescanning the system removes the detection.
+
+Some antivirus programs such as McAfee VirusScan and VundoFix may be able to
+remove parts the trojan such as "MS Juan", however sometimes it is not able
+to, depending on what happens and how much damage the trojan did.
+
+It is possible that CCleaner can remove the infection.
+
+ComboFix can be used to effectively eliminate the problem files, although its
+very powerful nature lends professionals to advise it only be used under
+supervision.
+
+## [edit] See also
+
+  * VundoFix
+  * ComboFix
+  * Malware Bytes
+
+## [edit] References
+
+  1. ^ SuperMWindow - A New Vundo.
+  2. ^ Spybot S&D Analysis Scan
+  3. ^ SuperMWindow - A New Vundo.
+
+  * Windows Warning Message
+  * McAfee's information on the Vundo trojan
+  * Trojan.Vundo - Symantec.com
+  * Step by step for Vundo Removal
+  * Atrocities of Vundo
+  * Corrupted Explorer
+  * Disabled task manager
+
+## [edit] External links
+
+  * How to Remove WinFixer / Virtumonde / Msevents / Trojan.vundo
+  * How to remove Vundo on wikiHow
+  * Bo Bayles Annex guide to removing Virtumonde DLL's
+  * List of Vundo generation discovered by McAfee
+  * List of Vundo generation discovered by Microsoft Windows Live OneCare
+
+Retrieved from "http://en.wikipedia.org/wiki/Vundo"
+
+Categories: Trojan horses
+
+Hidden categories: Articles needing additional references from February 2009 |
+Articles lacking in-text citations from March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Italiano
+  * Nederlands
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 12 April 2009, at 01:08 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

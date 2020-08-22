@@ -1,0 +1,699 @@
+
+# Blackjack
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This article is about the gambling game. For other uses, see Black Jack
+(disambiguation).
+
+Blackjack (also known as Twenty-one, Vingt-et-un (French for Twenty-one), or
+Pontoon is the most widely played casino banking game in the world.[1] Much of
+blackjack's popularity is due to the mix of chance with elements of skill, and
+the publicity that surrounds card counting (calculating the probability of
+advantages based on the ratio of high cards to low cards). The casino version
+of the game should not be confused with the British card game Black Jack (a
+variant of Crazy Eights).
+
+## Contents
+
+  * 1 History of blackjack
+  * 2 How to play blackjack
+    * 2.1 Player decisions
+  * 3 Rule variations and the "house advantage"
+    * 3.1 Dealer hits soft 17?
+    * 3.2 Number of decks
+    * 3.3 Surrender
+    * 3.4 Resplit to nn
+    * 3.5 Resplit aces
+    * 3.6 Double after split
+    * 3.7 Double on 10 or 11 only
+    * 3.8 European no-hole-card rule
+    * 3.9 Altered payout for blackjack
+    * 3.10 Dealer wins ties
+    * 3.11 Five card charlie/Five card trick
+    * 3.12 Insurance
+  * 4 Blackjack strategy
+    * 4.1 Basic strategy
+    * 4.2 Card counting
+    * 4.3 Composition-dependent strategy
+    * 4.4 Shuffle tracking and other advantage-play techniques
+  * 5 Variants
+  * 6 Blackjack Hall of Fame
+  * 7 Notes
+  * 8 Sources
+  * 9 External links
+
+  
+## [edit] History of blackjack
+
+Blackjack's precursor was "twenty-one", a game of unknown origin. The first
+written reference is to be found in a book of Miguel de Cervantes, the author
+of Don Quixote, and a gambler himself. The main characters of his tale
+"Rinconete y Cortadillo", from "Novelas Ejemplares", are a couple of cheaters
+working in Seville. They are proficient at cheating at "veintiuna" (Spanish
+for twenty-one), and stated that the object of the game is to reach 21 points
+without busting, and that the Ace values 1 or 11. The game is played with the
+Spanish deck, that is without tens, which makes the game similar to the
+current Spanish 21. This short story was written between 1601 and 1602, so the
+game was played in Castilia since the beginning of the 17th Century or even
+earlier. Later references of this game are to be found in France and Spain.[2]
+
+When 21 was first introduced in the United States it was not very popular, so
+gambling houses tried offering various bonus payouts to get the players to the
+tables. One such bonus was a 10-to-1 payout if the player's hand consisted of
+the ace of spades and a black Jack (either the Jack of clubs or the Jack of
+spades). This hand was called a "blackjack" and the name stuck to the game
+even though the bonus payout was soon abolished. As the game is currently
+played, a "blackjack" may not necessarily contain a jack or any black cards at
+all.
+
+## [edit] How to play blackjack
+
+In casino blackjack, the dealer faces one to seven players from behind a
+kidney-shaped table. Each player plays his hand independently against the
+dealer. At the beginning of each round, the player places a bet in the
+"betting box" and receives an initial hand of two cards. The object of the
+game is to get a higher card total than the dealer, but without going over 21
+which is called "busting" or "too many." (The spot cards count 2 to 9; the 10,
+jack, queen, and king count as ten; an ace can be either 1 or 11.) The player
+goes first and plays his hand by taking additional cards if he desires. If he
+busts, he loses. Then the dealer plays her hand. If the dealer busts, she
+loses to all remaining players. If neither busts, the higher hand total wins.
+In case of a tie, no one wins - the hand is a "push." It is possible for the
+dealer to lose to some players but still beat other players in the same round.
+
+<IMG>
+
+<IMG>
+
+Example of a Blackjack game. The top half of the picture shows the beginning
+of the round, with bets placed and an initial two cards for each player. The
+bottom half shows the end of the round, with the associated losses or payoffs.
+
+Cards are dealt in two ways, either from one or two hand-held decks, or from a
+box containing four to eight decks called a "shoe." When dealt by hand, the
+player's two initial cards are face-down, while the dealer has one face-up
+card called the "upcard" and one face-down card called the "hole card." (In
+European blackjack, the hole card is not actually dealt until the players all
+play their hands.) When dealt from a shoe, all player cards are normally dealt
+face-up, with minor exceptions. It shouldn't matter to the player whether his
+cards are dealt face-down or face-up since the dealer must play according to
+predetermined rules. If the dealer has less than 17, she must hit. If the
+dealer has 17 or more, she must stand (take no more cards), unless it is a
+"soft 17" (a hand that includes an ace valued as "11," for example a hand
+consisting of Ace+6, or Ace+2+4). With a soft 17, the dealer follows the
+casino rules printed on the blackjack table, either to "hit soft 17" or to
+"stand on all 17's."
+
+The highest possible hand is a "blackjack" or "natural," meaning an initial
+two-card total of 21 (an ace and a ten-value card). A player blackjack is an
+automatic winner unless the dealer also has blackjack, in which case the hand
+is a "push" (a tie). When the dealer upcard is an ace, the player is allowed
+to make a side bet called "insurance," supposedly to guard against the risk
+that the dealer has a blackjack (i.e., a ten-value card as her hole card). The
+insurance bet pays 2-to-1 if the dealer has a blackjack. Whenever the dealer
+has a blackjack, she wins against all player hands except those that also have
+a blackjack (which are a "push").
+
+The minimum and maximum bets are posted on the table. The payoff on most bets
+is 1:1, meaning that the player wins the same amount as he bets. The payoff
+for a player blackjack is 3:2, meaning that the casino pays $3 for each $2
+originally bet. (There are some single-deck games which pay only 6:5 for a
+blackjack.)
+
+### [edit] Player decisions
+
+After receiving his initial two cards, the player has four standard options:
+he can "Hit," "Stand," "Double Down," or "Split a pair." Each option requires
+the use of a hand signal. At some casinos or tables, the player may have a
+fifth option called "Surrender."
+
+  * Hit: Take another card.
+
+signal: (handheld) scrape cards against table; (face up) touch finger to table
+
+  * Stand: Take no more cards, also "stick" or "stay".
+
+signal: (handheld) slide cards under bet; (face up) move hand horizontally
+
+  * Double down: On his first two cards, the player may "double down," i.e., "double" his bet and receive only one card face "down." To do this he moves a second bet equal to the first into the betting box next to his original bet. (If desired, the player is usually allowed to "double down for less," although this is not a good idea.)
+
+signal: place additional chips next to (not on top of) original bet, make "one
+finger" sign
+
+  * Split a pair: If his first two cards are a "pair," meaning two cards of the same value, the player can "split the pair." To do this, he moves a second bet equal to the first into the betting box next to his original bet. The dealer splits the cards to create two hands, placing one bet with each hand. The player then plays two separate hands.
+
+signal: place additional chips next to (not on top of) original bet, make "two
+fingers" sign
+
+  * Surrender: Some casinos offer a fifth option called "Surrender." After the dealer has checked for blackjack, the player may "surrender" by giving up half his bet and not playing out the hand.
+
+signal: There is no commonly accepted hand signal; it is just done verbally.
+
+The reason for requiring hand signals is to assist the "eye in the sky," a
+person or video camera located above the table but concealed behind one-way
+glass. It is used in order to protect the casino against dealers or players
+who cheat. (It may also be used to protect the casino against card-counters,
+even though card-counting is not illegal.)
+
+The player can take as many hits as he wants (except on a "double down").
+However, if he busts, he loses that hand. After all the players have finished
+making their decisions, the dealer then reveals her hole card and plays out
+her hand according to predetermined rules.
+
+## [edit] Rule variations and the "house advantage"
+
+The blackjack player will encounter many rule variations which affect the
+house advantage and therefore affect his chances of winning. Some rules are
+determined by law or regulation, others by the casino itself. Not all rules
+are posted, so the player may have to ask either beforehand or when the
+situation occurs. Over 100 variations exist.[3]
+
+The casino has a "house advantage" at blackjack just as it does at any other
+casino game. If a particular casino game has a house advantage of 5%, it means
+that - over the long run - the casino will win about 5% of any initial bet. As
+long as the blackjack player uses the best possible strategy (a strategy which
+is known as "Basic Strategy"), the house advantage in blackjack is less than
+1%. This is very favorable to the player compared to other casino games. Of
+course, many blackjack players do not know Basic Strategy or do not follow it,
+so the true house advantage in those cases is much higher.
+
+### [edit] Dealer hits soft 17?
+
+Each casino has a rule about whether or not the dealer hits soft 17, a rule
+which is printed on the table itself. In the "S17" game, the dealer stands on
+all 17s. In the "H17" game, the dealer hits on soft 17s. Of course, the dealer
+always stands on hard 17s. In either case, the dealer has no choice; she
+either must or must not hit. The "Hit soft 17" game is substantially less
+favorable to the player with about a 0.2% higher house advantage.
+
+### [edit] Number of decks
+
+The number of decks used has a major effect on the player's chance of winning,
+because it affects the house advantage. (See comparative statistics below.)
+All things being equal, fewer decks are more favorable for the player. (This
+is true for basic strategy players, even without card counting.) But all
+things are not equal; multi-deck games almost always have otherwise better
+rules than single-deck games. For illustrative purposes, the statistics below
+all use the same rules -- double after split, dealer hits soft 17.
+
+Number of Decks House Advantage  
+Single deck 0.04%  
+Double deck 0.49%  
+Four decks 0.59%  
+Six decks 0.66%  
+Eight decks 0.69%  
+### [edit] Surrender
+
+Some casinos offer a favorable option called "surrender," which allows the
+player to give up half his bet and not play out the hand. This option is
+sometimes referred to as "late" surrender because it occurs after the dealer
+has checked her hole card for a blackjack. (When casinos first opened in
+Atlantic City, the surrender option was available before the dealer checked
+for blackjack - a rule highly advantageous to the player - but this "early
+surrender" option soon disappeared.) Early Surrender variations still exist in
+several countries.
+
+### [edit] Resplit to nn
+
+If the player splits a pair other than aces and a third card of that value
+appears, the player can usually resplit by putting up another bet equal to the
+original bet. Then there will be three bets on the table and three separate
+hands. Some casinos allow unlimited resplitting of cards other than aces,
+while others may limit it to a certain number of hands, such as four hands
+(for example, "resplit to 4").
+
+### [edit] Resplit aces
+
+When the player's first two cards are two aces, the player may split them
+once. If a third ace appears, however, it cannot be resplit in most casinos.
+If resplitting aces is allowed, this is favorable to the player.
+
+### [edit] Double after split
+
+After splitting a pair, some casinos allow the player to "double down" on each
+of the new two-card hands. This is called "double after split" (DAS) and
+provides an advantage to the player of about 0.12%.
+
+### [edit] Double on 10 or 11 only
+
+Often called "Reno" rules, this rule restricts the player to doubling down
+only on an initial player total of 10 or 11 (sometimes 9, 10, or 11). It
+prevents doubling on soft hands such as soft 17 (ace-6), and is unfavorable
+for the player. It increases the house advantage by about 0.20%.
+
+### [edit] European no-hole-card rule
+
+In some places, the dealer does not receive a hole card, but if the dealer is
+later found to have blackjack, the player loses only his original bet but not
+any additional bets (doubles or splits). This has the same advantage as the
+usual game, and as such does not change basic strategy.
+
+### [edit] Altered payout for blackjack
+
+In some places, a blackjack pays only 6:5 or even 1:1 instead of the usual
+3:2. This is the most unfavorable variation, increasing the house edge
+significantly more than any other player restriction. The 1:1 payout for video
+blackjack is a key reason why it has never approached the table version in
+terms of popularity.
+
+### [edit] Dealer wins ties
+
+This is catastrophic to the player, though rarely used in standard Blackjack.
+It is sometimes seen in "blackjack-like" games.
+
+### [edit] Five card charlie/Five card trick
+
+With this rule, the player always wins when five cards have been drawn without
+busting, unless there is a blackjack on the table.
+
+### [edit] Insurance
+
+If the dealer's upcard is an ace, the player is offered the option of taking
+Insurance before the dealer checks her 'hole card'.
+
+Insurance is a side bet of up to half the original bet placed on a special
+portion of the table usually marked "Insurance Pays 2 to 1". This side bet is
+offered only when the dealer's exposed card is an ace. The idea is that the
+dealer's second card has a fairly high probablility (nearly one-third) to be
+ten-valued, giving the dealer a blackjack and a certain loss for the player.
+It is attractive (although not necessarily wise) for the player to insure
+against this possibility by making an "insurance" bet, which pays 2-to-1 if
+the dealer has a blackjack, in which case the "insurance proceeds" will make
+up for the concomitant loss on the original bet. Of course the insurance bet
+is forfeited if the dealer does not have blackjack, although the player can
+still win or lose on the original bet.
+
+Insurance is a poor bet for the player unless he is counting cards, because
+the casino has a theoretical house advantage of 7.69% ("infinite deck") [4].
+The theoretical house advantage is easy to calculate, since the player is
+essentially betting that the dealer's hole card is a ten-value card. To
+calculate it, we can use the example of a player with an original bet of $20,
+the dealer has an ace, and the player takes insurance for $10. In an infinite
+deck, 4/13 of the cards are "tens" (10, J, Q, or K). In theory, the insurance
+bet will lose 9/13 of the time for minus $90 and will win 4/13 of the time for
+plus $80, giving a net loss of $10 for 13 hands. The average loss is $0.77 per
+hand ($10/13), or 7.69%. Therefore, taking insurance is a poor bet for the
+player (unless he is counting cards).
+
+The odds on the Insurance bet are not improved if the player has a blackjack
+-- it's still a poor bet. Insurance is simply a side-bet that the dealer has a
+ten-value hole card, regardless of the player's original cards. We can use the
+same example, where the player has a blackjack on his original bet of $20, the
+dealer has an ace, and the player takes insurance for $10. The two bets are
+completely separate. The player can expect on average to win $20.77 for his
+blackjack, since the original bet wins 9/13 of the time for a total of $270 (9
+x $30) and ties 4/13 of the time for a gain of zero, for an average gain of
+$20.77 per hand ($270/13). Meanwhile, the insurance side bet of $10 is
+calculated separately and loses $0.77 on average. Therefore, on average, the
+player would win $20.77 for his blackjack on his original bet, and would lose
+$0.77 on the $10 insurance bet, if he takes insurance. The insurance bet is
+still not worthwhile (unless, again, the player is counting cards).
+
+A variation on this is that some casinos or dealers may offer the player what
+they call "even money" by offering to pay out a player's blackjack immediately
+at 1:1 when the dealer's upcard is an ace. Taking even money has the same
+expected payout as taking insurance; the player's expectation for the "even
+money" option is $20.00, instead of an average of $20.77, so it's not a
+favorable bet (unless the player is counting cards).
+
+In casinos where a hole card is dealt, a dealer who is showing a card with a
+value of Ace or 10 may slide the corner of her hole card over a small mirror
+or electronic sensor on the tabletop in order to check whether she has a
+blackjack. This practice minimizes the risk of inadvertently revealing the
+hole card, which may give the sharp-eyed player a considerable advantage.
+
+## [edit] Blackjack strategy
+
+### [edit] Basic strategy
+
+Because blackjack has an element of player choice, players can reduce casino
+advantage by playing optimally. The complete set of optimal plays is known as
+basic strategy. There are slight variations depending on the house rules and
+number of decks.
+
+Your hand Dealer's face-up card  
+2 3 4 5 6 7 8 9 10 A  
+Hard totals (excluding pairs)  
+17-20 S S S S S S S S S S  
+16 S S S S S H H SU SU SU  
+15 S S S S S H H H SU H  
+13-14 S S S S S H H H H H  
+12 H H S S S H H H H H  
+11 Dh Dh Dh Dh Dh Dh Dh Dh Dh H  
+10 Dh Dh Dh Dh Dh Dh Dh Dh H H  
+9 H Dh Dh Dh Dh H H H H H  
+5-8 H H H H H H H H H H  
+Soft totals  
+2 3 4 5 6 7 8 9 10 A  
+A,8 A,9 S S S S S S S S S S  
+A,7 S Ds Ds Ds Ds S S H H H  
+A,6 H Dh Dh Dh Dh H H H H H  
+A,4 A,5 H H Dh Dh Dh H H H H H  
+A,2 A,3 H H H Dh Dh H H H H H  
+Pairs  
+2 3 4 5 6 7 8 9 10 A  
+A,A SP SP SP SP SP SP SP SP SP SP  
+10,10 S S S S S S S S S S  
+9,9 SP SP SP SP SP S SP SP S S  
+8,8 SP SP SP SP SP SP SP SP SP SP  
+7,7 SP SP SP SP SP SP H H H H  
+6,6 SP SP SP SP SP H H H H H  
+5,5 Dh Dh Dh Dh Dh Dh Dh Dh H H  
+4,4 H H H SP SP H H H H H  
+2,2 3,3 SP SP SP SP SP SP H H H H  
+The above is a basic strategy table for 3 or more decks, dealer stands on soft
+17, double on any 2 cards, double after split allowed, dealer peeks for
+blackjack, and blackjack pays 3:2. Key:
+
+    S = Stand
+    H = Hit
+    Dh = Double (if not allowed, then hit)
+    Ds = Double (if not allowed, then stand)
+    SP = Split
+    SU = Surrender (if not allowed, then hit)
+Most Las Vegas strip casinos hit on soft 17. This rule change requires a
+slightly modified basic strategy table -- double on 11 vs A, double on A/7 vs
+2, and double on A/8 vs 6. Most casinos outside of Vegas still stand on soft
+17.
+
+### [edit] Card counting
+
+Main article: Card counting
+
+Basic strategy provides the player with the optimal play for any blackjack
+situation based on millions of hands played in the long run. However in the
+short run, as the cards are dealt from the deck, the remaining deck is no
+longer complete. By keeping track of the cards that have already been played,
+it is possible to know when the cards remaining in the deck are advantageous
+for the player.
+
+Card counting creates two opportunities:
+
+  * The player can make larger bets when he has the advantage. For example, the player can increase the starting bet if there are many aces and tens left in the deck, in the hope of hitting a blackjack.
+  * The player can use information about the remaining cards to improve upon the basic strategy rules for specific hands played. For example, with many tens left in the deck, the player may double down in more situations since there is a better chance of making a strong hand.
+
+Virtually all card-counting systems do not require the player to remember
+which cards have been played. Rather, a point system is established for the
+cards, and the player keeps track of a simple point count as the cards are
+played out from the dealer.
+
+Depending on the particular blackjack rules in a given casino, basic strategy
+reduces the house advantage to near 0 with some single-deck games, and less
+than 1% in a multi-deck game.[5] Card-counting, if done correctly, can give
+the player an advantage, typically ranging from 0 to 2% over the house.[6] To
+counter card-counting, many casinos switched from a single deck to multiple
+decks, with the cards dealt out of a container known as a "shoe".
+
+In most US jurisdictions, card-counting mentally is legal and is not
+considered cheating.[7] However, most casinos have the right to ban players,
+with or without cause, and card-counting is frequently used as a justification
+to ban a player. Usually, the casino host will simply inform the player that
+he or she is no longer welcome to play at that casino. Players must be careful
+not to signal the fact that they are counting. The use of electronic or other
+counting devices is usually illegal.
+
+    See also: Martingale (betting system)
+    See also: MIT Blackjack Team
+### [edit] Composition-dependent strategy
+
+Basic strategy is based on a player's point total and the dealer's visible
+card. A player's ideal decision may depend on the composition of his hand, not
+just the information considered in the basic strategy. For example, a player
+should ordinarily stand when holding 12 against a dealer 4. However, in a
+single deck game, the player should hit if his 12 consists of a 10 and a 2;
+this is because the player wants to receive any card other than a 10 if
+hitting, and the 10 in the player's hand is one less card available to cause a
+bust for the player or the dealer.[8]
+
+However, in situations where basic and composition-dependent strategy lead to
+different actions, the difference in expected value between the two decisions
+will be small. Additionally, as the number of decks used in a blackjack game
+rises, both the number of situations where composition determines the correct
+strategy and the house edge improvement from using a composition-dependent
+strategy will fall. Using a composition-dependent strategy only reduces house
+edge by 0.0031% in a six-deck game, less than one tenth the improvement in a
+single-deck game (0.0387%).[9]
+
+### [edit] Shuffle tracking and other advantage-play techniques
+
+Techniques other than card-counting can swing the advantage of casino
+blackjack towards the player. All such techniques are based on the value of
+the cards to the player and the casino, as originally conceived by Edward O.
+Thorp.[citation needed] One technique, mainly applicable in multi-deck games,
+involves tracking groups of cards (aka slugs, clumps, packs) during the play
+of the shoe, following them through the shuffle and then playing and betting
+accordingly when those cards come into play from the new shoe. This technique,
+which is admittedly much more difficult than straight card-counting and
+requires excellent eyesight and powers of visual estimation, has the
+additional benefit of fooling the casino people who are monitoring the
+player's actions and the count, since the shuffle tracker could be, at times,
+betting and/or playing opposite to how a straightforward card-counter
+would.[10]
+
+Arnold Snyder's articles in Blackjack Forum magazine brought shuffle tracking
+to the general public. His book, The Shuffle Tracker's Cookbook,
+mathematically analyzed the player edge available from shuffle tracking based
+on the actual size of the tracked slug. Jerry L. Patterson also developed and
+published a shuffle-tracking method for tracking favorable clumps of cards and
+cutting them into play and tracking unfavorable clumps of cards and cutting
+them out of play. [11] [12] [13] Another legal method of gaining a player
+advantage at blackjack include a wide variety of techniques for hole carding
+or gaining information about the next card to be dealt. In addition, match-
+play coupons give the skillful basic-strategy blackjack player an edge. And
+finally, a special promotion-such as 2:1 for a blackjack-can temporarily swing
+the advantage to the player.
+
+## [edit] Variants
+
+Pontoon is an English variation of blackjack with significant rule and
+strategy differences. However, in Australia and Malaysia, Pontoon is an
+unlicensed version of the American game Spanish 21 played without a hole card;
+despite the name, it bears no relation to English Pontoon.
+
+Spanish 21 provides players with many liberal blackjack rules, such as
+doubling down any number of cards (with the option to 'rescue', or surrender
+only one wager to the house), payout bonuses for five or more card 21s, 6-7-8
+21s, 7-7-7 21s, late surrender, and player blackjacks always winning and
+player 21s always winning, at the cost of having no 10 cards in the deck
+(though there are jacks, queens, and kings).
+
+21st Century Blackjack (also known as "Vegas Style" Blackjack) is commonly
+found in many California card rooms. In this form of the game, a player bust
+does not always result in an automatic loss; there are a handful of situations
+where the player can still push if the dealer busts as well, provided that the
+dealer busts with a higher total.
+
+Certain rule changes are employed to create new variant games. These changes,
+while attracting the novice player, actually increase the house edge in these
+games. Double Exposure Blackjack is a variant in which the dealer's cards are
+both face-up. This game increases house edge by paying even money on
+blackjacks and players losing ties. Double Attack Blackjack has very liberal
+blackjack rules and the option of increasing one's wager after seeing the
+dealer's up card. This game is dealt from a Spanish shoe, and blackjacks only
+pay even money.
+
+The French and German variant "Vingt-et-un" (Twenty-one) and "Siebzehn und
+Vier" (Seventeen and Four) don't include splitting. An ace can only count as
+eleven, but two aces count as a Blackjack. This variant is seldom found in
+casinos, but is more common in private circles and barracks.
+
+Chinese Blackjack is played by many in Asia, having no splitting of cards, but
+with other card combination regulations.
+
+Another variant is Blackjack Switch, a version of blackjack in which a player
+is dealt two hands and is allowed to switch cards. For example, if the player
+is dealt 10-6 and 5-10, then the player can switch two cards to make hands of
+10-10 and 6-5. Natural blackjacks are paid 1:1 instead of the standard 3:2,
+and a dealer 22 is a push.
+
+In Multiple Action Blackjack the player places between 2 or 3 bets on a single
+hand. The dealer then gets a hand for each bet the player places on a hand.
+This essentially doubles the number of hands a single dealer can play per
+hour. Splitting and Doubling are still allowed.
+
+Recently, thanks to the popularity of poker, Elimination Blackjack has gained
+a following. Elimination Blackjack is a tournament format of blackjack.
+
+Many casinos offer optional side bets at standard blackjack tables. For
+example, one common side-bet is "Royal Match", in which the player is paid if
+his first two cards are in the same suit, and receives a higher payout if they
+are a suited queen and king (and a jackpot payout if both the player and the
+dealer have a suited queen-king hand). Another increasingly common variant is
+"21+3," in which the player's two cards and the dealer's up card form a three-
+card poker hand; players are paid 9 to 1 on a straight, flush or three of a
+kind. These side bets invariably offer worse odds than well-played blackjack.
+
+In April 2007 a new version of Blackjack, called Three Card Blackjack was
+approved for play in the State of Washington. Three Card Blackjack is played
+with one deck of 52 cards. In Three Card Blackjack the players place an ante
+bet. The players and dealer are then dealt 3 cards each. The players make the
+best blackjack (21) hand they can using 2 or all 3 cards. If the player likes
+his hand he makes a play bet that is equivalent to the ante bet. The dealer
+must qualify with an 18 or better. If the dealer qualifies and the player
+beats the dealer, the player is paid 1-1 on both the Ante and Play bets. If
+the dealer does not qualify, the player is paid 1-1 on his Ante bet and Play
+bet pushes. There is no hitting and no busting. At the same time that the
+player makes the Ante bet, he has the option of making an Ace Plus bet. If the
+player has one Ace in his hand of 3 cards, he gets paid 1-1. An Ace and a 10
+or Face Card pays 3-1. An Ace and two 10's or Face cards is paid 5-1. Two Aces
+pays 15-1. Three Aces pays 100-1.
+
+## [edit] Blackjack Hall of Fame
+
+Main article: Blackjack Hall of Fame
+
+In 2002, professional gamblers around the world were invited to nominate great
+blackjack players for admission into the Blackjack Hall of Fame. Seven members
+were inducted in 2002, with new people inducted every year afterwards. The
+Hall of Fame is at the Barona Casino in San Diego, California. Members include
+Edward O. Thorp, author of the 1960s book Beat the Dealer which proved that
+the game could be beaten with a combination of basic strategy and card
+counting; Ken Uston, who popularized the concept of team play; Arnold Snyder,
+author and editor of the Blackjack Forum trade journal; Stanford Wong, author
+and popularizer of the "Wonging" technique of only playing at a positive
+count, and several others.
+
+## [edit] Notes
+
+  1. ^ Scarne's New Complete Guide to Gambling, p. 342
+  2. ^ Historia del Juego en EspaÃ±a, Marc Fontbona, 2008, ISBN 978-84-96495-30-2
+  3. ^ QFIT.com 100+ Blackjack variations
+  4. ^ Blackjack Insurance Exceptions
+  5. ^ Rules & House Edge Table
+  6. ^ Theory of Blackjack, p. 5
+  7. ^ Theory of Blackjack, pp 6â7
+  8. ^ "The Wizard of Odds". Fine points of basic strategy in single-deck blackjack. http://wizardofodds.com/blackjack/appendix3c.html. Retrieved on December 8 2006.
+  9. ^ "The Wizard of Odds". Total Dependent and Composition Dependent Basic Strategy in Blackjack. http://wizardofodds.com/blackjack/appendix15.html. Retrieved on December 19 2006.
+  10. ^ Shuffle Tracking Counts
+  11. ^ The Gambling Times Guide to Blackjack; Gambling Times Incorporated, Hollywood, CA; Â© 1984; Page 110; ISBN 0-89746-015-4 Shuffle-Tracking An Easy Way to Start ]
+  12. ^ Break the Dealer; by Jerry L. Patterson and Eddie Olsen; Perigee Books; A Division of Penguin Putnam; Â© 1986; ISBN 0-399-51233-0 Shuffle-Tracking; Chapter 6, Page 83]
+  13. ^ Blackjack: A Winnerâs Handbook; by Jerry L. Patterson; Perigee Books; A Division of Penguin Putnam; Â© 1990; ISBN 0-399-51598-4 Shuffle-Tracking; Chapter 4, Page 51]
+
+## [edit] Sources
+
+  * Beat the Dealer : A Winning Strategy for the Game of Twenty-One, Edward O. Thorp, 1966, ISBN 978-0-394-70310-7
+  * Blackbelt in Blackjack, Arnold Snyder, 1998 (1980), ISBN 978-0-910575-05-8
+  * Blackjack: A Winnerâs Handbook, Jerry L. Patterson, 2001, (1978), ISBN 0-399-52638-8
+  * Ken Uston on Blackjack, Ken Uston, 1986, ISBN 978-0-8184-0411-5
+  * Knock-Out Blackjack, Olaf Vancura and Ken Fuchs, 1998, ISBN 978-0-929712-31-4
+  * Luck, Logic, and White Lies: The Mathematics of Games, JÃ¶rg Bewersdorff, 2004, ISBN 978-1-56881-210-6, 121-134
+  * Million Dollar Blackjack, Ken Uston, 1994 (1981), ISBN 978-0-89746-068-2
+  * Playing Blackjack as a Business, Lawrence Revere, 1998 (1971), ISBN 978-0-8184-0064-3
+  * Professional Blackjack, Stanford Wong, 1994 (1975), ISBN 978-0-935926-21-7
+  * The Theory of Blackjack, Peter Griffin, 1996 (1979), ISBN 978-0-929712-12-3
+  * The Theory of Gambling and Statistical Logic, Richard A. Epstein, 1977, ISBN 978-0-12-240761-1, 215-251
+  * The World's Greatest Blackjack Book, Lance Humble and Carl Cooper, 1980, ISBN 978-0385153829
+
+Regulation in the United Kingdom
+
+  * Statutory Instrument 1994 No. 2899 The Gaming Clubs (Bankers' Games) Regulations 1994
+  * Statutory Instrument 2000 No. 597 The Gaming Clubs (Bankers' Games) (Amendment) Regulations 2000
+  * Statutory Instrument 2002 No. 1130 The Gaming Clubs (Bankers' Games) (Amendment) Regulations 2002
+
+## [edit] External links
+
+  * BlackjackinColor
+
+Blackjack calculators
+
+  * Server based calculator
+  * Browser based calculator (using JavaScript)
+  * Card-counting.com - Multiple calculators and charts
+
+Retrieved from "http://en.wikipedia.org/wiki/Blackjack"
+
+Categories: Blackjack | Anglo-American playing card games | Comparing card
+games | Gambling games
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since October 2007
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Hrvatski
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * Nederlands
+  * æ¥æ¬èª
+  * Nouormand
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Suomi
+  * Svenska
+  * Tagalog
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 1 April 2009, at 11:27.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

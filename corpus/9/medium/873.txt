@@ -1,0 +1,220 @@
+
+# Mnemonic major system
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article may require copy-editing for grammar, style, cohesion, tone or
+spelling. You can assist by editing it now. A how-to guide is available. (July
+2007)  
+Sister project The Wikibook Intelligence Intensification/Memory Techniques has
+a page on the topic of
+
+the major system  
+Merge arrows
+
+It has been suggested that this article or section be merged with Herigone's
+mnemonic system . (Discuss)  
+The Major System (also called the phonetic number system or phonetic mnemonic
+system) is a mnemonic technique used to aid in memorizing numbers. It works by
+converting numbers first into consonant sounds, then into words by adding
+vowels. The words can then be remembered more easily than the numbers,
+especially when using other mnemonic rules which call for the words to be
+visual and emotive.
+
+## Contents
+
+  * 1 The system
+  * 2 History
+  * 3 See also
+  * 4 References
+  * 5 External links
+    * 5.1 Software
+    * 5.2 Other
+
+  
+## [edit] The system
+
+Each digit is mapped onto a number of consonants. Vowels and the consonants w,
+h and y are ignored and can be used as 'fillers' to make up sensible words
+from the resulting consonant sequences. The most popular mapping, and set of
+hooks for remembering it, is:
+
+0 s, z, soft c "z" is the first letter of zero. The others have a similar
+sound  
+1 d, t d, t have one downstroke and sound similar(some variants include th)  
+2 n n has two downstrokes  
+3 m three downstrokes , also "m" looks like a "3" on its side  
+4 r last letter of four, also 4 and R are almost mirror images of each other  
+5 l L is the Roman Numeral for 50  
+6 j, sh, soft ch, dg, zh, soft g a script j has a lower loop / g is almost a 6
+flipped over  
+7 k, hard c, hard g, q, qu capital K contains two sevens  
+8 f, v script f resembles a figure-8. V sounds similar. (some variants include
+th)  
+9 b, p p is a mirror-image 9. b sounds similar and resembles a 9 rolled around  
+Unassigned Vowel sounds, w,h,y These can be used anywhere without changing a
+word's number value  
+Each digit maps to a set of similar sounds with similar mouth and tongue
+positions. The mapping is phonetic, so it is the consonant sounds that matter,
+not the spelling. Therefore a word like action would encode the number 762,
+not 712; and ghost would be 701, while, because the gh in enough is pronounced
+like an f, the word enough encodes the number 28. Similarly, double letters
+are disregarded. The word missile is mapped to 305, not 3005. To encode 3005
+one would use something like mossy sail. Often the mapping is compact.
+Hindquarters, for example, translates unambiguously to 2174140, which amounts
+to 7 digits encoded by 12 letters, and can be easily visualized.
+
+The system works also very well with phone numbers. One would then typically
+come up with multiple words, preferably a sentence, or an ordered sequence of
+images featuring the owner of the number.
+
+The groups of similar sounds and the rules for applying the mappings are
+almost always fixed, but other hooks and mappings can be used as long as the
+person using the system can remember them and apply them consistently. The
+magician Derren Brown, for instance, chooses the number 5 to map to the f and
+v sounds because the word 'five' uses both of those sounds.
+
+The Major System can be conveniently combined with a peg system for
+remembering lists, and is sometimes used also as a method of generating the
+pegs. It can also be combined with other memory techniques such as rhyming,
+substitute words, or the method of loci. Repetition and concentration using
+the ordinary memory is still required.
+
+An advantage of this system over some systems in mnemonics in which the number
+of letters in a word (in a phrase) gives the corresponding digit is that the
+former is more compact--a single word usually gives several numbers, and no
+counting is required. Moreover, the counting letter scheme fails if the number
+contains zeros. Another advantage of the major system is that it is possible
+to use a computer to translate the number that is to be remembered into a
+sequence of words automatically. One may then pick the best one of the several
+offered alternatives, which may not have occurred to one using ordinary
+memory.
+
+## [edit] History
+
+The major system was introduced by Stanislaus Mink von Wennsshein over 300
+years ago, and was later developed by many others with many variations. In
+1730, Dr. Richard Grey set forth a complicated system that used both
+consonants and vowels to represent the digits. In 1808 Gregor von Feinaigle
+introduced the improvement of representing the digits by consonant sounds, but
+reversed the values of 8 and 9 from that given above. The particular
+implementation given here is that used by Harry Lorayne, a best selling
+contemporary author on memory. Variants on it continue to be proposed, such as
+the Human Character System.
+
+Both the method of loci and the major system were routinely taught to
+schoolchildren for centuries, at least until 1584, when a huge controversy
+over the loci method broke out in England as Puritans attacked it as impious
+because it calls up absurd and obscene thoughts.[citation needed] The same
+objection can be made over the major system, with or without the method of
+loci. Mental images may be easier to remember if they are insulting, violent,
+or obscene (see Von Restorff effect).
+
+## [edit] See also
+
+  * Mnemonic dominic system
+
+## [edit] References
+
+  * Lorayne, Harry and Lucas, Jerry, The Memory Book: The Classic Guide to Improving Your Memory at Work, at School, at Play Ballantine Books; Reissue edition (1996) ISBN 0-345-41002-5.
+  * History of the Major System
+  * Mind Tools - The Major System
+  * Pseudonumerology Totally dedicated to the Major System.
+  * University of Amsterdam - Online Memory Improvement Course is an online step-by-step tutorial of the Phonetic Mnemonic System
+  * Human Memory Online training for the Major System
+
+## [edit] External links
+
+### [edit] Software
+
+  * Improve Memory 2.0 Software \- Memory improvement software that is used in School of Phenomenal Memory.
+  * 2Know is free Windows software for converting numbers to words (English, German, French).
+  * Mnemisis Another free mnemonic program - runs on Linux, Mac OS X, and Windows
+  * iCue:Memory for iPhone (iTunes Link)
+
+### [edit] Other
+
+  * Tips for remembering dates and long numbers
+  * Memory Improvement and Learning Information
+  * Introduction to the Major System
+  * Expand your Peg list by adding colors and smells, textures.
+  * Homepage of World Memory Championships
+  * Online keyword search Find phonetic major system keywords for 13,000 numbers with this simple database search tool
+
+Retrieved from "http://en.wikipedia.org/wiki/Mnemonic_major_system"
+
+Categories: Mnemonics
+
+Hidden categories: Wikipedia articles needing copy edit from July 2007 | All
+articles needing copy edit | All articles to be merged | Articles to be merged
+since February 2008 | All articles with unsourced statements | Articles with
+unsourced statements since March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 11 April 2009, at 10:06 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

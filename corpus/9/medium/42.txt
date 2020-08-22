@@ -1,0 +1,375 @@
+
+# Server (computing)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (July 2008)  
+<IMG>
+
+This article is in need of attention from an expert on the subject.
+WikiProject Computer Science or the Computer Science Portal may be able to
+help recruit one. (November 2008)  
+<IMG>
+
+This article may need to be rewritten entirely to comply with Wikipedia's
+quality standards. You can help. The discussion page may contain suggestions.
+(November 2008)  
+Server Computer <IMG>  
+The inside/front of a rack-mount server  
+Common manufacturers IBM  
+Sun Microsystems  
+HP  
+Apple Inc.  
+Intel  
+Dell  
+Fujitsu Siemens  
+A Server is a computer that provides services used by other computers. For
+example a web server serves up web pages.[1] The term can also refer to the
+software that causes a given computer to behave as a server, such as the
+Apache HTTP Server.
+
+Services can be supplied centrally by the use of a server; in other cases all
+the machines on a network have the same status with no dedicated server, and
+services are supplied peer-to-peer.
+
+## Contents
+
+  * 1 Usage in information technology
+    * 1.1 In hardware
+    * 1.2 In software
+  * 2 Server hardware
+  * 3 Server operating systems
+  * 4 Servers on the Internet
+  * 5 Servers in daily life
+  * 6 References
+
+  
+## [edit] Usage in information technology
+
+### [edit] In hardware
+
+A server is a computer that has been set aside to run a specific server
+application. For example, when the software Apache HTTP Server is used as the
+web server for a company's website, the computer running Apache is also called
+the web server. Server applications can be divided among server computers over
+an extreme range, depending upon the workload.
+
+Server is also used as a designation for computer models intended for use in
+running server applications under heavy workloads, also called operating units
+often unattended and for an extended period of time. While any workstation
+computer is capable of acting as a server, a server computer usually has
+special features intended to make it more suitable. These features can include
+a faster CPU, faster and more plentiful RAM, and larger hard drives. More
+obvious distinctions include redundancy in power supplies, network
+connections, and storage devices as well as the modular design of so-called
+Blade servers often used in server farms.
+
+A server appliance refers to network-connected computer appliances or
+"appliance hardware" that provide specific, dedicated applications to a
+network. Use of the term appliance indicates the marriage of software and
+hardware in a single system that is not heavily customizable such as Google
+Search Appliance. Such appliances are expected to work out-of-the-box with
+little customization and sometimes remain the sole property of the company
+that produced them. The simplest appliances include switches, routers,
+gateways, and print servers.
+
+### [edit] In software
+
+Server used as an adjective, as in server operating system, refers to the
+product's ability to handle multiple requests, and is said to be "server-
+grade". A server operating system is intended or better enabled to run server
+applications. The differences between the server and workstation versions of a
+product can vary from the removal of an arbitrary software limits due to
+licensing, as in the case of Windows 2000, or the addition of bundled
+applications as in Mac OS X Server.
+
+## [edit] Server hardware
+
+<IMG>
+
+<IMG>
+
+A server rack seen from the rear
+
+Hardware requirements for servers vary, depending on the server application.
+Absolute CPU speed is not usually as critical to a server as it is to a
+desktop machine. Servers' duties to provide service to many users over a
+network lead to different requirements like fast network connections and high
+I/O throughput. Since servers are usually accessed over a network they may run
+in headless mode without a monitor or input device. Processes which are not
+needed for the server's function are not used. Many servers do not have a
+graphical user interface (GUI) as it is unnecessary and consumes resources
+that could be allocated elsewhere. Similarly, audio and USB interfaces may be
+omitted.
+
+Servers often run for long periods without interruption and availability must
+often be very high, making hardware reliability and durability extremely
+important. Although servers can be built from commodity computer parts,
+mission-critical servers use specialized hardware with low failure rates in
+order to maximize uptime. For example, servers may incorporate faster, higher-
+capacity hard drives, larger computer fans or water cooling to help remove
+heat, and uninterruptible power supplies that ensure the servers continue to
+function in the event of a power failure. These components offer higher
+performance and reliability at a correspondingly higher price. Hardware
+redundancyâinstalling more than one instance of modules such as power
+supplies and hard disks arranged so that if one fails another is automatically
+availableâis widely used. ECC memory devices which detect and correct errors
+are used; non-ECC memory can cause data corruption.
+
+Servers are often rack-mounted and situated in server rooms for convenience
+and to restrict physical access for security.
+
+Many servers take a long time for the hardware to start up and load the
+operating system. Servers often do extensive preboot memory testing and
+verification and startup of remote management services. The hard drive
+controllers then start up banks of drives sequentially, rather than all at
+once, so as not to overload the power supply with startup surges, and
+afterwards they initiate RAID system prechecks for correct operation of
+redundancy. It is not uncommon for a machine to take several minutes to start
+up, but it may not need restarting for months or years.
+
+## [edit] Server operating systems
+
+Some popular operating systems for servers â such as FreeBSD, Solaris, and
+Linux â are derived from or are similar to UNIX. UNIX was originally a
+minicomputer operating system, and as servers gradually replaced traditional
+minicomputers, UNIX was a logical and efficient choice of operating system for
+the servers. UNIX-based operating systems, many of which are free in both
+senses, are popular.
+
+Server-oriented operating systems tend to have certain features in common that
+make them more suitable for the server environment, such as
+
+  * GUI not available or optional,
+  * ability to reconfigure and update both hardware and software to some extent without restart,
+  * advanced backup facilities to permit regular and frequent online backups of critical data,
+  * transparent data transfer between different volumes or devices,
+  * flexible and advanced networking capabilities,
+  * automation capabilities such as daemons in UNIX and services in Windows, and
+  * tight system security, with advanced user, resource, data, and memory protection.
+
+Server-oriented operating systems can in many cases interact with hardware
+sensors to detect conditions such as overheating, processor and disk failure,
+and consequently alert an operator and/or take remedial measures itself.
+
+Because servers must supply a restricted range of services to perhaps many
+users while a desktop computer must carry out a wide range of functions
+required by its user, the requirements of an operating system for a server are
+different from those of a desktop machine. While it is possible for an
+operating system to make a machine both provide services and respond quickly
+to the requirements of a user, it is usual to use different operating systems
+on servers and desktop machines. Some operating systems are supplied in both
+server and desktop versions with similar user interface.
+
+The desktop versions of the Windows and Mac OS X operating systems are
+deployed on a minority of servers, as are some proprietary mainframe operating
+systems, such as z/OS. The dominant operating systems among servers are UNIX-
+based and open source kernel distributions.[citation needed]
+
+The rise of the microprocessor-based server was facilitated by the development
+of Unix to run on the x86 microprocessor architecture. The Microsoft Windows
+family of operating systems also runs on x86 hardware, and since Windows NT
+have been available in versions suitable for server use.
+
+While the role of server and desktop operating systems remains distinct,
+improvements in the reliability of both hardware and operating systems have
+blurred the distinction between the two classes. Today, many desktop and
+server operating systems share similar code bases, differing mostly in
+configuration. The shift towards web applications and middleware platforms has
+also lessened the demand for specialist application servers.
+
+## [edit] Servers on the Internet
+
+Almost the entire structure of the Internet is based upon a client-server
+model. High-level root nameservers, DNS servers, and routers direct the
+traffic on the internet. There are millions of servers connected to the
+Internet, running continuously throughout the world.
+
+Among the many services provided by Internet servers are:
+
+  * the World Wide Web,
+  * the Domain Name System,
+  * e-mail,
+  * FTP file transfer,
+  * instant messaging,
+  * voice communication,
+  * streaming audio and video, and
+  * online gaming.
+
+Virtually every action taken by an ordinary Internet user requires one or more
+interactions with one or more servers.
+
+There are also technologies that operate on an inter-server level. Other
+services do not use dedicated servers; for example peer-to-peer file sharing,
+some implementations of telephony (e.g., Skype), and supplying television
+programs to several users (e.g., Kontiki).
+
+## [edit] Servers in daily life
+
+Any computer or device serving out applications or services can technically be
+called a server. In an office or enterprise environment, the network server is
+easy to identify. A DSL/Cable modem router qualifies as a server because it
+provides a computer with application services like IP address assignment (via
+DHCP) and NAT, which is the firewall that helps protect a computer from
+external threats.[citation needed] iTunes software implements a music server
+to stream music between computers. Many home users create shared folders and
+printers. Another example are the many servers for such hosting online games
+such as Everquest, World of Warcraft, Counter-Strike and EVE-Online.
+
+## [edit] References
+
+Sister project Wikimedia Commons has media related to: Servers  
+  1. ^ http://cplus.about.com/od/glossar1/g/serverdefn.htm
+
+v â¢ d â¢ e
+
+Computer sizes  
+Larger
+
+Super Â· Minisuper Â· Mainframe Â· Mini Â· Supermini Â· Server
+
+Cray-2  
+Micro
+
+Personal Â· Workstation Â· Home Â· Desktop Â· SFF (Nettop) Â· Plug  
+Mobile
+
+Portable / Desktop replacement computer Â· Laptop Â· Subnotebook Â· Tablet
+(Ultra-Mobile PC) Â· Portable / Mobile data terminal Â· Electronic organizer
+Â· E-book reader Â· Pocket computer Â· Handheld game console Â· Wearable
+computer  
+PDAs / IAs
+
+Handheld PC Â· Pocket PC Â· Smartphone Â· PMPs Â· DAPs  
+Calculators
+
+Programmable Graphing  
+Other
+
+Single-board computer Â· Wireless sensor network Â· Microcontroller Â·
+Smartdust Â· Nanocomputer  
+Retrieved from "http://en.wikipedia.org/wiki/Server_(computing)"
+
+Categories: Computer Science articles needing expert attention | Servers
+
+Hidden categories: Articles needing additional references from July 2008 |
+Articles needing expert attention since November 2008 | Wikipedia articles
+needing rewrite | All articles with unsourced statements | Articles with
+unsourced statements since June 2008 | Articles with unsourced statements
+since November 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Alemannisch
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Galego
+  * íêµ­ì´
+  * Hrvatski
+  * Bahasa Indonesia
+  * Interlingua
+  * ÐÑÐ¾Ð½Ð°Ñ
+  * Italiano
+  * ×¢××¨××ª
+  * á¥áá áá£áá
+  * ÒÐ°Ð·Ð°ÒÑÐ°
+  * LatvieÅ¡u
+  * LietuviÅ³
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Occitan
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Srpskohrvatski / Ð¡ÑÐ¿ÑÐºÐ¾Ñ ÑÐ²Ð°ÑÑÐºÐ¸
+  * Suomi
+  * Svenska
+  * Tagalog
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 7 April 2009, at 12:46 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

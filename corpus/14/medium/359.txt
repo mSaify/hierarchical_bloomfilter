@@ -1,0 +1,386 @@
+
+# find
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For other uses, see Find (disambiguation).
+
+The `find` program is a directory search utility on Unix-like platforms. It
+searches through one or more directory trees of a filesystem, locating files
+based on some user-specified criteria. By default, `find` returns all files
+below the current working directory. Further, `find` allows the user to
+specify an action to be taken on each matched file. Thus, it is an extremely
+powerful program for applying actions to many files. It also supports regex
+matching.
+
+The `locate` programs use a database of indexed files obtained through `find`
+(updated at regular intervals, typically by `cron` job) to provide a faster
+method of searching the entire filesystem for files by name. This sacrifices
+overall efficiency (because filesystems are regularly interrogated even when
+no users needs information)and absolute accuracy (since the database is not
+updated in real time) for significant speed improvements (particularly on very
+large filesystems). On fast systems with small drives `locate` is not
+necessary or desirable.
+
+## Contents
+
+  * 1 Find syntax
+  * 2 POSIX protection from infinite output
+  * 3 Examples
+    * 3.1 From current directory
+    * 3.2 Files only
+    * 3.3 Commands
+    * 3.4 Search all directories
+    * 3.5 Search all but one directory subtree
+    * 3.6 Specify a directory
+    * 3.7 Search several directories
+    * 3.8 Ignore errors
+    * 3.9 Find any one of differently named files
+    * 3.10 Execute an action
+    * 3.11 Search for a string
+    * 3.12 Search for all files owned by a user
+  * 4 See also
+  * 5 External links
+
+  
+## [edit] Find syntax
+
+<IMG> This section requires expansion.  
+`find [-H] [-L] [-P] [path...] [expression]`
+
+At least one path must precede the expression. Find is capable of interpreting
+wildcards internally and commands must be constructed carefully in order to
+control shell globbing.
+
+Expression elements are whitespace-separated and evaluated from left to right.
+They can contain logical elements such as AND (-a) and OR (-o) as well as more
+complex predicates.
+
+The GNU find has a large number of additional features not specified by POSIX.
+
+## [edit] POSIX protection from infinite output
+
+Real-world filesystems often contain looped structures created through the use
+of hard or soft links. The POSIX standard requires that
+
+    
+    The find utility shall detect infinite loops; that is, entering a previously visited
+    directory that is an ancestor of the last file encountered. When it detects an infinite
+    loop, find shall write a diagnostic message to standard error and shall either recover
+    its position in the hierarchy or terminate.
+    
+## [edit] Examples
+
+### [edit] From current directory
+
+    
+    find . -name 'my*'
+    
+This searches in the current directory (represented by a period) and below it,
+for files and directories with names starting with my. The quotes avoid the
+shell expansion - without them the shell would replace my* with the list of
+files whose names begin with my in the current directory. In newer versions of
+the program, the directory may be omitted, and it will imply the current
+directory.
+
+### [edit] Files only
+
+    
+    find . -name "my*" -type f
+    
+This limits the results of the above search to only regular files, therefore
+excluding directories, special files, pipes, symbolic links, etc. my* is
+enclosed in quotes as otherwise the shell would replace it with the list of
+files in the current directory starting with my...
+
+### [edit] Commands
+
+The previous examples created listings of results because, by default, `find`
+executes the '-print' action. (Note that early versions of the `find` command
+had no default action at all; therefore the resulting list of files would be
+discarded, to the bewilderment of users.)
+
+    
+    find . -name "my*" -type f -ls
+    
+This prints an extended file information.
+
+### [edit] Search all directories
+
+    
+    find / -type f -name "myfile" -print
+    
+This searches every file on the computer for a file with the name myfile. It
+is generally not a good idea to look for data files this way. This can take a
+considerable amount of time, so it is best to specify the directory more
+precisely. Some operating systems may mount dynamic filesystems that are not
+congenial to find.
+
+### [edit] Search all but one directory subtree
+
+    
+    find / -path excluded_folder -prune -o -type f -name myfile -print
+    
+This searches every folder on the computer except the subtree excluded_folder
+for a file with the name myfile. It will not detect directories, devices,
+links, doors, or other "special" filetypes.
+
+### [edit] Specify a directory
+
+    
+    find /home/weedly -name "myfile" -type f -print
+    
+This searches for files named myfile in the /home/weedly directory, the home
+directory for userid weedly. You should always specify the directory to the
+deepest level you can remember.
+
+### [edit] Search several directories
+
+    
+    find local /tmp -name mydir -type d -print
+    
+This searches for directories named mydir in the local subdirectory of the
+current working directory and the /tmp directory.
+
+### [edit] Ignore errors
+
+If you're doing this as a user other than root, you might want to ignore
+permission denied (and any other) errors. Since errors are printed to stderr,
+they can be suppressed by redirecting the output to /dev/null. The following
+example shows how to do this in the bash shell:
+
+    
+    find / -name "myfile" -type f -print 2>/dev/null
+    
+If you are a csh or tcsh user, you cannot redirect stderr without redirecting
+stdout as well. You can use sh to run the find command to get around this:
+
+    
+    sh -c find / -name "myfile" -type f -print 2>/dev/null
+    
+An alternate method when using csh or tcsh is to pipe the output from stdout
+and stderr into a grep command. This example shows how to suppress lines that
+contain permission denied errors.
+
+    
+    find . -name "myfile" |& grep -v "Permission denied"
+    
+### [edit] Find any one of differently named files
+
+    
+    find . \( -name "*jsp" -o -name "*java" \) -type f -ls
+    
+The `-ls` option prints extended information, and the example finds any file
+whose name ends with either 'jsp' or 'java'. Note that the parentheses are
+required. Also note that the operator "or" can be abbreviated as "o". The
+"and" operator is assumed where no operator is given. In many shells the
+parentheses must be escaped with a backslash, "\\(" and "\\)", to prevent them
+from being interpreted as special shell characters. The `-ls` option and the
+`-or` operator are not available on all versions of `find`.
+
+### [edit] Execute an action
+
+    
+    find /var/ftp/mp3 -name "*.mp3" -type f -exec chmod 644 {} \;
+    
+This command changes the permissions of all files with a name ending in .mp3
+in the directory /var/ftp/mp3. The action is carried out by specifying the
+option `-exec chmod 644 {} \;` in the command. For every file whose name ends
+in `.mp3`, the command `chmod 644 {}` is executed replacing `{}` with the name
+of the file. The semicolon (backslashed to avoid the shell interpreting it as
+a command separator) indicates the end of the command. Permission `644`,
+usually shown as `rw-r--r--`, gives the file owner full permission to read and
+write the file, while other users have read-only access. In some shells, the
+`{}` must be quoted.
+
+Note that the command itself should *not* be quoted; otherwise you get error
+messages like
+
+    
+    find: echo "mv ./3bfn rel071204": No such file or directory
+    
+which means that find is trying to run a file called 'echo "mv ./3bfn
+rel071204"' and failing.
+
+If you will be executing over many results, it is more efficient to pipe the
+results to the xargs command instead.
+
+If running under Windows, don't include the backslash before the semicolon:
+
+    
+    find . -exec grep blah {} ;
+    
+### [edit] Search for a string
+
+This command will search for a string in all files from the /tmp directory and
+below:
+
+    
+    find /tmp -exec grep "search string" '{}' /dev/null \; -print
+    
+The `/dev/null` argument is used to show the name of the file before the text
+that is found. Without it, only the text found is printed. An equivalent
+mechanism is to use the "-H" or "--with-filename" option to grep:
+
+    
+    find /tmp -exec grep -H "search string" '{}' \; -print
+    
+GNU grep can be used on its own to perform this task:
+
+    
+    grep -r "search string" /tmp
+    
+Example of search for "LOG" in jsmith's home directory
+
+    
+    find ~jsmith -exec grep "LOG" '{}' /dev/null \; -print
+    /home/jsmith/scripts/errpt.sh:cp $LOG $FIXEDLOGNAME
+    /home/jsmith/scripts/errpt.sh:cat $LOG
+    /home/jsmith/scripts/title:USER=$LOGNAME
+    
+Example of search for the string "ERROR" in all xml files in the current
+directory and all sub-directories
+
+    
+    find . -name "*.xml" -exec grep "ERROR" '{}' \; -print
+    
+The double quotes (" ") surrounding the search string and single quotes (' ')
+surrounding the braces are optional in this example, but needed to allow
+spaces and other special characters in the string.
+
+### [edit] Search for all files owned by a user
+
+    
+    find . -user <userid>
+    
+## [edit] See also
+
+  * locate, a Unix search tool based on a prebuilt database therefore faster and less accurate than find
+  * List of Unix programs
+  * List of DOS commands
+  * find (command), a DOS and Windows command that is very different from UNIX find
+
+## [edit] External links
+
+  * GNU Findutils \- Comes with the xargs and locate commands.
+  * Official webpage for GNU find
+  * Softpanorama find tutorial
+  * `find(1)`: search for files in a directory hierarchy â Linux man page
+  * Exercises "Find"
+  * "Find helper" - unix "find" wizard
+  * Guide to Linux Find Command Mastery
+
+v â¢ d â¢ e
+
+Unix command line programs and builtins (more)  
+File system
+
+cat Â· cd Â· chmod Â· chown Â· chgrp Â· cksum Â· cmp Â· cp Â· du Â· df Â· file
+Â· fsck Â· fuser Â· ln Â· ls Â· lsattr Â· lsof Â· mkdir Â· mount Â· mv Â· pwd
+Â· rm Â· rmdir Â· split Â· touch  
+Processes
+
+at Â· chroot Â· cron Â· exit Â· kill Â· killall Â· nice Â· pgrep Â· pidof Â·
+pkill Â· ps Â· pstree Â· sleep Â· time Â· top Â· wait  
+User environment
+
+env Â· finger Â· id Â· logname Â· mesg Â· passwd Â· su Â· sudo Â· uname Â·
+uptime Â· w Â· wall Â· who Â· whoami Â· write  
+Text processing
+
+awk Â· comm Â· cut Â· ed Â· ex Â· fmt Â· head Â· iconv Â· join Â· less Â· more
+Â· paste Â· sed Â· sort Â· tac Â· tail Â· tr Â· uniq Â· vi Â· wc Â· xargs  
+Shell programming
+
+alias Â· basename Â· dirname Â· echo Â· expr Â· false Â· printf Â· test Â·
+true Â· unset  
+Networking
+
+inetd Â· netstat Â· ping Â· rlogin Â· netcat Â· traceroute  
+Searching
+
+find Â· grep Â· strings  
+Miscellaneous
+
+banner Â· bc Â· cal Â· clear Â· date Â· dd Â· lp Â· man Â· size Â· tee Â· tput
+Â· yes Â· umask  
+Retrieved from "http://en.wikipedia.org/wiki/Find"
+
+Categories: Unix software | Searching
+
+Hidden categories: Articles to be expanded since August 2008 | All articles to
+be expanded
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Magyar
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 24 March 2009, at 19:01.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

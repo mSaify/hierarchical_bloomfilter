@@ -1,0 +1,469 @@
+
+# Merchant account
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article is missing citations or needs footnotes. Please help add inline
+citations to guard against copyright violations and factual inaccuracies.
+(January 2008)  
+A merchant account is a contract under which an acquiring bank extends a line
+of credit to a merchant, who wishes to accept payment card transactions of a
+particular card association brand. Without such a contract, one cannot
+directly accept payments by any of the major credit card brands. When using an
+intermediary payment service provider (such as PayPal), the merchant account
+is in fact held by the service provider itself.
+
+## Contents
+
+  * 1 Methods of processing credit cards
+    * 1.1 Credit card terminal
+    * 1.2 Automated Response Unit (ARU)
+    * 1.3 Payment gateway
+    * 1.4 Level 2 or Level 3 Processing - Purchasing Cards
+    * 1.5 Merchant Account Marketing
+    * 1.6 Marketing by Banks
+    * 1.7 Marketing by Independent Sales Organization (ISO)/MSPs
+  * 2 Rates and fees
+    * 2.1 Discount Rates
+      * 2.1.1 3-Tier Pricing
+        * 2.1.1.1 Qualified rate
+        * 2.1.1.2 Mid-qualified rate
+        * 2.1.1.3 Non-qualified rate
+      * 2.1.2 6-Tier Pricing
+      * 2.1.3 Interchange Plus Pricing
+      * 2.1.4 Bill Backs
+    * 2.2 Other Fees
+      * 2.2.1 Authorization fee
+      * 2.2.2 Statement fee
+      * 2.2.3 Monthly minimum fee
+      * 2.2.4 Batch fee
+      * 2.2.5 Customer Service fee
+      * 2.2.6 Annual fee
+      * 2.2.7 Early Termination fee
+      * 2.2.8 Chargeback fee
+  * 3 See also
+  * 4 References
+  * 5 External links
+
+  
+## [edit] Methods of processing credit cards
+
+Today a majority of credit card transactions are sent electronically to
+merchant processing banks for authorization, capture and deposit. Various
+methods exist for presenting a credit card sale to "the system." In all
+circumstances either the entire magnetic strip is read by a swipe through a
+credit card terminal/reader or the credit card information is manually entered
+into a credit card terminal, a computer or website. The earliest methods,
+submitting credit card slips to a merchant processing bank by US mail, or by
+accessing an Automated Response Unit (ARU) by telephone, are still in use
+today but have long been overshadowed by electronic devices. These early
+methods used two-part forms and a manual device for mechanically imprinting
+the embossed card number information onto the forms. Whenever practical it is
+best to swipe a credit card because the rates will be much lower and the
+incidence of stolen credit card number fraud is greatly reduced.
+
+### [edit] Credit card terminal
+
+A typical credit card terminal that is still popular today.
+
+A credit card terminal is a stand-alone piece of electronic equipment that
+allows a merchant to swipe or key-enter a credit card's information as well as
+additional information required to process a credit card transaction. A credit
+card terminal is a dedicated piece of equipment that only processes credit
+cards although it is common for related transactions including gift cards and
+check verification to also be performed. A credit card terminal typically must
+be plugged in to a power supply and connected to a telephone line. However,
+some terminals may be powered by batteries, communicate over the Internet or
+through the cellular phone networks. When a credit card is processed (either
+swiped through the magnetic stripe reader or keyed in to the keypad), it
+contacts the network to verify if the credit card can be authorized. The
+transaction is then stored on the machine until the polling window is opened.
+The machine will either upload the electronic funds directly to the merchant
+bank, or a polling service provider will dial in to collect, process then
+submit the data to the merchant bank. The most popular credit card terminals
+consist of a modem, keypad, printer, magnetic stripe reader, power supply and
+memory card. They have had the same basic design since the 1980s. As with
+computers, there is a wide range of memory capacities and other features like
+built-in printers and debit card pinpads that affect the manufacturing cost of
+a credit card terminal.
+
+### [edit] Automated Response Unit (ARU)
+
+An ARU (also known as a voice authorization, capture and deposit) allows the
+manual keyed entry and subsequent authorization of a credit card over a
+cellular or land-line telephone. With this method a merchant typically
+imprints their customer's card with an imprinter to create a customer receipt
+and merchant copy, then process the transaction instantaneously over the
+phone.
+
+### [edit] Payment gateway
+
+A payment gateway is an e-commerce service that authorizes payments for
+e-businesses and online retailers. It is the equivalent of a physical POS
+(point-of-sale) terminal located in most retail outlets. A merchant account
+provider is typically a separate company from the payment gateway. Some
+merchant account providers have their own payment gateways but the majority of
+companies use 3rd party payment gateways. The gateway usually has 2
+components: a) the virtual terminal that can allow for a merchant to securely
+login and key in credit card numbers or b) have the website's shopping-cart
+connect to the gateway via an API to allow for real time processing from the
+merchant's website.
+
+### [edit] Level 2 or Level 3 Processing - Purchasing Cards
+
+Visa and Mastercard have created a specialized type of credit card used
+primarily by government agencies and businesses. Increasingly, corporations
+and government agencies are relying on this form of payment to compensate
+their service providers and suppliers. Businesses benefit by receiving their
+funds quickly and by winning competitive bids and government contracts where
+purchasing cards are the required form of payment. The downside, however, is
+the increased costs associated with receiving these payments. These costs will
+usually be much higher than accepting a standard consumer credit card.
+
+The solution is that some businesses may qualify for ways to process these
+transactions that allow them to pay lower fees if they can supply additional
+information, called "level 2 or level 3 data". For example, if government
+transactions are over $5,000, businesses can significantly reduce their
+transaction costs by including "level 2 or level 3 data" about the purchase
+along with each transaction. Examples of level 2 or level 3 data is a purchase
+order number associated with the transaction that the credit card will be
+paying. This data is passed on to the purchaser so that it may be many times
+easier to reconcile the transaction. If all the required data is not collected
+and passed on during the transaction, the merchant can have surcharges added
+to the basic fees or be forced into a non qualified transaction category.
+
+### [edit] Merchant Account Marketing
+
+Merchant accounts are marketed to merchants by two basic methods: either
+directly by the processor or sponsoring bank, or by an authorized agent for
+the bank and additionally directly registered with both Visa and MasterCard as
+an ISO/MSP (Independent Selling Organization / Member Service Provider).
+Marketing details are by card issuers like Visa and MasterCard, and are
+enforced by various rules and fines.
+
+### [edit] Marketing by Banks
+
+A bank that has a merchant processing relationship with Visa and Mastercard,
+also known as a member bank, can issue merchant accounts directly to
+merchants. To reduce risk, some banks limit approval to merchants in its
+geographical area, those with a physical retail storefront, or those that have
+been in business for 2 years or more.
+
+### [edit] Marketing by Independent Sales Organization (ISO)/MSPs
+
+To market merchant accounts, an ISO/MSP must be sponsored by a member bank.
+This sponsorship requires that the bank verify the financial stability and
+suitability of the company that will be marketing on its behalf. The ISO/MSP
+must also pay a fee to be registered with Visa and Mastercard and must comply
+with regulations in how they may market merchant accounts and the use of
+copyrights of Visa and Mastercard. One way to verify if an ISO/MSP is in
+compliance is to check a website or any other marketing material for a
+disclosure "company is a registered ISO/MSP of bank, town, state. FDIC
+insured". This disclosure is required by both Visa and Mastercard and will
+cause a fine of up to $25,000 if it is not clearly visible. In almost all
+cases, if there is no disclosure, the company is likely to be an uninformed
+4th party or worse. In many cases unregistered operators have been responsible
+for some of the worst horror stories from merchants.
+
+## [edit] Rates and fees
+
+A Merchant Account has a variety of fees, some periodic, others charged on a
+per-item or percentage basis. Some fees are set by the merchant account
+provider, but the majority of the per-item and percentage fees are passed
+through the merchant account provider to the credit card issuing bank
+according to a schedule of rates called interchange fees, which are set by
+Visa and Mastercard. Interchange fees vary depending on card type and the
+circumstances of the transaction. For example, if a transaction is made by
+swiping a card through a credit card terminal it will be in a different
+category than if it were keyed in manually.
+
+### [edit] Discount Rates
+
+The discount rate comprises a number of dues, fees, assessments, network
+charges and mark-ups merchants are required to pay for accepting credit and
+debit cards, the largest of which by far is the Interchange fee. Each bank or
+ISO/MLS has real costs in addition to the wholesale interchange fees, and
+creates profit by adding a mark-up to all the fees mentioned above. There are
+a number of price models banks and ISOs/MLSs use to bill merchants for the
+services rendered. Here are the more popular price models:
+
+#### [edit] 3-Tier Pricing
+
+The 3-Tier Pricing is the most popular pricing method and the simplest system
+for most merchants, although the new 6-Tier Pricing is gaining in popularity.
+In 3-Tier Pricing, the merchant account provider groups the transactions into
+3 groups (tiers) and assigns a rate to each tier based on a criterion
+established for each tier.
+
+##### [edit] Qualified rate
+
+A qualified rate is the percentage rate a merchant will be charged whenever
+they accept a regular consumer credit card and process it in a manner defined
+as "standard" by their merchant account provider using an approved credit card
+processing solution. This is usually the lowest rate a merchant will incur
+when accepting a credit card. The qualified rate is also the rate commonly
+quoted to a merchant when they inquire about pricing. The qualified rate is
+created based on the way a merchant will be accepting a majority of their
+credit cards. For example, for an internet merchant, the internet interchange
+categories will be defined as Qualified, while for a physical retailer only
+transactions swiped through or read by their terminal in an ordinary manner
+will be defined as Qualified.
+
+##### [edit] Mid-qualified rate
+
+Also known as a partially qualified rate, the mid-qualified rate is the
+percentage rate a merchant will be charged whenever they accept a credit card
+that does not qualify for the lowest rate (the qualified rate). This may
+happen for several reasons such as:
+
+  * A consumer credit card is keyed into a credit card terminal instead of being swiped
+  * A special kind of credit card is used like a rewards card or business card
+
+A mid-qualified rate is higher than a qualified rate. Some of the transactions
+that are usually grouped into the Mid-Qualified Tier can cost the provider
+more in interchange costs, so the merchant account providers do make a markup
+on these rates.
+
+The use of "rewards cards" can be as high as 40% of transactions. So it is
+important that the financial impact of this fee be understood.
+
+##### [edit] Non-qualified rate
+
+The non-qualified rate is usually the highest percentage rate a merchant will
+be charged whenever they accept a credit card. In most cases all transactions
+that are not qualified or mid-qualified will fall to this rate. This may
+happen for several reasons such as:
+
+  * A consumer credit card is keyed into a credit card terminal instead of being swiped and address verification is not performed
+  * A special kind of credit card is used like a business card and all required fields are not entered
+  * A merchant does not settle their daily batch within the allotted time frame, usually past 48 hours from time of authorization.
+
+A non-qualified rate can be significantly higher than a qualified rate and can
+cost the provider much more in interchange costs, so the merchant account
+providers do make a markup on these rates.
+
+#### [edit] 6-Tier Pricing
+
+As a result of the Wal-Mart Lawsuit and to compete against PIN-based debit
+cards (which are processed outside of the Visa and Mastercard networks), Visa
+and Mastercard lowered the interchange rates for debit cards well below those
+for credit cards. Some providers can pass on the lower cost of these cards
+directly to merchants. Consequently, the 3 tiers programs have added 2
+classifications for debit cards that are processed without a PIN or with a PIN
+for a total of 6 rate classifications.
+
+#### [edit] Interchange Plus Pricing
+
+Some providers offer merchant account services priced on an "interchange plus"
+basis. These accounts are based on the "interchange" tables published by both
+Visa Visa Interchange and MasterCard MasterCard Interchange. This type of
+pricing creates a discount rate by adding interchange rates, fees,
+assessments, markups and other costs.
+
+#### [edit] Bill Backs
+
+A bill back is a relatively new price model and a variation on interchange
+plus pricing. It has some variations but the basic concept is that the
+merchant pays interchange on the statement that the transactions took place
+and then pay all other fees, like dues, fees and assessments, etc on the next
+month's statement. It requires a great deal of time to research the actual
+cost per transaction with the bill back system. Some merchants feel this form
+of pricing is very misleading.
+
+### [edit] Other Fees
+
+#### [edit] Authorization fee
+
+The Authorization fee (actually an authorization request fee) is charged each
+time a transaction is sent to the card-issuing bank to be authorized. The fee
+applies whether or not the request is approved. Note this is not the same as
+Transaction fee or Per Item fee.
+
+#### [edit] Statement fee
+
+The statement fee is a monthly fee associated with the monthly statement that
+is sent to the merchant at the end of each monthly processing cycle. This
+statement shows how much processing was done by the merchant during the month
+and what fees were incurred as a result.
+
+#### [edit] Monthly minimum fee
+
+The monthly minimum fee is a way to ensure that merchants pay a minimum amount
+in fees each month to cover costs from the provider to maintain the account
+and to create minimal profits. If a merchant's qualified fees do not equal or
+exceed the monthly minimum they will be charged up to the monthly minimum to
+satisfy their minimum fee requirements.
+
+Example: A merchant has signed a contract with a $25.00 monthly minimum fee.
+If all the fees for the most recent month of processing total only $15.00,
+this merchant will be charged an additional $10.00 to meet their monthly
+minimum requirements. Sometimes there are fees that are charged that are not a
+part of the monthly minimum, such as statement fees. It is industry standard
+to charge a monthly minimum.
+
+#### [edit] Batch fee
+
+A batch fee (also known as a batch header fee) can be charged to a merchant
+whenever the merchant "settles" their terminal. Settling a terminal, also
+known as "batching", is when a merchant sends their completed transactions for
+the day to their acquiring bank for payment. Some providers perform this
+automatically. It is important to close a batch every 24 hours or a higher
+rate will be assessed by Visa or Mastercard.
+
+#### [edit] Customer Service fee
+
+The customer service fee (also known as a maintenance fee) can be charged by
+some providers to pay for the cost of customer service.
+
+#### [edit] Annual fee
+
+The Annual fee can be charged by some providers to pay for costs of
+maintaining the merchant's account. Sometimes these fees can be quarterly. The
+fee can be from $49-$399.
+
+#### [edit] Early Termination fee
+
+The early termination fee can be charged by some providers if the merchant
+ends the contract before the end of the contract term. While contract terms of
+1-3 years are typical, some providers have terms of up to 5 years with a one
+year prior notice to cancel or the fee will be assessed. Some providers also
+assess all statement fees and monthly minimums remaining when the contract is
+terminated. Some providers may also assess a "lost profit" fee based on an
+assumption of profits they concluded they would have earned during the full
+term of the contract.
+
+#### [edit] Chargeback fee
+
+The chargeback is the largest risk that is presented to banks and providers
+and therefore their biggest fear. This is not to be confused with a refund,
+which is simply a merchant refunding a transaction. In the Visa and Mastercard
+rules, the merchant's processing bank is 100% responsible for all the
+transactions that the merchant performs. This can leave the provider open to
+millions of dollars of potential losses if the merchant operates in an illegal
+or risky manner and generates many chargebacks. The providers pass this cost
+on to the merchant, but if the merchant is fraudulent or simply does not have
+the money, the provider must pay all the costs to make the card holder whole.
+The chargeback risk is the largest part taken into consideration during the
+contract application and underwriting process. Some banks are many times more
+stringent than others when assessing a merchant's chargeback risk.
+
+If a merchant encounters a chargeback they may be assessed a fee by their
+acquiring bank. A potential chargeback is presented on behalf of the card
+holder's bank to the merchant's credit card processing bank. A reason code is
+established by the card issuer to properly identify the type of potential
+chargeback based on the card holder's complaint. The most common complaint is
+that the card holder can not remember the transaction. Usually, these
+potential chargebacks are corrected when the merchant's processing bank sends
+over more details about the transaction. Some providers charge a fee for this
+service, known as a "Retrieval Request". A chargeback can also be related to a
+fraud or similar dispute that the card holder is claiming to the merchant.
+This fee can be charged by some providers whether the chargeback is successful
+or not and is not dependent on the amount of the chargeback.
+
+Currently both Visa and Mastercard require all merchants to maintain no more
+than 1% of dollar volume processed to be chargebacks. If the percentage goes
+above, there are fines starting at $5000 - $25,000 to the merchant's
+processing bank and ultimately passed on to the merchant.
+
+In all cases, a chargeback will cost the merchant the chargeback fee,
+typically $15-$30, plus the cost of the transaction and the amount processed.
+
+  
+
+## [edit] See also
+
+  * Merchant services
+  * Credit card
+  * Credit card terminal
+  * Payment gateway
+  * Electronic Commerce
+  * Credit card fraud
+  * Chargeback insurance
+  * Payment card industry (PCI)
+  * Cardholder Information Security Program (CISP)
+
+## [edit] References
+
+  * Visa Interchange Visa Interchange rate table.
+  * Mastercard Interchange Mastercard Interchange rate table.
+  * MasterCard Merchant Rules PDF guidelines for all businesses that accept MasterCard credit cards.
+  * Visa USA - Accepting Visa Guide and information for accepting Visa and other credit cards.
+
+## [edit] External links
+
+  * Electronic Transaction Association (ETA) is the international trade association for the payment processing industry.
+  * The GreenSheet is a trade newsletter for the merchant account sales industry, serving Banks, ISOs and MLSs.
+  * National Association of Payment Professionals is an organization created to provide education, benefits, liaison/representation and certification to individuals selling in the payment processing industry.
+
+Retrieved from "http://en.wikipedia.org/wiki/Merchant_account"
+
+Categories: Finance | Payment systems | Merchant services
+
+Hidden categories: Articles with unsourced statements since January 2008 | All
+articles with unsourced statements
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * EspaÃ±ol
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 29 April 2009, at 20:34 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

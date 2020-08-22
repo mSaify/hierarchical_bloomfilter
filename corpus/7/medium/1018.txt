@@ -1,0 +1,564 @@
+
+# Pseudoephedrine
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>  
+<IMG>  
+Pseudoephedrine  
+Systematic (IUPAC) name  
+(1S,2S)-2-methylamino-1-phenylpropan-1-ol  
+Identifiers  
+CAS number 90-82-4  
+ATC code R01BA02  
+PubChem 7028  
+DrugBank APRD00634  
+ChemSpider 6761  
+Chemical data  
+Formula C10H15NO  
+Mol. mass 165.23  
+Pharmacokinetic data  
+Bioavailability unknown  
+Metabolism hepatic (10â30%)  
+Half life 9â16 hours  
+Excretion 70-90% renal  
+Therapeutic considerations  
+Pregnancy cat.
+
+B2(AU) ?(US)  
+Legal status
+
+Pharmacist Only (S3)(AU) P(UK)  
+Routes oral  
+Pseudoephedrine (commonly abbreviated as PSE) is a sympathomimetic amine
+commonly used as a decongestant. The salts pseudoephedrine hydrochloride and
+pseudoephedrine sulfate are found in many over-the-counter preparations either
+as single-ingredient preparations, or more commonly in combination with
+antihistamines, paracetamol (acetaminophen) and/or ibuprofen. Sudafed is a
+trademark for a common brand which contains pseudoephedrine hydrochloride,
+though Sudafed PE does not. Cirrus contains Pseudoephedrine in conjunction
+with Cetirizine (an antihistamine).
+
+Unlike antihistamines, which modify the systemic histamine-mediated allergic
+response, pseudoephedrine only relieves nasal congestion commonly associated
+with colds or allergies.
+
+The advantage of oral pseudoephedrine over topical nasal preparations, such as
+oxymetazoline, is that it does not cause rebound congestion (rhinitis
+medicamentosa); however, it is more likely to cause adverse effects including
+hypertension.
+
+Pseudoephedrine is being phased out as an over-the-counter drug in some
+countries and replaced by less effective[1] alternative decongestants such as
+phenylephrine, due to pseudoephedrine's notable popularity as a precursor in
+the illicit synthesis of methamphetamine. Internationally, pseudoephedrine is
+listed as a Table I precursor under the United Nations Convention Against
+Illicit Traffic in Narcotic Drugs and Psychotropic Substances.[2]
+
+## Contents
+
+  * 1 Chemistry
+  * 2 Mode of action
+  * 3 Clinical uses
+    * 3.1 Indications
+    * 3.2 Adverse effects
+    * 3.3 Precautions and contraindications
+  * 4 Chiral auxiliary
+  * 5 Manufacture
+    * 5.1 Common brand names
+  * 6 Alternative and illicit use
+    * 6.1 Sports
+    * 6.2 United States federal law
+    * 6.3 United States state law
+    * 6.4 Mexico
+    * 6.5 Australia
+    * 6.6 New Zealand
+    * 6.7 United Kingdom
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] Chemistry
+
+Pseudoephedrine is a phenethylamine, and a diastereomer of ephedrine.
+Pseudoephedrine is a chiral molecule, meaning it occurs in both "left-handed"
+and "right-handed" configurations which are not superimposable.
+
+Pseudoephedrine is the International Nonproprietary Name (INN) of the (1S,2S)-
+diastereomer of ephedrine (which has 1R,2S\- configuration). Other names are
+(+)-pseudoephedrine and D-pseudoephedrine.[3]
+
+L-Pseudoephedrine, also known as (-)-(1R,2R)-pseudoephedrine or
+(-)-pseudoephedrine, is the optical isomer of D-pseudoephedrine. It has fewer
+side-effects, fewer central nervous system (CNS) stimulatory effects, does not
+reduce to D-methamphetamine (which is the enantiomer used as a recreational
+drug), and yet it retains its efficacy as a decongestant.[citation needed]
+However, the patent holder for L-pseudoephedrine (Pfizer/Warner-Lambert)[4]
+has not yet sought or received government approval for its sale to the public.
+[5]
+
+## [edit] Mode of action
+
+Pseudoephedrine is a sympathomimetic amineâthat is, its principal mechanism
+of action relies on its indirect action on the adrenergic receptor system.
+While it may have weak agonist activity at Î±- and Î²-adrenergic receptors,
+the principal mechanism is to cause the release of endogenous norepinephrine
+(noradrenaline) from storage vesicles in presynaptic neurons. The displaced
+noradrenaline is released into the neuronal synapse where it is free to
+activate the aforementioned postsynaptic adrenergic receptors.
+
+These adrenergic receptors are located on the muscles lining the walls of
+blood vessels. When activated by pseudoephedrine, the muscles contract,
+causing the blood vessels to constrict (vasoconstriction). These constricted
+blood vessels now allow less fluid to leave the blood vessels and enter the
+nose, throat and sinus linings, which results in decreased inflammation of
+nasal membranes as well as decreased mucus production. Thus, by constriction
+of blood vessels, mainly those located in the nasal passages, pseudoephedrine
+causes a decrease in the symptoms of nasal congestion.
+
+The vasoconstriction that pseudoephedrine produces is believed to be
+principally an Î±-adrenergic receptor response. While all sympathomimetic
+amines, to some extent, have decongestant action, pseudoephedrine shows
+greater selectivity for the nasal mucosa and a lower affinity for central
+nervous system (CNS) adrenergic-receptors than other sympathomimetic amines.
+
+Vasoconstriction in the nasal mucosa shrinks swollen nasal mucous membranes,
+reduces tissue hyperemia, edema, and nasal congestion. Other beneficial
+effects may include increasing the drainage of sinus secretions, and opening
+of obstructed Eustachian tubes. The same vasoconstriction action can also
+result in hypertension, which is a noted side effect of pseudoephedrine.
+
+## [edit] Clinical uses
+
+### [edit] Indications
+
+Pseudoephedrine is indicated for the treatment of:
+
+  * nasal congestion
+  * sinus congestion
+  * Eustachian tube congestion.[6]
+
+Pseudoephedrine is also indicated for vasomotor rhinitis, and as an adjunct to
+other agents in the optimum treatment of allergic rhinitis, croup, sinusitis,
+otitis media, and tracheobronchitis.[6]
+
+Pseudoephedrine is also used as first-line therapy of priapism. Erection is
+largely a parasympathetic response, so the sympathetic action of
+pseudoephedrine may serve to relieve this condition.
+
+Treatment for urinary incontinence is an off-label use (aka "unlabeled use")
+for these medications.[citation needed]
+
+### [edit] Adverse effects
+
+Common adverse drug reactions (ADRs) associated with pseudoephedrine therapy
+include: CNS stimulation, sleeplessness, nervousness, excitability, dizziness
+and anxiety. Infrequent ADRs include: tachycardia and/or palpitations. Rarely,
+pseudoephedrine therapy may be associated with hallucinations, arrhythmias,
+hypertension, seizures and ischemic colitis;[7] as well as severe skin
+reactions known as recurrent pseudo-scarlatina, systemic contact dermatitis,
+and nonpigmenting fixed drug eruption.[8] Pseudoephedrine, particularly in
+high doses, may also cause episodes of paranoid psychosis. [9] It has also
+been reported that pseudoephedrine, amongst other sympathomimetic agents, may
+be associated with the occurrence of stroke.[10]
+
+### [edit] Precautions and contraindications
+
+It is recommended that pseudoephedrine not be used in patients with: diabetes
+mellitus, cardiovascular disease, hypertension, prostatic hypertrophy,
+hyperthyroidism, closed angle glaucoma and/or pregnancy.[7]
+
+Since nasal congestion is considered to be a relatively minor ailment,
+alternatives are preferred in patients with these conditions. Appropriate
+alternatives may include topical decongestants or saline sprays/instillations,
+depending on the patient's condition.
+
+Contraindications for the use of pseudoephedrine include: concomitant or
+recent (previous fourteen days) monoamine oxidase inhibitor (MAOI), or
+serotonin-specific reuptake inhibitor (SSRI) therapy , severe or uncontrolled
+hypertension, and/or severe coronary artery disease.[7]
+
+People with bipolar disorder should use care when taking pseudoephedrine, as
+it can cause insomnia and thus trigger a manic episode.
+
+## [edit] Chiral auxiliary
+
+Both (R,R)- and (S,S)-pseudoephedrine are used as a chiral auxiliary.[11]
+Pseudoephedrine is reacted with a carboxylic acid, acid anhydride, or acyl
+chloride to give a pseudoephedrine amide.
+
+The Î±-proton of the carbonyl compound is easily deprotonated by a non-
+nucleophilic base to give the enolate, which can further react. The
+configuration of the addition compound, such as with an alkyl halide, is
+directed by the methyl group. Thus, any addition product will be anti to the
+methyl and syn with the hydroxyl group.
+
+The pseudoephedrine chiral auxiliary is subsequently removed by cleaving the
+amide bond with an appropriate nucleophile.
+
+## [edit] Manufacture
+
+Although pseudoephedrine occurs naturally as an alkaloid in certain plant
+species (for example, as a constituent of extracts from the ephedra species,
+also known as Ma Huang, in which it occurs together with other isomers of
+ephedrine), the majority of pseudoephedrine produced for commercial use is
+derived from yeast fermentation of dextrose in the presence of benzaldehyde.
+In this process, specialized strains of yeast (typically a variety of Candida
+utilis or Saccharomyces cerevisiae) are added to large vats containing water,
+dextrose and the enzyme pyruvate decarboxylase (such as found in beets and
+other plants). After the yeast has begun fermenting the dextrose, the
+benzaldehyde is added to the vats, and in this environment the yeast convert
+the precursor ingredients to l-phenylacetylcarbinol (L-PAC). L-PAC is then
+chemically converted to pseudoephedrine via reductive amination.[12]
+
+The bulk of pseudoephedrine is produced by commercial pharmaceutical
+manufacturers in India and China, where economic and industrial conditions
+favor the mass production of pseudoephedrine for export.[13]
+
+### [edit] Common brand names
+
+The following are some brand names of medications containing pseudoephedrine.
+Some of them no longer contain it and have phenylephrine instead.
+
+  * Sudafed (Johnson & Johnson (formerly Pfizer))
+  * Actifed (Burroughs Wellcome)
+  * Claritin-D Contains Loratadine along with Pseudoephedrine.
+
+## [edit] Alternative and illicit use
+
+<IMG>
+
+This section is missing citations or needs footnotes. Please help add inline
+citations to guard against copyright violations and factual inaccuracies.
+(March 2009)  
+There have also been reports of off-label uses of pseudoephedrine for its
+stimulant properties. Some people, long-distance truck drivers and sports
+athletes for example, have reportedly used pseudoephedrine as a stimulant to
+increase their state of alertness/awareness.[weasel words] It is doubtful that
+pseudoephedrine would be of significant benefit, except in sensitive
+individuals, because of its minimal effect in the central nervous system (see
+Mode of Action above).[original research?]
+
+The similarity in chemical structure to the amphetamines has made
+pseudoephedrine a sought-after chemical precursor in the illicit manufacture
+of methamphetamine and methcathinone. As a result of the increasing regulatory
+restrictions on the sale and distribution of pseudoephedrine, many
+pharmaceutical firms have reformulated, or are in the process of reformulating
+medications to use alternative decongestants, such as phenylephrine. Many
+retailers such as Target, Wal-Mart, CVS, and Winn-Dixie have created corporate
+policies restricting the sale of pseudoephedrine-containing products. Their
+policies restrict sales by limiting purchase quantities and requiring a
+minimum age with proper identification. These requirements are similar to and
+sometimes more stringent than existing law. Internationally, pseudoephedrine
+is listed as a Table I precursor under the United Nations Convention Against
+Illicit Traffic in Narcotic Drugs and Psychotropic Substances.[2]
+
+### [edit] Sports
+
+Pseudoephedrine is on the banned substances IOC list. Andreea RÄducan was
+stripped of her gold medal at the 2000 Sydney Olympics after testing positive.
+She took two pills given to her by the team coach for a cold. Although she was
+stripped of the overall gold medal she kept her other medals, unlike in most
+other doping cases was not banned from competing again, only the team doctor
+was banned for a number of years. Ion Å¢iriac, the president of the Romanian
+Olympic Committee, resigned over the scandal.[14][15]
+
+### [edit] United States federal law
+
+The United States Congress has recognized the use of pseudoephedrine in the
+illicit manufacture of methamphetamine. In late 2005, the Committee on
+Education and the Workforce heard testimony concerning education programs and
+state legislation designed to curb the use and manufacture of methamphetamine
+with pseudoephedrine-containing products. State laws in Oregon and Kansas were
+particularly influential in the proposed legislation.[citation needed] The
+House passed the Combat Methamphetamine Epidemic Act of 2005 ("CMEA") as an
+amendment to the renewal of the Patriot Act. Signed into law by president
+George W. Bush on March 6, 2006, the act amended Title 21 of the United States
+Code (21 USC 830) concerning the sale of pseudoephedrine-containing products.
+The Federal statute included the following requirements for merchants
+("regulated seller") who sell these products (pseudoephedrine is defined as a
+"scheduled listed chemical product under 21 U.S.C. Â§ 802(45(A)):
+
+  * A retrievable record of all purchases identifying the name and address of each party to be kept for two years.
+  * Required verification of proof of identity of all purchasers
+  * Required protection and disclosure methods in the collection of personal information
+  * Reports to the Attorney General of any suspicious payments or disappearances of the regulated products
+  * Required training of employees with regard to the requirements of the CMEA; Retailer must self-certify as to training and compliance
+  * Non-liquid dose form of regulated product may only be sold in unit dose blister packs
+  * Regulated products are to be stored behind the counter or in a locked cabinet in such a way as to restrict public access
+  * Daily sales of regulated products not to exceed 3.6 grams without regard to the number of transactions
+  * 30 day (not monthly) sales limit not to exceed 7.5 grams if sold by mail-order or "mobile retail vendor"
+  * 30 day purchase limit not to exceed 9 grams of pseudoephedrine base in regulated products (misdemeanor possession offense under 21 U.S.C. Â§ 844a for the individual who buys it)
+
+### [edit] United States state law
+
+Thirty-seven individual states also have varying laws on the matter: Alabama,
+Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida,
+Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Maryland, Massachusetts,
+Michigan, Minnesota, Missouri, Montana,Nevada, New Hampshire, New Jersey, New
+York, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia, Wisconsin
+and Washington laws require pharmacies to sell pseudoephedrine behind-the-
+counter and to collect personal information from the purchaser. Oregon
+requires a prescription to purchase products containing pseudoephedrine.
+
+### [edit] Mexico
+
+On November 23, 2007, the use and trade of Pseudoephedrine in Mexico was made
+illicit, as it was argued that pseudoephedrine was extremely popular as a
+precursor in the synthesis of methamphetamine.
+
+### [edit] Australia
+
+Illicit diversion of pseudoephedrine in Australia has caused significant
+changes to the way pseudoephedrine products are regulated. As of 2006, all
+products containing pseudoephedrine have been rescheduled as "Pharmacist Only
+Medicines" (Schedule 3). As a result, a pharmacist must be directly involved
+in every transaction involving the sale of pseudoephedrine to members of the
+public, and such medicines will be kept behind the counter, away from public
+access. Such measures are designed to ensure that the medicines are needed for
+a legitimate purpose. Pharmacists are also required to log the purchase with
+an online database called PROJECTSTOP. This database records each purchase of
+pseudoephedrine products, tracking the customers drivers license or 18+ card.
+This system was put in place to stop drug mules driving from Sydney to Cairns
+(a trip of 3000 km or 1875mi) purchasing a small box of pseudoephedrine at
+every pharmacy along the way. When the database is used 3 modes of sale can be
+used. One allows the sale (as "no match" was found), one denies the sale and
+the third, called a safety sale, is when the product was sold under duress.
+Certain preparations containing significantly high amounts of pseudoephedrine
+are further restricted as "Prescription Only Medicines" (Schedule 4).
+
+As of April 2007, the Australian government is considering the prohibition of
+all medications containing pseudoephedrine.[16]
+
+### [edit] New Zealand
+
+In New Zealand, from 15 October 2004, as a result of large intercepts of
+pseudoephedrine and ephedrine, any product containing these substances e.g.
+cold and flu medicines were classified as Class C Part III (partially
+exempted) controlled drugs in the Misuse of Drugs Act 1975.[citation needed]
+New Zealand Customs and police officers are continuing to make large
+interceptions of precursor substances believed to be destined for
+methamphetamine production.
+
+### [edit] United Kingdom
+
+In the UK pseudoephedrine has only ever been available on prescription or over
+the counter[clarification needed], and as of 2007 pharmacies are required to
+sell only in limited pack sizes.[17]
+
+## [edit] See also
+
+  * Amphetamine
+  * Ephedrine
+  * Methamphetamine
+  * Methcathinone
+  * Phenethylamines
+  * Phenylephrine \- a substitute used where pseudoephedrine sale is restricted by law
+  * Phenylpropanolamine
+
+## [edit] References
+
+  1. ^ Hatton RC, et al. Efficacy and Safety of Oral Phenylephrine: A Systematic Review and Meta-Analysis. Ann Pharmacother. 2007 Mar;41(3):381-90. Epub 2007 Jan 30.
+  2. ^ a b Microsoft Word - RedListE2007.doc
+  3. ^ Edited by Reynolds JEF, ed (1989). Martindale: The complete drug reference (29th edition ed.). London: Pharmaceutical Press. ISBN 0-85369-210-6.
+  4. ^ U.S. Patent 6,495,529, (-)-Pseudoephedrine as a Sympathomimetic Drug, Warner-Lambert (2002)
+  5. ^ (U.S. Patent 6,495,529 )
+  6. ^ a b Bicopoulos D, editor. AusDI: Drug information for the healthcare professional, 2nd edition. Castle Hill: Pharmaceutical Care Information Services; 2002.
+  7. ^ a b c Rossi S, editor. Australian Medicines Handbook 2006\. Adelaide: Australian Medicines Handbook; 2006. ISBN 0-9757919-2-3
+  8. ^ Vidal C, Prieto A, PÃ©rez-Carral C, ArmisÃ©n M (April 1998). "Nonpigmenting fixed drug eruption due to pseudoephedrine". Ann. Allergy Asthma Immunol. 80 (4): 309â10. PMID 9564979.
+  9. ^ Adco-Tussend
+  10. ^ Cantu C, Arauz A, Murillo-Bonilla LM, LÃ³pez M, Barinagarrementeria F (July 2003). "Stroke associated with sympathomimetics contained in over-the-counter cough and cold drugs". Stroke 34 (7): 1667â72. doi:10.1161/01.STR.0000075293.45936.FA. PMID 12791938.
+  11. ^ Myers, A. G., et al, Pseudoephedrine as a Practical Chiral Auxiliary for the Synthesis of Highly Enantiomerically Enriched Carboxylic Acids, Alcohols, Aldehydes, and Ketones, J. Am. Chem. Soc., 1997, 119, 6460-6651.doi:10.1021/ja970402f
+  12. ^ Oliver AL, Anderson BN, Roddick FA (1999). "Factors affecting the production of L-phenylacetylcarbinol by yeast: a case study". Adv. Microb. Physiol. 41: 1â45. PMID 10500843.
+  13. ^ Suo, Steve. Clamp down on shipments of raw ingredients. The Oregonian; 6 October 2004. From a version reprinted on a U.S. congressional caucus website.
+  14. ^ http://assets.espn.go.com/oly/summer00/news/2000/0925/776388.html
+  15. ^ http://web.archive.org/web/20010715112418/http://www.intlgymnast.com/news2000/oct3.html
+  16. ^ "Govt considers banning pseudoephedrine products. 16/04/2007. ABC News Online". http://www.abc.net.au/news/newsitems/200704/s1898059.htm. Retrieved on 2007-10-31.
+  17. ^ Pseudoephedrine.co.uk
+
+## [edit] External links
+
+  * Oregon House Bill 2485
+
+v â¢ d â¢ e
+
+Adrenergic agonists (models/most important in small caps)  
+Î±
+
+Î±1
+
+METHOXAMINE Â· Methylnorepinephrine Â· Oxymetazoline Â· PHENYLEPHRINE Â·
+Metaraminol  
+Î±2
+
+4-NEMD Â· CLONIDINE Â· Guanfacine Â· Guanabenz Â· Guanoxabenz Â· Guanethidine
+Â· Xylazine Â· METHYLDOPA Â· Apraclonidine Â· Brimonidine Â· Detomidine Â·
+Dexmedetomidine Â· Lofexidine Â· Romifidine Â· Tizanidine Â· Xylometazoline  
+Undetermined/  
+unsorted
+
+Amidephrine Â· Amitraz Â· Anisodamine Â· Ergotamine Â· Indanidine Â·
+Medetomidine Â· Mephentermine Â· Midodrine Â· Mivazerol Â· Naphazoline Â·
+Norfenefrine Â· Octopamine Â· Phenylpropanolamine Â· Rilmenidine Â· Synephrine
+Â· Talipexole Â· Tetrahydrozoline Â· Xylometazoline  
+Î²
+
+Î²1
+
+DOBUTAMINE Â· Dopamine Â· Denopamine Â· Xamoterol  
+Î²2
+
+Short acting Î²2-agonists: SALBUTAMOL (ALBUTEROL)/Levosalbutamol Â· Fenoterol
+Â· TERBUTALINE Â· Pirbuterol Â· Procaterol Â· Bitolterol Â· Rimiterol Â·
+Carbuterol Â· Tulobuterol Â· Reproterol Â· Dopexamine
+
+Long acting Î²2-agonists (LABA): Arformoterol Â· Bambuterol Â· Clenbuterol Â·
+Formoterol Â· Salmeterol
+
+Orciprenaline (metaproterenol) Â· Ritodrine Â· Hexoprenaline Â· Indacaterol  
+Î²3
+
+Amibegron Â· Solabegron  
+Undetermined/  
+unsorted
+
+Arbutamine Â· Befunolol Â· Isoetarine Â· Isoxsuprine Â· Nylidrin Â· Oxyfedrine
+Â· Prenalterol Â· Ractopamine Â· Bromoacetylalprenololmenthane Â· Broxaterol
+Â· Cimaterol Â· Higenamine Â· Mabuterol Â· Methoxyphenamine Â· Tretoquinol Â·
+Zinterol  
+Nonselective Î²
+
+ISOPRENALINE (ISOPROTERENOL)  
+Î± and Î²
+
+Epinephrine (Î±1+2, Î²1+2) Â· Norepinephrine (Î±1+2, Î²1) Â· Cirazoline Â·
+Etilefrine Â· Ephedrine Â· Pseudoephedrine  
+Indirect
+
+presynaptic norepinephrine release: Amphetamine Â· Tyramine Â· Ephedrine Â·
+Pseudoephedrine  
+norepinephrine reuptake inhibitor: Cocaine  
+see also monoamine oxidase inhibitor  
+v â¢ d â¢ e
+
+Decongestants and other nasal preparations (R01)  
+Topical
+
+Sympathomimetics, plain
+
+Cyclopentamine â¢ Ephedrine â¢ Phenylephrine â¢ Oxymetazoline â¢
+Tetryzoline â¢ Xylometazoline â¢ Naphazoline â¢ Tramazoline â¢ Metizoline
+â¢ Tuaminoheptane â¢ Fenoxazoline â¢ Tymazoline â¢ Epinephrine  
+Antiallergic agents,  
+excluding corticosteroids
+
+Spaglumic acid
+
+histamine antagonists (Levocabastine, Antazoline, Thonzylamine)
+
+mast cell stabilizer (some are also antihistamines) (Cromoglicic acid,
+Nedocromil, Azelastine, Olopatadine)  
+Corticosteroids
+
+Beclometasone â¢ Prednisolone â¢ Dexamethasone â¢ Flunisolide â¢
+Budesonide â¢ Betamethasone â¢ Tixocortol â¢ Fluticasone â¢ Mometasone
+furoate â¢ Triamcinolone â¢ Ciclesonide  
+Other nasal preparations
+
+Calcium hexamine thiocyanate â¢ Retinol â¢ Ipratropium bromide â¢
+Ritiometan â¢ Mupirocin â¢ Hexamidine â¢ Framycetin â¢ Hyaluronic acid  
+Systemic use:  
+Sympathomimetics
+
+Phenylpropanolamine â¢ Pseudoephedrine â¢ Phenylephrine â¢
+Phenylpropylamine  
+Retrieved from "http://en.wikipedia.org/wiki/Pseudoephedrine"
+
+Categories: Amphetamines | Amphetamine alkaloids | Decongestants |
+Sympathomimetic amines | DEA List I chemicals
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since February 2007 | Articles with unsourced statements
+since September 2008 | Articles with unsourced statements since March 2009 |
+All pages needing cleanup | Articles with specifically-marked weasel-worded
+phrases since March 2009 | All articles that may contain original research |
+Articles that may contain original research since March 2009 | Articles with
+unsourced statements since October 2007 | Wikipedia articles needing
+clarification from March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * à¹à¸à¸¢
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 7 April 2009, at 12:06.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

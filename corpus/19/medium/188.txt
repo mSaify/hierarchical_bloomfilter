@@ -1,0 +1,208 @@
+
+# Cooperative Linux
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Cooperative Linux <IMG>  
+<IMG>  
+Ubuntu on Windows Vista  
+Developed by community  
+Latest release 0.7.4 / 2009-03-29; 8 days ago  
+Preview release 0.8.0 / 2009-03-29; 8 days ago  
+Operating system Microsoft Windows  
+Type Emulator  
+License GNU General Public License  
+Website www.colinux.org  
+Cooperative Linux, abbreviated as coLinux, is software which allows Microsoft
+Windows and the Linux kernel to run simultaneously in parallel on the same
+machine.[1]
+
+Cooperative Linux utilizes the concept of a Cooperative Virtual Machine (CVM).
+In contrast to traditional VMs, the CVM shares resources that already exist in
+the host OS. In traditional (host) VMs, resources are virtualized for every
+(guest) OS. The CVM gives both OSs complete control of the host machine while
+the traditional VM sets every guest OS in an unprivileged state to access the
+real machine.
+
+## Contents
+
+  * 1 Overview
+  * 2 History
+  * 3 Comparisons
+  * 4 Distribution
+  * 5 See also
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Overview
+
+<IMG>
+
+<IMG>
+
+Synaptic and nautilus running on Windows
+
+The term "cooperative" is used to describe two entities working in parallel.
+In effect Cooperative Linux turns the two different operating system kernels
+into two big coroutines. Each kernel has its own complete CPU context and
+address space, and each kernel decides when to give control back to its
+partner.
+
+However, while both kernels theoretically have full access to the real
+hardware, modern PC hardware is not designed to be controlled by two different
+operating systems at the same time. Therefore the host kernel is left in
+control of the real hardware and the guest kernel contains special drivers
+that communicate with the host and provide various important devices to the
+guest OS. The host can be any OS kernel that exports basic primitives that
+allow the Cooperative Linux portable driver to run in CPL0 mode (ring 0) and
+allocate memory.
+
+## [edit] History
+
+Dan Aloni originally started the development of Cooperative Linux based on
+similar work with User-mode Linux. He announced the development on 25 Jan
+2004.[2] In July 2004 he presented a paper at the Linux Symposium.[3] The
+source was released under the GNU General Public License. Other developers
+have since contributed various patches and additions to the software.
+
+## [edit] Comparisons
+
+Cooperative Linux is significantly different from full x86 virtualization,
+which generally work by running the guest OS in a less privileged mode than
+that of the host kernel, and having all resources delegated by the host
+kernel. In contrast, Cooperative Linux runs a specially modified Linux kernel
+that is Cooperative as in it takes responsibility for not instigating race
+conditions, and sharing resources with the NT kernel.
+
+## [edit] Distribution
+
+Most of the changes in the Cooperative Linux patch are on the i386 treeâthe
+only supported architecture for Cooperative at the time of this writing. The
+other changes are mostly additions of virtual drivers: cobd (block device),
+conet (network), and cocon (console). Most of the changes in the i386 tree
+involve the initialization and setup code. It is a goal of the Cooperative
+Linux kernel design to remain as close as possible to the standalone i386
+kernel, so all changes are localized and minimized as much as possible.
+
+The coLinux package installs a port of the Linux kernel and a virtual network
+device and can run simultaneously under a version of the Windows operating
+system such as Windows 2000 or Windows XP. It does not use a virtual machine
+such as VMware.
+
+Debian, Ubuntu, Fedora and Gentoo are especially popular with the coLinux
+users.
+
+Due to the rather unusual structure of the virtual hardware, installing Linux
+distributions under coLinux is generally difficult. Therefore users generally
+use either an existing Linux install on a real partition or ready made
+filesystem image distributed by the project. The filesystem images are made by
+a variety of methods, including taking images of a normal Linux system,
+finding ways to make installers run with the strange hardware, building
+installs up using the package manager by hand or simply upgrading existing
+images using tools like yum and apt. An easier way to get an up-to-date
+filesystem image is to use QEMU to install Linux and "convert" the image by
+stripping off the first 63 512-byte blocks as described in the coLinux wiki.
+
+Since coLinux does not have access to native graphics hardware, X Window or X
+Servers will not run under coLinux directly, but you can install an X Server
+under Windows, such as Cygwin/X or Xming and use KDE or GNOME and almost any
+other Linux application and distribution.[4]
+
+## [edit] See also
+
+  * Topologilinux, a Slackware-based distribution
+  * Virtualization
+  * Comparison of platform virtual machines
+  * Cygwin
+  * MSYS
+  * Wubi (installer)
+  * Linux Unified Kernel
+
+## [edit] References
+
+  1. ^ coLinux main website
+  2. ^ Dan Aloni announces Cooperative Linux
+  3. ^ Dan Aloni paper presented July 2004 at Linux Symposium
+  4. ^ coLinux as an alternative to Cygwin
+
+## [edit] External links
+
+  * coLinux Home page
+  * coLinux Sourceforge page
+  * coLinux Wiki
+  * Virtualization with coLinux a developerWorks by M. Tim Jones
+  * Portable Ubuntu for Windows
+
+Retrieved from "http://en.wikipedia.org/wiki/Cooperative_Linux"
+
+Categories: Free virtualization software | Virtualization software | Windows-
+only free software
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * æ¥æ¬èª
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 3 April 2009, at 23:02.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

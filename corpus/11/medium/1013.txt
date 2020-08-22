@@ -1,0 +1,267 @@
+
+# Business process outsourcing
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article is written like a magazine article; it does not use the direct,
+balanced tone expected of an encyclopedia. Please discuss this issue on the
+talk page. Editing help is available. (December 2008)  
+<IMG>
+
+This article contains weasel words, vague phrasing that often accompanies
+biased or unverifiable information. Such statements should be clarified or
+removed. (December 2008)  
+Business process outsourcing (BPO) is a form of outsourcing that involves the
+contracting of the operations and responsibilities of a specific business
+functions (or processes) to a third-party service provider. Originally, this
+was associated with manufacturing firms, such as Coca Cola that outsourced
+large segments of its supply chain.[1]. In the contemporary context, it is
+primarily used to refer to the outsourcing of services.
+
+BPO is typically categorized into back office outsourcing - which includes
+internal business functions such as human resources or finance and accounting,
+and front office outsourcing - which includes customer-related services such
+as contact center services.
+
+BPO that is contracted outside a company's country is called offshore
+outsourcing. BPO that is contracted to a company's neighboring (or nearby)
+country is called nearshore outsourcing.
+
+Given the proximity of BPO to the information technology industry, it is also
+categorized as an information technology enabled service or ITES. Knowledge
+process outsourcing(KPO) and legal process outsourcing (LPO) are some of the
+sub-segments of business process outsourcing industry.
+
+## Contents
+
+  * 1 Industry size
+  * 2 BPO increasing the flexibility of organizations
+  * 3 Threats
+  * 4 References
+  * 5 See also
+  * 6 External links
+
+  
+## [edit] Industry size
+
+India has revenues of 10.9 billion USD[2] from offshore BPO and 30 billion USD
+from IT and total BPO (expected in FY 2008). India thus has some 5-6% share of
+the total BPO Industry, but a commanding 63% share of the offshore component.
+This 63% is a drop from the 70% offshore share that India enjoyed last year,
+despite the industry growing 38% in India last year, other locations like
+Eastern Europe, Philippines, Morocco, Egypt and South Africa have emerged to
+take a share of the market. China is also trying to grow from a very small
+base in this industry. However, while the BPO industry is expected to continue
+to grow in India, its market share of the offshore piece is expected to
+decline. Important centers in India are Bangalore, Hyderabad, Mumbai, Pune,
+Chennai and New Delhi.
+
+The top five Indian BPO exporters for 2006-2007 according to NASSCOM are
+Genpact, WNS Global Services, Transworks Information Services, IBM Daksh, and
+TCS BPO.[3]
+
+According to McKinsey, the global "addressable" BPO market is worth $122 -
+$154 billion, of which: 35-40 retail banking, 25-35 insurance, 10-12
+travel/hospitality, 10-12 auto, 8-10 telecoms, 8 pharma, 10-15 others and
+20-25 is finance, accounting and HR. Moreover, they estimate that 8% of that
+capacity was utilized as of 2006.
+
+## [edit] BPO increasing the flexibility of organizations
+
+One of the most important advantages of BPO is the way in which it helps to
+increase a companyâs flexibility. However, several sources have different
+ways in which they perceive organizational flexibility. Therefore business
+process outsourcing enhances the flexibility of an organization in different
+ways.
+
+Most services provided by BPO vendors are offered on a fee-for-service basis.
+This helps a company becoming more flexible by transforming fixed into
+variable costs.[4] A variable cost structure helps a company responding to
+changes in required capacity and does not requisite a company in investing in
+assets and hereby making the company more flexible.[5] Outsourcing may provide
+a firm with increased flexibility in its resource management and reduce
+response times to major environmental changes.
+
+Another way in which BPO contributes to a companyâs flexibility is that a
+company is able to focus on its core competencies, without being burdened by
+the demands of bureaucratic dictate.[6] Key employees are herewith released
+from performing non-core or administrative processes and can invest more time
+and energy in building the firmâs core businesses.[7] The key in this lies
+in knowing which of the main value drivers to focus on â customer intimacy,
+product leadership, or operational excellence. Focusing on one of these
+drivers may help a company create a competitive edge.[8]
+
+A third way in which BPO increases organizational flexibility is by increasing
+the speed of business processes. Using techniques such as linear programming
+is a way to reduce cycle time and inventory levels, which reduces a
+companyâs slack. Supply chain management with the effective use of supply
+chain partners and business process outsourcing increases the speed of several
+business processes, such as the throughput in the case of a manufacturing
+company.[9]
+
+Finally, flexibility is seen as a stage in the organizational life cycle. BPO
+helped to transform Nortel from a bureaucratic organization into a very agile
+organization. A company can hereby help maintaining ambitious growth goals,
+which do not fit with regular incumbent strategies.[10] BPO therefore allows
+firms to retain their entrepreneurial speed and agility, which they would
+otherwise sacrifice in order to become efficient as they greatly expanded. It
+avoids a premature internal transition from its informal entrepreneurial phase
+to a more bureaucratic mode of operation.[11]
+
+Although the above-mentioned arguments favor the view that BPO increases the
+flexibility of organizations, management needs to be careful with the
+implementation of it. Some tends to change their attitudes, personalities and
+character on how the way they talk to other clients. Although BPO has many
+potential advantages there are a few stumbling blocks, which could counter
+these advantages. Among problems, which arise in practice are: A failure to
+meet service levels, unclear contractual issues, changing requirements and
+unforeseen charges. When BPO does not work out as planned the company might
+well experience the way in which BPO makes a company very dependent on a
+vendor and therefore very inflexible. Consequently, these challenges need to
+be considered before a company decides to engage in business process
+outsourcing[12]
+
+## [edit] Threats
+
+Risk is the major drawback with Business Process Outsourcing. Outsourcing of
+an Information System, for example, can cause security risks both from a
+communication and from a privacy perspective. From a knowledge perspective, a
+changing attitude in employees, underestimation of running costs and the major
+risk of losing independence, outsourcing leads to a different relationship
+between an organization and its contractor.[13][14]
+
+Risks and threats of outsourcing must therefore be managed, to achieve any
+benefits. In order to manage outsourcing in a structured way, maximizing
+positive outcome, and minimizing risks and avoiding any threats, a Business
+Continuity Management (BCM) model is setup. BCM consists of a set of steps, to
+successfully identify, manage and control that business processes that are, or
+can be outsourced.[15]  
+Another framework, more focused on the identification process of potential
+outsourceable Information Systems, identified as AHP, is explained.[16]  
+L. Willcocks, M. Lacity and G. Fitzgerald identify several contracting
+problems companies face, ranging from unclear contract formatting, to a lack
+of understanding of technical IT- processes.[17]
+
+## [edit] References
+
+  1. ^ Tas, J. & Sunder, S. 2004, Financial Services Business Process Outscourcing, Communications of the ACM, Vol 47, No. 5
+  2. ^ Cover Story
+  3. ^ NASSCOM Announces Top-15 ITES-BPO Exporters Rankings for FY 06-07
+  4. ^ Willcocks, L., Hindle, J., Feeny, D. & Lacity, M. 2004, IT and Business Process Outsourcing: The Knowledge Potential, Information Systems Management, Vol. 21, pp 7â15
+  5. ^ Gilley, K.M., Rasheed, A. 2000. Making More by Doing Less: An Analysis of Outsourcing and its Effects on Firm Performance. Journal of Management, 26 (4): 763-790.
+  6. ^ Kakabadse, A., Kakabadse. N. 2002. Trends in Outsourcing: Contrasting USA and Europe. European Management Journal Vol. 20, No. 2: 189â198
+  7. ^ Weerakkody, Vishanth, Currie, L. Wendy and Ekanayake, Yamaya. 2003. Re-engineering business processes through application service providers - challenges, issues and complexities. Business Process Management Journal Vol. 9 No. 6: 776-794
+  8. ^ Leavy, B. 2004. Outsourcing strategies: opportunities and risk. Strategy and Leadership, 32 (6) : 20-25.
+  9. ^ Tas, Jeroen, Sunder, Shyam. 2004. Financial Services Business Process Outsourcing. COMMUNICATIONS OF THE ACM Vol. 47, No. 5
+  10. ^ Fischer, L.M. 2001. From vertical to Virtual; How Nortelâs Supplier Alliances Extend the enterprise [online]. Strategy+Business, Available from http://www.strategy-business.com/press/16635507/11153 [Accessed 5 February 2008]
+  11. ^ (Leavy 2004, 20-25)
+  12. ^ Michel, Vaughan, Fitzgerald, Guy. 1997. The IT outsourcing market place: vendors and their selection. Journal of Information Technology 12: 223-237
+  13. ^ Bunmi Cynthia Adeleye, Fenio Annansingh and Miguel Baptista Nunes. "Risk management practices in IS outsourcing: an investigation into commercial banks in Nigeria", International Journal of Information Management 24 (2004): 167-180.
+  14. ^ K. Altinkemer, A. Chaturvedi and R. Gulati. "Information systems outsourcing: Issues and evidence", International Journal of Information Management 14- 4 (1994): 252- 268.
+  15. ^ Forbes Gibb, and Steven Buchanan. "A framework for business continuity management", International Journal of Information Management 26- 2 (2006): 128- 141.
+  16. ^ Chyan Yang and Jen-Bor Huang. "A decision model for IS outsourcing", International Journal of Information Management 20- 3 (2000): 225- 239.
+  17. ^ L. Willcocks, M. Lacity and G. Fitzgerald. "Information technology outsourcing in Europe and the USA: Assessment issues", International Journal of Information Management 15- 5 (1995): 333- 351.
+
+## [edit] See also
+
+  * Outsourcing
+  * Offshoring
+  * Nearshoring
+  * Homeshoring
+  * Globalization
+  * List of call centre companies
+  * Recruitment
+  * Recruitment Process Outsourcing
+  * Software testing outsourcing
+  * BPO security
+  * Business process outsourcing in India
+  * Business process outsourcing in the Philippines
+  * Website Management Outsourcing
+  * Captive service
+  * Offshoring Research Network
+  * Legal outsourcing
+
+## [edit] External links
+
+  * Report on Business Process Outsourcing (BPO)
+
+Retrieved from "http://en.wikipedia.org/wiki/Business_process_outsourcing"
+
+Categories: Business process | Business terms | Information technology
+management
+
+Hidden categories: Wikipedia articles needing style editing from December 2008
+| All articles needing style editing | Articles with weasel words from
+December 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * æ¥æ¬èª
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 15:29 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,324 @@
+
+# CPU socket
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article or section has multiple issues. Please help improve the article
+or discuss these issues on the talk page.
+
+  * It may be confusing or unclear for some readers. Tagged since March 2009.  
+
+  * It needs to be expanded. Tagged since March 2009.  
+
+  * It may need copy editing for grammar, style, cohesion, tone or spelling. Tagged since March 2009.  
+
+  * It may require general cleanup to meet Wikipedia's quality standards. Tagged since March 2009.  
+
+  * Its introduction may need to be rewritten to comply with Wikipedia's lead section guidelines. Tagged since March 2009.
+
+  
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it has insufficient inline citations. Please help to
+improve this article by introducing more precise citations where appropriate.
+(March 2009)  
+<IMG>
+
+<IMG>
+
+The Socket 370 processor socket, a ZIF type PGA socket
+
+<IMG>
+
+<IMG>
+
+Socket A (also known as Socket 462)
+
+<IMG>
+
+This article is in need of attention from an expert on the subject.
+WikiProject Computing or the Computing Portal may be able to help recruit one.
+(March 2009)  
+A CPU socket or CPU slot is a connector on a motherboard that accepts a CPU
+and forms an electrical interface with it. As of 2007, most desktop and server
+computers, particularly those based on the Intel x86 architecture, include
+socketed processors.
+
+Most CPU-sockets interfaces are based on the pin grid array (PGA)
+architecture, in which short, stiff pins on the underside of the processor
+package mate with holes in the socket. To minimize the risk of bent pins, zero
+insertion force (ZIF) sockets allow the processor to be inserted without any
+resistance, then grip the pins firmly to ensure a reliable contact after a
+lever is flipped.
+
+As of 2007[update], land grid array (LGA) sockets are becoming increasingly
+popular, with several current and upcoming socket designs using this scheme.
+With LGA sockets, the socket contains pins that make contact with pads or
+lands on the bottom of the processor package. While not popular for many
+years, LGAs are not new; the Intel 80286 (introduced ca. 1983) was offered in
+a ceramic LGA version.
+
+In the late 1990s, many x86 processors fit into slots, rather than sockets.
+CPU slots are single-edged connectors similar to expansion slots, into which a
+PCB holding a processor is inserted. Slotted CPU packages offered two
+advantages: L2 cache memory could be upgraded by installing an additional chip
+onto the processor PCB, and processor insertion and removal was often easier.
+
+## Contents
+
+  * 1 List of sockets and slots
+    * 1.1 Early sockets
+    * 1.2 AMD
+      * 1.2.1 Desktop
+      * 1.2.2 Mobile
+      * 1.2.3 Server
+    * 1.3 Intel
+      * 1.3.1 Desktop
+      * 1.3.2 Mobile
+      * 1.3.3 Server
+    * 1.4 Others
+  * 2 Notes and References
+  * 3 See also
+  * 4 External links
+
+  
+## [edit] List of sockets and slots
+
+Many socket names containing three-digit numbers represent the number of pins
+on the processor or socket.
+
+### [edit] Early sockets
+
+Prior to Intel's introduction of the proprietary Slot 1 in 1997, CPU sockets
+were de facto open standards and were often used by multiple manufacturers.[1]
+
+  * DIP socket (40 contacts) - Intel 8086, Intel 8088
+  * PLCC socket (68 contacts) - Intel 80186[2] [3]
+  * PLCC socket - Intel 80286
+  * PLCC socket - Intel 80386
+  * Socket 1 \- 80486
+  * Socket 2 \- 80486
+  * Socket 3 \- 80486 (3.3 V and 5 V) and compatibles
+  * Socket 4 \- Intel Pentium 60/66 MHz
+  * Socket 5 \- Intel Pentium 75-133 MHz; AMD K5; IDT WinChip C6, WinChip 2
+  * Socket 6 \- Designed for the 80486, but little used
+  * Socket 7 \- Intel Pentium, Pentium MMX; AMD K6; some Cyrix CPUs
+
+### [edit] AMD
+
+#### [edit] Desktop
+
+  * Super Socket 7 \- AMD K6-2, AMD K6-III; Rise mP6.
+  * Slot A \- AMD Athlon
+  * Socket A (also known as "Socket 462", 462-contact PGA) - AMD socket supporting Athlon, Duron, Athlon XP, Athlon XP-M, Athlon MP, Sempron, and Geode processors.
+  * Socket 754 (754-contact PGA) - AMD single-processor socket featuring single-channel DDR-SDRAM. Supports AMD Athlon 64, Sempron, Turion 64 processors.
+  * Socket 939 (939-contact PGA) - AMD single-processor socket featuring dual-channel DDR-SDRAM. Supports Athlon 64, Athlon 64 FX to 1 GHz[4], Athlon 64 X2 to 4800+, Opteron 100-series processors . Superseded by Socket AM2 about 2 years after launch.
+  * Socket 940 (940-contact PGA) - AMD single and multi-processor socket featuring registered (ECC) DDR-SDRAM. Intended for Opteron servers, but also used for "SledgeHammer" series Athlon 64 FX processors .
+  * Socket AM2 (940-contact PGA) - AMD single-processor socket featuring DDR2-SDRAM. Replaces Socket 754 and Socket 939[4] (some confused Socket AM2 with "Socket 940" for server processors). Supports Athlon 64, Athlon 64 X2, Athlon 64 FX, Opteron, Sempron and Phenom processors.
+  * Socket AM2+ (940-contact PGA) - AMD socket for single processor systems. Features support for DDR2 and HyperTransport 3 with separated power lanes. (Replaces Socket AM2 , electrically compatible with Socket AM2). Supports Athlon 64, Athlon 64 X2, Athlon 64 FX, Opteron, and Phenom processors.
+  * Socket AM3 (938-contact PGA) - AMD socket for single processor systems. Features support for DDR3 and HyperTransport 3 with separated power lanes. Replaces Socket AM2+ with support for DDR3-SDRAM.
+
+#### [edit] Mobile
+
+  * Socket 563 \- AMD low-power mobile Athlon XP-M (563-contact Âµ-PGA, mostly mobile parts).
+  * Socket 754
+  * Socket S1 \- AMD socket for mobile platforms featuring DDR2-SDRAM. Replaces Socket 754 for mobile processors (638-contact PGA).
+  * Socket FS1 \- future Fusion processors for notebook market with CPU and GPU functionality (codenamed Swift), supporting DDR3 SDRAM, to be released in 2009.
+
+#### [edit] Server
+
+  * Socket 940 \- AMD single and multi-processor socket featuring DDR-SDRAM. Supports AMD Opteron[4] (2xx and 8xx Series), Athlon 64 FX processors (940-contact PGA).
+  * Socket A
+  * Socket F (also known as "Socket 1207") - AMD multi-processor socket featuring DDR2-SDRAM. Supports AMD Opteron[4](2xxx and 8xxx Series) and Athlon 64 FX processors. Replaces Socket 940 (LGA 1207-contact), and partially compatible with Socket F+.
+  * Socket F+ \- Future AMD multi-processor socket featuring higher speed HyperTransport interconnect of up to 2.6 GHz. Replacing Socket F but socket F processors remained supported for backward compatibility.
+  * Future processor which is in development under the Fusion project codename, will employ Socket FS1 and two other sockets.
+  * Socket G34 \- successor to socket F+, originally planned as Socket G3 paired with Socket G3 Memory Extender for servers to expand memory.
+
+### [edit] Intel
+
+#### [edit] Desktop
+
+  * Slot 1 \- Intel Celeron, Pentium II, Pentium III
+  * Socket 370 \- Intel Pentium III, Celeron; Cyrix III; VIA C3
+  * Socket 423 \- Intel Pentium 4[5] and Celeron processors (Willamette core)
+  * Socket 478 \- Intel Pentium 4, Celeron, Celeron D, Pentium 4 Extreme Edition[5], Pentium M
+  * Socket N (Northwood, Prescott, and Willamette cores)
+  * Socket B (LGA 1366 [6]) - a new socket for Intel CPUs incorporating the integrated memory controller and Intel QuickPath Interconnect. Core i7 ,(Bloomfield) ,(Nehalem)
+  * Socket T (also known as Socket 775 or LGA 775) - Intel Pentium 4, Pentium D, Celeron D, Pentium Extreme Edition, Core 2 Duo, Core 2 Extreme, Celeron[5], Xeon 3000 series, Core 2 Quad (Northwood, Prescott, Conroe, Kentsfield, Cedar Mill , Wolfdale and Yorkfield cores)
+
+#### [edit] Mobile
+
+  * Socket 441 \- Intel Atom
+  * Socket 479 \- Intel Pentium M and Celeron M (Banias and Dothan cores)
+  * Socket 495 \- Also known as PPGA-B495, used for Mobile P3 Coppermine and Celerons [7]
+  * Socket M \- Intel Core Solo, Intel Core Duo and Intel Core 2 Duo (A little part of Merom Cores and all Yohan Cores)
+  * Micro-FCBGA \- Intel Mobile Celeron, Core 2 Duo (mobile), Core Duo, Core Solo, Celeron M, Pentium III (mobile), Mobile Celeron
+  * Socket P \- Intel-based; replaces Socket 479 and Socket M. Released May 9, 2007. (Merom and Penryn Cores)
+
+#### [edit] Server
+
+  * Socket 8 \- Intel Pentium Pro
+  * Slot 2 \- Intel Pentium II Xeon, Pentium III Xeon
+  * Socket 603 \- Intel Xeon (Northwood and Willamette cores)
+  * Socket 604 \- Intel Xeon
+  * PAC418 \- Intel Itanium
+  * PAC611 \- Intel Itanium 2, HP PA-RISC 8800 and 8900
+  * Socket J (also known as Socket 771 or LGA 771) - Intel Xeon (Woodcrest core)
+  * Socket N \- Intel Dual-Core Xeon LV
+
+### [edit] Others
+
+  * Socket 463 (also known as Socket NexGen) - NexGen Nx586
+  * Socket 499 \- Alpha 21164
+  * Slot B \- Alpha 21264
+  * Slotkets \- adapters for using socket processors in bus-compatible slot motherboards
+
+## [edit] Notes and References
+
+  1. ^ Plotkin, Hal (1998-12-07). "The socket wars: how Intel is giving R&D a bad name". SFGate. http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/1998/12/07/socket.DTL. Retrieved on 14 January 2009.
+  2. ^ "Intel 80186 12 MHz processor". http://www.ciao.se/Intel_80186_12_MHz_processor__5790. (Swedish)
+  3. ^ "Przegla;d rozwia;zan' sprze;towych platformy X86". http://www.mwiacek.com/pc.pl/x86/x86.htm#4.2.80286/80287%20Socket%20%2880286/80287%29%7Coutline. (Polish)
+  4. ^ a b c d These sockets are for CPUs with integrated memory controllers. The 754-pin models have a single memory channel routed through the CPU pins. The 939-pin models have two memory channels, hence the higher pin count. The 940-pin CPUs also have two memory channels but they require registered memory, and most have support for SMP. Sockets F and AM2 are redesigned to support DDR2. The Socket F contains 1207 pins (Added pins speculated to be for more scalability and better power distribution). Socket AM2 has 940 pin-holes but does not support current AMD Opteron processors.
+  5. ^ a b c The 478 pin socket was introduced because it uses a micro-PGA layout which is physically smaller than the socket 423. Socket 775 was introduced with support for PCI express, DDR2 memory and Intel 64 (Intel's implementation of x86-64), but also moved to the new Land Grid Array physical layout, where the pins are in the socket rather than on the CPU package, for better electrical performance.
+  6. ^ Fudzilla report, retrieved October 23, 2007
+  7. ^ http://download.intel.com/design/mobile/applnots/24528401.pdf
+
+## [edit] See also
+
+  * List of Intel microprocessors
+  * List of AMD microprocessors
+
+## [edit] External links
+
+  * CPU Sockets Chart \- A fairly detailed table listing x86 Sockets and associated attributes.
+  * techPowerUp! CPU Database
+  * Processor sockets
+
+Sister project Wikimedia Commons has media related to: CPU sockets  
+v â¢ d â¢ e
+
+Early CPU sockets  
+DIP â¢ PLCC â¢ Socket 1 â¢ Socket 2 â¢ Socket 3 â¢ Socket 4 â¢ Socket 5
+â¢ Socket 6 â¢ Socket 7  
+v â¢ d â¢ e
+
+Intel CPU sockets and slots  
+Desktop sockets
+
+Slot 1 â¢ Socket 370 â¢ Socket 423 â¢ Socket 478 â¢ Socket N â¢ Socket T
+â¢ Socket H â¢ Socket B  
+Mobile sockets
+
+Socket 441 â¢ Socket 479 â¢ Socket 495 â¢ Socket M â¢ Socket P  
+Server sockets
+
+Socket 8 â¢ Slot 2 â¢ Socket 603 â¢ Socket 604 â¢ PAC418 â¢ PAC611 â¢
+Socket J â¢ Socket N â¢ Socket B  
+v â¢ d â¢ e
+
+AMD CPU sockets  
+Desktop sockets
+
+Super Socket 7 â¢ Slot A â¢ Socket A â¢ Socket 754 â¢ Socket 939 â¢
+Socket 940 â¢ Socket AM2 â¢ Socket F â¢ Socket AM2+ â¢ Socket F+ â¢
+Socket AM3  
+Mobile sockets
+
+Socket A â¢ Socket 563 â¢ Socket 754 â¢ Socket S1 â¢ Socket FS1  
+Server sockets
+
+Socket A â¢ Socket 940 â¢ Socket F â¢ Socket F+ â¢ Socket G3 (cancelled)
+â¢ Socket G34  
+Retrieved from "http://en.wikipedia.org/wiki/CPU_socket"
+
+Categories: CPU sockets
+
+Hidden categories: Wikipedia articles needing clarification from March 2009 |
+Articles to be expanded since March 2009 | All articles to be expanded |
+Wikipedia articles needing copy edit from March 2009 | All articles needing
+copy edit | Cleanup from March 2009 | All pages needing cleanup | Articles
+lacking in-text citations | Computing articles needing expert attention |
+Articles needing expert attention since March 2009 | Articles containing
+potentially dated statements from 2007 | All articles containing potentially
+dated statements
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * LatvieÅ¡u
+  * Magyar
+  * ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+  * æ¥æ¬èª
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ø§Ø±Ø¯Ù
+  * ç²µèª
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 4 April 2009, at 17:54.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

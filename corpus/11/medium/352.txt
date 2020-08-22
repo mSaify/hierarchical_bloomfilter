@@ -1,0 +1,258 @@
+
+# Fixed income
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it lacks inline citations. Please improve this article
+by introducing more precise citations where appropriate. (July 2008)  
+Financial markets  
+Bond market  
+Fixed income  
+Corporate bond  
+Government bond  
+Municipal bond  
+Bond valuation  
+High-yield debt  
+  
+Stock market  
+Stock  
+Preferred stock  
+Common stock  
+Registered share  
+Voting share  
+Stock exchange  
+  
+Foreign exchange market  
+  
+Derivatives market  
+Credit derivative  
+Hybrid security  
+Options  
+Futures  
+Forwards  
+Swaps  
+  
+Other Markets  
+Commodity market  
+Money market  
+OTC market  
+Real estate market  
+Spot market  
+
+* * *  
+Finance series  
+Financial market  
+Financial market participants  
+Corporate finance  
+Personal finance  
+Public finance  
+Banks and Banking  
+Financial regulation  
+  
+v â¢ d â¢ e  
+Fixed income refers to any type of investment that yields a regular (or fixed)
+return.
+
+For example, if you lend money to a borrower and the borrower has to pay
+interest once a month, you have been issued a fixed-income security. When a
+company does this, it is often called a bond or corporate bank debt (although
+"preferred stock" is also sometimes considered to be fixed income). Sometimes
+people misspeak when they talk about fixed income. Bonds actually have higher
+risk, while notes and bills have less risk because these are issued by
+government agencies.
+
+The term fixed income is also applied to a person's income that does not vary
+with each period. This can include income derived from fixed-income
+investments such as bonds and preferred stocks or pensions that guarantee a
+fixed income. When pensioners or retirees are dependent on their pension as
+their dominant source of income, the term "fixed income" can also carry the
+implication that they have relatively limited discretionary income or have
+little financial freedom to make large expenditures.
+
+Fixed-income securities can be contrasted with variable return securities such
+as stocks. To understand the difference between stocks and bonds, you have to
+understand a company's motivation. A company wants to raise money, and it
+doesn't want to wait until it has earned enough through ongoing operations
+(selling products or providing services). In order for a company to grow as a
+business, it often must raise money; to finance an acquisition, buy equipment
+or land or invest in new product development. Investors will only give money
+to the company if they believe that they will be given something in return
+commensurate with the risk profile of the company. The company can either
+pledge a part of itself, by giving equity in the company (stock), or the
+company can give a promise to pay regular interest and repay principal on the
+loan (bond or bank loan) or (preferred stock).
+
+While a bond is simply a promise to pay interest on borrowed money, there is
+some important terminology used by the fixed-income industry:
+
+  * The issuer is the entity (company or govt.) who borrows an amount of money (issuing the bond) and pays the interest.
+  * The principal (of a bond) is the amount that the issuer borrows.
+  * The coupon (of a bond) is the interest that the issuer must pay.
+  * The maturity is the end of the bond, the date that the issuer must return the principal.
+  * The issue is another term for the bond itself.
+  * The indenture is the contract that states all of the terms of the bond.
+
+People who invest in fixed-income securities are typically looking for a
+constant and secure return on their investment. For example, a retired person
+might like to receive a regular dependable payment to live on, but not consume
+principal. This person can buy a bond with their money, and use the coupon
+payment (the interest) as that regular dependable payment. When the bond
+matures or is refinanced, the person will have their money returned to them.
+
+Interest rates change over time, based on a variety of factors, particularly
+rates set by the Federal Reserve. For example, if a company wants to raise $1
+million and not a lot of people in the market have free cash to lend, the
+company will have to offer a high rate of interest (coupon) to get people to
+buy their bond. If there are a lot of people in the market trying to get a
+return on their money, the company can offer a lower coupon.
+
+To complicate matters further, fixed income securities are actually traded on
+the open market, just like stocks. To understand this, first realize that
+bonds are usually created in round face values, for example $100,000. If the
+current yield (interest rate) of newly issued similar bonds is 6% per year,
+and you are buying a bond with a coupon rate below 6%, then you can get the
+bond at a discount (below face value of $100,000), which brings your rate of
+return on that bond to 6%. Similarly, if the coupon rate of the bond you are
+buying is greater than 6% you will have to pay a premium for the bond to bring
+the rate of return down to 6%.
+
+There are also index-linked, fixed-income securities. The most common and an
+example of the highest rated variety of this kind could include Treasury
+Inflation Protected Securities (TIPS). This type of fixed income is adjusted
+to the Consumer Price Index for all urban consumers (CPI-U), and then a real
+yield is applied to the adjusted principal. This means that the US Treasury
+issues fixed income that is backed by the full faith and credit of the US
+government to outperform the CPI (e.g. to outperform the inflation rate). This
+allows investors of all sizes to not lose the purchasing power of their money
+due to inflation, which can be very uncertain at times. For example, assuming
+3.88% inflation over the course of 1 year (just about the 56 year average
+inflation rate, through most of 2006), and a real yield of 2.61% (the fixed US
+Treasury real yield on October 19, 2006, for a 5 yr TIPS), the adjusted
+principal of the fixed income would rise from 100 to 103.88 and then the real
+yield would be applied to the adjusted principal, meaning 103.88 x 1.0261,
+which equals 106.5913; giving a total return of 6.5913%. TIPS moderately
+outperform conventional US Treasuries, which yield just 5.05% for a 1 yr bill
+on October 19, 2006. By investing in such fixed income, index linked fixed
+income securities, consumers can exceed the pace of inflation, and gain value
+in real terms.
+
+All fixed income securities from any entity have risks including but not
+limited to:
+
+  * inflationary risk
+  * interest rate risk
+  * currency risk
+  * default risk
+  * repayment of principal risk
+  * reinvestment risk
+  * liquidity risk
+  * maturity risk
+  * streaming income payment risk
+  * duration risk
+  * convexity risk
+  * credit quality risk
+  * political risk
+  * tax adjustment risk
+  * market risk
+  * climate risk
+
+## [edit] External links
+
+  * Fixed income explained in clear terms
+
+v â¢ d â¢ e
+
+Bond market  
+Bond Â· Debenture Â· Fixed income  
+Types of bonds by issuer
+
+Agency bond Â· Corporate bond (Senior debt, Subordinated debt) Â· Distressed
+debt Â· Emerging market debt Â· Government bond Â· Municipal bond Â· Sovereign
+bond  
+Types of bonds by payout
+
+Accrual bond Â· Auction rate security Â· Callable bond Â· Commercial paper Â·
+Convertible bond Â· Exchangeable bond Â· Fixed rate bond Â· Floating rate note
+Â· High-yield debt Â· Inflation-indexed bond Â· Inverse floating rate note Â·
+Perpetual bond Â· Puttable bond Â· Reverse convertible Â· Zero-coupon bond  
+Securitized Products
+
+Asset-backed security Â· Collateralized debt obligation Â· Collateralized
+mortgage obligation Â· Commercial mortgage-backed security Â· Mortgage-backed
+security  
+Commercial Mortgage Securities Association (CMSA) Â· International Capital
+Market Association (ICMA) Â· Securities Industry and Financial Markets
+Association (SIFMA)  
+Retrieved from "http://en.wikipedia.org/wiki/Fixed_income"
+
+Categories: Fixed income market
+
+Hidden categories: Articles lacking in-text citations from July 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * EspaÃ±ol
+  * à¹à¸à¸¢
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 April 2009, at 19:30 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

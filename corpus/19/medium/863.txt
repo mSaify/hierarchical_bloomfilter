@@ -1,0 +1,324 @@
+
+# XeroBank Browser
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+xB Browser <IMG>  
+<IMG>
+
+  
+xB Browser 2.0.0.12b  
+Developed by Xero Networks AG & Steve Topletz  
+Latest release 2.0.0.18a  
+Operating system Windows  
+Type Web browser  
+License Torrify Ethical Software Licensing Agreement  
+Website xerobank.com  
+Mozilla Firefox  
+(category)  
+  
+Contents  
+  * Firefox 2
+  * Firefox 3
+  * Firefox History
+  * Firefox Features
+  * Gecko
+  * Add-ons
+  * Firefox Market adoption
+
+  
+Origins and Lineage  
+  * Netscape Navigator
+  * Mozilla Foundation
+  * Mozilla Suite
+
+  
+This box: view â¢ talk â¢ edit  
+xB Browser is an anonymous web browser designed to run on both the Tor and
+XeroBank anonymity networks, and is available as component of the XeroBank
+Installer. xB Browser was previously called Torpark,[1][2] and is released
+under a license[3] that restricts usage by malware and commercial interests.
+xB Browser was originally forked from Portable Firefox web browser with Tor
+access built into it, but was redesigned from scratch in 2007. It is designed
+for use on portable media such as a USB flash drive but it can also be used on
+any hard disk drive. As such, a secure and encrypted connection to any of the
+Tor or XeroBank routers can be created from any computer with a suitable
+internet connection, and the browser clears all data that was created on the
+portable drive upon exit or on demand. The original Torpark was created by
+Steve Topletz using the Nullsoft Scriptable Install System.
+
+## Contents
+
+  * 1 Tor network
+  * 2 XeroBank network
+  * 3 Versions
+  * 4 License and Controversy
+  * 5 See also
+  * 6 External links
+  * 7 Notes and references
+
+  
+## [edit] Tor network
+
+Main article: Tor (anonymity network)
+
+xB Browser works by routing Internet traffic through several "onion" servers,
+obscuring the originating address. This does not naturally provide anonymity
+for other Internet programs, only the xB Browser. However, other applications
+data such as Pidgin can be routed through the Tor network via xB Browser by
+directing the applications traffic to a SOCKS proxy at localhost, port 9050\.
+This port can be changed via xB Config, an INI generator for xB Browser
+located in its `App/` directory. For a more complete explanation of the
+functioning of the system, see Tor.
+
+Reading the Tor documentation is highly recommended to prevent configuration
+mistakes that could compromise the user's anonymity. xB Browser is
+preconfigured, and the settings, especially within the browser, should not be
+modified unless done by an expert familiar with onion routing, and the
+workings of xB Browser itself.
+
+## [edit] XeroBank network
+
+xB Browser is optimized for use on the XeroBank anonymity network, which is a
+private and commercial broadband network operated by Xero Networks AG. The
+XeroBank network routes traffic through at least two multi-jurisdictional
+hops. In contrast to Tor, the XeroBank network is immune to 3rd-party traffic
+injection, supports both TCP and UDP protocols, and performs channel
+multiplexing for low observability, however it is run by a single entity. The
+XeroBank network is accessible via SSH and OpenVPN protocols. xB Browser
+internally manages a SSH connection to XeroBank, but will recognize and submit
+to OpenVPN connections.
+
+## [edit] Versions
+
+Steve Topletz co-released Torpark v.1.5.0.7 with CULT OF THE DEAD
+COW/Hacktivismo on 19 September 2006.[4][5][6]
+
+The current version of the xB Browser is 2.0.0.17b
+
+xB Browser is natively available for Microsoft Windows, but also runs on Linux
+under WINE. A cross-compatible version is being developed based on xB Machine,
+due to be available in August 2008.
+
+## [edit] License and Controversy
+
+xB Browser is released under the Torrify Ethical Software License Agreement,
+or TESLA for short. This license is derived from the Hacktivismo Enhanced-
+Source Software License Agreement, which is employed by Hacktivismo. This type
+of license states that private use is unlimited, like GPL. Unlike GPL, it also
+prohibits modification of xB Browser for commercial profit.
+
+On January 30, 2009, John T. Haller posted to the PortableApps.com website
+that XeroBank is violating the GPL.[7] The original TorPark browser was based
+on the code to Portable Firefox, released under the GPL, and he assisted with
+the creation of the original TorPark browser launcher, also licensed under the
+GPL. The change to the TESLA license was done without his permission and the
+current XeroBank browser that grew out of his original GPL code still contains
+some elements of his code. Haller announced his intention of reposting the
+source under the GPL on a new SourceForge project and involving the Free
+Software Foundation and the GPL Violations project if further clarifications
+are needed.
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * Tor (anonymity network)
+  * Portable Firefox
+  * Portable Tor
+  * OperaTor
+
+## [edit] External links
+
+  * XeroBank official website, XeroBank.com
+  * xB Machine, a fully visualized OS utilizing Tor and XeroBank network access
+  * Anyone tried XeroBank?, an extensive discussion on xB Browser and the XeroBank network
+
+## [edit] Notes and references
+
+  1. ^ "What happened to Torrify?". XeroBank. http://xerobank.com/torrify.html. Retrieved on 2007-06-07.
+  2. ^ The name Torpark is a reference to the development codename for Firefox 1.5, "Deer Park".
+  3. ^ "The Torrify Ethical Software License Agreement". http://xerobank.com/tesla.php. Retrieved on 2008-06-15.
+  4. ^ "Hacktivismo Releases Torpark for Anonymous, Portable Web Browsing". 2006-09-19. http://www.prweb.com/releases/2006/9/prweb438978.htm. Retrieved on 2007-04-18.
+  5. ^ "Free anonymising browser debuts". BBC News. 2006-09-20. http://news.bbc.co.uk/1/hi/technology/5363230.stm. Retrieved on 2007-04-18.
+  6. ^ Broersma, Mathew (2006-09-22). "Activists unveil stealth browser" (News). http://news.zdnet.com/2100-9588_22-6118547.html. Retrieved on 2007-04-18.
+  7. ^ "GPL Violations in XeroBank Browser". PortableApps.com. http://portableapps.com/node/17820. Retrieved on 2009-01-30.
+
+v â¢ d â¢ e
+
+Gopher  
+Active clients
+
+Arachne Â· AT&T Pogo Â· Camino Â· Conkeror Â· ELinks Â· Epiphany Â· Fennec Â·
+Flock Â· Galeon Â· Gnuzilla Â· K-Meleon Â· K-Ninja Â· Kazehakase Â· Lynx Â·
+Mothra Â· Mozilla Firefox 3 Â· OmniWeb Â· SeaMonkey Â· Skipstone Â· Sleipnir
+Â· Songbird Â· Overbite (Firefox extension) Â· VMS Mosaic Â· W3m Â· XeroBank
+Browser  
+Discontinued clients
+
+Argo Â· Beonex Communicator Â· Cello Â· Cyberjack Â· DocZilla Â· IBrowse Â·
+Internet Explorer 2, 3, 4, 5, for Mac Â· Libwww Line-mode Â· Madfox Â· Minimo
+Â· Minuet Â· Mosaic Â· Mozilla Application Suite Â· Netscape Browser Â·
+Netscape Communicator Â· Netscape Navigator 9 Â· SlipKnot  
+Server software
+
+Bucktooth Â· PyGopherd Â· Squid  
+Persons
+
+Cameron Kaiser Â· Mark P. McCahill  
+See also
+
+Gopher+ Â· GopherVR Â· Jughead Â· Phlog Â· Super Dimension Fortress Â·
+Veronica Â· CCSO Nameserver Â· Wide area information server  
+v â¢ d â¢ e
+
+Web browsers (list, list for Unix, comparison, history, usage share, timeline)  
+Trident-shells
+
+AOL Explorer Â· Avant Â· Enigma Â· GreenBrowser Â· Maxthon Â· NeoPlanet Â·
+NetCaptor Â· Netscape 8 Â· Internet Explorer (4, 5, 6, 7, 8; for UNIX) Â·
+iRider Â· Runecats Explorer Â· Smart Bro Â· Sleipnir Â· Teega Â· Tencent
+Traveler Â· UltraBrowser Â· Web visions Â· WebbIE Â· Zac Browser  
+Gecko-based
+
+AT&T Pogo Â· Beonex Communicator Â· Camino Â· Conkeror Â· DocZilla Â· Epiphany
+Â· Fennec Â· Flock Â· Galeon Â· GNU IceCat Â· Gnuzilla Â· Gollum browser Â·
+K-Meleon Â· Kazehakase Â· Kirix Strata Â· Madfox Â· MicroB Â· Minimo Â·
+Mozilla Â· Mozilla Firefox Â· Netscape (6, 7, 8, 9) Â· SeaMonkey Â· Skipstone
+Â· Sleipnir Â· Swiftfox Â· Swiftweasel Â· Wyzo Â· XeroBank Browser  
+WebKit-based
+
+ABrowse Â· Arora Â· Chrome Â· Epiphany Â· iCab Â· Iris Browser Â· Midori Â·
+OmniWeb Â· S60 web browser Â· Safari Â· Shiira Â· Skipstone Â· SRWare Iron Â·
+Steel Â· Teashark  
+Presto-based
+
+Opera Â· Nintendo DS Browser Â· Internet Channel Â· Opera Mini Â· Opera Mobile  
+Java-based
+
+HotJava Â· Lobo Â· Opera Mini Â· Teashark Â· X-Smiles  
+Tasman-based
+
+Internet Explorer for Mac Â· MSN for Mac OS X  
+Text-based
+
+Alynx Â· edbrowse Â· ELinks Â· Emacs/W3 Â· Links Â· Lynx Â· Net-Tamer Â· w3m
+Â· WebbIE  
+Mobile browser
+
+Blazer Â· Deepfish Â· Fennec Â· IbisBrowser Â· Internet Explorer Mobile Â·
+Iris Browser Â· JOCA Â· MicroB Â· Minimo Â· NetFront Â· Obigo Browser Â· Opera
+Mobile Â· Pixo Â· S60 web browser Â· Safari Â· Skyfire Â· Steel Â· Teashark Â·
+ThunderHawk Â· UCWEB Â· WinWAP  
+Mobile HTML Transcoder
+
+JOCA Â· Opera Mini Â· Skyfire Â· Skweezer Â· Teashark  
+Other
+
+3B Â· abaco Â· Amaya Â· Arachne Â· Arena Â· AWeb Â· Charon Â· Chimera Â· Dillo
+Â· Gazelle Â· IBrowse Â· KidZui Â· Konqueror Â· Mothra Â· NetPositive Â·
+NetSurf Â· Oregano Â· Tkhtml Â· VMS Mosaic Â· Voyager  
+Features
+
+Ad filtering Â· Download manager Â· Favicon Â· Incremental find Â· Internet
+bookmark Â· Livemark Â· Privacy mode Â· Tabbed browsing Â· Universal edit
+button  
+Web standards
+
+3DMLW Â· Cascading Style Sheets Â· HTML Â· HTML 5 Â· XHTML  
+Related articles
+
+Browser wars Â· Site-specific browser Â· Web page Â· World Wide Web Â· Whole
+Internet User's Guide and Catalog Â· Internet suite Â· Mobile Web  
+v â¢ d â¢ e
+
+Cult of the Dead Cow  
+People
+
+Grandmaster Ratte' â¢ Oxblood Ruffin â¢ Dildog â¢ Mudge â¢ Lord Digital
+â¢ Mixter â¢ ioerror  
+Tools
+
+Back Orifice â¢ Back Orifice 2000 â¢ NBName â¢ SMBRelay â¢ XeroBank
+Browser  
+Related Articles
+
+Hacktivismo â¢ Hacktivismo Enhanced-Source Software License Agreement â¢
+Demon Roach Underground â¢ HoHoCon  
+Associated Organizations
+
+L0pht â¢ Mindvox â¢ Legion of Doom â¢ Masters of Deception â¢ YIPL/TAP â¢
+Soylent Communications â¢ Sacrament of Transition â¢ ACiD Productions â¢
+Soulz at Zero  
+Retrieved from "http://en.wikipedia.org/wiki/XeroBank_Browser"
+
+Categories: Gopher Clients | Anonymity networks | Cult of the Dead Cow
+software | Mozilla Firefox | Windows web browsers | Portable software
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Nederlands
+  * Polski
+  * Svenska
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 20 March 2009, at 10:22 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

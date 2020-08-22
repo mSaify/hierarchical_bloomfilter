@@ -1,0 +1,391 @@
+
+# Matroska
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Matroska (ÐÐ°ÑÑÑÑÐºÐ°) Image:Matroska-logo-128x128.png  
+Filename extension `.mkv .mka .mks`  
+Internet media type `video/x-matroska audio/x-matroska`  
+Developed by Matroska.org  
+Type of format Container format  
+Container for Multimedia  
+The Matroska Multimedia Container is an open standard free container format, a
+file format that can hold an unlimited number of video, audio, picture or
+subtitle tracks inside a single file.[1] It is intended to serve as a
+universal format for storing common multimedia content, like movies or TV
+shows. Matroska is similar in conception to other containers like AVI, MP4 or
+ASF, but is entirely open in specification, with implementations consisting
+mostly of open source software. Matroska file types are .MKV for video (with
+subtitles and audio), .MKA for audio-only files and .MKS for subtitles only.
+The most common use of .MKV files is to store HD video files.
+
+Matroska is an English word derived from the Russian word "matryoshka"
+(Russian: Ð¼Ð°ÑÑÑÑÐºÐ°, IPA: [mÉËtrÊ²oÊkÉ]), which means "nesting
+doll" (the common Russian egg-shaped doll within a doll). This is a play on
+the container (media within a form of media/doll within a doll) aspect of the
+matryoshka as it is a container for visual and audio data. The transliteration
+may be confusing for Russian speakers, as the Russian word "matroska"
+(Ð¼Ð°ÑÑÐ¾ÑÐºÐ°) actually refers to a sailor suit.
+
+## Contents
+
+  * 1 History
+  * 2 Goals
+  * 3 Software support
+    * 3.1 Media players
+    * 3.2 Media centers
+    * 3.3 Tools
+  * 4 Hardware support
+    * 4.1 Samsung LCD and LED TV
+    * 4.2 Zensonic
+    * 4.3 Sigma Designs
+      * 4.3.1 Sigma based hardware which supports Matroska
+    * 4.4 Cowon
+  * 5 Content in Matroska
+  * 6 License
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] History
+
+The project was announced on December 7, 2002 as a fork of the Multimedia
+Container Format (MCF), after disagreements between MCF lead developer Lasse
+KÃ¤rkkÃ¤inen and soon-to-be Matroska founder Steve Lhomme about the use of the
+Extensible Binary Meta Language (EBML) instead of a binary format. This
+coincided with a long coding break by the MCF's lead developer, during which
+most of the community quickly migrated to the new project.
+
+## [edit] Goals
+
+The use of EBML provides extendability for future format changes. The Matroska
+team has openly expressed some of their long term goals on Doom9.org and
+hydrogenaudio.org.
+
+List of Goals
+
+  * creating a modern, flexible, extensible, cross-platform multimedia container format;
+  * developing robust streaming support;
+  * developing a "DVD-like" menu system based on EBML;
+  * developing a set of tools for the creation and editing of Matroska files;
+  * developing libraries that can be used to allow developers to add Matroska support to their applications;
+  * working with hardware manufacturers to include Matroska support in embedded multimedia devices;
+  * working to provide native Matroska support in various operating systems.
+
+## [edit] Software support
+
+Listed below is software that has native Matroska support.
+
+### [edit] Media players
+
+Name OS Website  
+ALLPlayer Windows http://www.allplayer.org/  
+ALShow Windows http://www.altools.com/ALTools/ALShow.aspx  
+BS.Player Windows http://www.bsplayer.org/  
+Chameleo Cross-platform http://www.chameleo.org/  
+CorePlayer Cross-platform http://www.coreplayer.com/  
+DivX Cross-platform http://www.divx.com/  
+GOM Player Windows http://www.gomlab.com/eng/  
+Gstreamer-based Players (Totem, etc.) Cross-platform
+http://gstreamer.freedesktop.org/  
+The KMPlayer Windows http://www.kmplayer.com/  
+TotalMedia Theatre Windows http://www.arcsoft.com/products/totalmediatheatre/  
+Media Player Classic Windows http://sourceforge.net/projects/guliverkli  
+MPlayer Cross-platform http://www.mplayerhq.hu/  
+Target Longlife Media Player Windows http://targetlonglife.tk/  
+The Core Pocket Media Player Windows Mobile
+http://www.hpcfactor.com/qlink/?linkID=194  
+Totem Movie Player Unix-like http://projects.gnome.org/totem/  
+VLC media player Cross-platform http://www.videolan.org/  
+xine Cross-platform http://xinehq.de/  
+Zoom player Windows http://www.inmatrix.com/zplayer/  
+### [edit] Media centers
+
+Name OS Website  
+Boxee Cross-platform http://www.boxee.tv/  
+MediaPortal [2] Windows http://www.team-mediaportal.com/  
+MythTV Linux http://www.mythtv.org/  
+Plex Mac OS X http://plexapp.com/  
+PS3 Media Server Cross-platform http://ps3mediaserver.org/  
+XBMC Cross-platform http://xbmc.org/  
+### [edit] Tools
+
+Name OS Website  
+Avidemux Cross-platform http://www.avidemux.org/  
+FFmpeg Cross-platform http://www.ffmpeg.org/  
+HandBrake Cross-platform http://handbrake.fr/  
+MKVToolnix Cross-platform http://www.bunkus.org/videotools/mkvtoolnix/  
+VirtualDubMod Windows http://virtualdubmod.sourceforge.net/  
+VSO Software http://www.vso-software.fr/  
+Perian Quicktime Plugin for Mac OS X [3] Mac OS X http://perian.org/  
+Conceiva software Windows http://www.conceiva.com/  
+## [edit] Hardware support
+
+<IMG>
+
+This section may need to be updated. Please update this section to reflect
+recent events or newly available information, and remove this template when
+finished. Please see the talk page for more information.  
+A number of set-top boxes such as the Popcorn Hour and EGreat[4] NMT's and
+DVICO TVIX media players have stated publicly in user forums that they are
+considering or pursuing Matroska support. Some end users in these public
+forums report partial success in use with certain codecs and files. The first
+chipset to include Matroska Video support has been released by Texas
+Instruments under the name "DaVinci". It is used in the Cowon A3 portable
+media player. Although an increasing number of standalone players now support
+the AVI format, thus far Matroska support is practically nonexistent. Support
+in this area is essential for the container to achieve the degree of ubiquity
+foreseen by its proponents. There is a sort of "chicken and egg" logjam where
+the manufacturers hesitate to support it because it is not widely used, and it
+is not widely used because of very limited hardware support.
+
+### [edit] Samsung LCD and LED TV
+
+The Matroska format is supported by many new Samsung LCD and LED Televisions.
+Matroska support has been confirmed in the 2009 6 Series (LE40B650) and 7
+series (UE40B7020) range of televisions. Matroska files can be played out of
+the box on these televisions directly from USB flash drives or HDD based
+storage devices when connected to the television's USB slot.
+
+### [edit] Zensonic
+
+The Matroska homepage indicated in an April 2006 posting that playback on
+settop devices would be forthcoming starting with the release of the Zensonic
+Z500 media player, but the Zensonic company never implemented Matroska
+support. Zensonic Changed the company name to Ziova http://www.ziova.com and
+have since released the CS-615 which has Matroska support.
+
+### [edit] Sigma Designs
+
+Sigma Designs do not contain any built in support for Matroska, though some
+OEMs (such as Western Digital) do provide support in their firmware packages.
+
+#### [edit] Sigma based hardware which supports Matroska
+
+Company Model(s) Website  
+Skydigital Venice-V38 [New!!] Venice-v36 http://www.skydigital.co.kr/  
+Mediagate MG-800HD http://www.mediagateusa.com/  
+Hantech - Siso Markus-800 http://www.hantech.ca/  
+Sarotech DVP-570, DVP-260X http://www.sarotech.com/english/main/  
+PopcornHour A-100, A-110, B-110 http://www.popcornhour.com  
+Egreat EG-M31A, EG-M31B http://www.egreatworld.com  
+Kaiboer K007 official forum only http://bbs.hd-tv.cn/forum-71-1.html  
+HDX HDX900, HDX1000 http://www.hdx1080.com  
+Dune HD Ultra http://www.dune-hd.com  
+TViX M7000, M6500 http://www.dvico.com  
+iStar HD Mini (HDMI 1.1), Mini (HDMI 1.3) http://www.hdinlife.com  
+Western Digital WD TV HD http://www.wdc.com  
+Ziova Ziova CS-615 http://www.ziova.com  
+### [edit] Cowon
+
+The Cowon A3,O2 supports Matroska as well as many other formats, including the
+Ogg Vorbis and FLAC open audio formats. Aspects of the Matroska supported is
+that of multiple audio tracks. If the Matroska file has chapters or subtitles,
+then these features are not accessible, however, the movie plays as normal.
+Subtitles in the SubRip (.srt) or SAMI (.smi) format load automatically with
+the movie once the subtitles are in the same folder and has the same name as
+the movie.[5]
+
+## [edit] Content in Matroska
+
+Initially the uptake of the format was low. It was initially used almost
+exclusively for DVD rips of anime, as the container allowed the viewer to
+choose between the original language track and a dub. In recent years,
+however, Matroska has seen wider use due to the scene adopting it as a format
+of choice for high definition content ripped from HDTV and next generation
+video discs (HD DVD and Blu-ray). It usually carries H.264 video, one or more
+AC3/AAC/DTS audio tracks and sometimes one or more subtitle tracks (sometimes
+coupled with one or more embedded TrueType or OpenType font). Before H.264,
+most Matroska files from the above mentioned scene contained RealVideo (RV9,
+RV10) encoded video tracks, which at that time was slightly superior to MPEG-4
+Part 2[citation needed] (used e.g. by the DivX, Xvid and FFmpeg MPEG-4
+codecs), especially for anime material, in combination with MP3 or Vorbis
+encoded audio streams and soft-subtitles.[citation needed]
+
+## [edit] License
+
+Matroska is an open standards project. This means it is free to use, and that
+the technical specifications describing the bit stream are open to anybody,
+including companies that would like to support it in their products. The
+source code of the libraries developed by the Matroska Development Team is
+licensed under GNU LGPL. In addition to that, there are also free parsing and
+playback libraries available under the BSD license, for proprietary hardware
+and software adoption.
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * LiVES
+  * Comparison of container formats
+  * Open source codecs and containers
+  * Combined Community Codec Pack
+
+## [edit] References
+
+  1. ^ Matroska Format Specifications, Matroska.org.
+  2. ^ MediaPortal Features (01/01/2007)
+  3. ^ Perian details
+  4. ^ EGreat News on PRWeb
+  5. ^ Cowon A3 product page
+
+## [edit] External links
+
+<IMG>
+
+This article's external links may not follow Wikipedia's content policies or
+guidelines. Please improve this article by removing excessive or inappropriate
+external links.  
+  * Official Matroska Homepage
+  * Technical specifications for the Matroska Container Format
+  * Proposed RFC
+  * Matroska news page archives, with April 2006 posting of Zensonic Z500 support
+  * Zensonic forums official response of no Matroska support
+  * Sigma 8650 MPEG decoder chipset
+  * CoreCodec â Official Matroska Developer Project Home
+  * Perian (MKV) QuickTime Component For Mac
+  * Haali Media splitter
+  * Project Announcement on Doom9 forums
+  * Parser, de-/muxer and player
+  * MKVToolnix - Cross-platform tools for Matroska
+
+v â¢ d â¢ e
+
+Multimedia compression formats  
+Video compression
+
+ISO/IEC
+
+MJPEG Â· Motion JPEG 2000 Â· MPEG-1 Â· MPEG-2 Â· MPEG-4 ASP Â· MPEG-4/AVC  
+ITU-T
+
+H.120 Â· H.261 Â· H.262 Â· H.263 Â· H.264  
+Others
+
+AMV Â· AVS Â· Bink Â· Dirac Â· Indeo Â· Pixlet Â· RealVideo Â· RTVideo Â·
+SheerVideo Â· Smacker Â· Theora Â· VC-1 Â· VP6 Â· VP7 Â· VP8 Â· WMV Â· XVD  
+Audio compression
+
+ISO/IEC
+
+MPEG-1 Layer III (MP3) Â· MPEG-1 Layer II Â· MPEG-1 Layer I Â· AAC Â· HE-AAC  
+ITU-T
+
+G.711 Â· G.718 Â· G.719 Â· G.722 Â· G.722.1 Â· G.722.2 Â· G.723 Â· G.723.1 Â·
+G.726 Â· G.728 Â· G.729 Â· G.729.1 Â· G.729a  
+Others
+
+AC3 Â· AMR Â· Apple Lossless Â· ATRAC Â· FLAC Â· iLBC Â· Monkey's Audio Â· Î¼-
+law Â· Musepack Â· Nellymoser Â· OptimFROG Â· RealAudio Â· RTAudio Â· SHN Â·
+Siren Â· Speex Â· Vorbis Â· WavPack Â· WMA Â· TAK Â· True Audio  
+Image compression
+
+ISO/IEC/ITU-T
+
+JPEG Â· JPEG 2000 Â· lossless JPEG Â· JBIG Â· JBIG2 Â· PNG Â· WBMP  
+Others
+
+APNG Â· BMP Â· EXR Â· GIF Â· ICER Â· ILBM Â· MNG Â· PCX Â· PGF Â· TGA Â· TIFF
+Â· JPEG XR / HD Photo  
+Media containers
+
+General
+
+3GP Â· ASF Â· AVI Â· Bink Â· BXF Â· DMF Â· DPX Â· EVO Â· FLV Â· VVF Â·
+Matroska Â· MPEG-PS Â· MPEG-TS Â· MP4 Â· MXF Â· Ogg Â· Ogg Media Â· QuickTime
+Â· RealMedia Â· Smacker Â· RIFF Â· VOB  
+Audio only
+
+AIFF Â· AU Â· WAV  
+See Compression Methods for methods and Compression Software Implementations
+for codecs  
+Retrieved from "http://en.wikipedia.org/wiki/Matroska"
+
+Categories: Computer file formats | Container formats | Free multimedia
+codecs, containers, and splitters
+
+Hidden categories: Articles containing Russian language text | Wikipedia
+articles in need of updating | All articles with unsourced statements |
+Articles with unsourced statements since April 2008 | Wikipedia external links
+cleanup
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Interlingua
+  * Italiano
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 April 2009, at 19:37 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

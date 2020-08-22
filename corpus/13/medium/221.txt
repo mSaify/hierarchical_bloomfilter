@@ -1,0 +1,193 @@
+
+# Over-the-counter (finance)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Over-the-counter (OTC) trading is to trade financial instruments such as
+stocks, bonds, commodities or derivatives directly between two parties. It is
+contrasted with exchange trading, which occurs via facilities constructed for
+the purpose of trading (i.e., exchanges), such as futures exchanges or stock
+exchanges.
+
+## Contents
+
+  * 1 OTC-traded stocks
+    * 1.1 OTC market statistics
+  * 2 OTC contracts
+  * 3 External links
+
+  
+## [edit] OTC-traded stocks
+
+In the U.S., over-the-counter trading in stock is carried out by market makers
+that make markets in OTCBB and Pink Sheets securities using inter-dealer
+quotation services such as Pink Quote (operated by Pink OTC Markets) and the
+OTC Bulletin Board (OTCBB). OTC stocks are not usually listed or traded on any
+stock exchange, though exchange listed stocks can be traded OTC on the third
+market. Although stocks quoted on the OTCBB must comply with SEC reporting
+requirements, other OTC stocks, such as those stocks categorized as Pink
+Sheets securities, have no reporting requirements, while those stocks
+categorized as OTCQX have met alternative disclosure guidelines through Pink
+OTC Markets.
+
+The OTC market presents investment opportunities for informed investors, but
+also has a high degree of risk. Many OTC issuers are small companies with
+limited operating histories or are economically distressed. Investments in
+legitimate OTC companies can often lead to the complete loss of the
+investment. Investors should avoid the OTC market unless they can afford a
+complete loss of their investment. Investors should never purchase any
+security without first evaluating the fundamentals of the company and
+carefully reviewing the financial statements, management background and other
+data. Investors who purchase securities based on a "hot tip" or the advice of
+chat room touts may often be disappointed.
+
+### [edit] OTC market statistics
+
+Data provided by Pink Sheets:
+
+  * Securities quoted exclusively on Pink Sheets - 5,019
+  * Securities dually quoted on Pink Sheets and OTCBB - 3,445
+  * Securities quoted exclusively on OTCBB - 130
+
+Total OTC securities - 5,149[citation needed]
+
+## [edit] OTC contracts
+
+An over-the-counter contract is a bilateral contract in which two parties
+agree on how a particular trade or agreement is to be settled in the future.
+It is usually from an investment bank to its clients directly. Forwards and
+swaps are prime examples of such contracts. It is mostly done via the computer
+or the telephone. For derivatives, these agreements are usually governed by an
+International Swaps and Derivatives Association agreement.
+
+This segment of the OTC market is occasionally referred to as the "Fourth
+Market."
+
+The NYMEX has created a clearing mechanism for a slate of commonly traded OTC
+energy derivatives which allows counterparties of many bilateral OTC
+transactions to mutually agree to transfer the trade to ClearPort, the
+exchange's clearing house, thus eliminating credit and performance risk of the
+initial OTC transaction counterparts.
+
+## [edit] External links
+
+  * Over-the-counter trading - general details and investor cautions
+  * OTC Bulletin Board - Overview and History
+  * Pink Sheets LLC
+  * Comparison of exchange trading and over the counter trading
+  * OTC Stock Primer - Markets, Maker Makers, Fraud, and More
+
+v â¢ d â¢ e
+
+Stock market  
+Types of stocks
+
+Stock Â· Common stock Â· Preferred stock Â· Outstanding stock Â· Treasury
+stock Â· Authorised stock Â· Restricted stock Â· Concentrated stock Â· Golden
+share  
+Participants
+
+Investor Â· Stock trader/investor Â· Market maker Â· Floor trader Â· Floor
+broker Â· Broker-dealer  
+Exchanges
+
+Stock exchange Â· List of stock exchanges Â· Over-the-counter Â· Electronic
+Communication Network  
+Stock valuation
+
+Gordon model Â· Dividend yield Â· Earnings per share Â· Book value Â· Earnings
+yield Â· Beta Â· Alpha Â· CAPM Â· Arbitrage pricing theory  
+Financial ratios
+
+P/CF ratio Â· P/E Â· PEG Â· Price/sales ratio Â· P/B ratio Â· D/E ratio Â·
+Dividend payout ratio Â· Dividend cover Â· SGR Â· ROIC Â· ROCE Â· ROE Â· ROA
+Â· EV/EBITDA Â· RSI Â· Sharpe ratio Â· Treynor ratio Â· Cap rate  
+Trading theories
+
+Efficient market hypothesis Â· Fundamental analysis Â· Technical analysis Â·
+Modern portfolio theory Â· Post-modern portfolio theory Â· Mosaic theory  
+Related terms
+
+Dividend Â· Stock split Â· Reverse stock split Â· Growth stock Â· Speculation
+Â· Trade Â· IPO Â· Market trends Â· Short Selling Â· Momentum Â· Day trading
+Â· Swing trading Â· DuPont Model Â· Dark liquidity Â· Market depth  
+Retrieved from "http://en.wikipedia.org/wiki/Over-the-counter_(finance)"
+
+Categories: Stock market | Derivatives
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since December 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * ×¢××¨××ª
+  * Nederlands
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 1 April 2009, at 20:49.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

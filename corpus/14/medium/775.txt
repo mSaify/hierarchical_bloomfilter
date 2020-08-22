@@ -1,0 +1,250 @@
+
+# Market maker
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (December 2008)  
+Financial markets  
+Bond market  
+Fixed income  
+Corporate bond  
+Government bond  
+Municipal bond  
+Bond valuation  
+High-yield debt  
+  
+Stock market  
+Stock  
+Preferred stock  
+Common stock  
+Registered share  
+Voting share  
+Stock exchange  
+  
+Foreign exchange market  
+  
+Derivatives market  
+Credit derivative  
+Hybrid security  
+Options  
+Futures  
+Forwards  
+Swaps  
+  
+Other Markets  
+Commodity market  
+Money market  
+OTC market  
+Real estate market  
+Spot market  
+
+* * *  
+Finance series  
+Financial market  
+Financial market participants  
+Corporate finance  
+Personal finance  
+Public finance  
+Banks and Banking  
+Financial regulation  
+  
+v â¢ d â¢ e  
+A market maker is a firm that quotes both a buy and a sell price in a
+financial instrument or commodity, hoping to make a profit on the bid/offer
+spread, or turn.
+
+In foreign exchange trading, where most deals are conducted over-the-counter
+and are, therefore, completely virtual, the market maker sells to and buys
+from its clients. Hence, the client's loss and the spread is the market-maker
+firm's profit, which gets thus compensated for the effort of providing
+liquidity in a competitive market. This extra liquidity reduces transaction
+costs and therefore facilitates trades for the clients, who would otherwise
+have to accept a worse price or even not be able to trade at all. Most foreign
+exchange trading firms are market makers and so are many banks, although not
+in all currency markets.
+
+Most stock exchanges operate on a matched bargain or order driven basis. In
+such a system there are no designated or official market makers, but market
+makers nevertheless exist. When a buyer's bid meets a seller's offer or vice
+versa, the stock exchange's matching system will decide that a deal has been
+executed.
+
+In the United States, the New York Stock Exchange (NYSE) and American Stock
+Exchange (AMEX), among others, have a single exchange member, formerly known
+as specialists, and now as Designated Market Makers, who acts as the official
+market maker for a given security. In return for a) providing a required
+amount of liquidity to the security's market, b) taking the other side of
+trades when there are short-term buy-and-sell-side imbalances in customer
+orders, and c) attempting to prevent excess volatility, the specialist is
+granted various informational and trade execution advantages.
+
+Other U.S. exchanges, most prominently the NASDAQ Stock Exchange, employ
+several competing official market makers in a security. These market makers
+are required to maintain two-sided markets during exchange hours and are
+obligated to buy and sell at their displayed bids and offers. They typically
+do not receive the trading advantages a specialist does, but they do get some,
+such as the ability to naked short a stock, i.e., selling it without borrowing
+it. In most situations, only official market makers are permitted to engage in
+naked shorting.
+
+There are over two thousand market makers in the USA[1] and over a hundred in
+Canada.[2]
+
+On the London Stock Exchange (LSE) there are official market makers for many
+securities (but not for shares in the largest and most heavily traded
+companies, which instead use an automated system called TradElect). Some of
+the LSE's member firms take on the obligation of always making a two way price
+in each of the stocks in which they make markets. It is their prices which are
+displayed on the Stock Exchange Automated Quotation system, and it is with
+them that ordinary stockbrokers generally have to deal when buying or selling
+stock on behalf of their clients.
+
+Proponents of the official market making system claim market makers add to the
+liquidity and depth of the market by taking a short or long position for a
+time, thus assuming some risk, in return for hopefully making a small profit.
+On the LSE one can always buy and sell stock: each stock always has at least
+two market makers and they are obliged to deal.
+
+This contrasts with some of the smaller order driven markets. On the JSE
+Securities Exchange, for example, it can be very difficult to determine at
+what price one would be able to buy or sell even a small block of any of the
+many illiquid stocks because there are often no buyers or sellers on the order
+board. However, there is no doubting the liquidity of the big order driven
+markets in the U.S.
+
+Unofficial market makers are free to operate on order driven markets or,
+indeed, on the LSE. They do not have the obligation to always be making a two
+way price but they do not have the advantage that everyone must deal with them
+either.
+
+## [edit] See also
+
+  * Day trading
+  * List of finance topics
+  * Divide and choose, analogous to a two-way price
+
+## [edit] External links
+
+  * Market maker definition and examples in plain language
+
+## [edit] References
+
+  1. ^ "List of U.S. market makers". http://www.alphatrade.com/techSupport/marketMakers.html. Retrieved on 2008-10-31.
+  2. ^ "List of market makers in Canada". http://www.alphatrade.com/techSupport/canadianIDs.html. Retrieved on 2008-10-31.
+
+v â¢ d â¢ e
+
+Stock market  
+Types of stocks
+
+Stock Â· Common stock Â· Preferred stock Â· Outstanding stock Â· Treasury
+stock Â· Authorised stock Â· Restricted stock Â· Concentrated stock Â· Golden
+share  
+Participants
+
+Investor Â· Stock trader/investor Â· Market maker Â· Floor trader Â· Floor
+broker Â· Broker-dealer  
+Exchanges
+
+Stock exchange Â· List of stock exchanges Â· Over-the-counter Â· Electronic
+Communication Network  
+Stock valuation
+
+Gordon model Â· Dividend yield Â· Earnings per share Â· Book value Â· Earnings
+yield Â· Beta Â· Alpha Â· CAPM Â· Arbitrage pricing theory  
+Financial ratios
+
+P/CF ratio Â· P/E Â· PEG Â· Price/sales ratio Â· P/B ratio Â· D/E ratio Â·
+Dividend payout ratio Â· Dividend cover Â· SGR Â· ROIC Â· ROCE Â· ROE Â· ROA
+Â· EV/EBITDA Â· RSI Â· Sharpe ratio Â· Treynor ratio Â· Cap rate  
+Trading theories
+
+Efficient market hypothesis Â· Fundamental analysis Â· Technical analysis Â·
+Modern portfolio theory Â· Post-modern portfolio theory Â· Mosaic theory  
+Related terms
+
+Dividend Â· Stock split Â· Reverse stock split Â· Growth stock Â· Speculation
+Â· Trade Â· IPO Â· Market trends Â· Short Selling Â· Momentum Â· Day trading
+Â· Swing trading Â· DuPont Model Â· Dark liquidity Â· Market depth  
+Retrieved from "http://en.wikipedia.org/wiki/Market_maker"
+
+Categories: Financial markets
+
+Hidden categories: Articles needing additional references from December 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+  * LietuviÅ³
+  * Nederlands
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 26 February 2009, at 12:20.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

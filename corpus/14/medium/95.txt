@@ -1,0 +1,202 @@
+
+# Simplified English
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For other simplified forms of English, see Simple English.
+
+Simplified English is a controlled language originally developed for aerospace
+industry maintenance manuals. It offers a carefully limited and standardized
+subset of English.
+
+Proponents claim that Simplified English can:
+
+  * Reduce ambiguity
+  * Improve comprehension for people whose first language is not English
+  * Make human translation easier, faster and more cost effective
+  * Facilitate computer-assisted translation and machine translation
+
+Simplified English has a lexicon of approved words and those words can only be
+used in certain ways. For example, the word close can be used to mean "shut"
+(as in "Close the door"), but not "near" (as in "do not go close to the
+landing gear").
+
+## Contents
+
+  * 1 Aerospace standard
+  * 2 See also
+  * 3 References
+  * 4 External links
+
+  
+## [edit] Aerospace standard
+
+Simplified English is sometimes used as a generic term for a controlled
+language. The aerospace standard is actually an industry-regulated writing
+standard for aerospace maintenance documentation. It is not intended for use
+as a general writing standard. The US governmentâs Plain English[1] lacks
+the strict vocabulary restrictions of the aerospace standard, but it
+represents an attempt at a more general writing standard.
+
+The regulated aerospace standard has been called AECMA Simplified English,
+because the European Association of Aerospace Manufacturers (AECMA) originally
+created the standard in the 1980s. The AECMA standard originally came from
+Fokker, which had based their standard on earlier controlled languages,
+especially Caterpillar Fundamental English. In 2005, AECMA was subsumed by the
+Aerospace and Defence Industries Association of Europe (ASD), which renamed
+its standard to ASD Simplified Technical English or STE. STE is defined by the
+specification ASD-STE100, which is maintained by the Simplified Technical
+English Maintenance Group (STEMG). The standard contains a set of restrictions
+on the grammar and style of procedural and descriptive text. It also contains
+a dictionary of roughly 1000 approved general words. Writers are given
+guidelines for adding technical names and technical verbs to their
+documentation. STE is mandated by several commercial and military
+specifications that control the style and content of maintenance
+documentation.
+
+## [edit] See also
+
+  * Basic English
+  * Constructed language
+  * Globish
+  * Special English
+  * Newspeak
+  * Simplified Chinese
+
+## [edit] References
+
+  1. ^ Plain Language: Improving Communications from the Federal Government to the Public
+
+## [edit] External links
+
+  * Official page of ASD Simplified Technical English Maintenance Group (STEMG)
+  * STE services
+  * A brief overview of Simplified English with a selection of links
+  * World English Organization
+  * Simplus - Simplified English Checker
+  * Plain Language
+  * STE services
+  * STE services
+
+v â¢ d â¢ e
+
+Dialects and accents of English by continent  
+Africa
+
+Cameroon Â· Liberian Â· Malawian Â· Namibian Â· South African Â· Ugandan  
+Asia
+
+Burmese Â· Hong Kong Â· Indian (regional/occupational dialects) Â· Malaysian
+(Manglish) Â· Pakistani Â· Philippine Â· Singaporean (Singlish) Â· Sri Lankan  
+Europe
+
+British English Â· Black British Â· Brummie Â· Channel Island Â· Cockney Â·
+Cumbrian Â· East Anglian Â· East Midlands Â· Estuary Â· Geordie Â· Highland Â·
+Irish Â· Kentish Â· Lancashire Â· Mackem Â· Malta Â· Manc Â· Manx Â· Mid
+Ulster Â· Multicultural London Â· Norfolk Â· Northern Â· Received
+Pronunciation Â· Scottish Â· Scouse Â· Southern Â· West Midlands Â· Welsh Â·
+West Country Â· Yorkshire  
+North  
+America
+
+United States
+
+African American Vernacular Â· Appalachian Â· Baltimorese Â· Boston Â·
+Buffalonian Â· Cajun Â· California Â· Chicano Â· General American Â· Hudson
+Valley Â· Inland Northern American Â· Midland Â· New England Â· New Jersey Â·
+New York City Â· North Central American Â· Northeast Pennsylvania Â· Pacific
+Northwest Â· Pennsylvania Dutch English Â· Philadelphia Â· Pittsburgh Â·
+Southern American Â· Tidewater Â· Western Â· Yat Â· Yooper  
+Canada
+
+Cape Breton Â· Lunenburg Â· Maritimer Â· Newfoundland Â· Ottawa Valley Twang
+Â· Quebec Â· West/Central Canadian  
+Caribbean
+
+Bahamian Â· Bermudian Â· Jamaican  
+Other
+
+Belize Â· Bermudian  
+South America
+
+Falkland Islands Â· Guyana Â· Trinidadian  
+Oceania
+
+Australian (Australian Aboriginal Â· Torres Strait) Â· New Zealand  
+Related
+
+Basic Â· International Â· Engrish Â· English language in England Â· Globish Â·
+Pidgin Â· Mid-Atlantic Â· Plain Â· Simplified Â· Special Â· Standard Â·
+American and British English differences Â· E-Prime  
+Retrieved from "http://en.wikipedia.org/wiki/Simplified_English"
+
+Categories: Technical communication | Standard English
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * FranÃ§ais
+  * æ¥æ¬èª
+  * Simple English
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 10 April 2009, at 02:49 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

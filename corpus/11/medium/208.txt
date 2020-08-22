@@ -1,0 +1,472 @@
+
+# Adventure racing
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Not to be confused with Rogaining.
+
+Adventure racing is a combination of two or more disciplines, including
+orienteering and navigation, cross-country running, mountain biking, paddling
+and climbing and related rope skills. An expedition event can span ten days or
+more while sprints can be completed in a matter of hours. There is typically
+no dark period during races, irrespective of length; competitors must choose
+if or when to rest.
+
+Adventure racing historically required teams to be of a specified size and to
+include both men and women, but many races no longer restrict team size and
+include single-sex divisions. Some also include age-based categories.
+
+## Contents
+
+  * 1 History
+  * 2 Race types
+    * 2.1 Lengths
+    * 2.2 Disciplines
+    * 2.3 Formats
+  * 3 Overview
+    * 3.1 Rules
+    * 3.2 Organizational meeting
+    * 3.3 Checkpoints
+    * 3.4 Transition areas
+    * 3.5 Gear check
+    * 3.6 Short course
+    * 3.7 Teamwork
+    * 3.8 Self-discovery
+    * 3.9 Relation to traditional events
+  * 4 Preparing for an adventure race
+  * 5 Equipment
+    * 5.1 Basic equipment (sprint races)
+    * 5.2 Equipment for an endurance-length event
+    * 5.3 Equipment for a 24 hour event
+    * 5.4 Equipment for multi-day events.
+  * 6 Safety
+  * 7 References
+  * 8 Resources
+    * 8.1 Adventure racing teams
+    * 8.2 Adventure Racing Organizations
+
+  
+## [edit] History
+
+The roots of adventure racing are deep and people debate the origin of the
+modern adventure race. Some point to the two-day Karrimor International
+Mountain Marathon, first held in 1968 as the birth of modern adventure racing.
+The Karrimor Marathon required two-person teams to traverse mountainous
+terrain while carrying all the supplies required to support themselves through
+the double-length marathon run.
+
+In 1980, the Alpine Ironman was held in New Zealand. Individual competitors
+ran, paddled and skied to a distant finish line. Later that year, the Alpine
+Ironman's creator, Robin Judkins launched the better-known Coast to Coast
+race, which involved most of the elements of modern adventure racing: trail
+running, cycling and paddling. Independently, a North American race, the
+Alaska Mountain Wilderness Classic debuted in 1982 and involved six days of
+unsupported wilderness racing (carry all food and equipment, no roads, no
+support) over a 150 mile course. It continues today, changing courses every 3
+years.
+
+In 1989, the modern era of adventure racing had clearly arrived with Gerald
+Fusil's launch of the Raid Gauloises in New Zealand. Inspired by the Paris-
+Dakar Rally, Fusil envisioned an expanded expedition-style race in which
+competitors would rely on their own strength and abilities to traverse great
+and challenging terrain. The race included all the modern elements of
+adventure racing, including mixed-gender teams competing in a multi-day 400+
+mile race. Building on Fusil's concept, the inaugural Southern Traverse was
+held in 1991.
+
+In the early-90's, Mark Burnett read an L.A. Times article about the Raid and
+was inspired to not only take the race to the USA, but to promote the race as
+a major televised sporting event. After purchasing the rights from Gerald
+Fusil, Burnett launched the first "Eco-Challenge" race in 1995. Burnett
+promoted his event with Emmy-award winning films (tapping the talent of Mike
+Sears to produce the films for the first two events). The Eco-Challenge was
+last held in 2002. With the Eco-Challenge also came the name "adventure race",
+a phrase coined by journalist and author Martin Dugard, to describe the class
+of races embodied by the Raid and Eco-Challenge.
+
+In 2002, the first major expedition length race to be held exclusively in the
+United States was launched. Primal Quest has become the premier U.S.
+expedition race, being held each year since its launch. In 2004, the death of
+veteran racer Nigel Aylott over-shadowed the race, and raised debates about
+the nature of Primal Quest and adventure racing.
+
+## [edit] Race types
+
+### [edit] Lengths
+
+  * Sprint: typically a two to six hour race, featuring minimal navigation and occasionally involving games or special tests of agility or cunning.
+  * 12-Hour: a six- to twelve-hour race, featuring limited navigation and orienteering.
+  * 24-Hour: a race lasting between 18-30+ hours, typically involving UTM-based (Universal Transverse Mercator) navigation. Often basic rope work is involved (e.g., traverses or rappels). 24-hour and longer races often require that competitors employ a support crew to transport gear from place to place. Other races do not permit support crews, with race organizers transporting gear bins to designated checkpoints for racers.
+  * Multi-day: a 36-48+ hour race, involving advanced navigation and route choice; sleep deprivation becomes a significant factor.
+  * Expedition: Three to 11 day race (or longer), involving all the challenges of a multi-day race, but often with additional disciplines (e.g., horse-back riding, unusual paddling events, extensive mountaineering and rope work).
+
+### [edit] Disciplines
+
+The vast majority of adventure races include trail running, mountain biking
+and (ideally) a paddling event. Navigation and rope work are also featured in
+all but the shortest races, but this is only the beginning. Part of the appeal
+of adventure racing is expecting the unexpected. Race directors pride
+themselves at challenging racers with unexpected or unusual tasks. Races often
+feature:
+
+  * Paddling: kayaks, canoes, out-riggers, rafts and tubing;
+  * Traveling on wheels: Mountain Bikes, kick-scooters, in-line skates, roller skates;
+  * Beasts of Burden: Horses and camels;
+  * Catching Air: Paragliding, hang-gliding;
+  * Covering Terrain: Orienteering, mountaineering, coasteering, swimming, canyoneering, riverboarding;
+  * Learning the Ropes: Ascending; rappelling, traversing (including via zip-line).
+
+### [edit] Formats
+
+Adventure Races (AR) come in various formats and difficulties combined with
+the listed disciplines. Because of the navigation aspect to adventure racing,
+orienteering style races are borrowed to create different race formats.
+
+  * Full Course: A race with mandatory transition areas and check points that are obtained in order to officially finish the race.
+  * Short Course: A format typically used when cut-off times are instituted and to avoid forcing teams to 'DNF' (do not finish) where one or more sections are omitted in order for teams officially finish a shorter version of the race.
+  * Adventure Rogaine: A format borrowed from orienteering where the race has a set finish time and the objective is to obtain as many points as possible within the given time frame. Adaptations for AR include mandatory and optional points and also borrowing from Rogaining, varying point values based on the check point location.
+
+## [edit] Overview
+
+### [edit] Rules
+
+The rules of adventure racing vary by race. However, virtually all races
+include the three cardinal rules of racing:
+
+  * no motorized travel;
+  * no outside assistance except at designated transition areas (assistance from competing teams is generally permitted at all times); and
+  * teams must carry all mandatory gear.
+
+In addition, each race will have their own special rules. For example, Primal
+Quest includes penalties for unsportsmanlike conduct, public protest or
+"displays of disgust" with race rules; failing to travel as a team; traveling
+within a wilderness boundary, destruction of property; damage to race
+equipment; testing positive for banned substance; missing race bib;
+administration of IV fluids other than by race medical staff.
+
+Longer races may also involve skill tests. For example, Primal Quest 2004
+required that each team member swim 50 meters in three minutes; tread water
+for five minutes in 50 degree water; perform a Double T Rescue in less than 5
+minutes; pass a single boat rescue; and ascend a vertical 8-10 meter cliff
+with three knot transfers in 10 minutes.
+
+### [edit] Organizational meeting
+
+Typically races will feature an organizational meeting either the night before
+or the morning of the race. At this meeting the course will be revealed for
+the first time. For sprints, racers may follow a marked course. For longer
+races, racers may be given maps marked to show checkpoints ("CPs") or racers
+may be simply given coordinates (usually UTM coordinates) that indicate where
+the CPs will be found. Special rules, last minute changes and other
+information may also be provided at the meeting.
+
+### [edit] Checkpoints
+
+<IMG>
+
+Racers are required to visit a series of checkpoints or passport controls
+(CPs), usually in a specific order.
+
+### [edit] Transition areas
+
+Most races include one or more transition areas that teams can visit to
+replenish supplies. Typically, teams change to another mode of travel in a
+transition area. For instance, teams will end a trekking leg and transition to
+mountain biking in a transition area. Shorter races often feature a single
+transition area that teams may visit numerous times during the event. Teams
+will leave food, water, paddling and biking gear, fresh clothing and any other
+items they may need during the course of the race.
+
+Longer races feature multiple transition areas. Team gear is transported
+either by a support crew (provided by the team) or by the racing staff.
+
+### [edit] Gear check
+
+Virtually all adventure races feature mandatory gear that must be carried
+during part or all of the race. Races will often include mandatory gear checks
+by race personnel and harsh penalties or disqualification may result if a team
+lacks requisite equipment.
+
+In addition to pre-race gear checks, many race organizers also include on-
+course gear checks. This helps to ensure that teams that start with approved
+gear, compete with, and finish a race with that same gear.
+
+### [edit] Short course
+
+Adventure races attract individuals of greatly divergent abilities. To make
+the sport more inclusive, many race directors will "short course" racers;
+allow racers who miss mandatory time cut-offs to continue racing on a reduced-
+length course. These racers will often earn an official finish time but be
+"unranked" and not eligible for prizes. Some races provide the option for
+teams to skip certain CPs but incur a time penalty (which often must be
+"served" during the race).
+
+### [edit] Teamwork
+
+Most adventure races are team events, with expedition length races typically
+requiring a set number of teammates (usually four or five) and requiring the
+teams to be co-ed. Many racers find the team aspect of adventure racing to be
+among the most enticing and demanding aspects.
+
+<IMG>
+
+Teams typically elect a team captain and designate a team navigator. Teams
+have different views as to the functions of each of these positions, with some
+teams having very little structure, while others assigned specifics rights and
+responsibilities to each of these persons. For example, a team that stresses a
+democratic philosophy may limit the captainâs role to be the keeper of the
+racing passport and rules, and limit the navigatorâs role to carrying the
+map and having primarily responsible for determining the teamâs position at
+any given time. A more regimented team may give the captain ultimate
+responsibility for making all decisions regarding rest schedules, rule
+interpretations and the like, while the navigator has full responsibility for
+not only tracking the teamâs location, but determining route choice as well.
+
+Although teams have been successful with differing organizational
+philosophies, few teams are able to complete expedition length races with poor
+team dynamics. Determining roles, goals and team philosophy before the start
+of the race is critical.
+
+### [edit] Self-discovery
+
+Adventure racing has been said to allow an individual to find his or her
+limits and push through them. Racing often takes participants out of their
+comfort zone by challenging competitors with unfamiliar surroundings, often
+while sleep deprived and physically exhausted.
+
+### [edit] Relation to traditional events
+
+Numerous adventure racers were former triathletes and marathon (and ultra-
+marathon) competitors looking to add more spice to their chosen fields. Some
+found themselves suffering recurring injuries, and enjoy the cross-training
+adventure racing demands. Aging athletes discovered that while they can no
+longer keep up with 20-somethings in a foot race, in a 24+ hour races, they
+have some competitive advantages.
+
+## [edit] Preparing for an adventure race
+
+Because adventure racing is a multi-discipline event, training for adventure
+racing combines pure strength and endurance training with skills training. The
+three disciplines that should be practiced are 1) trekking or running 2)
+cycling 3) and paddling. It is worth noting though, that to simply compete and
+have an enjoyable race, you do not need to be an expert in all these events.
+Often a basic working knowledge will suffice. Navigation is another aspect to
+consider, so basic map and compass knowledge is often prerequisite for at
+least one teammate.
+
+To become a competitive adventure racer, one must be an accomplished runner,
+mountain biker, paddler and navigator. Moreover, adventure race training goes
+beyond physical preparation; navigation skills, rope knowledge and basic
+wilderness medicine skills are also vital when competing in the longer events.
+Proper nutrition, foot care, and mental preparation are essential during these
+longer races.
+
+An effective way to quickly learn the basics of adventure racing (or to refine
+skills) is to attend a formal adventure racing academy. These schools vary
+from a single day of workshops, to a week-long program. Many academies end
+with a mock race, often 24 hours or longer. Another method of learning the
+sport is to train with experienced racers. Many local racing groups exist, and
+racers are often willing to mentor those interested in joining the sport.
+Organizations like Team in Training offer adventure racing training in
+connection with their fund raising activities in limited locations. Finally,
+there are several websites with information on all aspects of preparing for an
+adventure race. A comprehensive site for newer racers can be found here.
+
+## [edit] Equipment
+
+Most specialty outdoor gear retailers will offer a broad selection of
+equipment necessary for any length of adventure race. As the sport has grown,
+a few adventure race specialty retailers have emerged online to serve this
+niche.
+
+### [edit] Basic equipment (sprint races)
+
+  * Mountain bike, including a basic tool kit and biking specific helmet;
+  * Backpacks with water bladder (hydration pack); and
+  * Equipment specified by race directors.
+
+Note: typically paddling gear will be provided by race directors for sprint
+level races, although on occasion racers will be required to provide their own
+life jacket.
+
+### [edit] Equipment for an endurance-length event
+
+  * Endurance-Length adventure races will require all of the equipment of a sprint race, plus basic survival gear, such as a compass and first aid kit. 
+    * Sample gear list from Pangea Adventure Racing
+    * Sample gear list from the Wicked Adventure Racing Wicked Urban 6 to 12 hour adventure race
+    * Sample gear list for an endurance-length race (6 to 12 hours).
+
+### [edit] Equipment for a 24 hour event
+
+  * 24 Hour adventure races will require all of the equipment of an endurance race, plus more advanced survival gear, such as safety flares, gear to assist in night travel and more extensive safety and first aid requirements. 
+    * Gear list from the Wicked Adventure Racing Wicked Sunsweet 24 Hour adventure race
+    * Gear List from the BigBlue Adventure Race Series 24 hour race
+
+### [edit] Equipment for multi-day events.
+
+Multi-day races will have extensive gear lists that vary depending upon the
+length and conditions of the race.
+
+  * XPD gear list
+  * 2008 Primal Quest gear list
+  * Raid the North Extreme gear list
+
+## [edit] Safety
+
+The danger of participating in an adventure race depend on the race and the
+racers participating. Although several deaths have been reported in multi-
+sport events, three recent deaths have intensified the debate over the safety
+of the sport. In June 2003, Dominique Robert was killed when she was pinned
+underwater during a canoe section of the Raid Gauloises. On September 21,
+2004, Nigel Aylott was killed by a falling boulder during an orienteering
+section of Primal Quest. Eduardo Delgado Rosas died on February 24, 2005 while
+completing a one kilometer swimming leg of the Extreme Adventure Hidalgo.
+
+The death of these athletes has fueled a debate regarding the safety of
+adventure racing, with some participants calling for international regulation
+of the sport. In the shadow of the death of Nigel Aylott enhanced scrutiny and
+heated debate has surrounded the relative responsibilities for ensuring the
+safety of racers.
+
+Nigel was killed during an orienteering section of the Primal Quest race.
+Nigel and his team elected to descend a talus runout when alternative routes
+would have involved substantial delay. Some, including Nigelâs teammates,
+have argued that the race course was irresponsibly designed, putting racers at
+unnecessary peril. Other have suggested that the dangers Nigel and his team
+encountered were obvious and part of the sport of adventure racing.
+
+In some more exotic locales, danger of contact with unusual pathogens should
+be taken into account. In 2000 Malaysian Borneo "Eco-Challenge" dozens of
+participants were hospitalized with leptospirosis; none died.
+
+Dehydration and heat stroke are other common health and safety concerns in
+endurance events.
+
+The Canadian Adventure Racing Association (registered amateur athletic
+Association) has drafted comprehensive safety guidelines for use in Canada.
+The safety guidelines are a working document and have been revised several
+times by industry experts and government agencies. They serve as the benchmark
+for adventure racers across Canada.
+
+  
+
+## [edit] References
+
+Books and Videos about Adventure Races
+
+  * Adventure Racing by Jacques Marais and Lisa de Speville. ISBN 0-7360-5911-3
+  * Runner's World Guide to Adventure Racing: How to Become a Successful Racer and Adventure Athlete (Runners World) by Ian Adamson. ISBN 1-57954-836-9
+  * Adventure Racing: The Ultimate Guide by Liz Caldwell and Barry Siff. ISBN 1-884737-90-0
+  * The Complete Guide to Adventure Racing: An Insiderâs Guide to the Greatest Sport on Earth by Don Mann and Kara Schaad. ISBN 1-57826-064-7
+  * Surviving the Toughest Race on Earth by Martin Dugard. ISBN 0-07-135821-8
+  * The Eco-Challenge video series. Australia (ISBN 1-57523-709-1), Morocco, British Columbia and Borneo can still be found on VHS without much difficulty. Videos exist for the other races, but are long out of print.
+
+Books about Navigation and Orienteering
+
+  * Be Expert with Map and Compass by BjÃ¶n KjellstrÃ¶m. ISBN 0-684-14270-8
+  * U.S. Army Map Reading and Land Navigation Handbook by the U.S. Department of Defense. ISBN 1-59228-382-9
+  * Orienteering by Steve Boga. ISBN 0-8117-2870-6
+  * Wilderness Navigation by Bob and Mike Burns. ISBN 0898869536
+
+Books about Mountain Biking
+
+  * Zinn & the Art of Mountain Bike Maintenance by Lennard Zinn. 4th edition, 2005. ISBN 1-931382-59-X
+  * Mountain Bike Like a Champion by Ned Overend. ISBN 1-57954-081-3
+
+Books about Kayaking
+
+  * The Complete Guide to Sea Kayak Touring by Jonathan Hanson. ISBN 0-07-026204-7
+  * Sea Kayaker's Savvy Paddler: More than 500 Tips for Better Kayaking
+
+by Doug Alderson. ISBN 0-07-136203-7
+
+## [edit] Resources
+
+  * Checkpoint Zero - Covers Adventure Racing in the US
+  * Rookie Arena -- Comprehensive information for adventure racers
+  * SleepMonsters - Covers Adventure Racing Globally
+  * ARchronicles.com - Adventure Racing Training
+
+  
+
+### [edit] Adventure racing teams
+
+  * Directory of adventure racing team websites
+
+### [edit] Adventure Racing Organizations
+
+  * Pangea Adventure Racing
+
+Retrieved from "http://en.wikipedia.org/wiki/Adventure_racing"
+
+Categories: Multi-sport competitions
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+  * Hrvatski
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 6 April 2009, at 12:17.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

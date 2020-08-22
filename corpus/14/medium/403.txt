@@ -1,0 +1,739 @@
+
+# List of battery sizes
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+4.5-Volt, D, C, AA, AAA, 9-Volt, SR41/AG3, SR44/AG13  
+
+## Contents
+
+  * 1 Battery chemistry
+    * 1.1 Primary battery chemistries
+    * 1.2 Rechargeable battery chemistries
+  * 2 Non-standard brand-specific names
+  * 3 Table of modern primary battery sizes
+    * 3.1 Naming notes
+  * 4 See also
+  * 5 References
+  * 6 External links
+
+  
+Battery size generally refers to the shape, voltage, and terminal layout of a
+battery. Thus the term "size" has become interchangeable with "type".
+Batteries of different types will usually not have the same dimensions and
+terminal layout.
+
+This article refers to primary and other common battery types and sizes in
+household and light industrial use. A primary battery typically contains a
+single chemical cell. Secondary batteries are single or multiple cells
+repackaged into a single battery for use in equipment such as cameras, phones,
+computers, and camcorders. An example of a secondary battery is the 2CR5 (two
+lithium cells packaged as one battery) and a 4LR44 (four LR44 cells packaged
+as one battery).
+
+## [edit] Battery chemistry
+
+Older batteries were mostly based on rechargeable lead-acid or non-
+rechargeable alkaline chemistries, with nominal voltages in increments of 2.10
+- 2.13 and 1.5 Volts respectively, each representing one individual
+electrochemical cell.
+
+New special battery chemistries have strained older naming conventions.
+Rechargeable NiCd (Nickel Cadmium) and NiMH (Nickel Metal Hydride) typically
+output 1.25 V per cell. Some devices may not operate properly with these
+cells, given the 16% reduction in voltage, but most modern ones handle them
+well. Conversely, lithium-ion rechargeable batteries output 3.7 V per cell,
+23% higher than a pair of alkaline cells (3 V), which they are often designed
+to replace. Non-rechargeable lithium-chemistry batteries, which provide
+exceptionally high energy density, produce about 1.5 V per cell and are thus
+similar to alkaline batteries.
+
+Many new battery sizes refer to both the batteries' size and chemistry, while
+older names do not. For a more complete list see battery types. This summary
+is only for types relating to battery "sizes".
+
+### [edit] Primary battery chemistries
+
+(includes data from the energy density article)
+
+Chemistry Cell  
+Voltage Energy Density (MJ/kg) Elaboration  
+Zincâcarbon 1.5 0.13 Inexpensive.  
+Zinc chloride 1.5 Also known as "heavy duty", inexpensive.  
+alkaline  
+(zincâmanganese dioxide) 1.5 0.4-0.59 Moderate energy density.  
+Good for high and low drain uses.  
+oxy nickel hydroxide  
+(zinc-manganese dioxide/oxy nickel hydroxide) 1.7 Moderate energy density.  
+Good for high drain uses  
+Lithium  
+(lithiumâcopper oxide)  
+LiâCuO 1.7 No longer manufactured.  
+Replaced by silver oxide (IEC-type "SR") batteries.  
+Lithium  
+(lithiumâiron disulfide)  
+LiFeS2 1.5 Expensive.  
+Used in 'plus' or 'extra' batteries.  
+Lithium  
+(lithiumâmanganese dioxide)  
+LiMnO2 3.0 0.83-1.01 Expensive.  
+Only used in high-drain devices or for long shelf life due to very low rate of
+self discharge.  
+'Lithium' alone usually refers to this type of chemistry.  
+Mercury oxide 1.35 High drain and constant voltage.  
+Banned in most countries because of health concerns.  
+Zincâair 1.35â1.65 1.59[1] Mostly used in hearing aids.  
+Silver oxide (silver-zinc) 1.55 0.47 Very expensive.  
+Only used commercially in 'button' cells.  
+### [edit] Rechargeable battery chemistries
+
+(includes data from energy density article)
+
+Chemistry Cell  
+Voltage Energy density  
+(MJ/kg) Comments  
+NiCd 1.2 0.14 Inexpensive.  
+High/low drain, moderate energy density.  
+Can withstand very high discharge rates with virtually no loss of capacity.  
+Moderate rate of self discharge.  
+Reputed to suffer from memory effect (which is alleged to cause early
+failure).  
+Environmental hazard due to Cadmium - use now virtually prohibited in Europe.  
+Lead Acid 2.2 0.14 Moderately expensive.  
+Moderate energy density.  
+Moderate rate of self discharge.  
+Higher discharge rates result in considerable loss of capacity.  
+Does not suffer from memory effect.  
+Environmental hazard due to Lead.  
+Common use - Automobile batteries  
+NiMH 1.2 0.36 Expensive (but price is falling).  
+Not useable in higher drain devices.  
+Traditional chemistry has high energy density, but also a high rate of self-
+discharge.  
+Newer chemistry has low self-discharge rate, but also a ~25% lower energy
+density.  
+Lithium ion 3.6 0.46 Very expensive.  
+Very high energy density.  
+Not usually available in "common" battery sizes (but see RCR-V3 for a counter-
+example).  
+Very common in laptop computers, moderate to high-end digital cameras and
+camcorders, and cellphones.  
+Very low rate of self discharge.  
+Volatile: Chance of explosion if short circuited, allowed to overheat, or not
+manufactured with rigorous quality standards.  
+## [edit] Non-standard brand-specific names
+
+Battery naming is further confused by the practice of manufacturers that
+assign novel names and numbers to their batteries, disregarding common,
+colloquial, IEC, and ANSI naming conventions (see LR44 battery as an example).
+Often this is done to steer customers towards a specific brand, and away from
+competing or generic brands, by obfuscating the common name. For example, if a
+remote control needs a new battery and the battery compartment has the label,
+"Replace with CX472 type battery," many customers will buy that specific
+brand, not realizing that this is simply a brand name for a common type of
+battery. In this article, brand-specific names have been purposely omitted to
+avoid confusion.
+
+On the other hand, with obscure battery types, the name of a specific brand
+will sometimes become the most common name for that battery type, as other
+manufacturers copy or modify the name so that customers recognize it.
+
+## [edit] Table of modern primary battery sizes
+
+The following table is a list of primary battery sizes which are currently
+available in modern society. Note that there were other sizes other than those
+listed in this table which are no longer available due to either a decline in
+popularity or changing technological needs. Batteries for obsolete portable
+vacuum tubes devices for example, are not listed. A table of older, obsolete,
+and uncommon-availability batteries types and sizes can be found below this
+table.
+
+Most Common Batteries
+
+Most  
+Common  
+Name Other  
+Common  
+Names IEC  
+Name ANSI/NEDA  
+Name Typical Capacity  
+(mAh) Nominal Voltage (V) Shape Terminal layout Dimensions Comments  
+AAA Micro  
+Microlight  
+MN2400  
+MX2400  
+Type 286 (Soviet Union/Russia) LR03 (alkaline)  
+R03 (carbonâzinc)  
+FR03 (LiâFeS2) 24A (alkaline)  
+24D (carbonâzinc)  
+24LF (LiâFeS2) 1200 (alkaline)  
+540 (carbonâzinc)  
+800â1000 (NiâMH) 1.5  
+1.2 (NiMH and NiCd) Cylinder \+ Nub cylinder end  
+â Flat opposite end L 44.5 mm  
+D 10.5 mm C16/HP16;  
+AA Pencil-sized  
+Penlight  
+Mignon  
+MN1500  
+MX1500  
+Type 316 (Soviet Union/Russia) LR6 (alkaline)  
+R6 (carbonâzinc)  
+FR6 (LithiumâFeS2)  
+HR6 (Ni-MH)  
+KR157/51 (NiCd)  
+ZR6 (Ni-Mn) 15A (alkaline)  
+15D (carbonâzinc)  
+15LF (LithiumâFeS2)  
+1.2H2 (NiMH)  
+10015 (NiCd) 2700 (alkaline)  
+1100 (carbonâzinc)  
+3000 (LithiumâFeS2)  
+1700â2900 (NiMH)  
+600â1000 (NiCd) 1.5  
+1.2 (NiMH and NiCd) Cylinder \+ Nub cylinder end  
+â Flat opposite end L 50.5 mm  
+D 13.5â14.5 mm C7/HP7;  
+C MN1400  
+MX1400  
+Baby  
+Type 343 (Soviet Union/Russia) LR14 (alkaline)  
+R14 (carbonâzinc)  
+KR27/50 (NiCd) 14A (alkaline)  
+14D (carbonâzinc) 8000 (alkaline)  
+3800 (carbonâzinc)  
+4500â6000 (NiMH) 1.5  
+1.2 (NiMH) Cylinder \+ Nub cylinder end  
+â Flat opposite end L 50 mm  
+D 26.2 mm C11/SP11/HP11; Can be replaced with alkaline AA cell using plastic
+sabot (stub case)  
+D U2 (In Britain until the 1970s)  
+Flashlight Battery  
+MN1300  
+MX1300  
+Mono  
+Type 373 (Soviet Union/Russia) LR20 (alkaline)  
+R20 (carbonâzinc) 13A (alkaline)  
+13D (carbonâzinc) 12000 (alkaline)  
+8000 (carbonâzinc)  
+9000â11500 (NiMH) 1.5  
+1.2 (NiMH) Cylinder \+ Nub cylinder end  
+â Flat opposite end L 61.5 mm  
+D 34.2 mm C2/SP2/HP2; Can be replaced with alkaline AA cell using plastic
+sabot (stub case)  
+9-Volt PP3  
+Radio battery  
+MN1604  
+Square(sic) battery  
+Krona (Soviet Union/Russia) 6LR61 (alkaline)  
+6F22 (carbonâzinc)  
+6KR61 (NiCd) 1604A (alkaline)  
+1604D (carbonâzinc)  
+1604LC (Lithium)  
+7.2H5 (NiMH)  
+11604 (NiCd) 565 (alkaline)  
+400 (carbonâzinc)  
+1200 (lithium)  
+175 (NiMH)  
+120 (NiCd)  
+500 (Lithium polymer rechrg) 9  
+7.2 (NiMH and NiCd)  
+8.4 (some NiMH and NiCd) Rectangular both small end  
+\+ male clasp  
+â female clasp H 48.5 mm  
+L 26.5 mm  
+W 17.5 mm Many (not all) PP3 batteries are an array of 6 reversed-polarity
+(nub is negative while can is positive) AAAA cells welded together internally  
+Lantern (Spring) Lantern  
+6 Volt  
+Spring Top  
+MN908 4R25Y (alkaline)  
+4R25 (carbonâzinc) 908A (alkaline)  
+908D (carbonâzinc) 26000 (alkaline)  
+10500 (carbonâzinc) 6 Square Springs Top  
+\+ Corner  
+â Center H 115 mm  
+L 68.2 mm  
+W 68.2 mm Springs are usually made so that leads for screw top can be fastened
+to them. In most applications this is fine (see next).  
+Less Common Batteries
+
+Most  
+Common  
+Name Other  
+Common  
+Names IEC  
+Name ANSI/NEDA  
+Name Typical Capacity  
+(mAh) Nominal Voltage (V) Shape Terminal layout Dimensions Comments  
+AAAA MX2500 LR8D425 (alkaline) 25A (alkaline) 625 (alkaline) 1.5 Cylinder \+
+Nub cylinder end  
+â Flat opposite end L 42.5 mm  
+D 8.3 mm Obscure type sometimes used in 'pen flashlights' or electronic
+glucose meters. Most common use is as an internal component of PP3 batteries.  
+1/2 AA SAFT LS14250  
+Tadiran TL5101  
+UL142502P ?? ?? ?? 3.6 Cylinder \+ Nub cylinder end  
+â Flat opposite end L 24 mm  
+D 13.5-14.5 mm Same diameter as AA battery, used in small electronics,
+including pulse oximeters; image of comparison to AA battery  
+A23 23A  
+3LR50  
+MN21 8LR50 (alkaline) 1181A (alkaline) 40 (alkaline) 12 Cylinder  
+(or button stack) \+ Nub cylinder end  
+â Flat opposite end L 29 mm  
+D 10 mm Used in small RF devices such as key fob-style garage door openers and
+keyless entry systems where only infrequent pulse current is used. Sometimes
+enclosed like a normal battery but sometimes a stack of eight LR932 button
+cells shrink wrapped together. (see here about naming)  
+CR123A Camera Battery  
+123  
+CR123  
+R123 (Li-Ion)  
+RCR123A  
+RCR123 (Li-Ion)  
+17335  
+CR17345 (Lithium) 5018LC (Lithium) 1500 (Lithium)  
+700 (LiâIon) 3 (Lithium)  
+3.6 (Li-Ion) Cylinder \+ Nub cylinder end  
+â Flat opposite end L 34.5 mm  
+D 17 mm CR (Cylindrical Lithium) 1 X 2/3A which breaks down further as 2/3 the
+size of an 'A' cell (an 'A' size cell is an industrial size)  
+CR2 CR2 CR17355 5046LC 750 (Lithium) 3 Cylinder \+ Nub cylinder end  
+â Flat opposite end L 27 mm Ã D 15.6 mm Standard Discharge Current: 0.2 mA  
+common battery in cameras and photographic equipment  
+CR-V3 CRV3  
+RCR-V3 (Li-Ion) 3000 (Lithium)  
+1300 (Li-Ion) 3 Flat pack Both on one end 52.20 Ã 28.05 Ã 14.15 mm Size and
+shape match that of side-by-side AA batteries, so that it may be used in some
+devices not explicitly designed for CR-V3, especially digital cameras.  
+Duplex 2R10 3 Cylinder \+ Nub cylinder end  
+â Flat opposite end H 74.6 mm  
+D 21.8 mm Internally contains two 1.5 V cells hence the nickname 'Duplex'  
+F 1.5 Cylinder \+ Nub cylinder end  
+â Flat opposite end L 91 mm  
+D 33 mm Four "F" Cells are usually found within most Lantern batteries.  
+J 7K67 4LR61 (alkaline) 1412A (alkaline) 625 (alkaline) 6 Square with  
+missing corner Flat contacts  
+â top side  
+\+ missing corner H 48.5 mm  
+L 35.6 mm  
+W 9.18 mm Typically used in applications where the device in question needs to
+be flat, or where the battery should be unable to be put in reverse
+polarityâsuch as a blood glucose meter or blood pressure cuff. Also good for
+elderly persons, due to the large size.  
+Lantern (Screw) Lantern  
+6 Volt  
+Screw Top 4R25Y (alkaline)  
+4R25 (carbonâzinc) 915A (alkaline)  
+908 (carbonâzinc) 26000 (alkaline)  
+10500 (carbonâzinc) 6 Square Screw Posts Top  
+\+ Corner  
+â Center H 115 mm  
+L 68.2 mm  
+W 68.2 mm For uses that have high vibration/shock where the leads may be
+knocked off springs.  
+Lantern (Big) 918  
+R25-2  
+Big Lantern  
+Double Lantern  
+MN918 4LR25-24 (alkaline)  
+4R25-2 (carbonâzinc)  
+8R25 (carbonâzinc) 918A (alkaline)  
+918D (carbonâzinc) 52000 (alkaline)  
+22000 (carbonâzinc) 6 Square Screw posts  
+Apart top H 127 mm  
+L 136.5 mm  
+W 73 mm Dimenstions match 2 side-by-side standard lantern batteries;  
+N Lady  
+MN9100  
+SUM5  
+SUM-5  
+R1 LR1 (alkaline) 910A (alkaline) 1000 (alkaline) 1.5 Cylinder \+ Nub cylinder
+end  
+â Flat opposite end L 30.2 mm  
+D 12 mm Typical uses include remote-control door chimes, and other low current
+drain devices. Also used for wireless microphones, "Mr. Microphone" type
+devices, and some laser pointers.  
+4.5 Volt Pocketable Battery  
+1203  
+4.5 V  
+Type 3336 (Soviet Union/Russia) 3LR12 (alkaline)  
+3R12 (carbonâzinc) MN1203 (manganese) 6100 (alkaline)  
+1200 (carbonâzinc) 4.5 Flat pack \+ short terminal strip  
+â long terminal strip H 65 mm  
+L 61 mm  
+W 21 mm This battery is more common in Europe than North America.  
+No. 6 Ignition Cell 1.5 Cylinder \+ Center binding post  
+â Rim binding post Typical uses include school science experiments, and
+starting glow plug model engines.  
+Sub-C 1200â2400 (NiCd)  
+3500â4500(NiMH) 1.2 Cylinder \+ Nub cylinder end  
+â Flat opposite end L 42.86 mm  
+D 22.2 mm  
+27/16Ã7/8 in Extremely popular size for cordless tool battery packs. 1/2-,
+4/5- and 5/4-sub-C sizes (differing in length) are also popular.  
+    
+    Button Batteries. See Naming Notes below about CR, BR, SR, LR, AG, and SG battery types.
+    
+Most  
+Common  
+Name Other  
+Common  
+Names IEC  
+Name ANSI/NEDA  
+Name Typical Capacity  
+(mAh) Nominal Voltage (V) Shape Terminal layout Dimensions Comments  
+CR636-2 CR636-2 (Lithium manganese) 3 Pill \+ bottom/sides  
+â top L 9.9 mm  
+H 3.6 mm  
+W 5.9 mm Pill or oval shaped cell, used by Sanyo  
+CR736-2 CR736-2 (Lithium manganese) 3 Pill \+ bottom/sides  
+â top L ? mm  
+H 3 mm  
+W 7 mm Pill or oval shaped cell, used by Sanyo  
+CR927 30 (Lithium) 3 Coin \+ bottom/sides  
+â top D 9.5 mm  
+H 2.7 mm This obscure type of lithium coin cell is used extensively in
+blinkies.  
+CR1025 DL1025  
+LM1025 CR1025 (Lithium) 30 (Lithium) 3 Coin \+ bottom/sides  
+â top D 10 mm  
+H 2.5 mm Standard Discharge Current: 0.1 mA  
+CR1216 DL1216  
+LM1216 CR1216 (Lithium) 25 (Lithium) 3 Coin \+ bottom/sides  
+â top D 12.5 mm  
+H 1.6 mm Standard Discharge Current: 0.1 mA  
+CR1220 CR1220 (Lithium)  
+BR1220 (Carbon monofluoride Lithium) 35-40 (Lithium) 3 Coin \+ bottom/sides  
+â top D 12.5 mm  
+H 2.0 mm Standard Discharge Current: 0.1 mA (Lithium), 0.03 mA (Carbon
+monofluoride Lithium)  
+CR1225 CR1225 (Lithium)  
+BR1225 (Carbon monofluoride Lithium) 50 (Lithium) 3 Coin \+ bottom/sides  
+â top D 12.5 mm  
+H 2.5 mm Standard Discharge Current: 0.2 mA. Maximum discharge current: 1 mA.
+Maximum pulse discharge current: 5 mA.  
+CR1616 CR1616 (Lithium) 50-55 (Lithium) 3 Coin \+ bottom/sides  
+â top D 16 mm  
+H 1.6 mm Standard Discharge Current: 0.1 mA  
+CR1620 CR1620 (Lithium) 75-78 (Lithium) 3 Coin \+ bottom/sides  
+â top D 16 mm  
+H 2.0 mm Standard Discharge Current: 0.1 mA  
+CR1632 CR1632 (Lithium)  
+BR1632 (Carbon monofluoride Lithium) 140 (Lithium)  
+120 (Carbon monofluoride Lithium) 3 Coin \+ bottom/sides  
+â top D 16 mm  
+H 3.2 mm Standard Discharge Current: 0.1 mA (Lithium), 0.03 mA (Carbon
+monofluoride Lithium)  
+CR2012 CR2012 (Lithium) 55 (Lithium) 3 Coin \+ bottom/sides  
+â top D 20 mm  
+H 1.2 mm Standard Discharge Current: 0.1 mA  
+CR2016 DL2016 CR2016 (Lithium)  
+BR2016 (Carbon monofluoride Lithium) 5000LC (Lithium) 90 (Lithium) 3 Coin \+
+bottom/sides  
+â top D 20 mm  
+H 1.6 mm Standard Discharge Current: 0.1 mA (Lithium), 0.03 mA (Carbon
+monofluoride Lithium). Often used in pairs instead of CR2032 for devices that
+require more than 3 V, like blue/white LED flashlights. CAUTION: Using two
+CR2016 when not specified can damage a device.  
+CR2025 DL2025 CR2025 (Lithium) 5003LC (Lithium) 160-165 (Lithium) 3 Coin \+
+bottom/sides  
+â top D 20 mm  
+H 2.5 mm Standard Discharge Current: 0.2 mA.  
+CR2032 DL2032 CR2032 (Lithium)  
+BR2032 (Carbon monofluoride Lithium) 5004LC (Lithium) 220-225 (Lithium) 3 Coin
+\+ bottom/sides  
+â top D 20 mm  
+H 3.2 mm Standard Discharge Current: 0.2 mA (Lithium), 0.03 mA (Carbon
+monofluoride Lithium). Maximum discharge current: 3 mA. Maximum pulse
+discharge current: 15 mA. Common battery in computers to keep the date and
+CMOS settings current when power is off.  
+CR2330 CR2330 (Lithium)  
+BR2330 (Carbon monofluoride Lithium) 265 (Lithium)  
+255 (Carbon monofluoride Lithium) 3 Coin \+ bottom/sides  
+â top D 23 mm  
+H 3.0 mm Standard Discharge Current: 0.2 mA (Lithium), 0.03 mA (Carbon
+monofluoride Lithium)  
+CR2354 CR2354 (Lithium) 560 (Lithium) 3 Coin \+ bottom/sides  
+â top D 23 mm  
+H 5.4 mm Standard Discharge Current: 0.2 mA  
+CR2450 DL2450 CR2450 (Lithium) 5029LC (Lithium) 610-620 (Lithium) 3 Coin \+
+bottom/sides  
+â top D 24.5 mm  
+H 5.0 mm Portable devices requiring high current (30 mA) and long shelf life
+(up to 10 years)  
+CR2477 P120ND CR2477 (Lithium) 1000 (Lithium) 3 Coin \+ bottom/sides  
+â top D 24.5 mm  
+H 7.7 mm Standard Discharge Current: 0.2 mA  
+CR3032 CR3032 (Lithium)  
+BR3032 (Carbon monofluoride Lithium) 500-560 (Lithium)  
+500 (Carbon monofluoride Lithium) 3 Coin \+ bottom/sides  
+â top D 30.0 mm  
+H 3.2 mm Standard Discharge Current: 0.2 mA (Lithium), 0.03 mA (Carbon
+monofluoride Lithium)  
+SR41 AG3/SG3  
+LR41  
+192/384/392 LR736 (alkaline)  
+SR736 (silver oxide) 1135SO (silver oxide)  
+1134SO (silver oxide) 25-32 (alkaline)  
+38-45 (silver oxide) 1.50 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 7.9 mm  
+H 3.6 mm Watches, Clocks, Timers, Blinky lights  
+SR43 AG12/SG12  
+LR43  
+186/301/386 LR1142 (alkaline)  
+SR1142 (silver oxide) 1133SO (silver oxide)  
+1132SO (silver oxide) 80 (alkaline)  
+120-125 (silver oxide) 1.50 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 11.6 mm  
+H 4.2 mm Watches, Clocks, Timers  
+SR44 AG13/SG13  
+LR44/LR154  
+A76/S76  
+157/303/357 LR1154 (alkaline)  
+SR1154 (silver oxide) 1166A (alkaline)  
+1107SO (silver oxide)  
+1131SOP (silver oxide) 110-150 (alkaline)  
+170-200 (silver oxide) 1.50 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 11.6 mm  
+H 5.4 mm Watches, Clocks, Timers, Blinky lights  
+SR45 AG9/SG9  
+LR45  
+194/394  
+LR936 (alkaline)  
+SR936 (silver oxide) 48 (alkaline)  
+55-70 (silver oxide) 1.50 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 9.5 mm  
+H 3.6 mm Watches, Clocks, Timers  
+SR48 AG5/SG5  
+LR48  
+193/309/393 LR754 (alkaline)  
+SR754 (silver oxide) 1136SO (silver oxide)  
+1137SO (silver oxide) 52 (alkaline)  
+70 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 7.9 mm  
+H 5.4 mm Watches, Clocks, Timers  
+SR54 AG10/SG10  
+LR54  
+189/387/389/390  
+LR1130/SR1130 LR1131 (alkaline)  
+SR1131 (silver oxide) 1138SO (silver oxide) 44-68 (alkaline)  
+80-86 (silver oxide) 1.50 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 11.6 mm  
+H 3.1 mm Watches, Clocks, Timers, Blinky lights  
+SR55 AG8/SG8  
+LR55  
+191/381/391  
+LR1120/SR1120 LR1121 (alkaline)  
+SR1121 (silver oxide) 1160SO (silver oxide) 40-42 (alkaline)  
+55-67 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 11.6 mm  
+H 2.1 mm Watches, Clocks, Timers  
+SR57 AG7/SG7  
+LR57  
+195/395/399  
+LR927/SR927 LR926 (alkaline)  
+SR926 (silver oxide) 116550 (silver oxide) 46 (alkaline)  
+55-67 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 9.4 mm  
+H 2.6 mm Watches, Clocks, Timers  
+SR58 AG11/SG11  
+LR58  
+162/361/362 LR721 (alkaline)  
+SR721 (silver oxide) 1158SO (silver oxide) 18-25 (alkaline)  
+33-36 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 7.9 mm  
+H 2.1 mm Watches, Clocks, Timers  
+SR59 AG2/SG2  
+LR59  
+196/396/397 LR726 (alkaline)  
+SR726 (silver oxide) 1163SO (silver oxide) 26 (alkaline)  
+30 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 7.9 mm  
+H 2.6 mm Watches, Clocks, Timers  
+SR60 AG1/SG1  
+LR60  
+164/364 LR621 (alkaline)  
+SR621 (silver oxide) 1175SO (silver oxide) 13 (alkaline)  
+20 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 6.8 mm  
+H 2.1 mm Watches, Clocks, Timers  
+SR63 AG0/SG0  
+LR63  
+379  
+LR521 (alkaline)  
+SR521 (silver oxide) 10 (alkaline)  
+18 (silver oxide) 1.50 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 5.8 mm  
+H 2.1 mm Watches, Clocks, Timers  
+SR66 AG4/SG4  
+LR66  
+177/377  
+SR626SW LR626 (alkaline)  
+SR626 (silver oxide) 1176SO (silver oxide) 12-18 (alkaline)  
+26 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 6.8 mm  
+H 2.6 mm Watches, Clocks, Timers  
+SR69 AG6/SG6  
+LR69  
+171/371  
+LR920/SR920 LR921 (alkaline)  
+SR921 (silver oxide) 30 (alkaline)  
+55 (silver oxide) 1.5 (alkaline)  
+1.55 (silver oxide) Button \+ bottom/sides  
+â top D 9.5 mm  
+H 2.1 mm Watches, Clocks, Timers  
+### [edit] Naming notes
+
+  * CR# / BR# / SR# / LR# Button Cells (where the code contains 3 to 4 numeric digits): Uses an alphanumeric coding system defined by the International Electrotechnical Commission (IEC) in its current 60086-3 standard (Primary batteries, part 3 Watch batteries). Examples of this code are batteries coded CR2032, SR516, and LR1154 where the letters and numbers in that code indicate the battery's characteristics. The numbers in the code correlate with the cell dimensions, being the diameter in millimetres (except for the extra half millimetre in some cases) followed by the height in tenths of a millimetre. SR and LR button cells where the code contains only one or two numeric digits conform to an older international standard.
+
+  * SR# / LR# / AG# / SG# Button Cells: IEC SR series batteries are silver oxide chemistry and provide 1.55 volts, while IEC LR series batteries are alkaline chemistry and provide 1.5 volts. Similarly, SG series batteries are the silver oxide chemistry version of the AG series where AG usually indicates alkaline chemistry. Since there are no 'common' names beyond the AG# designation, many places use these four designations interchangeably for the same sized cell, and they will all fit and work. The only difference is that silver oxide chemistry typically has 50% greater capacity than alkaline chemistry. In low-drain devices like watches (without lights) this isn't very important, but in high-drain devices like blinkies, key chain flashlights, or laser pointers silver oxide is preferred. Typically all four types will be the same price unless one buys in wholesale volume so there is no reason not to get the silver oxide version. Often the free 'demo' batteries that come with a device are the alkaline version.
+
+  * IEC CR# / BR# Button Cells: CR denotes Manganese dioxide Lithium chemistry. Since LiMnO2 cells produce 3 volts there are no widely available alternate chemistries for a CR coin battery. Conversely one LiMnO2 cell can replace two alternate chemistry cells, in a 3, 6, 9, or 12 volt secondary battery. Though often hard to find, some CR sizes are also sold designated as BR, such as the BR2032. BR types have a slightly different chemistry (Poly-carbon monofluoride Lithium) giving a higher capacity but at the expense of maximum discharge current. They are more suited to memory retention applications.
+
+  * Button / Coin / Watch / Micro / Miniature: In many places these are used interchangeably.
+
+## [edit] See also
+
+Sister project Wikimedia Commons has media related to: Electric batteries  
+  * Battery holder
+  * PP3 battery
+  * AA battery
+  * AAA battery
+  * AAAA battery
+  * C battery
+  * D battery
+  * Lantern battery
+  * CR2025 battery
+  * LR44 battery (Good example of manufacturer naming versus IEC/ANSI naming)
+  * 2CR5 battery (Good example of a secondary battery)
+  * Button cell
+  * Battery (vacuum tube)
+
+## [edit] References
+
+  1. ^ Excludes the mass of the air oxidizer.
+
+  * IEC 60086-1: Primary batteries - Part 1: General
+  * IEC 60086-2: Primary batteries - Part 2: Physical and electrical specifications
+  * IEC 60086-3: Primary batteries - Part 3: Watch batteries
+  * IEC 60086-4: Primary batteries - Part 4: Safety of lithium batteries
+  * ANSI C18.1, Part 1 Portable Primary Cells and Batteries With Aqueous Electrolyte - General and Specifications
+  * ANSI C18.1, Part 2 Portable Primary Cells and Batteries With Aqueous
+
+Electrolyte ? Safety Standard
+
+  * ANSI C18.2, Part 1 Portable Rechargeable Cells and Batteries - General and Specifications
+  * ANSI C18.2, Part 2 Portable Rechargeable Cells and Batteries ? Safety
+
+Standard
+
+  * ANSI C18.3, Part 1 Portable Lithium Primary Cells and Batteries - General and Specifications
+  * ANSI C18.3, Part 2 Portable Lithium Primary Cells and Batteries ? Safety Standard
+
+## [edit] External links
+
+  * A growing list of battery equivalents and details. Courtesy of Highfields Amateur Radio Club (Cardiff, UK).
+  * Maxell Micro Battery Cross Reference
+  * Duracell Technical OEM Data Sheets
+  * Energizer/Eveready Data Sheets
+  * Energizer/Eveready European Data Sheets
+  * Panasonic Lithium Coin cells Specifications
+  * Panasonic Data Sheet on Poly-carbonmonofluoride Lithium coin batteries
+  * Powerstream.com Battery Chemistry Tutorial
+  * The relevant US standard is ANSI C18.1 American National Standard for Dry Cells and Batteries-Specifications.
+  * Brand Neutral Drawings Of Common Batteries Based On ANSI C18-2007
+  * Industrial Battery (Traction) OEM Sizes and Data Sheets
+  * EU Report on battery labeling
+
+v â¢ d â¢ e
+
+Battery sizes  
+AA battery Â· AAA battery Â· AAAA battery Â· C battery Â· D battery Â· PP3
+battery Â· LR44 battery Â· Button cell  
+Retrieved from "http://en.wikipedia.org/wiki/List_of_battery_sizes"
+
+Categories: Electric batteries | Electronics lists | Battery shapes
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 21 April 2009, at 19:21 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

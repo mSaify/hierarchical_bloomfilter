@@ -1,0 +1,850 @@
+
+# International Monetary Fund
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Coordinates: 38Â°54â²00â³N 77Â°2â²39â³Wï»¿ / ï»¿38.9Â°N 77.04417Â°Wï»¿ /
+38.9; -77.04417
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (May 2007)  
+"IMF" redirects here. For other uses, see IMF (disambiguation).
+
+<IMG>  
+International Monetary Fund  
+IMF member states in green  
+IMF member states in green  
+Headquarters Washington, D.C., USA  
+Managing Director Dominique Strauss-Kahn  
+Central Bank of  
+Currency Special Drawing Rights  
+ISO 4217 Code XDR  
+Base borrowing rate 3.49% for SDRs[1]  
+Website www.imf.org  
+The International Monetary Fund (IMF) is an international organization that
+oversees the global financial system by following the macroeconomic policies
+of its member countries, in particular those with an impact on exchange rates
+and the balance of payments. It is an organization formed to stabilize
+international exchange rates and facilitate development.[2] It also offers
+financial and technical assistance to its members, making it an international
+lender of last resort. Its headquarters are located in Washington, D.C., USA.
+
+## Contents
+
+  * 1 Organization and purpose
+    * 1.1 History
+    * 1.2 Today
+  * 2 Data Dissemination Systems
+  * 3 Membership qualifications
+  * 4 Members' quotas and voting power, and Board of Governors
+  * 5 Assistance and reforms
+  * 6 IMF/World Bank support of military dictatorships
+  * 7 Criticism
+    * 7.1 Impact on Public Health
+    * 7.2 Criticism from free-market advocates
+  * 8 Past managing directors
+  * 9 Media representation of the IMF
+  * 10 See also
+  * 11 References
+  * 12 References
+  * 13 External links
+
+  
+## [edit] Organization and purpose
+
+<IMG>
+
+<IMG>
+
+Headquarters in Washington D.C.
+
+The International Monetary Fund was created in 1944 [1], with a goal to
+stabilize exchange rates and assist the reconstruction of the world's
+international payment system. Countries contributed to a pool which could be
+borrowed from, on a temporary basis, by countries with payment imbalances.
+(Condon, 2007)
+
+The IMF describes itself as "an organization of 185 countries (Montenegro
+being the 185th, as of January 18, 2007), working to foster global monetary
+cooperation, secure financial stability, facilitate international trade,
+promote high employment and sustainable economic growth, and reduce poverty".
+With the exception of Taiwan, North Korea, Cuba, Andorra, Monaco,
+Liechtenstein, Tuvalu, and Nauru, all UN member states participate directly in
+the IMF. Most are represented by other member states on a 24-member Executive
+Board but all member countries belong to the IMF's Board of Governors.[3]
+
+### [edit] History
+
+The International Monetary Fund was formally created in July 1944 during the
+United Nations Monetary and Financial Conference. The representatives of 45
+governments met in the Mount Washington Hotel in the area of Bretton Woods,
+New Hampshire, United States of America, with the delegates to the conference
+agreeing on a framework for international economic cooperation.[4] The IMF was
+formally organised on December 27, 1945, when the first 29 countries signed
+its Articles of Agreement. The statutory purposes of the IMF today are the
+same as when they were formulated in 1944 (see #Assistance and reforms).
+
+### [edit] Today
+
+The IMF's influence in the global economy steadily increased as it accumulated
+more members. The number of IMF member countries has more than quadrupled from
+the 44 states involved in its establishment, reflecting in particular the
+attainment of political independence by many developing countries and more
+recently the collapse of the Soviet bloc. The expansion of the IMF's
+membership, together with the changes in the world economy, have required the
+IMF to adapt in a variety of ways to continue serving its purposes
+effectively.
+
+In 2008, faced with a shortfall in revenue, the International Monetary Fund's
+executive board agreed to sell part of the IMF's gold reserves. On April 27,
+2008, IMF Managing Director Dominique Strauss-Kahn welcomed the board's
+decision April 7, 2008 to propose a new framework for the fund, designed to
+close a projected $400 million budget deficit over the next few years. The
+budget proposal includes sharp spending cuts of $100 million until 2011 that
+will include up to 380 staff dismissals.[5]
+
+At the 2009 G-20 London summit, it was decided that the IMF budget will be
+tripled to $750billion, to better meet the needs of the global community
+amidst the late 2000s recession.[6][7]
+
+## [edit] Data Dissemination Systems
+
+<IMG>
+
+<IMG>
+
+IMF Data Dissemination Systems participants:  IMF member using SDDS IMF
+member, using GDDS IMF member, not using any of the DDSystems non-IMF entity
+using SDDS non-IMF entity using GDDS no interaction with the IMF
+
+In 1995, the International Monetary Fund began work on data dissemination
+standards with the view of guiding IMF member countries to disseminate their
+economic and financial data to the public. The International Monetary and
+Financial Committee (IMFC) endorsed the guidelines for the dissemination
+standards and they were split into two tiers: The General Data Dissemination
+System (GDDS) and the Special Data Dissemination Standard (SDDS).
+
+The International Monetary Fund executive board approved the SDDS and GDDS in
+1996 and 1997 respectively and subsequent amendments were published in a
+revised âGuide to the General Data Dissemination Systemâ. The system is
+aimed primarily at statisticians and aims to improve many aspects of
+statistical systems in a country. It is also part of the World Bank Millennium
+Development Goals and Poverty Reduction Strategic Papers.
+
+The IMF established a system and standard to guide members in the
+dissemination to the public of their economic and financial data. Currently
+there are two such systems: General Data Dissemination System (GDDS) and its
+superset Special Data Dissemination System (SDDS), for those member countries
+having or seeking access to international capital markets.
+
+The primary objective of the GDDS is to encourage IMF member countries to
+build a framework to improve data quality and increase statistical capacity
+building. This will involve the preparation of metadata describing current
+statistical collection practices and setting improvement plans. Upon building
+a framework, a country can evaluate statistical needs, set priorities in
+improving the timeliness, transparency, reliability and accessibility of
+financial and economic data.
+
+Some countries initially used the GDDS, but lately upgraded to SDDS.
+
+Some entities that are not themselves IMF members also contribute statistical
+data to the systems:
+
+  * <IMG> Palestinian Authority â GDDS
+  * <IMG> Hong Kong â SDDS
+  * <IMG> European Union institutions: 
+    * the European Central Bank for the Eurozone â SDDS
+    * Eurostat for the whole EU â SDDS, thus providing data from <IMG> Cyprus (not using any DDSystem on its own) and <IMG> Malta (using only GDDS on its own)
+
+## [edit] Membership qualifications
+
+Any country may apply for membership to the IMF. The application will be
+considered first by the IMF's Executive Board. After its consideration, the
+Executive Board will submit a report to the Board of Governors of the IMF with
+recommendations in the form of a "Membership Resolution." These
+recommendations cover the amount of quota in the IMF, the form of payment of
+the subscription, and other customary terms and conditions of membership.
+After the Board of Governors has adopted the "Membership Resolution," the
+applicant state needs to take the legal steps required under its own law to
+enable it to sign the IMF's Articles of Agreement and to fulfil the
+obligations of IMF membership. Similarly, any member country can withdraw from
+the Fund, although that is rare. For example, in April 2007, the president of
+Ecuador, Rafael Correa announced the expulsion of the World Bank
+representative in the country. A few days later, at the end of April,
+Venezuelan president Hugo Chavez announced that the country would withdraw
+from the IMF and the World Bank. Chavez dubbed both organisations as âthe
+tools of the empireâ that âserve the interests of the Northâ. [2] As of
+April 2008, both countries remain as members of both organisations. Venezuela
+was forced to back down because a withdrawal would have triggered default
+clauses in the country's sovereign bonds.
+
+A member's quota in the IMF determines the amount of its subscription, its
+voting weight, its access to IMF financing, and its allocation of Special
+Drawing Rights (SDRs). The United States has exclusive veto power. A member
+state cannot unilaterally increase its quota â increases must be approved by
+the Executive Board and are linked to formulas that include many variables
+such as the size of a country in the world economy. For example, in 2001,
+China was prevented from increasing its quota as high as it wished, ensuring
+it remained at the level of the smallest G7 economy (Canada).[8] In September
+2005, the IMF's member countries agreed to the first round of ad hoc quota
+increases for four countries, including China. On March 28, 2008, the IMF's
+Executive Board ended a period of extensive discussion and negotiation over a
+major package of reforms to enhance the institution's governance that would
+shift quota and voting shares from advanced to emerging markets and developing
+countries. The Fund's Board of Governors must vote on these reforms by April
+28, 2008. See "Reform of IMF Quotas and Voice: Responding to Changes in the
+Global Economy" at www.imf.org.
+
+Examples of press coverage of the discussions regarding changes to the voting
+formula to increase equity:IMF Seeks Role in Shifting Global Economy
+
+## [edit] Members' quotas and voting power, and Board of Governors
+
+Table showing the top 21 member countries in terms of voting power:[9]
+
+IMF Member Country Quota: Millions of SDRs Quota: Percentage of Total Governor
+Alternate Governor Votes: Number Votes: Percentage of Total  
+Flag of Australia Australia 3236.4 1.49 Wayne Swan Ken Henry 32614 1.47  
+Flag of Belgium Belgium 4605.2 2.12 Guy Quaden Jean-Pierre Arnoldi 46302 2.09  
+Flag of Brazil Brazil 3036.1 1.4 Guido Mantega Henrique de Campos Meirelles
+30611 1.38  
+Flag of Canada Canada 6369.2 2.93 Jim Flaherty Mark Carney 63942 2.89  
+Flag of the People's Republic of China China 8090.1 3.72 Zhou Xiaochuan Hu
+Xiaolian 81151 3.66  
+Flag of France France 10738.5 4.94 Christine Lagarde Christian Noyer 107635
+4.86  
+Flag of Germany Germany 13008.2 5.99 Axel A. Weber Peer SteinbrÃ¼ck 130332
+5.88  
+Flag of India India 4158.2 1.91 P. Chidambaram D. Subbarao 41832 1.89  
+Flag of Italy Italy 7055.5 3.25 Giulio Tremonti Mario Draghi 70805 3.2  
+Flag of Japan Japan 13312.8 6.13 Koji Omi Toshihiko Fukui 133378 6.02  
+Flag of South Korea Korea, South 2927.3 1.35 Okyu Kwon Seong Tae Lee 29523
+1.33  
+Flag of Mexico Mexico 3152.8 1.45 AgustÃ­n Carstens Guillermo Ortiz 31778 1.43  
+Flag of the Netherlands Netherlands 5162.4 2.38 A.H.E.M. Wellink L.B.J. van
+Geest 51874 2.34  
+Flag of Russia Russian Federation 5945.4 2.74 Aleksei Kudrin Sergey Ignatiev
+59704 2.7  
+Flag of Saudi Arabia Saudi Arabia 6985.5 3.21 Ibrahim A. Al-Assaf Hamad Al-
+Sayari 70105 3.17  
+Flag of Spain Spain 3048.9 1.4 Pedro Solbes Miguel FernÃ¡ndez OrdÃ³Ã±ez 30739
+1.39  
+Flag of Sweden Sweden 2395.5 1.1 Stefan Ingves Per Jansson 24205 1.09  
+Flag of Switzerland Switzerland 3458.5 1.59 Jean-Pierre Roth Hans-Rudolf Merz
+34835 1.57  
+Flag of the United Kingdom United Kingdom 10738.5 4.94 Alistair Darling Mervyn
+King 107635 4.86  
+Flag of the United States United States 37149.3 17.09 Timothy F. Geithner Ben
+Bernanke 371743 16.79  
+Flag of Venezuela Venezuela 2659.1 1.22 GastÃ³n Parra Luzardo Rodrigo Cabeza
+Morales 26841 1.21  
+remaining 165 countries 60081.4 29.14 respective respective 637067 28.78  
+## [edit] Assistance and reforms
+
+Main articles: Washington consensus and Structural adjustment program
+
+The primary mission of the IMF is to provide financial assistance to countries
+that experience serious financial and economic difficulties using funds
+deposited with the IMF from the institution's 185 member countries. Member
+states with balance of payments problems, which often arise from these
+difficulties, may request loans to help fill gaps between what countries earn
+and/or are able to borrow from other official lenders and what countries must
+spend to operate, including to cover the cost of importing basic goods and
+services. In return, countries are usually required to launch certain reforms,
+which have often been dubbed the "Washington Consensus". These reforms are
+generally required because countries with fixed exchange rate policies can
+engage in fiscal, monetary, and political practices which may lead to the
+crisis itself. For example, nations with severe budget deficits, rampant
+inflation, strict price controls, or significantly over-valued or under-valued
+currencies run the risk of facing balance of payment crises. Thus, the
+structural adjustment programs are at least ostensibly intended to ensure that
+the IMF is actually helping to prevent financial crises rather than merely
+funding financial recklessness.
+
+## [edit] IMF/World Bank support of military dictatorships
+
+The role of the Bretton Woods institutions has been controversial since the
+late Cold War period, as the IMF policy makers supported military
+dictatorships friendly to American and European corporations. Critics also
+claim that the IMF is generally apathetic or hostile to their views of
+democracy, human rights, and labor rights. The controversy has helped spark
+the anti-globalisation movement. Arguments in favor of the IMF say that
+economic stability is a precursor to democracy; however, critics highlight
+various examples in which democratized countries fell after receiving IMF
+loans.[10]
+
+In the 1960s, the IMF and the World Bank supported the government of
+Brazilâs military dictator Castello Branco with tens of millions of dollars
+of loans and credit that were denied to previous democratically-elected
+governments.[11]
+
+Countries that were or are under a Military dictatorship whilst being members
+of the IMF/World Bank (support from various sources in $ Billion):[12]
+
+Country indebted to IMF/World Bank Dictator In power from In power to debts at
+start of Dictatorship(1) Debts at end of Dictatorship(2) Country Debts in 1996
+Dictator debts generated $ billion Dictator generated debt % of total debt  
+Flag of Argentina Argentina Military dictatorship 1976 1983 9.3 48.9 93.8 39.6
+42%  
+Flag of Bolivia Bolivia Military dictatorship 1962 1980 0 2.7 5.2 2.7 52%  
+Flag of Brazil Brazil Military dictatorship 1964 1984 5.1 105.1 179 100 56%  
+Flag of Chile Chile Augusto Pinochet 1973 1989 5.2 18 27.4 12.8 47%  
+Flag of El Salvador El Salvador Military dictatorship 1979 1994 0.9 2.2 2.2
+1.3 59%  
+Flag of Ethiopia Ethiopia Mengistu Haile Mariam 1977 1991 0.5 4.2 10 3.7 37%  
+Flag of Haiti Haiti Jean-Claude Duvalier 1971 1986 0 0.7 0.9 0.7 78%  
+Flag of Indonesia Indonesia Suharto 1967 1998 3 129 129 126 98%  
+Flag of Kenya Kenya Moi 1979 2002 2.7 6.9 6.9 4.2 61%  
+Flag of Liberia Liberia Doe 1979 1990 0.6 1.9 2.1 1.3 62%  
+Flag of Malawi Malawi Banda 1964 1994 0.1 2 2.3 1.9 83%  
+Flag of Nigeria Nigeria Buhari/Abacha 1984 1998 17.8 31.4 31.4 13.6 43%  
+Flag of Pakistan Pakistan Zia-ul Haq 1977 1988 7.6 17  
+Flag of Paraguay Paraguay Stroessner 1954 1989 0.1 2.4 2.1 2.3 96%  
+Flag of the Philippines Philippines Marcos 1965 1986 1.5 28.3 41.2 26.8 65%  
+Flag of Somalia Somalia Siad Barre 1969 1991 0 2.4 2.6 2.4 92%  
+Flag of South Africa South Africa apartheid 1948 1992 18.7 23.6 18.7 79%  
+Flag of Sudan Sudan Nimeiry/al-Mahdi 1969 present 0.3 17 17 16.7 98%  
+Flag of Syria Syria Assad 1970 present 0.2 21.4 21.4 21.2 99%  
+Flag of Thailand Thailand Military dictatorship 1950 1983 0 13.9 90.8 13.9 15%  
+Flag of Zaire Zaire/Congo Mobutu 1965 1997 0.3 12.8 12.8 12.5 98%  
+Notes: Debt at takeover by dictatorship; earliest data published by the World
+Bank is for 1970. Debt at end of dictatorship (or 1996, most recent date for
+World Bank data).
+
+## [edit] Criticism
+
+> "The interests of the IMF represent the big international interests that
+seem to be established and concentrated in Wall Street."
+
+> â Che Guevara, Marxist revolutionary, 1959 [13]
+
+Two criticisms from economists have been that financial aid is always bound to
+so-called "Conditionalities", including Structural Adjustment Programs. It is
+claimed that conditionalities (economic performance targets established as a
+precondition for IMF loans) retard social stability and hence inhibit the
+stated goals of the IMF, while Structural Adjustment Programs lead to an
+increase in poverty in recipient countries.[14]
+
+One of the main SAP conditions placed on troubled countries is that the
+governments sell up as much of their national assets as they can, normally to
+western corporations at heavily discounted prices.
+
+That said, the IMF sometimes advocates "austerity programmes," increasing
+taxes even when the economy is weak, in order to generate government revenue
+and balance budget deficits, which is Keynesian policy. Countries are often
+advised to lower their corporate tax rate. These policies were criticised by
+Joseph E. Stiglitz, former chief economist and Senior Vice President at the
+World Bank, in his book Globalization and Its Discontents.[15] He argued that
+by converting to a more Monetarist approach, the fund no longer had a valid
+purpose, as it was designed to provide funds for countries to carry out
+Keynesian reflations, and that the IMF "was not participating in a conspiracy,
+but it was reflecting the interests and ideology of the Western financial
+community."[16].
+
+Argentina, which had been considered by the IMF to be a model country in its
+compliance to policy proposals by the Bretton Woods institutions, experienced
+a catastrophic economic crisis in 2001, which some believe to have been caused
+by IMF-induced budget restrictions â which undercut the government's ability
+to sustain national infrastructure even in crucial areas such as health,
+education, and security â and privatization of strategically vital national
+resources.[17] Others attribute the crisis to Argentina's misdesigned fiscal
+federalism, which caused subnational spending to increase rapidly.[18] The
+crisis added to widespread hatred of this institution in Argentina and other
+South American countries, with many blaming the IMF for the region's economic
+problems.[19] The current â as of early 2006 â trend towards moderate
+left-wing governments in the region and a growing concern with the development
+of a regional economic policy largely independent of big business pressures
+has been ascribed to this crisis.
+
+Another example of where IMF Structural Adjustment Programmes aggravated the
+problem was in Kenya. Before the IMF got involved in the country, the Kenyan
+central bank oversaw all currency movements in and out of the country. The IMF
+mandated that the Kenyan central bank had to allow easier currency movement.
+However, the adjustment resulted in very little foreign investment, but
+allowed Kamlesh Manusuklal Damji Pattni, with the help of corrupt government
+officials, to siphon off billions of Kenyan shillings in what came to be known
+as the Goldenberg scandal, leaving the country worse off than it was before
+the IMF reforms were implemented.[citation needed] In an interview, the former
+Romanian Prime Minister TÄriceanu stated that "Since 2005, IMF is constantly
+making mistakes when it appreciates the country's economic performances".[20]
+
+Overall the IMF success record is perceived as limited.[citation needed] While
+it was created to help stabilize the global economy, since 1980 critics claim
+over 100 countries (or reputedly most of the Fund's membership) have
+experienced a banking collapse that they claim have reduced GDP by four
+percent or more, far more than at any time in Post-Depression
+history.[citation needed] The considerable delay in the IMF's response to any
+crisis, and the fact that it tends to only respond to them or even create
+them[21] rather than prevent them, has led many economists to argue for
+reform. In 2006, an IMF reform agenda called the Medium Term Strategy was
+widely endorsed by the institution's member countries. The agenda includes
+changes in IMF governance to enhance the role of developing countries in the
+institution's decision-making process and steps to deepen the effectiveness of
+its core mandate, which is known as economic surveillance or helping member
+countries adopt macroeconomic policies that will sustain global growth and
+reduce poverty. On June 15, 2007, the Executive Board of the IMF adopted the
+2007 Decision on Bilateral Surveillance, a landmark measure that replaced a
+30-year-old decision of the Fund's member countries on how the IMF should
+analyse economic outcomes at the country level.
+
+### [edit] Impact on Public Health
+
+In 2008, a study by analysts from Cambridge and Yale universities published on
+the open-access Public Library of Science concluded that strict conditions on
+the international loans by the IMF resulted in thousands of deaths in Eastern
+Europe by tuberculosis as public health care had to be weakened. In the 21
+countries which the IMF had given loans, tuberculosis deaths rose by 16.6
+%.[22]
+
+### [edit] Criticism from free-market advocates
+
+Typically the IMF and its supporters advocate a monetarist approach. As such,
+adherents of supply-side economics generally find themselves in open
+disagreement with the IMF. The IMF frequently advocates currency devaluation,
+criticized by proponents of supply-side economics as inflationary. Secondly
+they link higher taxes under "austerity programmes" with economic contraction.
+
+Currency devaluation is recommended by the IMF to the governments of poor
+nations with struggling economies. Some economists claim these IMF policies
+are destructive to economic prosperity.
+
+Complaints are also directed toward International Monetary Fund gold reserve
+being undervalued. At its inception in 1945, the IMF pegged gold at US$35 per
+Troy ounce of gold. In 1973 the Nixon administration lifted the fixed asset
+value of gold in favor of a world market price. Hence the fixed exchange rates
+of currencies tied to gold were switched to a floating rate, also based on
+market price and exchange. This largely came about because Petrodollars
+outside the United States were more than could be backed by the gold at Fort
+Knox under the fixed exchange rate system. The fixed rate system only served
+to limit the amount of assistance the organisation could use to help debt-
+ridden countries. Current IMF rules prohibit members from linking their
+currencies to gold.[citation needed]
+
+## [edit] Past managing directors
+
+Historically the IMF's managing director has been European and the president
+of the World Bank has been from the United States. However, this standard is
+increasingly being questioned and competition for these two posts may soon
+open up to include other qualified candidates from any part of the world.
+Executive Directors, who confirm the managing director, are voted in by
+Finance Ministers from countries they represent. The First Deputy Managing
+Director of the IMF, the second-in-command, has traditionally been (and is
+today) an American.
+
+The IMF is for the most part controlled by the major Western Powers, with
+voting rights on the Executive board based on a quota derived from the
+relative size of a country in the global economy. Critics claim that the board
+rarely votes and passes issues contradicting the will of the US or Europeans,
+which combined represent the largest bloc of shareholders in the Fund. On the
+other hand, Executive Directors that represent emerging and developing
+countries have many times strongly defended the group of nations in their
+constituency. Alexandre Kafka, who represented several Latin American
+countries for 32 years as Executive Director (including 21 as the dean of the
+Board), is a prime example. Mohamed Finaish from Libya, the Executive Director
+representing the majority of the Arab World and Pakistan, was a tireless
+defender[citation needed] of the developing nations' rights at the IMF until
+the 1992 elections.
+
+Rodrigo Rato became the ninth Managing Director of the IMF on June 7, 2004 and
+resigned his post at the end of October 2007.
+
+EU ministers agreed on the candidacy of Dominique Strauss-Kahn as managing
+director of the IMF at the Economic and Financial Affairs Council meeting in
+Brussels on July 10, 2007. On September 28, 2007, the International Monetary
+Fund's 24 executive directors elected Mr. Strauss-Kahn as new managing
+director, with broad support including from the United States and the
+27-nation European Union. Strauss-Kahn succeeded Spain's Rodrigo de Rato, who
+retired on October 31, 2007.[23] The only other nominee was Josef Tosovsky, a
+late candidate proposed by Russia. Strauss-Kahn said: "I am determined to
+pursue without delay the reforms needed for the IMF to make financial
+stability serve the international community, while fostering growth and
+employment."[24]
+
+Dates Name Country  
+May 6, 1946 â May 5, 1951 Camille Gutt Belgium  
+August 3, 1951 â October 3, 1956 Ivar Rooth Sweden  
+November 21, 1956 â May 5, 1963 Per Jacobsson Sweden  
+September 1, 1963 â August 31, 1973 Pierre-Paul Schweitzer France  
+September 1, 1973 â June 16, 1978 Johannes Witteveen Netherlands  
+June 17, 1978 â January 15, 1987 Jacques de LarosiÃ¨re France  
+January 16, 1987 â February 14, 2000 Michel Camdessus France  
+May 1, 2000 â March 4, 2004 Horst KÃ¶hler Germany  
+June 7, 2004 â October 31, 2007 Rodrigo Rato Spain  
+November 1, 2007 â present Dominique Strauss-Kahn France  
+## [edit] Media representation of the IMF
+
+Life and Debt, a documentary film, deals with the IMF's policies' influence on
+Jamaica and its economy from a critical point of view. In 1978, one year after
+Jamaica first entered a borrowing relationship with the IMF, the Jamaican
+dollar was still worth more on the open exchange than the US dollar; by 1995,
+when Jamaica terminated that relationship, the Jamaican dollar had eroded to
+less than 2 cents US. Such observations lead to skepticism that IMF
+involvement is not necessarily helpful to a third world economy.
+
+The Debt of Dictators [3] explores the lending of billions of dollars by the
+IMF, World Bank multinational banks and other international financial
+institutions to brutal dictators throughout the world. (see IMF/World Bank
+support of military dictatorships)
+
+Radiohead mentions the IMF in their song "Electioneering" on their 1997
+release, OK Computer. The lyrics state, "It's just business/Cattle prods and
+the IMF/I trust I can rely on your vote". Bruce Cockburn mentions the IMF in
+his song "Call It Democracy". The lyrics state "IMF dirty MF/takes away
+everything it can get/always making certain that there's one thing left/keep
+them on the hook with insupportable debt".
+
+## [edit] See also
+
+  * Third world debt
+  * Economics
+  * Special Drawing Rights
+  * Development aid
+  * Organisation for Economic Co-operation and Development
+  * Globalization and Its Discontents
+  * Globalization and Health
+  * Bancor
+  * Bank for International Settlements
+  * World Bank
+  * Inter-American Development Bank
+  * Bretton Woods system
+  * Global Governance Watch
+
+## [edit] References
+
+  1. ^ Exchange Rate Archives by Month
+  2. ^ Sullivan, arthur; Steven M. Sheffrin (2003). Economics: Principles in action. Upper Saddle River, New Jersey 07458: Pearson Prentice Hall. pp. 488\. ISBN 0-13-063085-3. http://www.pearsonschool.com/index.cfm?locator=PSZ3R9&PMDbSiteId=2781&PMDbSolutionId=6724&PMDbCategoryId=&PMDbProgramId=12881&level=4.
+  3. ^ IMF Articles of Agreement, Article XII Section 2(a) and Section 3(b).
+  4. ^ Brief video of the Bretton Woods Conference is available at http://www.youtube.com/watch?v=GVytOtfPZe8
+  5. ^ http://www.imf.org/external/np/sec/pr/2008/pr0874.htm
+  6. ^ http://news.bbc.co.uk/1/hi/business/7979483.stm
+  7. ^ http://www.guardian.co.uk/world/2009/apr/03/g20-gordon-brown-global-economy
+  8. ^ Barnett, Michael and Finnemore, Martha. Rules for the World: International Organisations in Global Politics. Ithaca: Cornell University Press, 2004.
+  9. ^ "http://www.imf.org/external/np/sec/memdir/members.htm#3". IMF. http://www.imf.org/external/np/sec/memdir/members.htm#3. Retrieved on 2007-09-24.
+  10. ^ "World Bank - IMF support to dictatorships". cadtm. http://www.cadtm.org/spip.php?article809. Retrieved on 2007-09-21.
+  11. ^ BRAZIL Toward Stability, TIME Magazine, December 31, 1965
+  12. ^ "Dictators and debt". Jubilee 2000. http://www.jubileeresearch.org/analysis/reports/dictatorsreport.htm. Retrieved on 2007-09-21.
+  13. ^ An interview with Che Guevara for Radio Rivadavia of Argentina on November 3, 1959
+  14. ^ Hertz, Noreena. The Debt Threat. New York: Harper Collins Publishers, 2004.
+  15. ^ Stiglitz, Joseph. Globalization and its Discontents. New York: WW Norton & Company, 2002.
+  16. ^ Globalization: Stiglitz's Case
+  17. ^ Economic debacle in Argentina: The IMF strikes again
+  18. ^ Stephen Webb, "Argentina: Hardening the Provincial Budget Constraint," in Rodden, Eskeland, and Litvack (eds.), Fiscal Decentralization and the Challenge of Hard Budget Constraints (Cambridge, Mass.: MIT Press, 2003).
+  19. ^ How the IMF Props Up the Bankrupt Dollar System, by F. William Engdahl, US/Germany
+  20. ^ TÄriceanu: FMI a fÄcut constant greÅeli de apreciere a economiei romÃ¢neÅti - Mediafax
+  21. ^ Budhoo, Davidson. Enough is Enough: Dear Mr. Camdessus... Open Letter to the Managing Director of the International Monetary Fund. New York: New Horizons Press, 1990.
+  22. ^ International Monetary Fund Programs and Tuberculosis Outcomes in Post-Communist Countries PLoS Medicine. The study has not been independently verified, nor have the authors published parts of their supporting data. Retrieved 29-7-2008.
+  23. ^ Yahoo.com, IMF to choose new director
+  24. ^ BBC NEWS, Frenchman is named new IMF chief
+
+## [edit] References
+
+  * Jan Joost Teunissen and Age Akkerman (eds.) (2005). Helping the Poor? The IMF and Low-Income Countries. FONDAD. ISBN 90-74208-25-8.
+  * Dreher, Axel (2002). The Development and Implementation of IMF and World Bank Conditionality. HWWA. ISSN 1616-4814. http://econwpa.wustl.edu/eps/if/papers/0207/0207003.pdf.
+  * Dreher, Axel (2004). "A Public Choice Perspective of IMF and World Bank Lending and Conditionality". Public Choice 119 (3â4): 445â464. doi:10.1023/B:PUCH.0000033326.19804.52.
+  * Dreher, Axel (2004). "The Influence of IMF Programs on the Re-election of Debtor Governments". Economics & Politics 16 (1): 53â75. doi:10.1111/j.1468-0343.2004.00131.x.
+  * Dreher, Axel (2003). "The Influence of Elections on IMF Programme Interruptions". The Journal of Development Studies 39 (6): 101â120. doi:10.1080/00220380312331293597.
+  * The Best Democracy Money Can Buy by Greg Palast (2002)
+  * The IMF and The World Bank: How do they differ? by David D. Driscoll
+  * Rivalries between IMF and IBRD, "Sister-talk", The Economist (2007-03-01)
+  * George, S. (1988). A Fate Worse Than Debt. London: Penguin Books.
+  * Hancock, G. (1991). Lords of Poverty: The Free-Wheeling Lifestyles, Power, Prestige and Corruption of the Multi-billion Dollar Aid Business. London: Mandarin.
+  * Markwell, Donald (2006), John Maynard Keynes and International Relations: Economic Paths to War and Peace, Oxford & New York: Oxford University Press.
+  * Rapkin, David P. and Jonathan R. Strand (2005) âDeveloping Country Representation and Governance of the International Monetary Fund,â World Development 33, 12: 1993-2011.
+  * Strand, Jonathan R and David P. Rapkin (2005) âVoting Power Implications of a Double Majority Voting Procedure in the IMFâs Executive Board,â in Reforming the Governance of the IMF and World Bank, Ariel Buira, ed, London: Anthem Press.
+  * Williamson, John. (August 1982). The Lending Policies of the International Monetary Fund, Policy Analyses in International Economics 1, Washington D.C., Institute for International Economics. ISBN 0-88132-000-5
+
+## [edit] External links
+
+  * IMF and International Economic Policy U.S. House of Representatives
+  * International Monetary Fund website
+  * Finance & Development - A quarterly magazine of the IMF
+  * Annual Reports of the Executive Board
+  * World Economic Outlook Reports
+  * IMF Publications
+  * IMF Fiscal Affairs Department (FAD)
+  * August Review - Global Banking: The IMF
+  * Kenneth Rogoff - The sisters at 60
+  * How the IMF Props Up the Dollar System
+  * IMFâs Origins as a Blueprint for Its Future, Anna J. Schwartz, National Bureau of Economic Research
+  * Center for International Finance & Development University of Iowa research center, includes a 300 page E-book on the IMF and World Bank.
+  * Political Forecasting? The IMFâs Flawed Growth Projections for Argentina and Venezuela by David Rosnick and Mark Weisbrot, Center for Economic and Policy Research
+  * What's the difference between the IMF and the World Bank? by economist Arthur MacEwan, in Dollars & Sense magazine
+  * "Monetary Freedom Act" HR 391, by Congressman Ron Paul, 1981
+  * Bretton Woods Project Critical voices on the World Bank and IMF
+  * Eurodad report: Critical conditions: The IMF maintains its grip on low-income governments
+
+v â¢ d â¢ e
+
+International trade  
+Definitions
+
+Balance of payments Â· Current account (Balance of trade) Â· Capital account
+Â· Foreign exchange reserves Â· Net Capital Outflow Â· Comparative advantage
+Â· Absolute advantage Â· Import substitution industrialization Â·
+International trade
+
+<IMG>  
+Organizations and policies
+
+World Trade Organization Â· International Monetary Fund Â· World Bank Group Â·
+International Trade Centre Â· Trade bloc Â· Free trade zone Â· Trade barrier  
+Schools of thought
+
+Free trade Â· Balanced trade Â· Mercantilism Â· Protectionism  
+Related issues
+
+Globalization Â· Outsourcing Â· Trade justice Â· Fair trade  
+Customs unions
+
+CACM Â· ACU Â· CAN Â· CARICOM Â· CEMAC Â· EAC Â· EAEC Â· EU Â· GCC Â· Mercosur
+Â· SACU Â· WAEMU  
+v â¢ d â¢ e
+
+Central banks  
+Global
+
+Bank for International Settlements Â· Financial Stability Forum Â· Basel
+Committee on Banking Supervision  
+By continent  
+Africa
+
+National Bank of Ethiopia Â· Central Bank of Libya Â· Bank Al-Maghrib
+(Morocco) Â· Central Bank of Nigeria Â· Reserve Bank of Zimbabwe  
+Americas
+
+Central Bank of Argentina Â· Central Bank of Barbados Â· Central Bank of
+Brazil Â· Bank of Canada Â· Central Bank of Chile Â· Eastern Caribbean Central
+Bank Â· Bank of Mexico Â· Bank of the Republic Â· Central Reserve Bank of Peru
+Â· Federal Reserve System (United States) Â· Central Bank of Venezuela Â·
+Central Bank of Trinidad and Tobago  
+Asia and Oceania
+
+Reserve Bank of Australia Â· Bangladesh Bank Â· Brunei Currency and Monetary
+Board Â· People's Bank of China Â· Reserve Bank of India Â· Central Bank of
+Iran Â· Central Bank of Iraq Â· Bank of Israel Â· Bank Indonesia Â· Bank of
+Japan Â· Bank of Korea Â· Central Bank of Kuwait Â· Banque du Liban Â· Central
+Bank of Malaysia Â· Reserve Bank of New Zealand Â· State Bank of Pakistan Â·
+Central Bank of the Philippines Â· Monetary Authority of Singapore Â· Central
+Bank of Syria Â· Central Bank of the Republic of China Â· Bank of Thailand Â·
+State Bank of Vietnam Â· Hong Kong Monetary Authority  
+Europe
+
+European Central Bank (Eurozone) Â· Bank of Abkhazia Â· Bank of Albania Â·
+Bulgarian National Bank Â· Croatian National Bank Â· Czech National Bank Â·
+Bank of England Â· Hungarian National Bank Â· Central Bank of Kosovo Â· Polish
+National Bank Â· National Bank of Romania Â· Central Bank of Russia Â· Central
+Bank of Montenegro Â· National Bank of Serbia Â· Swiss National Bank Â·
+Central Bank of Turkey  
+Policies and implementation  
+Policies
+
+Expansionary monetary policy Â· Contractionary monetary policy Â· Capital
+requirement  
+Implementation
+
+Open market operations Â· Capital control Â· Discount rate Â· Money creation
+Â· Interest rates Â· Sovereign wealth fund  
+Bretton Woods system  
+World Bank Â· International Monetary Fund Â· International Bank for
+Reconstruction and Development Â· International Finance Corporation Â·
+International Development Association Â· Multilateral Investment Guarantee
+Agency Â· International Centre for Settlement of Investment Disputes  
+List of central banks  
+v â¢ d â¢ e
+
+Supranationalism and World government topics  
+Theory
+
+Supranationalism Â· Federalism Â· Confederation Â· Intergovernmentalism Â·
+Anti-nationalism Â· Globalization Â· Democratic mundialization Â· Pax Â·
+Cosmopolitanism Â· New World Order (conspiracy theory) Â· Supranational union  
+International bodies
+
+United Nations (UN) Â· Interpol Â· International Monetary Fund (IMF) Â· World
+Bank Group (WBG) Â· World Trade Organization (WTO) Â· Commonwealth of Nations  
+Regional bodies
+
+European Union (EU) Â· Latin Union Â· Council of Europe Â· Arab League Â·
+African Union (AU) Â· Union of South American Nations (USAN) Â· Shanghai
+Cooperation Organisation (SCO) Â· Association of Southeast Asian Nations
+(ASEAN) Â· Association of Caribbean States (ACS) Â· Commonwealth of
+Independent States (CIS) Â· Organization of American States (OAS) Â· South
+Asian Association for Regional Cooperation (SAARC) Â· Pacific Islands Forum
+(PIF) Â· NATO  
+International  
+parliaments
+
+United Nations General Assembly Â· European Parliament Â· Arab Parliament Â·
+Pan-African Parliament Â· Latin American Parliament Â· South American
+Parliament Â· Mercosur Parliament Â· Central American Parliament Â· Inter-
+Parliamentary Union  
+International courts
+
+International Criminal Court Â· International Court of Justice Â·
+International Criminal Tribunal for the former Yugoslavia Â· International
+Criminal Tribunal for Rwanda Â· African Court of Justice Â· Central American
+Court of Justice Â· Caribbean Court of Justice Â· Inter-American Court of
+Human Rights Â· European Court of Justice Â· European Court of Human Rights  
+Law and treaties
+
+International law (public Â· private Â· supranational) Â· United Nations
+Charter Â· Universal Declaration of Human Rights Â· Geneva Conventions Â· Rome
+Statute Â· Kyoto Protocol Â· European Union treaties Â· European Union law Â·
+Treaty of Chaguaramas  
+History
+
+Holy Roman Empire Â· League of Nations Â· Permanent Court of International
+Justice Â· Nuremberg Trials Â· Permanent Court of Arbitration  
+Proposals and  
+concepts
+
+World government Â· United Nations Parliamentary Assembly Â· United States of
+Africa Â· Central Asian Union Â· Pacific Union Â· North American Union Â·
+Federal Europe  
+Movements
+
+Federal Union Â· World Federalist Movement Â· Global citizens movement Â·
+World Union  
+Retrieved from "http://en.wikipedia.org/wiki/International_Monetary_Fund"
+
+Categories: 1945 establishments | International development | International
+finance institutions | International economics | International Monetary Fund
+
+Hidden categories: Articles needing additional references from May 2007 | All
+articles with unsourced statements | Articles with unsourced statements since
+June 2008 | Articles with unsourced statements since October 2008 | Articles
+with unsourced statements since June 2007
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * AragonÃ©s
+  * Asturianu
+  * AzÉrbaycan
+  * Bamanankan
+  * à¦¬à¦¾à¦à¦²à¦¾
+  * BÃ¢n-lÃ¢m-gÃº
+  * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ (ÑÐ°ÑÐ°ÑÐºÐµÐ²ÑÑÐ°)
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Galego
+  * íêµ­ì´
+  * Hrvatski
+  * Bahasa Indonesia
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * Basa Jawa
+  * á¥áá áá£áá
+  * ÒÐ°Ð·Ð°ÒÑÐ°
+  * Kiswahili
+  * Latina
+  * LatvieÅ¡u
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * Magyar
+  * ÐÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+  * à´®à´²à´¯à´¾à´³à´
+  * Bahasa Melayu
+  * Myanmasa
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Runa Simi
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Shqip
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Srpskohrvatski / Ð¡ÑÐ¿ÑÐºÐ¾Ñ ÑÐ²Ð°ÑÑÐºÐ¸
+  * Suomi
+  * Svenska
+  * Tagalog
+  * à®¤à®®à®¿à®´à¯
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * Ø§Ø±Ø¯Ù
+  * å´è¯­
+  * Å½emaitÄÅ¡ka
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 April 2009, at 03:27.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

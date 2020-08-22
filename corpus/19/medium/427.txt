@@ -1,0 +1,225 @@
+
+# nslookup
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+nslookup is a computer program used in Windows and Unix to query Domain Name
+System (DNS) servers to find DNS details, including IP addresses of a
+particular computer, MX records for a domain and the NS servers of a domain.
+The name nslookup means "name server lookup". The most common version of the
+program is included as part of the BIND package. More modern alternatives to
+nslookup are the "host" and "dig" programs which also ship with BIND.
+
+nslookup has the subcommands:
+
+  * server NAME (where NAME is the name or IP address of a DNS server to query). It is not always possible to query a specific DNS server as often DNS queries are blocked to prevent denial of service attacks.
+  * set type=NAME (where NAME is the type of record to look at). For example, set type mx will give the mail records.
+
+## [edit] Example usage
+
+Command line:
+
+    
+    unix% nslookup example.com
+    
+    Server:        192.168.1.1
+    Address:    192.168.1.1#53
+    
+    Non-authoritative answer:
+    Name:    example.com
+    Address: 208.77.188.166
+    
+Using subcommands:
+
+    
+    nslookup
+    
+    > server dns.com
+    Default Server:  dns.com
+    Address:  169.254.82.215
+    
+    > set type=mx
+    > microsoft.com
+    Server:  dns.com
+    Address:  64.40.103.249
+    
+  
+
+    
+    microsoft.com   MX preference = 0, mail exchanger = nullmx.domainmanager.com
+    > exit
+    
+### [edit] Interpretation of the standard nslookup result
+
+The first two lines are information about the name server delivering the
+response. The next two lines show the name and IP address of the machine being
+looked up.
+
+## [edit] External links
+
+  * Jonathan de Boyne Pollard. "nslookup is a badly flawed tool. Don't use it.". Frequently Given Answers. http://homepages.tesco.net/~J.deBoynePollard/FGA/nslookup-flaws.html. Retrieved on August 4.
+  * Microsoft. "Using NSLookup.exe". http://support.microsoft.com/kb/200525. Retrieved on January 23.
+  * Brad Knowles (2001-07-06). "nslookup flaws". comp.protocols.dns.bind. (Web link). â 4 flaws in nslookup
+  * Barry Margolin (2001-07-06). "nslookup flaws". comp.protocols.dns.bind. (Web link). â a 5th flaw in nslookup
+  * Daniel J. Bernstein. "Notes on nslookup". http://cr.yp.to/djbdns/nslookup.html. Retrieved on August 4.
+  * Nslookup Online \- Perform an Nslookup online from Australia.
+
+v â¢ d â¢ e
+
+Unix command line programs and builtins (more)  
+File system
+
+cat Â· cd Â· chmod Â· chown Â· chgrp Â· cksum Â· cmp Â· cp Â· du Â· df Â· file
+Â· fsck Â· fuser Â· ln Â· ls Â· lsattr Â· lsof Â· mkdir Â· mount Â· mv Â· pwd
+Â· rm Â· rmdir Â· split Â· touch  
+Processes
+
+at Â· chroot Â· cron Â· exit Â· kill Â· killall Â· nice Â· pgrep Â· pidof Â·
+pkill Â· ps Â· pstree Â· sleep Â· time Â· top Â· wait  
+User environment
+
+env Â· finger Â· id Â· logname Â· mesg Â· passwd Â· su Â· sudo Â· uname Â·
+uptime Â· w Â· wall Â· who Â· whoami Â· write  
+Text processing
+
+awk Â· comm Â· cut Â· ed Â· ex Â· fmt Â· head Â· iconv Â· join Â· less Â· more
+Â· paste Â· sed Â· sort Â· tac Â· tail Â· tr Â· uniq Â· vi Â· wc Â· xargs  
+Shell programming
+
+alias Â· basename Â· dirname Â· echo Â· expr Â· false Â· printf Â· test Â·
+true Â· unset  
+Networking
+
+inetd Â· netstat Â· ping Â· rlogin Â· netcat Â· traceroute  
+Searching
+
+find Â· grep Â· strings  
+Miscellaneous
+
+banner Â· bc Â· cal Â· clear Â· date Â· dd Â· lp Â· man Â· size Â· tee Â· tput
+Â· yes Â· umask  
+v â¢ d â¢ e
+
+Windows command line programs and builtins (more)  
+File system  
+(basic)
+
+attrib Â· cd Â· chdir Â· copy Â· del Â· deltree Â· dir Â· erase Â· expand Â·
+fdisk Â· format Â· makecab Â· md Â· mkdir Â· mklink Â· mountvol Â· move Â·
+ntbackup Â· rd Â· rename Â· ren Â· rmdir Â· robocopy Â· sfc Â· sys Â· type Â·
+xcopy  
+File system  
+(advanced)
+
+assoc Â· cacls Â· chkdsk Â· chkntfs Â· comp Â· compact Â· convert Â· defrag Â·
+diskcomp Â· diskcopy Â· diskpart Â· fc Â· fixboot Â· fixmbr Â· fsutil Â· ftype
+Â· icacls Â· label Â· recover Â· reg Â· regsvr32 Â· replace Â· rsm Â· subst Â·
+tree Â· verify Â· vol Â· vssadmin  
+Processes
+
+at Â· exit Â· kill Â· schtasks Â· start Â· sc Â· shutdown Â· taskkill Â·
+tasklist Â· tlist  
+User environment
+
+append Â· chcp Â· color Â· date Â· finger Â· graftabl Â· mode Â· path Â· popd
+Â· pushd Â· runas Â· set Â· setver Â· setx Â· systeminfo Â· time Â· title Â·
+ver Â· whoami  
+Text processing
+
+edit Â· edlin Â· more Â· sort  
+Shell programming
+
+break Â· call Â· cmd Â· command Â· cscript Â· doskey Â· echo Â· endlocal Â·
+for Â· goto Â· if Â· pause Â· powershell Â· prompt Â· rem Â· setlocal Â· shift
+Â· forfiles Â· choice  
+Networking
+
+arp Â· atmadm Â· cmstp Â· ftp Â· getmac Â· hostname Â· ipconfig Â· nbtstat Â·
+net Â· netsh Â· netstat Â· nslookup Â· pathping Â· ping Â· rcp Â· rexec Â·
+route Â· rsh Â· tcmsetup Â· telnet Â· tftp Â· tracert  
+Searching
+
+find Â· findstr  
+Miscellaneous
+
+bcdedit Â· bootcfg Â· cls Â· help Â· print Â· debug Â· exe2bin Â· lpq Â· lpr
+Â· msiexec Â· pentnt Â· w32tm Â· wmic  
+<IMG> This network-related software article is a stub. You can help Wikipedia
+by expanding it.
+
+Retrieved from "http://en.wikipedia.org/wiki/Nslookup"
+
+Categories: DNS software | Network-related software | Unix software | Windows
+communication and services | Windows administration | Network software stubs
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 19 January 2009, at 06:13 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

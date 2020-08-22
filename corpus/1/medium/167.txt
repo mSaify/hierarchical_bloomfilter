@@ -1,0 +1,110 @@
+
+# Diigo
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Diigo Image:Diigo logo v2.png  
+URL http://www.diigo.com  
+Commercial? Yes  
+Type of site Social Annotations, Highlighting and Social Bookmarking  
+Launched July 24, 2006  
+Current status Active  
+Diigo (DEE-go) is a Social bookmarking website which allows signed-up users to
+bookmark and tag web-pages. Additionally, it allows users to highlight any
+part of a webpage and attach sticky notes to specific highlights or to a whole
+page. These annotations can be kept private, shared with a group within Diigo
+or a special link forwarded to someone else. The name "Diigo" is an
+abbreviation for "Digest of Internet Information, Groups and Other stuff".[1]
+
+The launch of Diigo met with mixed responses from the unimpressed [2] to the
+enthusiastic [3]. Diigo beta was listed as one of the top 10 research tools by
+CNET in 2006.[4]
+
+Outside the website, Diigo's graphical user interface includes an optional
+bookmarklet, or a customizable toolbar, with various search capabilities.
+Highlight is enabled by a menu, that can either appear automatically when
+content is selected, or be embedded into the Context menu.
+
+A Video Tutorial of Diigo features and capabilities can be found [1] Here
+(Official Help Page). Diigo recently acquired web-clipping service Furl for an
+undisclosed amount. Furl's parent company is Looksmart. [5] [6]
+
+## [edit] References
+
+  1. ^ Diigo is about Social Annotation
+  2. ^ Diigo Launches, Nobody Cares
+  3. ^ Diigo Offers "Social Annotation" Tool - Search Engine Watch
+  4. ^ Get smart: Top 10 research tools - Internet
+  5. ^ http://www.techcrunch.com/2009/03/09/diigo-buys-web-page-clipping-service-furl-away-from-looksmart/
+  6. ^ http://www.readwriteweb.com/archives/diigo_acquires_furl.php
+
+<IMG> This website-related article is a stub. You can help Wikipedia by
+expanding it.  
+Retrieved from "http://en.wikipedia.org/wiki/Diigo"
+
+Categories: Website stubs | Social bookmarking | Community websites |
+Notetaking software | Internet services supporting OpenID
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 21 April 2009, at 16:48 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,850 @@
+
+# Nicotine
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This article is about the chemical compound. For other uses, see Nicotine
+(disambiguation).
+
+<IMG>  
+<IMG>  
+Nicotine  
+Systematic (IUPAC) name  
+3-[(2S)-1-methylpyrrolidin-2-yl]pyridine  
+Identifiers  
+CAS number 54-11-5  
+ATC code N07BA01  
+PubChem 942  
+ChemSpider 80863  
+Chemical data  
+Formula C10H14N2  
+Mol. mass 162.26 g/mol  
+SMILES eMolecules & PubChem  
+Physical data  
+Density 1.01 g/cmÂ³  
+Melt. point -79 Â°C (-110 Â°F)  
+Boiling point 247 Â°C (477 Â°F)  
+Pharmacokinetic data  
+Bioavailability 20 to 45% (oral)  
+Metabolism ?  
+Half life 2 hours  
+Excretion ?  
+Therapeutic considerations  
+Pregnancy cat.
+
+D(US)  
+Legal status
+
+Unscheduled(AU) ?(UK) ?(US)  
+Dependence Liability Medium to high  
+Routes Smoked (as tobacco), Insufflated (as snuff), Chewed  
+Nicotine is an alkaloid found in the nightshade family of plants (Solanaceae)
+which constitutes approximately 0.6â3.0% of dry weight of tobacco,[1][2]
+with biosynthesis taking place in the roots, and accumulating in the leaves.
+It functions as an antiherbivore chemical with particular specificity to
+insects; therefore nicotine was widely used as an insecticide in the
+past[verification needed][citation needed], and currently nicotine analogs
+such as imidacloprid continue to be widely used.
+
+In low concentrations (an average cigarette yields about 1 mg of absorbed
+nicotine), the substance acts as a stimulant in mammals and is one of the main
+factors responsible for the dependence-forming properties of tobacco smoking.
+According to the American Heart Association, "Nicotine addiction has
+historically been one of the hardest addictions to break." The pharmacological
+and behavioral characteristics that determine tobacco addiction are similar to
+those that determine addiction to drugs such as heroin and cocaine.[3]
+
+## Contents
+
+  * 1 History and name
+  * 2 Chemistry
+  * 3 Optical activity
+  * 4 Pharmacology
+    * 4.1 Pharmacokinetics
+    * 4.2 Pharmacodynamics
+      * 4.2.1 In CNS
+      * 4.2.2 In PNS
+      * 4.2.3 In adrenal medulla
+  * 5 Psychoactive effects
+  * 6 Dependence
+  * 7 Toxicology
+  * 8 Nicotine and oxidative stress
+  * 9 Link to circulatory disease
+  * 10 Therapeutic uses
+  * 11 Research as a potential basis for an antipsychotic agent
+  * 12 See also
+  * 13 External links
+  * 14 References
+  * 15 Further reading
+
+  
+## [edit] History and name
+
+Nicotine is named after the tobacco plant Nicotiana tabacum, which in turn is
+named after Jean Nicot de Villemain, French ambassador in Portugal, who sent
+tobacco and seeds from Brazil to Paris in 1560 and promoted their medicinal
+use. Nicotine was first isolated from the tobacco plant in 1828 by German
+chemists Posselt & Reimann.[citation needed] Its chemical empirical formula
+was described by Melsens in 1843,[4] its structure was discovered by Garry
+Pinner in 1893, and it was first synthesized by A. Pictet and Crepieux in
+1904.[citation needed]
+
+## [edit] Chemistry
+
+Nicotine is a hygroscopic, oily liquid that is miscible with water in its base
+form. As a nitrogenous base, nicotine forms salts with acids that are usually
+solid and water soluble. Nicotine easily penetrates the skin. As shown by the
+physical data, free base nicotine will burn at a temperature below its boiling
+point, and its vapors will combust at 308 K (35 Â°C; 95 Â°F) in air despite a
+low vapor pressure. Because of this, most of the nicotine is burned when a
+cigarette is smoked; however, enough is inhaled to provide the desired
+effects. The amount of nicotine inhaled with tobacco smoke is a fraction of
+the amount contained in the tobacco leaves.
+
+## [edit] Optical activity
+
+Nicotine is optically active, having two enantiomeric forms. The naturally-
+occurring form of nicotine is levorotatory, with [Î±]D = â166.4 Â°. The
+dextrorotatory form, (+)-nicotine, has only one-half the physiological
+activity of (â)-nicotine. It is therefore weaker in the sense that a higher
+dose is required to attain the same effects.[5] The salts of the (+)-nicotine
+are usually dextrorotatory.
+
+## [edit] Pharmacology
+
+### [edit] Pharmacokinetics
+
+As nicotine enters the body, it is distributed quickly through the bloodstream
+and can cross the blood-brain barrier. On average it takes about seven seconds
+for the substance to reach the brain when inhaled. The half life of nicotine
+in the body is around two hours.[6] The amount of nicotine absorbed by the
+body from smoking depends on many factors, including the type of tobacco,
+whether the smoke is inhaled, and whether a filter is used. For chewing
+tobacco, dipping tobacco and snuff, which are held in the mouth between the
+lip and gum, or taken in the nose, the amount released into the body tends to
+be much greater than smoked tobacco. Nicotine is metabolized in the liver by
+cytochrome P450 enzymes (mostly CYP2A6, and also by CYP2B6). A major
+metabolite is cotinine. Other primary metabolites include nicotine N'-oxide,
+nornicotine, nicotine isomethonium ion, 2-hydroxynicotine and nicotine
+glucuronide.[7]
+
+### [edit] Pharmacodynamics
+
+Nicotine acts on the nicotinic acetylcholine receptors, specifically the
+ganglion type nicotinic receptor and one CNS nicotinic receptor. The former is
+present in the adrenal medulla and elsewhere, while the latter is present in
+the central nervous system (CNS). In small concentrations, nicotine increases
+the activity of these receptors. Nicotine also has effects on a variety of
+other neurotransmitters through less direct mechanisms.
+
+#### [edit] In CNS
+
+By binding to nicotinic acetylcholine receptors, nicotine increases the levels
+of several neurotransmitters \- acting as a sort of "volume control". It is
+thought that increased levels of dopamine in the reward circuits of the brain
+are responsible for the euphoria and relaxation and eventual addiction caused
+by nicotine consumption. A single amino-acid difference between brain and
+muscle acetylcholine receptors explains why nicotine activates the CNS but
+does not activate skeletal muscles and cause instant death. Nicotine addiction
+is therefore a biological fluke. [8]
+
+Tobacco smoke contains the monoamine oxidase inhibitors harman and
+norharman[9], and significantly decreases MAO activity in smokers.[9][10] MAO
+enzymes break down monoaminergic neurotransmitters such as dopamine,
+norepinephrine, and serotonin.
+
+Chronic nicotine exposure via tobacco smoking up-regulates alpha4beta2* nAChR
+in cerebellum and brainstem regions[11][12] but not habenulopeduncular
+structures[13].
+
+#### [edit] In PNS
+
+Nicotine also activates the sympathetic nervous system,[14] acting via
+splanchnic nerves to the adrenal medulla, stimulates the release of
+epinephrine. Acetylcholine released by preganglionic sympathetic fibers of
+these nerves acts on nicotinic acetylcholine receptors, causing the release of
+epinephrine (and norepinephrine) into the bloodstream.
+
+#### [edit] In adrenal medulla
+
+By binding to ganglion type nicotinic receptors in the adrenal medulla
+nicotine increases flow of adrenaline (epinephrine), a stimulating hormone. By
+binding to the receptors, it causes cell depolarization and an influx of
+calcium through voltage-gated calcium channels. Calcium triggers the
+exocytosis of chromaffin granules and thus the release of epinephrine (and
+norepinephrine) into the bloodstream. The release of epinephrine (adrenaline)
+causes an increase in heart rate, blood pressure and respiration, as well as
+higher blood glucose levels[15]
+
+Cotinine is a byproduct of the metabolism of nicotine which remains in the
+blood for up to 48 hours. It can therefore be used as an indicator of a
+person's exposure to nicotine.[citation needed]
+
+## [edit] Psychoactive effects
+
+Nicotine's mood-altering effects are different by report. First causing a
+release of glucose from the liver and epinephrine (adrenaline) from the
+adrenal medulla, it causes stimulation. Users report feelings of relaxation,
+sharpness, calmness, and alertness.[16] By reducing the appetite and raising
+the metabolism, some smokers may lose weight as a consequence.[17][18]
+
+When a cigarette is smoked, nicotine-rich blood passes from the lungs to the
+brain within seven seconds and immediately stimulates the release of many
+chemical messengers including acetylcholine, norepinephrine, epinephrine,
+vasopressin, arginine, dopamine, autocrine agents, and beta-endorphin[citation
+needed]. This release of neurotransmitters and hormones is responsible for
+most of nicotine effects. Nicotine appears to enhance concentration[19] and
+memory due to the increase of acetylcholine. It also appears to enhance
+alertness due to the increases of acetylcholine and norepinephrine. Arousal is
+increased by the increase of norepinephrine. Pain is reduced by the increases
+of acetylcholine and beta-endorphin. Anxiety is reduced by the increase of
+beta-endorphin. Nicotine also sensitises brain reward systems.[20] Most
+cigarettes (in the smoke inhaled) contain 0.1 to 2.8 milligrams of
+nicotine.[21]
+
+Research suggests that, when smokers wish to achieve a stimulating effect,
+they take short quick puffs, which produce a low level of blood nicotine.[22]
+This stimulates nerve transmission. When they wish to relax, they take deep
+puffs, which produce a high level of blood nicotine, which depresses the
+passage of nerve impulses, producing a mild sedative effect. At low doses,
+nicotine potently enhances the actions of norepinephrine and dopamine in the
+brain, causing a drug effect typical of those of psychostimulants. At higher
+doses, nicotine enhances the effect of serotonin and opiate activity,
+producing a calming, pain-killing effect. Nicotine is unique in comparison to
+most drugs, as its profile changes from stimulant to sedative/pain killer in
+increasing dosages and use.
+
+<IMG>
+
+<IMG>
+
+A 21 mg patch applied to the left arm
+
+Nicotine gum, usually in 2-mg or 4-mg doses, and nicotine patches are
+available, as well as smokeless tobacco which do not have all the other
+ingredients in smoked tobacco.
+
+## [edit] Dependence
+
+See also: Smoking cessation
+
+Modern research shows that nicotine acts on the brain to produce a number of
+effects. Specifically, its addictive nature has been found to show that
+nicotine activates reward pathwaysâthe circuitry within the brain that
+regulates feelings of pleasure and euphoria.[23]
+
+Dopamine is one of the key neurotransmitters actively involved in the brain.
+Research shows that by increasing the levels of dopamine within the reward
+circuits in the brain, nicotine acts as a chemical with intense addictive
+qualities. In many studies it has been shown to be more addictive than cocaine
+and heroin, though chronic treatment has an opposite effect on reward
+thresholds[citation needed]. Like other physically addictive drugs, nicotine
+causes down-regulation of the production of dopamine and other stimulatory
+neurotransmitters as the brain attempts to compensate for artificial
+stimulation. In addition, the sensitivity of nicotinic acetylcholine receptors
+decreases. To compensate for this compensatory mechanism, the brain in turn
+upregulates the number of receptors, convoluting its regulatory effects with
+compensatory mechanisms meant to counteract other compensatory mechanisms. The
+net effect is an increase in reward pathway sensitivity, opposite of other
+drugs of abuse such as cocaine and heroin, which reduce reward pathway
+sensitivity.[20] This neuronal brain alteration persists for months after
+administration ceases. Due to an increase in reward pathway sensitivity,
+nicotine withdrawal is relatively mild compared to ethanol or heroin
+withdrawal.[citation needed] Nicotine also has the potential to cause
+dependence in many animals other than humans. Mice have been administered
+nicotine and exhibit withdrawal reactions when its administration is
+stopped.[citation needed]
+
+A study found that nicotine exposure in adolescent mice retards the growth of
+the dopamine system, thus increasing the risk of substance abuse during
+adolescence.[24]
+
+A recent investigation indicates that exposure to nicotine in adolescence in
+rats induces a depression-like state in adulthood.
+
+## [edit] Toxicology
+
+See also: Nicotine poisoning
+
+The LD50 of nicotine is 50 mg/kg for rats and 3 mg/kg for mice. 40â60 mg
+(0.5-1.0 mg/kg) can be a lethal dosage for adult humans.[25][26] Nicotine
+therefore has a high toxicity in comparison to many other alkaloids such as
+cocaine, which has an LD50 of 95.1 mg/kg when administered to mice. It is
+impossible however to overdose on nicotine through smoking alone (though a
+person can overdose on nicotine through a combination of nicotine patches,
+nicotine gum, and/or tobacco smoking at the same time.) [27] [28] Spilling an
+extremely high concentration of nicotine onto the skin can result in
+intoxication or even death since nicotine readily passes into the bloodstream
+from dermal contact.[29]
+
+The carcinogenic properties of nicotine in standalone form, separate from
+tobacco smoke, have not been evaluated by the IARC, and it has not been
+assigned to an official carcinogen group. The currently available literature
+indicates that nicotine, on its own, does not promote the development of
+cancer in healthy tissue and has no mutagenic properties, but does speed
+growth and migration of existing cancerous cells, as well as turning some
+precancerous cells cancerous.[30]
+
+The teratogenic properties of nicotine have not yet been adequately
+researched, and while the likelihood of birth defects caused by nicotine is
+believed to be very small or nonexistent, nicotine replacement product
+manufacturers recommend consultation with a physician before using a nicotine
+patch or nicotine gum while pregnant or nursing. However, nicotine and the
+increased cholinergic activity it causes have been shown to impede apoptosis,
+which is one of the methods by which the body destroys unwanted cells
+(programmed cell death). Since apoptosis helps to remove mutated or damaged
+cells that may eventually become cancerous, the inhibitory actions of nicotine
+may create a more favourable environment for cancer to develop, though this
+also remains to be proven. [31]
+
+## [edit] Nicotine and oxidative stress
+
+Nicotine is detoxified by the cytochrome p450 in the liver.
+
+## [edit] Link to circulatory disease
+
+Nicotine has very powerful effects on arteries throughout the body. Nicotine
+is a stimulant, it raises blood pressure, and is a vasoconstrictor, making it
+harder for the heart to pump through the constricted arteries. It causes the
+body to release its stores of fat and cholesterol into the blood.[citation
+needed]
+
+Nicotine has been speculated[who?] to increase the risk of blood clots by
+increasing plasminogen activator inhibitor-1, though this has not been proven.
+Plasma fibrinogen levels are elevated in smokers and are further elevated
+during acute COPD exacerbation. Also, Factor XIII, which stabilizes fibrin
+clots, is increased in smokers. But neither of the two previous effects have
+been shown yet to be caused by nicotine, [2] If blood clots in an artery,
+blood flow is reduced or halted, and tissue loses its source of oxygen and
+nutrients and dies in minutes.
+
+Peripheral circulation, arteries going to the extremities, are also highly
+susceptible to the vasoconstrictor effects of nicotine as well as the
+increased risk of clots and clogging.[citation needed]
+
+## [edit] Therapeutic uses
+
+The primary therapeutic use of nicotine is in treating nicotine dependence in
+order to eliminate smoking with its risks to health. Controlled levels of
+nicotine are given to patients through gums, dermal patches, lozenges,
+electronic/substitute cigarettes or nasal sprays in an effort to wean them off
+their dependence.
+
+However, in a few situations, smoking has been observed to apparently be of
+therapeutic value to patients. These are often referred to as "Smokerâs
+Paradoxes".[32] Although in most cases the actual mechanism is understood only
+poorly or not at all, it is generally believed that the principal beneficial
+action is due to the nicotine administered, and that administration of
+nicotine without smoking may be as beneficial as smoking, without the higher
+risk to health due to tar and other ingredients found in tobacco.
+
+For instance, recent studies suggest that smokers require less frequent
+repeated revascularization after percutaneous coronary intervention (PCI).[32]
+Risk of ulcerative colitis has been frequently shown to be reduced by smokers
+on a dose-dependent basis; the effect is eliminated if the individual stops
+smoking.[33][34] Smoking also appears to interfere with development of
+Kaposi's sarcoma,[35] breast cancer among women carrying the very high risk
+BRCA gene,[36] preeclampsia,[37] and atopic disorders such as allergic
+asthma.[38] A plausible mechanism of action in these cases may be nicotine
+acting as an anti-inflammatory agent, and interfering with the inflammation-
+related disease process, as nicotine has vasoconstrictive effects.[39]
+
+With regard to neurological diseases, a large body of evidence suggests that
+the risks of Parkinson's disease or Alzheimer's disease might be twice as high
+for non-smokers than for smokers.[40] Many such papers regarding Alzheimer's
+disease[41] and Parkinson's Disease[42] have been published. More recent
+studies find that there's no beneficial link between smoking and Alzheimer's,
+and in some cases suggest that it actually results in an earlier onset of the
+disease.[43][44][45][46]
+
+Recent studies have indicated that nicotine can be used to help adults
+suffering from Autosomal dominant nocturnal frontal lobe epilepsy. The same
+areas that cause seizures in that form of epilepsy are also responsible for
+processing nicotine in the brain.[47]
+
+It has been noted that the majority of people diagnosed with schizophrenia
+smoke tobacco. Estimates for the number of schizophrenics that smoke range
+from 75% to 90%. It was recently argued that the increased level of smoking in
+schizophrenia may be due to a desire to self-medicate with nicotine.[48][49]
+More recent research has found the reverse, that it is a risk factor without
+long-term benefit, used only for its short term effects.[50] All of these
+studies are based only on observation, and no interventional (randomized)
+studies have been done. Research on nicotine as administered through a patch
+or gum is ongoing.
+
+## [edit] Research as a potential basis for an antipsychotic agent
+
+However, when the metabolites of nicotine were isolated and their effect on
+first the animal brain and then the human brain in people with schizophrenia
+were studied, it was shown that the effects helped with cognitive and negative
+symptoms of schizophrenia. Therefore, the nicotinergic agents, as
+antipsychotics which do not contain nicotine but act on the same receptors in
+the brain are showing promise as adjunct antipsychotics in early stages of FDA
+studies on schizophrenia. "The prepulse inhibition (PPI) is a phenomenon in
+which a weak prepulse attenuates the response to a subsequent startling
+stimulus. Therefore, PPI is believed to have face, construct, and predictive
+validity for the PPI disruption in schizophrenia, and it is widely used as a
+model to study the neurobiology of this disorder and for screening
+antipsychotics. The prepulse inhibition (PPI) is a phenomenon in which a weak
+prepulse attenuates the response to a subsequent startling stimulus. Alpha7
+nicotinic receptor agonists have reported to reverse the PPI disruption."
+Department of Clinical Pharmacology and Pharmacy, Neuroscience, Ehime
+University Graduate School of Medicine, Shitsukawa, Toon 791-0295, Japan.
+
+Additionally, studies have shown that there are genes predisposing people with
+schizophrenia to nicotine. "Evidence of association between smoking and alpha7
+nicotinic receptor subunit gene in schizophrenia patients" .De Luca V, Wong
+AH, Muller DJ, Wong GW, Tyndale RF, Kennedy JL. Neurogenetics Section, Clarke
+Site, Centre for Addiction and Mental Health, Department of Psychiatry,
+Toronto, Ontario, Canada.
+
+Therefore with these factors taken together the heavy usage of cigarettes and
+other nicotine related products among people with schizophrenia may be
+explained and novel antipsychotic agents developed that have these effects in
+a manner that is not harmful and controlled and is a promising arena of
+research for schizophrenia.
+
+Nicotine and its metabolites are being researched for the treatment of a
+number of disorders, including ADHD, Schizophrenia and Parkinson's
+Disease.[51]
+
+The therapeutic use of nicotine as a means of appetite-control and to promote
+weight loss is anecdotally supported by many ex-smokers who claim to put on
+weight after quitting. Studies of nicotine in mice[52] suggest it may play a
+role in weight-loss that is independent of appetite and studies involving the
+elderly suggest that nicotine affects not only weight loss, but also prevents
+some weight gain.[53]
+
+## [edit] See also
+
+  * Addiction
+  * Cigar
+  * Dipping tobacco
+  * Drug addiction
+  * Electronic cigarette
+  * Health effects of tobacco smoking
+  * Myocardial infarction
+  * Nicogel
+  * Nicotini
+  * NicVAX
+  * Psychoactive drug
+  * Smoking cessation
+  * Snuff
+  * Snus
+  * Stroke
+
+## [edit] External links
+
+  * Description of nicotine addiction
+  * Description of nicotine mechanisms
+
+## [edit] References
+
+  1. ^ "Determination of the Nicotine Content of Various Edible Nightshades (Solanaceae) and Their Products and Estimation of the Associated Dietary Nicotine Intake". http://pubs.acs.org/cgi-bin/abstract.cgi/jafcau/1999/47/i08/abs/jf990089w.html. Retrieved on 2008-10-05.
+  2. ^ "Smoking and Tobacco Control Monograph No. 9" (PDF). http://dccps.nci.nih.gov/tcrb/monographs/9/m9_3.PDF.
+  3. ^ American Heart Association and Nicotine addiction.
+  4. ^ Melsens (1844). "Ueber das Nicotin". Journal fÃ¼r Praktische Chemie 32 (1): 372â377. doi:10.1002/prac.18440320155.
+  5. ^ "Optical activity and living matter". http://www.archive.org/stream/opticalactivityl00gauz/opticalactivityl00gauz_djvu.txt.
+  6. ^ "Interindividual variability in the metabolism and cardiovascular effects of nicotine in man". http://jpet.aspetjournals.org/cgi/content/citation/221/2/368.
+  7. ^ "Metabolism and Disposition Kinetics of Nicotine". http://pharmrev.aspetjournals.org/cgi/content/full/57/1/79.
+  8. ^ Xinan Xiu, Nyssa L. Puskar, Jai A. P. Shanata, Henry A. Lester & Dennis A. Dougherty. Nicotine binding to brain receptors requires a strong cationâ interaction. Nature 458, 534-537 (26 March 2009)
+  9. ^ a b Herraiz T, Chaparro C (2005). "Human monoamine oxidase is inhibited by tobacco smoke: beta-carboline alkaloids act as potent and reversible inhibitors". Biochem. Biophys. Res. Commun. 326 (2): 378â86. doi:10.1016/j.bbrc.2004.11.033. PMID 15582589.
+  10. ^ Fowler JS, Volkow ND, Wang GJ, et al (1998). "Neuropharmacological actions of cigarette smoke: brain monoamine oxidase B (MAO B) inhibition". J Addict Dis 17 (1): 23â34. PMID 9549600.
+  11. ^ WÃ¼llner U, GÃ¼ndisch D, Herzog H, et al (2008). "Smoking upregulates alpha4beta2* nicotinic acetylcholine receptors in the human brain". Neurosci. Lett. 430 (1): 34â7. doi:10.1016/j.neulet.2007.10.011. PMID 17997038.
+  12. ^ Walsh H, Govind AP, Mastro R, et al (2008). "Up-regulation of nicotinic receptors by nicotine varies with receptor subtype". J. Biol. Chem. 283 (10): 6022â32. doi:10.1074/jbc.M703432200. PMID 18174175.
+  13. ^ Nguyen HN, Rasmussen BA, Perry DC (2003). "Subtype-selective up-regulation by chronic nicotine of high-affinity nicotinic receptors in rat brain demonstrated by receptor autoradiography". J. Pharmacol. Exp. Ther. 307 (3): 1090â7. doi:10.1124/jpet.103.056408. PMID 14560040.
+  14. ^ Yoshida T, Sakane N, Umekawa T, Kondo M (Jan 1994). "Effect of nicotine on sympathetic nervous system activity of mice subjected to immobilization stress". Physiol Behav. 55 (1): 53â7. doi:10.1016/0031-9384(94)90009-4. PMID 8140174. http://linkinghub.elsevier.com/retrieve/pii/0031-9384(94)90009-4.
+  15. ^ Elaine N. Marieb and Katja Hoehn (2007). Human Anatomy & Physiology (7th Ed.). Pearson. pp. ?. ISBN 0-805-35909-5.
+  16. ^ Gilbert Lagrue, FranÃ§ois Lebargy, Anne Cormier, "From nicotinic receptors to smoking dependence: therapeutic prospects" Alcoologie et Addictologie Vol. : 23, NÂ° : 2S, juin 2001, pages 39S - 42
+  17. ^ Jean-Claude Orsini, "Dependence on tobacco smoking and brain systems controlling glycemia and appetite" Alcoologie et Addictologie Vol. : 23, NÂ° : 2S, juin 2001, pages 28S - 36S
+  18. ^ Smokers lose their appetite : Media Releases : News : The University of Melbourne
+  19. ^ Rusted, J; Graupner, O'Connell, Nicholls (1994-05-05). "Does nicotine improve cognitive function?". Psychopharmacology (Springer-Verlag) (115): 547â549. http://www.springerlink.com/content/75034q53031260j8/?p=afde608485604678839ab0e950be77f9&pi=0. Retrieved on 2008-11-15.
+  20. ^ a b Kenny PJ, Markou A (Jun 2006). "Nicotine self-administration acutely activates brain reward systems and induces a long-lasting increase in reward sensitivity". Neuropsychopharmacology 31 (6): 1203â11. doi:10.1038/sj.npp.1300905. PMID 16192981. http://www.nature.com/npp/journal/v31/n6/full/1300905a.html. "However, these effects are an illusion brought about by Nicotine addiction. What appears to be relaxation, is merely the effect of ending the craving for Nicotine. The longer the periods between Nicotine intake, the greater the illusion of pleasure will be.".
+  21. ^ Erowid Nicotine Vault : Dosage
+  22. ^ Einstein, Stanley (1989). Drug and Alcohol Use: Issues and Factors. Springer. pp. 101â118. ISBN 0306413787.
+  23. ^ NIDA - Research Report Series - Tobacco Addiction - Extent, Impact, Delivery, and Addictiveness
+  24. ^ Nolley EP, Kelley BM (2007). "Adolescent reward system perseveration due to nicotine: studies with methylphenidate". Neurotoxicol Teratol 29 (1): 47â56. doi:10.1016/j.ntt.2006.09.026. PMID 17129706.
+  25. ^ Okamoto M, Kita T, Okuda H, Tanaka T, Nakashima T (Jul 1994). "Effects of aging on acute toxicity of nicotine in rats". Pharmacol Toxicol. 75 (1): 1â6. PMID 7971729.
+  26. ^ IPCS INCHEM
+  27. ^ http://learn.genetics.utah.edu/content/addiction/drugs/overdose.html
+  28. ^ http://www.drugtext.org/library/articles/coffin.htm
+  29. ^ Lockhart LP (1933). "Nicotine poisoning". Br Med J 1: 246â7.
+  30. ^ http://www.nlm.nih.gov/medlineplus/news/fullstory_70531.html
+  31. ^ "Toxicology". http://www.ebasedtreatment.org/drugs/treatment/nicotine/toxicology. Retrieved on 2008-10-05.
+  32. ^ a b Cohen, David J.; Michel Doucet, Donald E. Cutlip, Kalon K.L. Ho, Jeffrey J. Popma, Richard E. Kuntz (2001). "Impact of Smoking on Clinical and Angiographic Restenosis After Percutaneous Coronary Intervention". Circulation 104: 773. doi:10.1161/hc3201.094225. PMID 11502701. http://www.data-yard.net/34/circulation_2001_104_773.htm. Retrieved on 2006-11-06.
+  33. ^ Longmore, M., Wilkinson, I., Torok, E. Oxford Handbook of Clinical Medicine (Fifth Edition) p. 232
+  34. ^ Green JT, Richardson C, Marshall RW, et al (Nov 2000). "Nitric oxide mediates a therapeutic effect of nicotine in ulcerative colitis". Aliment Pharmacol Ther. 14 (11): 1429â34. doi:10.1046/j.1365-2036.2000.00847.x. PMID 11069313. http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0269-2813&date=2000&volume=14&issue=11&spage=1429.
+  35. ^ "Smoking Cuts Risk of Rare Cancer". UPI. March 29, 2001. http://www.data-yard.net/10b/kaposi.htm. Retrieved on 2006-11-06.
+  36. ^ Recer, Paul (May 19, 1998). "Cigarettes May Have an Up Side". AP. http://www.forces.org/evidence/files/brea.htm. Retrieved on 2006-11-06.
+  37. ^ Lain, Kristine Y.; Robert W. Powers, Marijane A. Krohn, Roberta B. Ness, William R. Crombleholme, James M. Roberts (Nov 1991). "Urinary cotinine concentration confirms the reduced risk of preeclampsia with tobacco exposure". American Journal of Obstetrics and Gynecology 181 (5): 908â14. PMID 11422156. http://www.data-yard.net/2/13/ajog.htm. Retrieved on 2006-11-06.
+  38. ^ Hjern, A; Hedberg A, Haglund B, Rosen M (June 2001). "Does tobacco smoke prevent atopic disorders? A study of two generations of Swedish residents". Clin Exp Allergy 31 (6): 908â14. doi:10.1046/j.1365-2222.2001.01096.x. PMID 11422156. http://www.data-yard.net/30/asthma.htm. Retrieved on 2006-11-06.
+  39. ^ Lisa Melton (June 2006). "Body Blazes". Scientific American: 24. http://www.sciam.com/article.cfm?chanID=sa006&colID=5&articleID=00080902-A2CF-146C-9D1E83414B7F0000.
+  40. ^ Fratiglioni, L; Wang HX (Aug 2000). "Smoking and Parkinson's and Alzheimer's disease: review of the epidemiological studies". Behav Brain Res 113 (1â2): 117â20. doi:10.1016/S0166-4328(00)00206-0. PMID 10942038.
+  41. ^ Thompson, Carol. "Alzheimer's disease is associated with non-smoking". http://www.forces.org/evidence/carol/carol16.htm. Retrieved on 2006-11-06.
+  42. ^ Thompson, Carol. "Parkinson's disease is associated with non-smoking". http://www.forces.org/evidence/carol/carol36.htm. Retrieved on 2006-11-06.
+  43. ^ "Alzheimer's Starts Earlier for Heavy Drinkers, Smokers". Reuters. 2008-04-17. http://www.reuters.com/article/pressRelease/idUS198346+17-Apr-2008+PRN20080417. Retrieved on 2008-06-27.
+  44. ^ Peck, Peggy (2002-07-25). "Smoking Significantly Increases Risk of Alzheimer's Disease Among Those Who Have No Genetic Predisposition". http://www.docguide.com/news/content.nsf/news/8525697700573E1885256C010043BDDC?OpenDocument&c=Smoking%20Related%20Disorders&count=10&id=48dde4a73e09a969852568880078c249. Retrieved on 2008-06-27.
+  45. ^ Aggarwal NT, Bienias JL, Bennett DA, et al (2006). "The relation of cigarette smoking to incident Alzheimer's disease in a biracial urban community population". Neuroepidemiology 26 (3): 140â6. doi:10.1159/000091654. PMID 16493200.
+  46. ^ Lerche Davis,, Jeanie (2004-03-22). "Smoking Speeds Dementia, Alzheimer's Disease". http://www.webmd.com/smoking-cessation/news/20040322/smoking-speeds-dementia-alzheimers-disease. Retrieved on 2008-06-27.
+  47. ^ "Nicotine as an antiepileptic agent in ADNFLE: An n-of-one study". http://www.cnsforum.com/commenteditem/3c5dccdc-27fb-4b80-9516-ab81e3e4ea6c/default.aspx.
+  48. ^ de Leon J, Tracy J, McCann E, McGrory A, Diaz FJ (Jul 2002). "Schizophrenia and tobacco smoking: a replication study in another US psychiatric hospital". Schizophr Res. 56 (1-2): 55â65. doi:10.1016/S0920-9964(01)00192-X. PMID 12084420. http://linkinghub.elsevier.com/retrieve/pii/S092099640100192X.
+  49. ^ de Leon J, Dadvand M, Canuso C, White AO, Stanilla JK, Simpson GM (Mar 1995). "Schizophrenia and smoking: an epidemiological survey in a state hospital". Am J Psychiatry 152 (3): 453â5. PMID 7864277. http://ajp.psychiatryonline.org/cgi/pmidlookup?view=long&pmid=7864277.
+  50. ^ Aguilar MC, Gurpegui M, Diaz FJ, de Leon J (Mar 2005). "Nicotine dependence and symptoms in schizophrenia: naturalistic study of complex interactions". Br J Psychiatry 186: 215â21. doi:10.1192/bjp.186.3.215. PMID 15738502.
+  51. ^ "Attention-Deficit Hyperactivity Disorder". Reuters Health. Reuters. December 2001. Archived from the original on 2006-04-26. http://web.archive.org/web/20060426105219/http://www.reutershealth.com/wellconnected/doc30.html. "Nicotine improves ADHD symptoms. Although such findings should certainly not encourage anyone to smoke, some studies are focusing on benefits of nicotine therapy in adults with ADHD."
+  52. ^ Schechter MD, Cook PG (July 1976). "Nicotine-induced weight loss in rats without an effect on appetite". Eur J Pharmacol. 38 (1): 63â9. doi:10.1016/0014-2999(76)90201-6. PMID 954834.
+  53. ^ Cigarette Smoking and Weight Loss in Nursing Home Residents [1]
+
+  
+45\. Suemaru K, Kohnomi S, Umeda K, Araki H (Jun 2008). "[Evaluation of
+antipsychotic and relative drugs using disruption of prepulse inhibition as an
+animal model for schizophrenia]" (in Japanese). Nihon Shinkei Seishin
+Yakurigaku Zasshi 28 (3): 121â6. PMID 18646597. 46\. De Luca V, Wong AH,
+Muller DJ, Wong GW, Tyndale RF, Kennedy JL (Aug 2004). "Evidence of
+association between smoking and alpha7 nicotinic receptor subunit gene in
+schizophrenia patients". Neuropsychopharmacology 29 (8): 1522â6.
+doi:10.1038/sj.npp.1300466. PMID 15100704.
+
+## [edit] Further reading
+
+  * Bilkei-Gorzo A, RÃ¡cz I, Michel K, Darvas M, Rafael Maldonado LÃ³pez, Zimmer A. (2008 63: 164-71). "A common genetic predisposition to stress sensitivity and stress-induced nicotine craving". Biol. Psychiatry.
+
+  * Willoughby JO, Pope KJ, Eaton V (Sep 2003). "Nicotine as an antiepileptic agent in ADNFLE: an N-of-one study". Epilepsia 44 (9): 1238â40. doi:10.1046/j.1528-1157.2003.11903.x. PMID 12919397. http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0013-9580&date=2003&volume=44&issue=9&spage=1238.
+  * Minna JD (Jan 2003). "Nicotine exposure and bronchial epithelial cell nicotinic acetylcholine receptor expression in the pathogenesis of lung cancer". J Clin Invest. 111 (1): 31â3. doi:10.1172/JCI17492. PMID 12511585.
+  * Fallon JH, Keator DB, Mbogori J, Taylor D, Potkin SG (Mar 2005). "Gender: a major determinant of brain response to nicotine". Int J Neuropsychopharmacol. 8 (1): 17â26. doi:10.1017/S1461145704004730. PMID 15579215. http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=282494.
+  * West KA, Brognard J, Clark AS, et al (Jan 2003). "Rapid Akt activation by nicotine and a tobacco carcinogen modulates the phenotype of normal human airway epithelial cells". J Clin Invest. 111 (1): 81â90. doi:10.1172/JCI16147. PMID 12511591.
+  * National Institute on Drug Abuse
+  * Erowid information on tobacco
+
+v â¢ d â¢ e
+
+Stimulants  
+Adamantanes
+
+Adaphenoxate â¢ Adapromine â¢ Bromantane â¢ Chlodantane â¢ Gludantane â¢
+Memantine â¢ Midantane  
+Alkylamines
+
+Cyclopentamine â¢ Geranamine â¢ Heptaminol â¢ Isometheptene â¢ Octodrine
+â¢ Propylhexedrine â¢ Tuaminoheptane (Tuamine)  
+Cholinergics
+
+ABT-089 â¢ ABT-418 â¢ Anabasine â¢ Arecoline â¢ Cotinine â¢ Cytisine â¢
+Dianicline â¢ Epibatidine â¢ Epiboxidine â¢ GTS-21 â¢ Ispronicline â¢
+Nicotine â¢ Rivanicline â¢ TC-5619 â¢ Tebanicline â¢ Varenicline  
+Convulsants
+
+Bicuculline â¢ DMCM â¢ Flurothyl â¢ Gabazine â¢ Pentetrazol â¢ Picrotoxin
+â¢ Strychnine â¢ Thujone  
+Eugeroics
+
+Adrafinil â¢ Armodafinil â¢ Carphedon â¢ Modafinil  
+Phenethylamines
+
+1-Phenyl-2-methylaminobutan-1-one â¢ 2-Phenyl-3-aminobutane â¢
+2-Phenyl-3-methylaminobutane â¢ 4-Bromomethcathinone â¢ 4-FA â¢
+4-Fluoromethamphetamine â¢ 4-Fluoromethcathinone â¢ 4-Ethylamphetamine â¢
+4-Hydroxyephedrine (Oxilofrine) â¢ 4-Methylamphetamine â¢
+4-Methylmethamphetamine â¢ Mephedrone (4-MMC) â¢ 4-MTA â¢ Alfetamine â¢
+Alpha-ethyl-phenethylamine â¢ Amfepentorex â¢ Amphechloral â¢ Amphetamine
+(Dextroamphetamine, Adderall) â¢ Amphetaminil â¢ Benfluorex â¢
+Benzphetamine â¢ Î²-Methylphenethylamine â¢ Bupropion â¢ Cathinone â¢
+Chlorphentermine â¢ Clenbuterol â¢ Clobenzorex â¢ Clortermine â¢
+Diethylcathinone (Diethylpropion) â¢ Dimethoxyamphetamine â¢
+Dimethylamphetamine â¢ Dimethylcathinone â¢ Ephedrine â¢ Epinephrine â¢
+Ethcathinone â¢ Ethylamphetamine â¢ Fenbutrazate â¢ Fencamine â¢
+Fenethylline â¢ Fenfluramine â¢ Fenproporex â¢ Fludorex â¢ Furfenorex â¢
+Levomethamphetamine â¢ Lisdexamfetamine â¢ MDMA (Ecstasy) â¢ Mefenorex â¢
+Mephentermine â¢ Methamphetamine â¢ Methcathinone â¢ Methoxyphedrine â¢
+Methoxyphenamine â¢ Methylone â¢ Norfenefrine â¢ Octopamine â¢ Ortetamine
+â¢ Parahydroxyamphetamine â¢ PCA â¢ PIA â¢ PMA â¢ PMEA â¢ PMMA â¢ PPAP
+â¢ Phendimetrazine â¢ Phenmetrazine â¢ Phenpentermine â¢ Phenpromethamine
+â¢ Phentermine â¢ Phenylephrine â¢ Phenylpropanolamine â¢
+Propylamphetamine â¢ Pseudoephedrine â¢ Selegiline â¢ Synephrine â¢
+Tiflorex â¢ Xylopropamine  
+Phenylaminooxazoles
+
+4-Methyl-aminorex â¢ Aminorex â¢ Clominorex â¢ Cyclazodone â¢ Fenozolone
+â¢ Fluminorex â¢ Pemoline â¢ Thozalinone  
+Piperazines
+
+2C-B-BZP â¢ BZP â¢ GBR-12783 â¢ GBR-12935 â¢ GBR-13069 â¢ GBR-13098 â¢
+GBR-13119 â¢ MeOPP â¢ MBZP â¢ Vanoxerine  
+Piperidines
+
+2-Benzylpiperidine â¢ 4-Benzylpiperidine â¢ Desoxypipradrol â¢
+Diphemethoxidine â¢ Ethylphenidate â¢ HDMP-28 â¢
+(-)-Methyl-1-methyl-4Î²-(2-naphthyl)piperidine-3Î²-carboxylate â¢
+Methylphenidate (Dexmethylphenidate) â¢ Nocaine â¢ Phacetoperane
+(Levofacetoperane) â¢ Pipradrol (Meretran)  
+Pyrrolidinophenones
+
+Î±-PPP â¢ MDPPP â¢ MDPV â¢ MPBP â¢ MPHP â¢ MPPP â¢ MOPPP â¢
+Pyrovalerone  
+Tropanes
+
+3Î±-Bis-(4-fluorophenyl)methoxytropane â¢
+3Î±-((4-Chlorophenyl)phenylmethoxy)tropane â¢ 3-Pseudotropyl-4-fluorobenzoate
+â¢ Altropane (IACFT) â¢ Brasofensine â¢ CFT (WIN 35,428) â¢ Î²-CIT
+(RTI-55) â¢ Cocaethylene â¢ Cocaine â¢ Î²-CPPIT â¢ Dichloropane (RTI-111)
+â¢ Difluoropine â¢ FE-Î²-CPPIT â¢ FP-Î²-CPPIT â¢ Ioflupane (FPCIT) â¢
+Norcocaine â¢ PIT â¢ PTT â¢ RTI-31 â¢ RTI-32 â¢ RTI-51 â¢ RTI-112 â¢
+RTI-113 â¢ RTI-121 (IPCIT) â¢ RTI-126 â¢ RTI-150 â¢ RTI-171 â¢ RTI-177
+â¢ RTI-336 â¢ Tesofensine â¢ Troparil (Î²-CPT, WIN 35,065-2) â¢ Tropoxane
+â¢ WF-23 â¢ WF-33 â¢ WF-60  
+Xanthines
+
+Aminophylline â¢ Caffeine â¢ Dimethazan â¢ Paraxanthine â¢ Theobromine â¢
+Theophylline  
+Others
+
+2-Aminoindane â¢ 5-(2-Aminopropyl)indole â¢ Amfonelic acid â¢ Amineptine
+â¢ Amiphenazole â¢ Bemegride â¢ Benzydamine â¢ BPAP â¢ BTCP â¢ BTQ â¢
+BTS 74,398 â¢ Clofenciclan â¢ Cropropamide â¢ Crotetamide â¢ Cypenamine
+â¢ Cyprodenate â¢ Diclofensine â¢ Dimethocaine â¢ Diphenylprolinol â¢
+Etamivan â¢ Fencamfamine â¢ Feprosidnine â¢ Gilutensin â¢ GYKI-52895 â¢
+Hexacyclonate â¢ Indanorex â¢ Indatraline â¢ Lefetamine â¢ Leptacline â¢
+LR-5182 â¢ Manifaxine â¢ Mazindol â¢ Meclofexonate â¢ Mefexamide â¢
+Mesocarb â¢ Naphthylisopropylamine â¢ Nikethamide â¢ Nomifensine â¢ O-2172
+â¢ Phthalimidopropiophenone â¢ Prolintane â¢ Sibutramine â¢ UH-232 â¢
+Yohimbine â¢ Zylofuramine  
+See also Sympathomimetic amines  
+v â¢ d â¢ e
+
+Drugs used in addictive disorders (N07B)  
+Nicotine dependence/  
+(Nicotinic agonist)
+
+Nicotine \- Bupropion \- Dianicline \- Varenicline \- Lobeline \- Mecamylamine
+\- Clonidine \- Scopolamine \- Surinabant  
+Alcohol dependence
+
+Disulfiram \- Calcium carbimide \- Acamprosate \- Naltrexone \- Nalmefene \-
+Topiramate \- Clonidine \- Buprenorphine \- Morphine  
+Opioid dependence
+
+Buprenorphine \- Methadone \- Levacetylmethadol \- Fentanyl \- Dihydrocodeine
+\- Dihydroetorphine \- Clonidine \- Lofexidine \- Naltrexone \- Ibogaine \-
+18-Methoxycoronaridine \- Extended Release Morphine \- Extended Release
+Hydromorphone  
+Stimulant dependence
+
+Dexamphetamine \- Bupropion \- Vanoxerine \- Nocaine \- Vigabatrin  
+Benzodiazepine dependence
+
+Clonidine \- Diazepam \- Phenytoin \- Phenobarbital  
+Cocaine dependence
+
+Bupropion \- Vanoxerine \- Nocaine \- Baclofen \- Vigabatrin  
+Sedative-Hypnotic dependence
+
+Phenobarbital \- Diazepam \- Lorazepam \- Clonidine \- Chloral Hydrate  
+v â¢ d â¢ e
+
+Parasympathomimetics / cholinergic agonists / acetylcholinesterase inhibitors
+(N06DA, N07AA)  
+Direct  
+(at receptor)
+
+muscarinic: Muscarine Â· Oxotremorine Â· M1 (Vedaclidine â¢ Xanomeline)  Â·
+M3 (Bethanechol, Pilocarpine, Arecoline, Cevimeline, Aceclidine)  Â·
+Methacholine
+
+nicotinic: Nicotine (low doses) Â· Lobeline Â· Varenicline Â· Epibatidine Â·
+Dimethylphenylpiperazinium
+
+M & N: Acetylcholine/Choline alfoscerate Â· Carbachol  
+Indirect/AIs  
+(in synapse)
+
+Reversible
+
+very short acting: Edrophonium
+
+carbamates/stigmine: Ambenonium Â· Rivastigmine Â· Distigmine Â· tertiary/CNS
+(Physostigmine) Â· quaternary/peripheral (Neostigmine, Pyridostigmine)
+
+anti-dementia (Galantamine, Donepezil, Tacrine)  
+Irreversible/  
+organophosphate
+
+ophthalmological (Ecothiopate, Isoflurophate, Demecarium)
+
+antiparasitic (Malathion, Metrifonate)
+
+chemical warfare (see Nerve agent)  
+v â¢ d â¢ e
+
+Anticholinergics  
+Nicotinic antagonists
+
+Ganglionic
+
+nondepolarizing (Mecamylamine, Trimetaphan, Hexamethonium) Â· Nicotine (high
+doses)  
+note: in PNS, ganglionic blocker can have direct antinicotinic action at
+preganglionic terminal, but simulate indirect antimuscarinic activities at
+postganglionic terminal  
+Neuromuscular
+
+Non-depolarising
+
+Curare alkaloids
+
+Alcuronium Â· Dimethyltubocurarine Â· Tubocurarine  
+4Â° ammonium
+
+short duration: Mivacurium
+
+intermediate: Atracurium/Cisatracurium Â· Fazadinium Â· Rocuronium (short
+onset) Â· Vecuronium
+
+long: Doxacurium Â· Metocurine Â· Pancuronium Â· Pipecuronium
+
+unsorted: Gallamine Â· Hexafluronium  
+Depolarising
+
+choline derivatives (Suxamethonium, Succinylcholine) Â· Decamethonium  
+Muscarinic antagonists
+
+nonpolar/tertiary/CNS: Atropine Â· Scopolamine Â· Hyoscyamine Â· antiparkinson
+drugs (Benzatropine, Trihexyphenidyl, Biperiden)
+
+polar/quarternary/non-CNS: Glycopyrrolate Â· Ipratropium Â· M1 (Pirenzepine)
+Â· M3 (Tiotropium, Darifenacin, Vedaclidine)
+
+unsorted: Tropicamide Â· Cyclopentolate Â· Dicycloverine Â· Tolterodine Â·
+Oxybutynin Â· Homatropine Â· Orphenadrine Â· Diphenhydramine Â· Other
+ethanolamine class first-generation antihistamines  
+Indirect
+
+acetylcholine synthesis inhibitor (Hemicholinium-3) Â· vesicle storage
+inhibitor (Vesamicol) Â· acetylcholine release inhibitor (Botulinum toxin) Â·
+acetylcholine release stimulator (Alpha-latrotoxin) Â· acetylcholinesterase
+reactivators (Pralidoxime, Obidoxime)  
+Retrieved from "http://en.wikipedia.org/wiki/Nicotine"
+
+Categories: Alkaloids | Neurotoxins | Nitrogen heterocycles | Nicotinic
+agonists | Plant toxin insecticides | Pyridines | Pyrrolidines | Stimulants |
+Tobacco | Smoking
+
+Hidden categories: All pages needing cleanup | Wikipedia articles needing
+factual verification since March 2009 | All pages needing factual verification
+| All articles with unsourced statements | Articles with unsourced statements
+since March 2009 | Articles with unsourced statements since April 2008 |
+Articles with unsourced statements since October 2008 | Articles with
+unsourced statements since August 2008 | Articles with unsourced statements
+since December 2008 | Articles with unsourced statements since November 2007 |
+Articles with unsourced statements since September 2008 | Articles with
+unsourced statements since April 2009 | Articles with specifically-marked
+weasel-worded phrases since March 2009 | Articles with unsourced statements
+since February 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Galego
+  * Hrvatski
+  * íêµ­ì´
+  * Bahasa Indonesia
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * Kiswahili
+  * LietuviÅ³
+  * Magyar
+  * à´®à´²à´¯à´¾à´³à´
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Shqip
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Basa Sunda
+  * Suomi
+  * Svenska
+  * à®¤à®®à®¿à®´à¯
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ××Ö´×××©
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 11 April 2009, at 14:01 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

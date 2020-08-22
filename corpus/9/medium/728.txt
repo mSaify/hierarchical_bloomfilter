@@ -1,0 +1,331 @@
+
+# Drip irrigation
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+Drip Irrigation - A dripper in action
+
+Main article: Irrigation
+
+Drip irrigation, also known as trickle irrigation or microirrigation is an
+irrigation method which minimizes the use of water and fertilizer by allowing
+water to drip slowly to the roots of plants, either onto the soil surface or
+directly onto the root zone, through a network of valves, pipes, tubing, and
+emitters.
+
+Modern drip irrigation has arguably become the world's most valued innovation
+in agriculture since the invention of the impact sprinkler in the 1930s, which
+replaced flood irrigation. Drip irrigation may also use devices called micro-
+spray heads, which spray water in a small area, instead of dripping emitters.
+These are generally used on tree and vine crops with wider root zones.
+Subsurface drip irrigation (SDI) uses permanently or temporarily buried
+dripperline or drip tape located at or below the plant roots. It is becoming
+popular for row crop irrigation, especially in areas where water supplies are
+limited or recycled water is used for irrigation. Careful study of all the
+relevant factors like land topography, soil, water, crop and agro-climatic
+conditions are needed to determine the most suitable drip irrigation system
+and components to be used in a specific installation.
+
+## Contents
+
+  * 1 History
+  * 2 Components and operation
+  * 3 Advantage / disadvantages of drip irrigation
+  * 4 Dripperline
+  * 5 Emitter
+  * 6 See also
+  * 7 References
+    * 7.1 Notes
+    * 7.2 Bibliography
+    * 7.3 External links
+
+  
+## [edit] History
+
+Drip irrigation has been used since ancient times when buried clay pots were
+filled with water, which would gradually seep into the grass. Modern drip
+irrigation began its development in Afghanistan in 1866 when researchers began
+experimenting with irrigation using clay pipe to create combination irrigation
+and drainage systems[citation needed]. In 1913, E.B. House at Colorado State
+University succeeded in applying water to the root zone of plants without
+raising the water table. Perforated pipe was introduced in Germany in the
+1920s and in 1934, O.E. Nobey experimented with irrigating through porous
+canvas hose at Michigan State University[citation needed].
+
+<IMG>
+
+<IMG>
+
+Drip irrigation in New Mexico vineyard, 2002
+
+With the advent of modern plastics during and after World War II, major
+improvements in drip irrigation became possible. Plastic microtubing and
+various types of emitters began to be used in the greenhouses of Europe and
+the United States.
+
+The modern technology of drip irrigation was invented in Israel by Simcha
+Blass and his son Yeshayahu. Instead of releasing water through tiny holes,
+blocked easily by tiny particles, water was released through larger and longer
+passageways by using velocity to slow water inside a plastic emitter. The
+first experimental system of this type was established in 1959 when Blass
+partnered with Kibbutz Hatzerim to create an irrigation company called
+Netafim. Together they developed and patented the first practical surface drip
+irrigation emitter. This method was very successful and subsequently spread to
+Australia, North America, and South America by the late 1960s.
+
+In the United States, in the early 1960s, the first drip tape, called Dew
+Hose, was developed by Richard Chapin of Chapin Watermatics (first system
+established during 1964). [1] Beginning in 1989, Jain irrigation helped
+pioneer effective water-management through drip irrigation in India. Jain
+irrigation also introduced some drip irrigation marketing approaches to Indian
+agriculture such as `Integrated System Approachâ, One-Stop-Shop for Farmers,
+`Infrastructure Status to Drip Irrigation & Farm as Industry.â The latest
+developments in the field involve even further reduction in drip rates being
+delivered and less tendency to clog.
+
+## [edit] Components and operation
+
+<IMG>
+
+<IMG>
+
+Drip Irrigation System Layout and its parts
+
+Components (listed in order from water source)
+
+  * Pump or pressurized water source
+  * Water Filter(s) - Filtration Systems: Sand Separator like Hydro-Cyclone, Screen Filter, Media Filters
+  * Fertigation Systems (Venturi injector) and Chemigation Equipment (optional)
+  * Backwash Controller
+  * Main Line (larger diameter Pipe and Pipe Fittings)
+  * Hand-operated, electronic, or hydraulic Control Valves and Safety Valves
+  * Smaller diameter polytube (often referred to as "laterals")
+  * Poly fittings and Accessories (to make connections)
+  * Emitting Devices at plants (ex. Emitter or Drippers, micro spray heads, inline drippers, trickle rings)
+  * Note that in Drip irrigation systems Pump and valves may be manually or automatically operated by a controller.
+
+Most large drip irrigation systems employ some type of filter to prevent
+clogging of the small emitter flow path by small waterborne particles. New
+technologies are now being offered that minimize clogging. Some residential
+systems are installed without additional filters since potable water is
+already filtered at the water treatment plant. Virtually all drip irrigation
+equipment manufacturers recommend that filters be employed and generally will
+not honor warranties unless this is done. Last line filters just before the
+final delivery pipe are strongly recommended in addition to any other
+filtration system due to fine particle settlement and accidental insertion of
+particles in the intermediate lines.
+
+Drip and subsurface drip irrigation is used almost exclusively when using
+recycled municipal waste water. Regulations typically do not permit spraying
+water through the air that has not been fully treated to potable water
+standards.
+
+Because of the way the water is applied in a drip system, traditional surface
+applications of timed-release fertilizer are sometimes ineffective, so drip
+systems often mix liquid fertilizer with the irrigation water. This is called
+fertigation; fertigation and chemigation (application of pesticides and other
+chemicals to periodically clean out the system, such as chlorine or sulfuric
+acid) use chemical injector such as diaphragm pumps, piston pumps, or venturi
+pumps. The chemicals may be added constantly whenever the system is irrigating
+or at intervals. Fertilizer savings of up to 95% are being reported from
+recent university field tests using drip fertigation and slow water delivery
+as compared to timed-release and irrigation by micro spray heads.
+
+If properly designed, installed, and managed, drip irrigation may help achieve
+water conservation by reducing evaporation and deep drainage when compared to
+other types of irrigation such as flood or overhead sprinklers since water can
+be more precisely applied to the plant roots. In addition, drip can eliminate
+many diseases that are spread through water contact with the foliage. Finally,
+in regions where water supplies are severely limited, there may be no actual
+water savings, but rather simply an increase in production while using the
+same amount of water as before. In very arid regions or on sandy soils, the
+trick is to apply the irrigation water as slowly as possible.
+
+Pulsed irrigation is sometimes used to decrease the amount of water delivered
+to the plant at any one time, thus reducing runoff or deep percolation. Pulsed
+systems are typically expensive and require extensive maintenance. Therefore,
+the latest efforts by emitter manufacturers are focused toward developing new
+technologies that deliver irrigation water at ultra-low flow rates, i.e. less
+than 1.0 liter per hour. Slow and even delivery further improves water use
+efficiency without incurring the expense and complexity of pulsed delivery
+equipment.
+
+Drip irrigation is used by farms, commercial greenhouses, and residential
+gardeners.  
+Drip irrigation is adopted extensively in areas of acute water scarcity and
+especially for crops such as coconuts, containerized landscape trees, grapes,
+bananas, ber, brinjal, citrus, strawberries, sugarcane, cotton, maize, and
+tomatoes.
+
+Garden drip irrigation kits are increasingly popular for the homeowner and
+consist of a timer, hose and emitter.
+
+## [edit] Advantage / disadvantages of drip irrigation
+
+The advantages of drip irrigation are:
+
+  * Minimized fertilizer/nutrient loss due to localized application and reduced leaching.
+  * High water application efficiency.
+  * Leveling of the field not necessary.
+  * Ability to irrigate irregular shaped fields.
+  * Allows safe use of recycled water.
+  * Moisture within the root zone can be maintained at field capacity.
+  * Soil type plays less important role in frequency of irrigation.
+  * Minimized soil erosion.
+  * Highly uniform distribution of water i.e., controlled by output of each nozzle.
+  * Lower labour cost.
+  * Variation in supply can be regulated by regulating the valves and drippers.
+  * Fertigation can easily be included with minimal waste of fertilizers.
+  * Foliage remains dry thus reducing the risk of disease.
+  * Usually operated at lower pressure than other types of pressurised irrigation, reducing energy costs.
+
+The disadvantages of drip irrigation are:
+
+  * Expense. Initial cost can be more than overhead systems.
+  * Waste. The sun can affect the tubes used for drip irrigation, shortening their usable life. Longevity is variable.
+  * Clogging. If the water is not properly filtered and the equipment not properly maintained, it can result in clogging.
+  * Drip irrigation might be unsatisfactory if herbicides or top dressed fertilizers need sprinkler irrigation for activation.
+  * Drip tape causes extra cleanup costs after harvest. You'll need to plan for drip tape winding, disposal, recycling or reuse.
+  * Waste of water, time & harvest, if not installed properly. These systems requires careful study of all the relevant factors like land topography, soil, water, crop and agro-climatic conditions, and suitability of drip irrigation system and its components.
+  * Germination Problems. In lighter soils subsurface drip may be unable to wet the soil surface for germination. Requires careful consideration of the installation depth.
+
+## [edit] Dripperline
+
+A dripperline is a type of drip irrigation tubing with emitters pre-installed
+at the factory.
+
+## [edit] Emitter
+
+An emitter is also called a dripper and is used to transfer water from a pipe
+or tube to the area that is to be irrigated. Typical emitter flow rates are
+from 0.16 to 4.0 US gallons per hour (0.6 to 16 L/h). In many emitters, flow
+will vary with pressure, while some emitters are pressure compensating. These
+emitters employ silicone It can also reduce weeds .diaphragms or other means
+to allow them to maintain a near-constant flow over a range of pressures, for
+example from 10 to 50 psi (70 to 350 kPa).
+
+Some of the more notable manufacturers of emitter are:
+
+  * Chapin Watermatics (Water Town, NY, U.S.A.)
+  * DRTS (USA, Italy, Turkey)
+  * Eurodrip
+  * Jain irrigation Systems (Jalgaon, India)
+  * Netafim Irrigation
+  * Toro Micro-Irrigation
+  * Premier Irrigation Adritec Ltd, Kolkata, (Bhanu)
+
+## [edit] See also
+
+  * Irrigation
+
+## [edit] References
+
+  * Jains Irrigation Systems
+
+### [edit] Notes
+
+### [edit] Bibliography
+
+  * Drip and Micro Irrigation Design and Management for Trees, Vines, and Field Crops, 3rd Edition, by Charles M. Burt and Stuart W. Styles, published by the Irrigation Training and Research Center, 2007
+  * Irrigation, 5th Edition,Engr Muhammad Irfan Khan Yousafzai,
+
+Block quote
+
+Claude H. Pair, editor, published by the Irrigation Association, 1983
+
+  * Trickle Irrigation for Crop Production, F.S. Nakayama and D.A. Bucks, editors, published by Elsevier, 1986, ISBN 0-444-42615-9
+  * S. Blass, Water in Strife and Action (Hebrew), published by Massada limited, Israel, 1973
+  * Maintenance Manual, published by Jain Irrigation, 1989
+
+### [edit] External links
+
+  * "Efficient" Irrigation Tool May Deplete More Water: ENN -- Know Your Environment
+
+Sister project Wikimedia Commons has media related to: Drip Irrigation  
+Retrieved from "http://en.wikipedia.org/wiki/Drip_irrigation"
+
+Categories: Irrigation | Gardening aids
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since November 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+  * ÐÐ¾Ð½Ð³Ð¾Ð»
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 30 March 2009, at 10:54.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

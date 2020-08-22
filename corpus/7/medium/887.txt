@@ -1,0 +1,481 @@
+
+# Whistleblower
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For the 2008 RTÃ drama, see Whistleblower (TV series).
+
+<IMG>
+
+This article or section has multiple issues. Please help improve the article
+or discuss these issues on the talk page.
+
+  * Its neutrality or factuality may be compromised by weasel words. Tagged since February 2008.  
+
+  * It may not present a worldwide view of the subject. Tagged since February 2008.  
+
+  
+A whistleblower is a person who alleges misconduct. More complex definitions
+may be used, but the issue is that the whistleblower usually faces reprisal.
+The misconduct may be classified in many ways; for example, a violation of a
+law, rule, regulation and/or a direct threat to public interest, such as
+fraud, health/safety violations, and corruption.
+
+One famous whistleblower is Jeffrey Wigand, who exposed the Big Tobacco
+scandal, revealing that executives of the companies knew that cigarettes were
+addictive and approved the addition of carcinogenic ingredients to the
+cigarettes. Wigand's story was the basis for the 1999 movie The Insider.
+Another example is Dr. Frederic Whitehurst, who exposed irregularities at the
+Federal Bureau of Investigation's Crime Lab. In Europe, Paul van Buitenen
+exposed irregularities in the European Commission.
+
+## Contents
+
+  * 1 Overview
+    * 1.1 Origins of term "whistleblower"
+    * 1.2 Definition of a whistleblower
+    * 1.3 Common reactions to whistleblowing
+  * 2 Legal protection for whistleblowers
+    * 2.1 Whistleblower Protection Act of 2007
+    * 2.2 California False Claims Act
+    * 2.3 Conscientious Employee Protection Act (CEPA)
+  * 3 Whistleblower Week in Washington (WWW)
+  * 4 See also
+  * 5 Notes
+  * 6 Resources
+  * 7 External links
+
+  
+## [edit] Overview
+
+### [edit] Origins of term "whistleblower"
+
+The term whistleblower derives from the practice of English bobbies, who would
+blow their whistles when they noticed the commission of a crime. The whistle
+would alert both law enforcement officers and the general public of danger.[1]
+
+### [edit] Definition of a whistleblower
+
+Most whistleblowers are internal whistleblowers, who report misconduct to a
+fellow employee or superior within their company. (One of the most interesting
+questions with respect to internal whistleblowers is why and under what
+circumstances people will either act on the spot to stop illegal and otherwise
+unacceptable behavior or report it. There is some reason to believe that
+people are more likely to take action with respect to unacceptable behavior,
+within an organization, if there are complaint systems that offer not just
+options dictated by the organization, but a choice of options for individuals.
+See Mary Rowe, "Options and Choice for Conflict Resolution in the Workplace"
+in Negotiation: Strategies for Mutual Gain, by Lavinia Hall, ed., Sage
+Publications, Inc., 1993, pp. 105â119.)
+
+External whistleblowers, however, report misconduct to outside persons or
+entities. In these cases, depending on the information's severity and nature,
+whistleblowers may report the misconduct to lawyers, the media, law
+enforcement or watchdog agencies, or other local, state, or federal agencies.
+
+Under most U.S. federal whistleblower statutes, in order to be considered a
+whistleblower, the federal employee must have reason to believe his or her
+employer has violated some law, rule or regulation; testify or commence a
+legal proceeding on the legally protected matter; or refuse to violate the
+law. If disclosure is specifically prohibited by law or executive order,
+disclosure may be considered treason.[citation needed] However, no
+whistleblowers have been tried for treason in the United States, and it is not
+officially treasonous to report illegal conduct by government officials
+there.[opinion needs balancing]
+
+Some try to limit the impact of whistleblowing by arguing that "role-
+prescribed" whistleblowers (e.g. quality control personnel or internal
+auditors) are not whistleblowers in the traditional sense because they are
+employed in order to blow whistles.[citation needed] In cases where
+whistleblowing on a specified topic is protected by statute, U.S. courts have
+generally held that such whistleblowers are protected from retaliation.[1]
+However, a closely divided U.S. Supreme Court decision, Garcetti v. Ceballos
+(2006). held that the First Amendment free speech guarantees for government
+employees do not protect disclosures made within the scope of the employees'
+duties.
+
+Many U.S. federal courts do not distinguish between internal and external
+whistleblowing. For example, in the field of federal environmental
+whistleblowing, federal courts have protected only internal whistleblowing as
+a matter of public policy, holding that whistleblower statutes encourage the
+free flow of information, and that internal whistleblowing helps resolve
+problems as soon as possible.[opinion needs balancing]
+
+### [edit] Common reactions to whistleblowing
+
+Ideas about whistleblowing vary widely. Whistleblowers are commonly seen as
+selfless martyrs for public interest and organizational accountability; others
+view them as a 'tattle tale' or "snitches" (slang), solely pursuing personal
+glory and fame.
+
+It is probable that many people do not even consider blowing the whistle, not
+only because of fear of retaliation, but also because of fear of losing their
+relationships at work and outside work.(See Rowe, Mary & Bendersky, Corinne,
+"Workplace Justice, Zero Tolerance and Zero Barriers: Getting People to Come
+Forward in Conflict Management Systems," in Negotiations and Change, From the
+Workplace to Society, Thomas Kochan and Richard Locke (editors), Cornell
+University Press, 2002.)
+
+Because the majority of cases are very low-profile and receive little or no
+media attention and because whistleblowers who do report significant
+misconduct are usually put in some form of danger or persecution, the idea of
+seeking fame and glory may be less commonly believed.[citation needed]
+
+Persecution of whistleblowers has become a serious issue in many parts of the
+world. Although whistleblowers are often protected under law from employer
+retaliation, there have been many cases where punishment for whistleblowing
+has occurred, such as termination, suspension, demotion, wage garnishment,
+and/or harsh mistreatment by other employees. For example, in the United
+States, most whistleblower protection laws provide for limited "make whole"
+remedies or damages for employment losses if whistleblower retaliation is
+proven. However, many whistleblowers report there exists a widespread "shoot
+the messenger" mentality by corporations or government agencies accused of
+misconduct and in some cases whistleblowers have been subjected to criminal
+prosecution in reprisal for reporting wrongdoing.
+
+As a reaction to this many private organizations have formed whistleblower
+legal defense funds or support groups to assist whistleblowers; one such
+example in the UK is Public Concern at Work. Depending on the circumstances,
+it is not uncommon for whistleblowers to be ostracized by their co-workers,
+discriminated against by future potential employers, or even fired from their
+organization. This campaign directed at whistleblowers with the goal of
+eliminating them from the organization is referred to as mobbing. It is an
+extreme form of workplace bullying wherein the group is set against the
+targeted individual.
+
+## [edit] Legal protection for whistleblowers
+
+Legal protection for whistleblowing varies from country to country[2]. In the
+United Kingdom, the Public Interest Disclosure Act 1998 provides a framework
+of legal protection for individuals who disclose information so as to expose
+malpractice and matters of similar concern. In the vernacular, it protects
+whistleblowers from victimisation and dismissal.
+
+In the United States, legal protections vary according to the subject matter
+of the whistleblowing, and sometimes the state in which the case arises. In
+passing the 2002 Sarbanes-Oxley Act, the Senate Judiciary Committee found that
+whistleblower protections were dependent on the "patchwork and vagaries" of
+varying state statutes. (Congressional Record p. S7412; S. Rep. No. 107-146,
+107th Cong., 2d Session 19 (2002).) Still, a wide variety of federal and state
+laws protect employees who call attention to violations, help with enforcement
+proceedings, or refuse to obey unlawful directions.
+
+The first U.S. law adopted specifically to protect whistleblowers was the
+Lloyd-La Follette Act of 1912. It guaranteed the right of federal employees to
+furnish information to the United States Congress. The first U.S.
+environmental law to include an employee protection was the Water Pollution
+Control Act of 1972, also called the Clean Water Act. Similar protections were
+included in subsequent federal environmental laws including the Safe Drinking
+Water Act (1974), Resource Conservation and Recovery Act (also called the
+Solid Waste Disposal Act) (1976), Toxic Substances Control Act (1976), Energy
+Reorganization Act of 1974 (through 1978 amendment to protect nuclear
+whistleblowers), Comprehensive Environmental Response, Compensation, and
+Liability Act (CERCLA, or the Superfund Law) (1980), and the Clean Air Act
+(1990). Similar employee protections enforced through OSHA are included in the
+Surface Transportation Assistance Act (1982) to protect truck drivers, the
+Pipeline Safety Improvement Act (PSIA) of 2002, the Wendell H. Ford Aviation
+Investment and Reform Act for the 21st Century ("AIR 21"), and the Sarbanes-
+Oxley Act, enacted on July 30, 2002 (for corporate fraud whistleblowers).
+
+The patchwork of laws means that victims of retaliation need to be alert to
+the laws at issue to determine the deadlines and means for making proper
+complaints. Some deadlines are as short as 10 days (for Arizona State
+Employees to file a "Prohibited Personnel Practice" Complaint before the
+Arizona State Personnel Board; and Ohio public employees to file appeals with
+the State Personnel Board of Review). It is 30 days for environmental
+whistleblowers to make a written complaint to the Occupational Safety and
+Health Administration [OSHA]. Federal employees complaining of discrimination,
+retaliation or other violations of the civil rights laws have 45 days to make
+a written complaint to their agency's equal employment opportunity (EEO)
+officer. Airline workers and corporate fraud whistleblowers have 90 days to
+make their complaint to OSHA. Nuclear whistleblowers and truck drivers have
+180 days to make complaints to OSHA. Victims of retaliation against union
+organizing and other concerted activities to improve working conditions have
+180 days to make complaints to the National Labor Relations Board (NLRB).
+Private sector employees have either 180 or 300 days to make complaints to the
+federal Equal Employment Opportunity Commission (EEOC) (depending on whether
+their state has a "deferral" agency) for discrimination claims on the basis of
+race, gender, age, national origin or religion (but here an example of
+retaliation can be seen, as these anti-discrimination agencies change their
+areas of discrimination to suit their needs. An area of discrimination in
+California was if a complaining party had a civil servant relative. The state
+Department of Fair Employment and Housing quickly called an end to this
+practice. The state's RALPH Act has also proven to be non-functional.)[opinion
+needs balancing] Those who face retaliation for seeking minimum wages or
+overtime have either two or three years to file a civil lawsuit, depending on
+whether the court finds the violation was "willful."
+
+Those who report a false claim against the federal government, and suffer
+adverse employment actions as a result, may have up to six years (depending on
+state law) to file a civil suit for remedies under the U.S. False Claims Act
+(FCA). 31 U.S.C. Â§ 3730(h). Under a qui tam provision, the "original source"
+for the report may be entitled to a percentage of what the government recovers
+from the offenders. However, the "original source" must also be the first to
+file a federal civil complaint for recovery of the federal funds fraudulently
+obtained, and must avoid publicizing the claim of fraud until the U.S. Justice
+Department decides whether to prosecute the claim itself. Such qui tam
+lawsuits must be filed under seal, using special procedures to keep the claim
+from becoming public until the federal government makes its decision on direct
+prosecution.
+
+Federal employees could benefit from the Whistleblower Protection Act (5
+U.S.C. Â§ 1221(e)), and the No FEAR Act (which made individual agencies
+directly responsible for the economic sanctions of unlawful retaliation).
+Federal protections are enhanced in those few cases were the Office of Special
+Counsel will uphold the whistleblower's case.
+
+The Military Whistleblower Protection Act (10 U.S.C. Â§ 1034), protects the
+right of members of the armed services to communicate with any member of
+Congress (even if copies of the communication are sent to others).
+
+The HOPE Scholarship in Georgia is the only incentive to report corporate,
+government, or religious crimes. This scholarship provides four years of free
+tuition to a tech school or University in Georgia for children of
+whistleblowers or those researching corporate crime.
+
+### [edit] Whistleblower Protection Act of 2007
+
+The U.S. Supreme Court dealt a major blow to government whistleblowers when,
+in the case of Garcetti v. Ceballos, 04-5, it ruled that government employees
+did not have protection from retaliation by their employers under the First
+Amendment of the Constitution.[3]
+
+The free speech protections of the First Amendment have long been used to
+shield whistleblowers from retaliation by whistleblower attorneys. In response
+to the Supreme Court decision, the House of Representatives passed H.R. 985,
+the Whistleblower Protection Act of 2007. President George W. Bush, citing
+national security concerns, promised to veto the bill should it be enacted
+into law by Congress. The Senate's version of the Whistleblower Protection Act
+(S. 274), which has significant bipartisan support, was approved by the Senate
+Committee on Homeland Security and Governmental Affairs on June 13, 2007.
+However, it has yet to reach a vote by Senate as a hold has been placed on the
+bill by Senator Tom Coburn (R-OK).[4] According to the National Whistleblower
+Center, Coburn's hold on S. 274 has been done to further President Bush's
+agenda.[5]
+
+### [edit] California False Claims Act
+
+The California False Claims Act protects whistleblowers from retaliation from
+their employer under a section entitled: "Section 12653. Employer interference
+with employee disclosures." [6] Under this section, employers may not make
+rules that prevent an employee from disclosing information to the government
+in furtherance of a false claims action, an employer may not discharge,
+demote, suspend, threaten, harass, deny promotion to, or in any other manner
+discriminate against, an employee in the terms and conditions of employment
+because he or she has disclosed information to the government.
+
+### [edit] Conscientious Employee Protection Act (CEPA)
+
+CEPA, New Jersey's whistleblower law, prohibits an employer from taking any
+retaliatory action against an employee because the employee does any of the
+following:
+
+  * Discloses, or threatens to disclose, to a supervisor or to a public body an activity, policy, or practice of the employer or another employer, with whom there is a business relationship, that the employee reasonably believes is in violation of a law, or a rule or regulation issued under the law, or, in the case of an employee who is a licensed or certified health care professional, reasonably believes constitutes improper quality of patient care;
+
+  * Provides information to, or testifies before, any public body conducting an investigation, hearing or inquiry into any violation of law, or a rule or regulation issued under the law by the employer or another employer, with whom there is a business relationship, or, in the case of an employee who is a licensed or certified health care professional, provides information to, or testifies before, any public body conducting an investigation, hearing or inquiry into quality of patient care; or
+
+  * Objects to, or refuses to participate in, any activity, policy or practice which the employee reasonably believes: is in violation of a law, or a rule or regulation issued under the law, or, if the employee is a licensed or certified health care professional, constitutes improper quality of patient care; is fraudulent or criminal; or is incompatible with a clear mandate of public policy concerning the public health, safety or welfare or protection of the environment. N.J.S.A. 34:19-3
+
+## [edit] Whistleblower Week in Washington (WWW)
+
+The week of May 13-19 2007, whistleblowers from all over the country gathered
+in Washington, D.C., to convince the United States Congress to pass stronger
+whistleblower protections for both government and private sector workers. Dr.
+Marsha Coleman-Adebayo, founder of the No FEAR Coalition and No FEAR
+Institute, served as Chair of the first-ever Whistleblower Week in Washington.
+The event was coordinated around the fifth anniversary of the May 15, 2002
+enactment of the Notification and Federal Employee Antidiscrimination and
+Retaliation Act of 2002, which is now known as the No FEAR Act. One purpose of
+the Act is to "require that Federal agencies be accountable for violations of
+antidiscrimination and whistleblower protection laws." Public Law 107-174. The
+law came to fruition after Dr. Coleman-Adebayo provided congressional
+testimony about American companies exposing African miners and their families
+to vanadium, a deadly substance.
+
+During WWW dozens of nonprofit organizations, whistleblower groups and
+individual whistleblowers participated in a broad range of activities that
+included discussion panels, testimony, award ceremonies, a film night and book
+signing, and workshops in advocacy, stress management, whistleblower law, and
+mentoring. Doctors from the "Semmelweis Society International" played a
+leading role in organizing the event, along with the Civil rights
+whistleblower advocates, the No FEAR Institute. Prominent organizations
+included the Government Accountability Project (GAP), the National
+Whistleblower Center, the VA Whistleblower Coalition, the National Security
+Whistleblowers Coalition, the ACLU, Public Citizen, the Liberty Coalition, and
+the Association of American Physicians and Surgeons (AAPS). Betsy Combier
+represented the E-Accountability Foundation. Linda Lewis, chair of
+Whistleblowers USA, played a special role and noted that "too many very brave
+whistleblowers were present to adequately honor their accomplishments and
+their contributions to the conference." Senator Charles Grassley saluted the
+group, and called on the White House to hold a rose garden ceremony to honor
+whistleblowers. The group plans to make this an annual event.[7]
+
+## [edit] See also
+
+Sister project Look up whistleblower in  
+Wiktionary, the free dictionary.  
+  * European Community competition law: Leniency policy
+  * Global Integrity tracks the status of whistle blowers worldwide.
+  * Source criticism
+  * Wikileaks
+  * List of whistleblowers
+
+## [edit] Notes
+
+  1. ^ Winters v. Houston Chronicle Pub. Co., 795 S.W.2d 723, 727 (Tex. 1990) (Doggett, J., concurring).
+  2. ^ Global Integrity Report
+  3. ^ High Court Trims Whistleblower Rights
+  4. ^ Whistleblower Protection Enhancement Act of 2007 - Congresspedia
+  5. ^ Take Action Now
+  6. ^ California False Claims Act
+  7. ^ http://www.w3conference.org/
+
+Major Daniel A. Lauretano, The Military Whistleblower Protection Act and the
+Military Mental Health Protection Act, ARMY LAW., (Oct) 1998.
+
+## [edit] Resources
+
+  * IRS Whistleblower - Informant Award
+  * Project On Government Oversight, Homeland and National Security Whistleblower Protections: The Unfinished Agenda, April, 2006.
+  * Project On Government Oversight, Public Employees for Environmental Responsibility and Government Accountability Project, Art of Anonmymous Activism: Serving the Public While Surviving Public Service "Chapter One", 2002. To order full book, go here.
+  * Project On Government Oversight, Documents Concerning the Office of Special Counsel.
+  * Frais,A Whistleblowing heroes - boon or burden? Bulletin of Medical Ethics, 2001Aug:(170):13-19.
+  * Alford, C. Fred (2001). Whistleblowers: Broken Lives and Organizational Power. Cornell University Press. ISBN 0-8014-3841-1.
+  * Garrett, Allison, "Auditor Whistle Blowing: The Financial Fraud Detection and Disclosure Act," 17 Seton Hall Legis. J. 91 (1993).
+
+  * Hunt, Geoffrey (20061). The Principle of Complementarity: Freedom of Information, Public Accountability and Whistleblowing in Chapman, R & Hunt, M (eds) Freedom of Information: Perspectives on Open Government in a Theoretical and Practical Context. Ashgate, Aldershot, UK.
+
+  * Hunt, Geoffrey (2000). Whistleblowing, Accountability & Ethical Accounting, in. Clinical Risk 6(3): 115-16.
+
+  * Hunt, Geoffrey (1998). 'Whistleblowing', commissioned entry for Encyclopedia of Applied Ethics, (8,000 words). Academic Press, California, USA,.
+
+  * Hunt, Geoffrey (ed) (1998). Whistleblowing in the Social Services: Public Accountability & Professional Practice. Arnold.
+
+  * Hunt, G (ed) (1995). Whistleblowing in the Health Service: Accountability, Law & Professional Practice. Arnold.
+
+  * Johnson, Roberta Ann (2002). Whistleblowing: When It WorksâAnd Why. ISBN 978-1588261144.
+
+  * Kohn, Stephen M (2000). Concepts and Procedures in Whistleblower Law. Quorum Books. ISBN 1-56720-354-X.
+
+  * Kohn, Stephen M; Kohn, Michael D; Colapinto, David K. (2004). Whistleblower Law A Guide to Legal Protections for Corporate Employees. Praeger Publishers. ISBN 0-275-98127-4.
+
+  * Miethe, Terance D (1991). Whistleblowing at work : tough choices in exposing fraud, waste, and abuse on the job. Westview Press. ISBN 0-81â33-3549-3.
+  * "Sarbanes-Oxley Criminal Whistleblower Provisions & the Workplace: More Than Just Securities Fraud," by Jay P. Lechner & Paul M. Sisco, 80 Florida B. J. 85 (June 2006)
+  * Rowe, Mary & Bendersky, Corinne, "Workplace Justice, Zero Tolerance and Zero Barriers: Getting People to Come Forward in Conflict Management Systems," in Negotiations and Change, From the Workplace to Society, Thomas Kochan and Richard Locke (editors), Cornell University Press, 2002
+
+## [edit] External links
+
+Sister project Wikimedia Commons has media related to: Category:Whistleblower  
+  * Global Integrity Report tracks whistleblower protection worldwide.
+  * Whistleblowing about the Scottish Widows demutualisation
+  * Whistleblower.co.uk UK site for whistleblowers to tell their story
+  * Taxpayers Against Fraud
+  * Father and Son Whistleblowers' Website - Tips for Whistleblowers - A free public Service
+  * Public Employees for Environmental Responsibility (PEER)
+  * Government Accountability Project
+  * Worldwide Whistleblowers \- International whistleblowing news and information site
+  * Project On Government Oversight (POGO)
+  * The Ron Ridenhour Awards
+  * National Whistleblower Center
+  * The Truth-Telling Project \- Project formed by whistleblowers Daniel Ellsberg and Katharine Gun
+  * FAIR: Federal Accountability Initiative for Reform For Whistleblowers in Canada
+  * Public Concern at Work \- the leading UK authority on Public Disclosure
+  * Public Interest Disclosure Act 1998 from Her Majesty's Stationery Office
+  * Workplace Fairness FAQ for environmental whistleblowers
+  * Congressional Research Service (CRS) Report "National Security Whistleblowers"
+  * Whistleblowers in the EU
+  * Year of the Rhinoceros (a novel about whistleblowers)
+  * International Freedom of Expression Exchange
+  * National Security Whistleblowers Coalition Source for many and varied articles
+  * Freedom to Care UK's first grassroots (1991)whistleblowers support organisation.
+  * Whistleblower-Netzwerk Whistleblower support organisation in Germany.
+  * U.S. Department of Labor Whistleblower Program & information
+  * List and information on US Whistleblowers at SourceWatch
+  * Read v. Canada (Attorney General) Canadian legal framework regarding whistleblowing defence
+  * Whistleblower Week in Washington
+  * "Office of Special Counsel's War on Whistleblowers", Mother Jones, May/June 2007.
+  * Political Party of Whistleblowers in the Netherlands
+  * Grant Thornton IBR whistleblowing survey
+
+Retrieved from "http://en.wikipedia.org/wiki/Whistleblower"
+
+Categories: Whistleblowers | Dissent | Political terms | Business ethics |
+Employment law | Grounds for termination of employment | Anti-corporate
+activism | United States federal labor legislation | Discrimination
+
+Hidden categories: Articles with weasel words from February 2008 | Articles
+with limited geographic scope | All articles with unsourced statements |
+Articles with unsourced statements since September 2007 | All pages needing
+cleanup | Articles with minor POV problems from September 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Dansk
+  * Deutsch
+  * FranÃ§ais
+  * ×¢××¨××ª
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 27 March 2009, at 16:42 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

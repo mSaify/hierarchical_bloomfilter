@@ -1,0 +1,249 @@
+
+# Outline
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article does not cite any references or sources. Please help improve this
+article by adding citations to reliable sources (ideally, using inline
+citations). Unsourced material may be challenged and removed. (January 2009)  
+This article is about the prewriting technique of outlining. For other uses,
+see Outline (disambiguation).
+
+"Outlining" redirects here. For the musical technique, see lining out.
+
+Sister project Look up outline in  
+Wiktionary, the free dictionary.  
+An outline or hierarchical outline is a list of related items arranged
+hierarchically to depict their relationships.
+
+They are often used by students for research papers. Outlines provide a
+summary showing the logical flow of a paper. They are useful because they:
+
+  1. help the writer organize their thoughts before getting bogged down in word choice and sentence structure;
+  2. show which ideas need illustration or elaboration; and
+  3. help the writer decide on an organizational technique for the report, whether it be logical, chronological, or categorical in nature.
+
+## Contents
+
+  * 1 Outlining reports
+    * 1.1 Alphanumeric outlines
+      * 1.1.1 Sample alphanumeric outline
+    * 1.2 Family Tree outline
+    * 1.3 Decimal outlines
+      * 1.3.1 Sample decimal outline
+  * 2 Outlining stories
+    * 2.1 Location outlines
+    * 2.2 Plot outlines
+  * 3 References
+  * 4 Notes
+
+  
+## [edit] Outlining reports
+
+Textbooks generally recommend that, before constructing an outline, a writer
+should research the topic and take notesâpreferably on index cardsâas they
+go. The notes need not be more than a summary of what the author thinks is
+important. Each note card normally has a heading (a slug) in the upper-left
+hand corner. Each slug later becomes a heading, or subheading, in the outline
+and the writer can later lay their cards on a table, grouping those that
+belong together. This creates a rough division of the topic. The writer may
+then put the cards in an order that approximates a final version.
+
+Experts recommend that an outline have three to five main categories. If you
+have more than that, look for ways to combine smaller segments into broader
+topics. If you have only one subpoint, integrate it with the point above or
+reorganize. Also avoid overlapping between categories.
+
+### [edit] Alphanumeric outlines
+
+An alphanumeric outline uses Roman numerals, capitalized letters, Arabic
+numerals, and lowercase letters, in that order. Each numeral or letter is
+followed by a period, and each item is capitalized:
+
+#### [edit] Sample alphanumeric outline
+
+    Thesis statement: E-mail and internet monitoring; is it really an invasion of the employees' rights in the workplace?
+    
+    I. Why do over 80% of today's companies monitor their employees? 
+    A. To prevent fraudulent activities, theft, and other workplace related violations.
+    B. To more efficiently monitor employee productivity.
+    C. To prevent any legal liabilities due to harassing or offensive communications.
+    II. What are the employees privacy rights when it comes to EM/S (Electronic Monitoring and Surveillance) in the workplace? 
+    A. American employees have basically no legal protection from mean and snooping bosses. 
+    1\. There are no federal or State laws protecting employees.
+    2\. Employees may assert privacy protection for their own personal effects.
+    B. Bosses believe that work is to be done so privacy is not necessary.
+Note that each category above has at least two subcategories.
+
+Some call the Roman numerals above a-heads, the capitalized letters, b-heads,
+and so on. Some writers also prefer to insert a blank line between the a-heads
+and b-heads (N.B. these people keep the b-heads and c-heads together, though).
+
+If more levels of outline are needed, lowercase roman numerals and numbers and
+lowercase letters with single and double parenthesis can be used, although the
+exact order is not well defined, and usage varies widely. The Chicago Manual
+of Style[1] suggests the sequence I. A. 1. a) (1) (a) i) (capital roman
+numerals with a period, capital letters with a period, numerals with a period,
+lowercase letters with a single parenthesis, numerals with a double
+parenthesis, lowercase letters with a double parenthesis, and lowercase roman
+numerals with a single parentheses) for the first seven levels. Another scheme
+uses I. A. 1. a. i. for the first five levels, then repeats those with a
+single parenthesis for the next five â I) A) 1) a) i) â and with a double
+parenthesis for the next five â (I) (A) (1) (a) (i).
+
+### [edit] Family Tree outline
+
+Family Tree outlines are used to show people, their spouses and their children
+in chronological order, like a shorter way to present research.
+
+  
+1\. Gregory CURIOUS
+
+    
+    A. Patricia JONES (1st marriage) 
+    
+    1\. Chloe CURIOUS
+    2\. Lola CURIOUS
+    B. Katie HOGLEG (2nd marriage) 
+    
+    3\. Jenny CURIOUS 
+    
+    
+    A. Paul SMITH (1st marriage) 
+    
+    1\. John SMITH
+    2\. Jill SMITH
+    4\. Vincent CURIOUS
+Here you can see that Gregory had two wives (Patricia and Katie) and 4
+children (Chloe, Lola, Jenny and Vincent) and you can see who he had each
+child with. You can also see his son-in-law (Paul Smith) and his 2
+grandchildren who are Jenny's and Paul's. This is very useful in graphing
+descendents rather than ancestors.
+
+### [edit] Decimal outlines
+
+The decimal outline format has the advantage of showing how every item at
+every level relates to the whole:
+
+#### [edit] Sample decimal outline
+
+    Thesis statement: --- 
+    1.0 Introduction
+    
+    
+    1.1 Brief history of Liz Claiborne
+    1.2 Corporate environment
+    2.0 Career opportunities 
+    2.1 Operations management 
+    2.1.1 Traffic
+    2.1.2 International trade and corporate customs
+    2.1.3 Distribution
+    . . . . . . . . .
+## [edit] Outlining stories
+
+Outline is also a name for a prose telling of a story to be turned into a
+screenplay. Sometimes called a one page (one page synopsis, about 1 - 3
+pages). It is generally longer and more detailed than a standard synopsis (1 -
+2 paragraphs), but shorter and less detailed than a treatment or a step
+outline. There are different ways to do these outlines and they vary in
+length.
+
+### [edit] Location outlines
+
+### [edit] Plot outlines
+
+In comics, an outline--often pluralised as outlines\--refers to a stage in the
+development where the story has been broken down very loosely in a style
+similar to storyboarding in film development.
+
+The pencils will be very loose (i.e., the sketch rough), the main aim being to
+lay out the flow of panels across a page, ensure the story successfully builds
+suspense and to work out points of view, camera angles and character positions
+within panels. This can also be referred to as a plot outline or a layout.
+
+## [edit] References
+
+  * Mary Ellen Guffey, "Organizing and Writing Business Messages," Business Communication: Process and Product, p. 160-161.
+  * "Numbers: Lists and Outlines," Manual for Writers and Editors (Merriam-Webster, Incorporated: 1998), p. 103.
+  * White, Basil (1996) Developing Products and Their Rhetoric from a Single Hierarchical Model, 1996 Proceedings of the Annual Conference of the Society for Technical Communication, 43, 223-224. [1]
+  * OWL: Online Writing Lab, Purdue University
+  * "Report writing," Britannica Student Encyclopedia, EncyclopÃ¦dia Britannica Online (Accessed January 5, 2006)
+  * William E. Coles, Jr. "Outline," World Book Online (Accessed January 5, 2006)
+  * Ted Goranson's About this Particular Outliner 'Outlining and Styles'
+
+## [edit] Notes
+
+  1. ^ The Chicago Manual of Style, 14th ed., The University of Chicago Press, 1993
+
+Retrieved from "http://en.wikipedia.org/wiki/Outline"
+
+Categories: Film techniques | Writing
+
+Hidden categories: Articles lacking sources from January 2009 | All articles
+lacking sources
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 19 April 2009, at 20:51 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

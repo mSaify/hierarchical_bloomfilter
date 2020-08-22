@@ -1,0 +1,316 @@
+
+# Gin rummy
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Gin Rummy (card game)  
+Alternate names Gin, Knock Poker, Poker Gin, Gin Poker  
+Type Matching  
+Players 2  
+Deck 52  
+Cards Anglo-American  
+Play Clockwise  
+Origin United States  
+Related games Whiskey Poker, Conquian , Mahjong  
+Gin rummy (or Gin for short) is a simple and popular two-player card game
+created by Elwood T. Baker and his son, C. Graham Baker, in 1909.[1] Gin,
+which evolved from 18th-century Whiskey Poker (according to John
+Scarne),[citation needed] was created with the intention of being faster than
+standard rummy, but not as spontaneous as knock rummy.
+
+## Contents
+
+  * 1 Deck
+  * 2 Object
+  * 3 Dealing
+  * 4 Gameplay
+  * 5 Knocking
+  * 6 Scoring
+  * 7 Variations
+    * 7.1 Oklahoma Gin
+    * 7.2 Hollywood Gin
+    * 7.3 Single match
+    * 7.4 Multi-match
+  * 8 Strategy
+    * 8.1 Basic strategy
+    * 8.2 Advanced strategy
+  * 9 References
+  * 10 See also
+  * 11 External links
+
+  
+## [edit] Deck
+
+Gin is played with a standard 52-card pack of playing cards. Aces can only be
+played low - the ranking from low-to-high is A-2-3-4-5-6-7-8-9-10-J-Q-K.
+
+## [edit] Object
+
+The objective in Gin Rummy is to score more points than your opponent.
+
+The basic game strategy is to improve one's hand by forming melds and
+eliminating deadwood. Two types of meld exist:
+
+  * Sets of 3 or 4 cards sharing the same rank. For example, 8â¥-8â£-8â .
+  * Runs of 3 or more cards in sequence, of the same suit. For example, 3â¥-4â¥-5â¥-6â¥.
+
+A player's "deadwood" cards are those not in any meld. His deadwood count is
+the sum of the point values of the deadwood cardsâ aces are scored at 1
+point, face cards at 10, and others according to their numerical values.
+Intersecting melds are not allowed; therefore, if a player has a 3-card set
+and a 3-card run sharing a common card, he can only count one of them and must
+count two cards as deadwood.
+
+## [edit] Dealing
+
+Dealership alternates from round to round (the dealer to the first round is
+usually determined by cutting the deck; low card deals). The dealer deals a
+ten-card hand to his opponent and himself. The 21st card, the upcard (Wand),
+is placed face-up in a central location known as the discard pile. The
+remainder of the pack, placed face down next to the discard pile, is called
+the stock pile. A common variation is for the dealer to deal one extra card to
+the other player; the other player goes first and lays down one card to start
+the discard pile.
+
+The non-dealing player has the option of taking the upcard and playing first.
+If the non-dealing player does not want the upcard, the dealer is given the
+opportunity to take the upcard. If the dealer also does not want the upcard,
+play proceeds with the non-dealing player taking a card from the stock pile.
+
+## [edit] Gameplay
+
+On each turn, a player:
+
+  * draws either the (face-up) top card of the discard pile, or one card from the stock pile
+  * may "knock", ending the round, under certain conditions
+  * discards one card from his or her hand onto the discard pile
+
+Play continues, in alternating turns, until one player knocks or only 2 cards
+remain in the stock pile. In that case, the hand would end in a draw.
+
+## [edit] Knocking
+
+In standard Gin, a player may not knock unless he has 10 or fewer points of
+deadwood. He must knock if he has 0 points of deadwood. Knocking with 0 points
+of deadwood is known as going Gin or having a Gin hand, while knocking with
+deadwood points is known as going down.[2]
+
+To knock, the knocking player ends his turn by discarding as usual, announces
+that he is knocking (generally by simply placing his discard face down), and
+lays his hand out with the melds clearly indicated and deadwood separated. The
+other ("defending") player is then entitled to lay off any of his deadwood
+cards that fit into the knocking player's melds.
+
+For example, the knocking player has a meld of three Kings. The defending
+player has a King as part of his deadwood. He can lay off that King, reducing
+his deadwood count by ten.
+
+## [edit] Scoring
+
+As previously mentioned, aces are scored at 1 point, face cards at 10, and all
+other cards are scored at their numerical values. The number of points awarded
+for bonuses may vary from region to region. No matter what the bonus amounts
+are, points are scored in Gin for the following:
+
+Knock Points \- after a player knocks, and the lay offs are made, the knocking
+player receives a score equal to the difference between the two hands. For
+example, if a player knocks with 8, and the defender has 10 deadwood points in
+his or her hand after laying off, the knocking player receives 2 points for
+the hand.
+
+Gin Bonus \- after going Gin, a player receives a bonus of 25 points plus the
+entire count of deadwood in their opponent's hand. There is no chance to lay
+off when a player goes Gin.
+
+UnderCut \- (sometimes called underknocking) occurs when the defending player
+has a deadwood count lower than or equal to that of the knocking player (this
+can occur either naturally or by laying off after a knock). In this case, the
+defender scores an undercut bonus of 25 points plus the difference between the
+two hands. (In some rule sets, the bonus is only 10 or 20 points, or is not
+awarded in case of a tie.)
+
+Game Bonus \- once a player has acquired 100 points (or some other agreed upon
+number) the match is over, and that player receives a Game Bonus of 100
+points.
+
+Line Bonus \- (also known as a box bonus) is added at the end of the match.
+For every hand a player won during the match, 25 points is added to their
+score.
+
+Big Gin \- prior to knocking, if all 11 cards in a player's hand form a legal
+gin, the player can retain the extra card as part of their hand, and is
+awarded an extra 6 points per the "Big Gin" bonus.
+
+Shutout Bonus \- if a match is completed with the winner having won every
+hand, the points for each hand are doubled before adding the Line Bonus.
+
+## [edit] Variations
+
+### [edit] Oklahoma Gin
+
+In this popular version of Gin Rummy, the value of the first upcard is used to
+determine the maximum count at which players can knock. Face cards count as
+10; aces count as 0 (no knocking allowed, players must play for Gin). If the
+upcard is a Spade, the hand will count double.
+
+Another version in this variation (mostly in match play) and in Hollywood Gin
+(see below), a second deck of cards will be used to determine the knock value
+of a hand. The knock value card will be dealt from the bottom and turned over
+on top. Above rules apply but both players are dealt ten cards with the last
+hand winner picking first from the deck.
+
+### [edit] Hollywood Gin
+
+This is a scoring style, not a rules change to the game of Gin. In Hollywood
+Gin scoring is kept for three different games at the same time. A player's
+first win will be recorded in their column in Game One. A player's second win
+will be recorded in their columns for both Game One and Game Two. Their third
+win will be recorded in their column for all three games.
+
+Hands are played until all three games are finished.
+
+### [edit] Single match
+
+When a single match is to be played, the players will continue to play rounds
+until one player has 100 points or more. This player wins the match.
+
+### [edit] Multi-match
+
+In multi-match games, 'match scores' are reset to zero with the start of each
+match whilst the 'game scores' accumulate until a predetermined winning score
+is reached - perhaps 500 or higher. Each individual match ends when one player
+scores 100 match points. At the end of the match, players' match scores are
+credited toward their game scores, as well as:
+
+  * 25 game points for each individual round won,
+  * 100 game points to the winner of the match, and
+  * 100 bonus game points to the match winner if the loser won no rounds.
+
+## [edit] Strategy
+
+Although the rules are simple, gin rummy strategy is complex enough that
+experienced players will outperform beginners. Over the long run, the luck of
+the cards evens out and the better player will prevail.
+
+### [edit] Basic strategy
+
+The main goal is to reduce the deadwood count as quickly as possible.
+
+  * Create sets and runs by melding cards.
+  * Discard high unmelded cards rather than low ones.
+  * Knock as soon as possible.
+
+### [edit] Advanced strategy
+
+<IMG>
+
+This article may contain original research or unverified claims. Please
+improve the article by adding references. See the talk page for details.
+(September 2007)  
+  * Middle cards are far more strategically important than low cards or face cards as they can be used in far more sets and runs. The 7 can be used in more combinations than any other value in the deck. Once again, aces, although they have a low point value, can only form a run with a 2-3 combination, whereas a 7 can be used with a 5-6, 6-8, or 8-9, as well as longer runs.
+  * Beware the possibility that the opponent can knock lower and obtain an undercut. This is common if the game is coming down to the bottom of the pile. In the mid-game (when about half the cards in the draw pile have been used), the decision to knock or "go for gin" hinges on how many undrawn cards ("free cards") could give the player gin on the next draw, which could range from zero (all possible gin cards are known to be held by the opponent or are in the discard pile) on up to 5 or so (rarely higher).
+  * Another strategy to use regarding knocking involves the knock value card. With a 10 up as knock value the player should try to go down as soon as possible because 10 points of deadwood can be achieved rather quickly (two three-card melds and four low value cards can often add up to 10 or less); conversely, a 2 or 3 up will allow the player to wait longer to go down or to Gin as these amounts of points in deadwood would be harder to achieve.
+  * Although not generally desirable, holding onto high cards at the beginning of the game may allow you to take advantage of an opponent discarding these, allowing you to form high sets or runs and thus making large deadwood reductions. Holding onto unmatched high cards for too long is very dangerous however. Conversely, constantly discarding "from the top" (i.e. from the king down) will soon teach the opponent to do the same to you (save high cards). A good player varies the cards they discard in order to make the discards less predictable and give less of a clue to what they are saving.
+  * Manage your cards in a way that does not reveal your holdings. For example, when drawing from the stock, wise players put that card at random in their hands, close their cards, reopen them and only then pick a card to discard. In that way, the opponent does not know how many cards you have saved from the stock.
+  * In rare scenarios, you do not have to have a card to place face down in order to win a game.
+
+## [edit] References
+
+  1. ^ "C.G. Baker, Helped Devise Gin Rummy". New York Times. May 17, 1950. http://select.nytimes.com/gst/abstract.html?res=F60E10FC3E5A1A7B93C5A8178ED85F448585F9. Retrieved on 2008-05-22. "C. Graham Baker, writer and producer of motion pictures and co-creator of the card game gin rummy, died today at his home in Reseda in the San Fernando Valley. ..."
+  2. ^ Glossary of Gin Rummy Terms | Basics
+
+## [edit] See also
+
+  * Canasta
+  * Tonk
+  * Ramino
+  * Gin Rummy (video game)
+
+## [edit] External links
+
+  * Rules of Gin Rummy at Pagat.com
+  * Gin Rummy Association
+  * David Teach's Freeware Gin Rummy program for Windows
+  * Gin Rummy Tutorial
+
+Retrieved from "http://en.wikipedia.org/wiki/Gin_rummy"
+
+Categories: Matching card games | Anglo-American playing card games | Two-
+player card games
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since September 2008 | Articles that may contain original
+research since September 2007 | All articles that may contain original
+research
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 18:44 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

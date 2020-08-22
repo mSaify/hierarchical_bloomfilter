@@ -1,0 +1,144 @@
+
+# Traversal Using Relay NAT
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+"TURN" redirects here. For other uses, see Turn (disambiguation).
+
+Traversal Using Relay NAT (TURN) is a protocol that allows for an element
+behind a NAT or firewall to receive incoming data over TCP or UDP connections.
+It is most useful for elements behind symmetric NATs or firewalls that wish to
+be on the receiving end of a connection to a single peer. TURN does not allow
+for users to run servers on well known ports if they are behind a NAT; it
+supports the connection of a user behind a NAT to only a single peer. In that
+regard, its role is to provide the same security functions provided by
+symmetric NATs and firewalls, but to turn the tables so that the element on
+the inside can be on the receiving end, rather than the sending end, of a
+connection that is requested by the client.
+
+TURN is currently an Internet draft.
+
+## Contents
+
+  * 1 Introduction
+  * 2 See also
+  * 3 External links
+    * 3.1 Implementations
+
+  
+## [edit] Introduction
+
+Network Address Translators (NATs), while providing many benefits, also come
+with many drawbacks. The most troublesome of those drawbacks is the fact that
+they break many existing IP applications, and make it difficult to deploy new
+ones. Guidelines have been developed that describe how to build "NAT friendly"
+protocols, but many protocols simply cannot be constructed according to those
+guidelines. Examples of such protocols include multimedia applications and
+file sharing.
+
+Simple Traversal of UDP Through NAT (STUN) provides one means for an
+application to traverse a NAT. STUN allows a client to obtain a transport
+address (an IP address and port) which may be useful for receiving packets
+from a peer. However, addresses obtained by STUN may not be usable by all
+peers. Those addresses work depending on the topological conditions of the
+network. Therefore, STUN by itself cannot provide a complete solution for NAT
+traversal.
+
+A complete solution requires a means by which a client can obtain a transport
+address from which it can receive media from any peer which can send packets
+to the public Internet. This can only be accomplished by relaying data through
+a server that resides on the public Internet. This specification describes
+Traversal Using Relay NAT (TURN), a protocol that allows a client to obtain IP
+addresses and ports from such a relay.
+
+Although TURN will almost always provide connectivity to a client, it comes at
+high cost to the provider of the TURN server. It is therefore desirable to use
+TURN as a last resort only, preferring other mechanisms (such as STUN or
+direct connectivity) when possible. To accomplish that, the Interactive
+Connectivity Establishment (ICE) methodology can be used to discover the
+optimal means of connectivity.
+
+## [edit] See also
+
+  * Simple Traversal of UDP over NATs (STUN)
+  * Interactive Connectivity Establishment (ICE)
+
+## [edit] External links
+
+  * Traversal Using Relay NAT (TURN): draft-ietf-behave-turn-14
+  * Yahoo! - Director of Engineering explaining STUN and TURN (Video)
+
+### [edit] Implementations
+
+  * Numb is a free STUN/TURN server.
+  * TurnServer \- OpenSource TURN server.
+  * reTurn \- opensource STUN/TURN server and client library (C++)
+
+Retrieved from "http://en.wikipedia.org/wiki/Traversal_Using_Relay_NAT"
+
+Categories: Internet protocols | Network protocols | Network Address
+Translation | VoIP terminology & concepts
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * æ¥æ¬èª
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 18 April 2009, at 12:55 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

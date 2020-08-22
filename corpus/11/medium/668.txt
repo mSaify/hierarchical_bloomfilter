@@ -1,0 +1,208 @@
+
+# Relevance (information retrieval)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+In the context of information science and information retrieval, relevance
+denotes how well a retrieved set of documents (or a single document) meets the
+information need of the user.
+
+## Contents
+
+  * 1 Topical relevance and other kinds of relevance
+  * 2 History
+  * 3 Evaluation and Relevance
+  * 4 Clustering and Relevance
+  * 5 Epistemological issues
+  * 6 References
+  * 7 Additional reading
+
+  
+## [edit] Topical relevance and other kinds of relevance
+
+Relevance most commonly refers to topical relevance or aboutness, i.e. to what
+extent the topic of a result matches the topic of the query or information
+need. Relevance can also be interpreted more broadly, referring to generally
+how "good" a retrieved result is with regard to the information need. The
+latter definition of relevance, sometimes referred to as user relevance,
+encompasses topical relevance and possibly other concerns of the user such as
+timeliness, authority or novelty of the result.
+
+## [edit] History
+
+The concern with the problem of finding relevant information dates back at
+least to the first publication of scientific journals in 17th Century.
+
+The formal study of relevance began in the 20th Century with the study of what
+would later be called bibliometrics. In the 1930s and 1940s, S. C. Bradford
+used of the term "relevant" to characterize articles relevant to a subject
+(cf., Bradford's law). In the 1950s, the first information retrieval systems
+emerged, and researchers noted the retrieval of irrelevant articles as a
+significant concern. In 1958, B. C. Vickery made the concept of relevance
+explicit in an address at the International Conference on Scientific
+Information.[1]
+
+Since 1958, information scientists have explored and debated definitions of
+relevance. A particular focus of the debate was the distinction between
+"relevance to a subject" or "topical relevance" and "user relevance".
+
+## [edit] Evaluation and Relevance
+
+The information retrieval community has emphasized the use of test collections
+and benchmark tasks to measure topical relevance, starting with the Cranfield
+Experiments of the early 1960s and culminating in the TREC evaluations that
+continue to this day as the main evaluation framework for information
+retrieval research.
+
+In order to evaluate how well an information retrieval system retrieved
+topically relevant results, the relevance of retrieved results must be
+quantified. In Cranfield-style evaluations, this typically involves assigning
+a relevance level to each retrieved result, a process known as relevance
+assessment. Relevance levels can be binary, indicating a result is or is not
+relevant, or graded, indicating results have a varying degree of match between
+the topic of the result and the information need. Once relevance levels have
+been assigned to the retrieved results, information retrieval performance
+measures can be used to assess the quality of a retrieval system's output.
+
+In contrast to this focus solely on topical relevance, the information science
+community has emphasized user studies that consider user relevance. These
+studies often focus on aspects of human-computer interaction (see also human-
+computer information retrieval).
+
+## [edit] Clustering and Relevance
+
+The cluster hypothesis, proposed by C. J. van Rijsbergen in 1979, asserts that
+two documents that are similar to each other have a high likelihood of being
+relevant to the same information need. With respect to the embedding
+similarity space, the cluster hypothesis can be interpreted globally or
+locally.[2] The global interpretation assumes that there exist some fixed set
+of underlying topics derived from inter-document similarity. These global
+clusters or their representatives can then be used to relate relevance of two
+documents (e.g. two documents in the same cluster should both be relevant to
+the same request). Methods in this spirit include,
+
+  * cluster-based information retrieval[3][4]
+  * cluster-based document expansion such as latent semantic analysis or its language modeling equivalents.[5]
+
+It is important to ensure that clusters-either in isolation or combination-
+successfully model the set of possible relevant documents.
+
+A second interpretation, most notably advanced by Ellen Voorhees,[6] focuses
+on the local relationships between documents. The local interpretation avoids
+having to model the number or size of clusters in the collection and allow
+relevance at multiple scales. Methods in this spirit include,
+
+  * multiple cluster retrieval[6][4]
+  * spreading activation[7] and relevance propagation[8] methods
+  * local document expansion[9]
+  * score regularization[10]
+
+Local methods require an accurate and appropriate document similarity measure.
+
+## [edit] Epistemological issues
+
+Are users best to evaluate the relevance of a given documents, or is it better
+to use experts? Most research about relevance in information retrieval in
+recent years have implicitly assumed that the users' evaluation of the output
+a given system should be used to increase "relevance" output. An alternative
+strategy would be to use journal impact factor to rank output and thus base
+relevance on expert evaluations. Other strategies may be used. The important
+thing to recognize is, however, that relevance is fundamentally a question of
+epistemology, not psychology. (Peoples' psychology reflects certain
+epistemological influences).
+
+  
+
+## [edit] References
+
+  1. ^ Mizzaro, S. (1997). Relevance: The Whole History. Journal of the American Society for Information Science. 48, 810â832.
+  2. ^ F. Diaz, Autocorrelation and Regularization of Query-Based Retrieval Scores. PhD thesis, University of Massachusetts Amherst, Amherst, MA, February 2008, Chapter 3.
+  3. ^ W. B. Croft, âA model of cluster searching based on classification,â Information Systems, vol. 5, pp. 189â195, 1980.
+  4. ^ a b A. Griffiths, H. C. Luckhurst, and P. Willett, âUsing interdocument similarity information in document retrieval systems,â Journal of the American Society for Information Science, vol. 37, no. 1, pp. 3â11, 1986.
+  5. ^ X. Liu and W. B. Croft, âCluster-based retrieval using language models,â in SIGIR â04: Proceedings of the 27th annual international conference on Research and development in information retrieval, (New York, NY, USA), pp. 186â193, ACM Press, 2004.
+  6. ^ a b E. M. Voorhees, âThe cluster hypothesis revisited,â in SIGIR â85: Proceedings of the 8th annual international ACM SIGIR conference on Research and development in information retrieval, (New York, NY, USA), pp. 188â196, ACM Press, 1985.
+  7. ^ S. Preece, A spreading activation network model for information retrieval. PhD thesis, University of Illinois, Urbana-Champaign, 1981.
+  8. ^ T. Qin, T.-Y. Liu, X.-D. Zhang, Z. Chen, and W.-Y. Ma, âA study of relevance propagation for web search,â in SIGIR â05: Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval, (New York, NY, USA), pp. 408â415, ACM Press, 2005.
+  9. ^ A. Singhal and F. Pereira, âDocument expansion for speech retrieval,â in SIGIR â99: Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval, (New York, NY, USA), pp. 34â41, ACM Press, 1999.
+  10. ^ F. Diaz, âRegularizing query-based retrieval scores,â Information Retrieval, vol. 10, pp. 531â562, December 2007.
+
+## [edit] Additional reading
+
+  * Relevance : communication and cognition. by Dan Sperber; Deirdre Wilson. 2nd ed. Oxford; Cambridge, MA: Blackwell Publishers, 2001. ISBN 9780631198789
+
+  * Saracevic, T. (2007). Relevance: A review of the literature and a framework for thinking on the notion in information science. Part II: nature and manifestations of relevance. Journal of the American Society for Information Science and Technology, 58(3), 1915-1933. (pdf)
+
+  * Saracevic, T. (2007). Relevance: A review of the literature and a framework for thinking on the notion in information science. Part III: Behavior and effects of relevance. Journal of the American Society for Information Science and Technology, 58(13), 2126-2144. (pdf)
+
+  * Saracevic, T. (2007). Relevance in information science. Invited Annual Thomson Scientific Lazerow Memorial Lecture at School of Information Sciences, University of Tennessee. September 19, 2007. (video)
+
+Retrieved from
+"http://en.wikipedia.org/wiki/Relevance_(information_retrieval)"
+
+Category: Information retrieval
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 1 February 2009, at 00:15.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

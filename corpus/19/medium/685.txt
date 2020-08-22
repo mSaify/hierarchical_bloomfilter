@@ -1,0 +1,195 @@
+
+# XWiki
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it lacks inline citations. Please improve this article
+by introducing more precise citations where appropriate. (August 2008)  
+XWiki Enterprise Developed by The XWiki community  
+Latest release 1.8.1 / 2009-04-11; 4 days ago  
+Preview release 1.9M1 / 2009-04-15; 0 days ago  
+Written in Java  
+Operating system Cross-platform  
+Type Wiki software  
+License GNU Lesser General Public License  
+Website http://www.xwiki.org  
+XWiki is a Wiki software package licensed under the GNU Lesser General Public
+License. It is an Enterprise wiki, with many features needed for professional
+usage. It is also an Application wiki which allows the creation of
+applications (including structured data and scripting) within the Wiki
+interface. The languages that can be used are Velocity and Groovy.
+
+It is written in Java and uses an underlying relational database management
+system (MySQL or HSQLDB amongst others).
+
+The Wiki syntax is rendered using the Radeox rendering engine.
+
+## Contents
+
+  * 1 History
+  * 2 Features
+  * 3 Open-Source projects
+  * 4 External links
+
+  
+## [edit] History
+
+XWiki was originally written by Ludovic Dubost and was first released in
+January 2003. The first version of the Wiki Farm XWiki.com was released in
+April 2003. It was first released under the GNU General Public License. It was
+announced in February 2006 that the license will be changed to the GNU Lesser
+General Public License. By the end of 2006 the release of the first Beta
+version along with the arrival of Vincent Massol at the head of XWiki
+development team were announced. Since then the development continues, the
+current stable version of XWiki is the 1.8 [1].
+
+## [edit] Features
+
+XWiki is an advanced wiki software which includes a number of professional
+features
+
+  * Structured content and inline scripting, which allows to build wiki applications
+  * User rights management (by wiki / space / page, using groups, etc...)
+  * PDF export
+  * Full-text search
+  * Version control
+  * Import office documents into wiki syntax through OpenOffice
+  * Various protocols for accessing the wiki (WebDAV, REST, XmlRpc, GWT)
+  * Content and site design Export and Import
+  * Plugins, API, Programming...
+  * More features on the official website. [2]
+
+On top of this, XWiki is also an application wiki that allows the creation of
+objects and classes within the wiki. This way, forms can be developed in a
+very short time span and be reused to enter data on the wiki following a
+specific template. This means that end users can be presented with a page on
+which the layout is already drawn, where they can directly fill in the fields
+needed.
+
+## [edit] Open-Source projects
+
+XWiki relies heavily on other Open-Source projects to work. They include:
+
+  * Hibernate: relational database storage
+  * Lucene: to index all the content of a wiki and its attachments and allow the search within their content.
+  * Velocity: a powerful template language
+  * Groovy: for advanced scripting requirements
+  * Radeox: the wiki rendering engine, it converts the wiki syntax into XHTML.
+
+## [edit] External links
+
+<IMG> Free software portal  
+  * XWiki official homepage
+  * Netcipia places, first free online participative suite built with XWiki
+  * News article about the license change from GPL to LGPL
+
+v â¢ d â¢ e
+
+Wiki software (comparison)  
+.NET
+
+FlexWiki Â· MindTouch Deki (backend) Â· Perspective Â· ScrewTurn Wiki Â·
+WWWiki  
+Java
+
+Clearspace Â· Confluence Â· JAMWiki Â· JSPWiki Â· Kerika Â· Mindquarry Â·
+Traction TeamPage Â· XWiki  
+JavaScript
+
+Client-side: TiddlyWiki  
+Lisp
+
+CLiki Â· Svnwiki  
+Lua
+
+Sputnik  
+Perl
+
+ikiwiki Â· PodWiki Â· Socialtext Â· TWiki Â· UseModWiki Â· Oddmuse Â·
+WikiWikiWeb  
+PHP
+
+DokuWiki Â· MediaWiki Â· MindTouch Deki (frontend) Â· PhpWiki Â· PmWiki Â·
+PukiWiki Â· TigerWiki (discontinued) Â· TikiWiki Â· WackoWiki Â· WikkaWiki  
+Python
+
+MoinMoin Â· OghamWiki Â· PikiePikie Â· Trac Â· Zwiki  
+Ruby
+
+Instiki Â· Pimki Â· Redmine  
+Retrieved from "http://en.wikipedia.org/wiki/XWiki"
+
+Categories: OW2 Consortium | Open source content management systems | Free
+wiki software | Blikis
+
+Hidden categories: Articles lacking in-text citations from August 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * EspaÃ±ol
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * æ¥æ¬èª
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 15 April 2009, at 16:10 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

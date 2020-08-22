@@ -1,0 +1,764 @@
+
+# Calendar
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For other uses, see Calendar (disambiguation).
+
+v â¢ d â¢ e
+
+Calendars (list)  
+Wide use
+
+Astronomical Â· GregorianÂ· Islamic Â· ISO  
+Calendar types: Lunisolar Â· Solar Â· Lunar  
+Selected use
+
+Akan Â· Assyrian Â· Armenian Â· Attic Â· Aztec (Tonalpohualli â
+Xiuhpohualli) Â· Babylonian Â· BahÃ¡'Ã­ Â· Bengali Â· Berber Â· Bikram Samwat
+Â· Buddhist Â· Burmese Â· Byzantine Â·Celtic Â· Chinese Â· Coptic Â· Egyptian
+Â· Ethiopian Â· French Republican Â· Germanic Â· Hebrew Â· Hellenic Â· Hindu
+Â· Indian Â· Iranian Â· Irish Â· Japanese Â· Javanese Â· Juche Â· Julian Â·
+Korean Â· Lithuanian Â· Malayalam Â· Maya (Tzolk'in â Haab') Â· Minguo Â·
+Nanakshahi Â· Nepal Sambat Â· Pawukon Â· Pentecontad Â· Rapa Nui Â· Roman Â·
+Rumi Â· Soviet Â· Tamil Â· Thai (Lunar â Solar) Â· Tibetan Â· VietnameseÂ·
+Xhosa Â· Yoruba Â· Zoroastrian
+
+Calendar types: Runic Â· Mesoamerican (Long Count â Calendar round)
+
+Christian variants: Julian calendar Â· Calendar of saints Â· Eastern Orthodox
+liturgical calendar Â· Liturgical year  
+Rarely used
+
+Darian calendar Â· Discordian calendar  
+Display types and applications
+
+Perpetual calendar Â· Wall calendar Â· Economic calendar  
+<IMG>
+
+<IMG>
+
+A page from the Hindu calendar 1871â1872.
+
+A calendar is a system of organizing days for social, religious, commercial,
+or administrative purposes. This is done by giving names to periods of time,
+typically days, weeks, months, and years. The name given to each day is known
+as a date. Periods in a calendar (such as years and months) are usually,
+though not necessarily, synchronized with the cycles of some astronomical
+phenomenon, such as the cycle of the sun or the moon. Many civilizations and
+societies have devised a calendar, usually derived from other calendars on
+which they model their systems, suited to their particular needs.
+
+A calendar is also a physical device (often paper). This is the most common
+usage of the word. Other similar types of calendars can include computerized
+systems, which can be set to remind the user of upcoming events and
+appointments.
+
+As a subset, calendar is also used to denote a list of particular set of
+planned events (for example, court calendar).
+
+The English word calendar is derived from the Latin word kalendae, which was
+the Latin name of the first day of every month.[1]
+
+## Contents
+
+  * 1 Calendar systems
+    * 1.1 Solar calendars
+      * 1.1.1 Days used by solar calendars
+      * 1.1.2 Calendar reform
+    * 1.2 Lunar calendars
+  * 2 Calendar subdivisions
+  * 3 Other calendar types
+    * 3.1 Arithmetic and astronomical calendars
+    * 3.2 Complete and incomplete calendars
+  * 4 Uses
+  * 5 Currently used calendars
+    * 5.1 Fiscal calendars
+  * 6 Gregorian calendar with Easter Sunday
+  * 7 Physical calendars
+  * 8 Legal
+  * 9 Calendars in computing
+    * 9.1 Layout
+  * 10 See also
+    * 10.1 List of calendars
+  * 11 Sources
+  * 12 Further reading
+  * 13 References
+  * 14 External links
+
+  
+## [edit] Calendar systems
+
+A full calendar system has a different calendar date for every day. Thus the
+week cycle is by itself not a full calendar system; neither is a system to
+name the days within a year without a system for identifying the years.
+
+The simplest calendar system just counts time periods from a reference date.
+This applies for the Julian day. Virtually the only possible variation is
+using a different reference date, in particular one less distant in the past
+to make the numbers smaller. Computations in these systems are just a matter
+of addition and subtraction.
+
+Other calendars have one (or multiple) larger units of time.
+
+Calendars that contain one level of cycles:
+
+  * week and weekday â this system (without year, the week number keeps on increasing) is not very common
+  * year and ordinal date within the year, e.g. the ISO 8601 ordinal date system
+
+Calendars with two levels of cycles:
+
+  * year, month, and day â most systems, including the Gregorian calendar (and its very similar predecessor, the Julian calendar), the Islamic calendar, and the Hebrew calendar
+  * year, week, and weekday â e.g. the ISO week date
+
+Cycles can be synchronized with periodic phenomena:
+
+  * A lunar calendar is synchronized to the motion of the Moon (lunar phases); an example is the Islamic calendar.
+  * A solar calendar is based on perceived seasonal changes synchronized to the apparent motion of the Sun; an example is the Persian calendar.
+  * A "luni-solar calendar" is based on a combination of both solar and lunar reckonings; an example is the traditional calendar of China.
+  * There are some calendars that appear to be synchronized to the motion of Venus, such as some of the ancient Egyptian calendars; synchronization to Venus appears to occur primarily in civilizations near the Equator.
+  * The week cycle is an example of one that is not synchronized to any external phenomenon (although it may have been derived from lunar phases, beginning anew every month).
+
+Very commonly a calendar includes more than one type of cycle, or has both
+cyclic and acyclic elements. A lunisolar calendar is synchronized both to the
+motion of the moon and to the apparent motion of the sun; an example is the
+Hebrew calendar.
+
+Many calendars incorporate simpler calendars as elements. For example, the
+rules of the Hebrew calendar depend on the seven-day week cycle (a very simple
+calendar), so the week is one of the cycles of the Hebrew calendar. It is also
+common to operate two calendars simultaneously, usually providing unrelated
+cycles, and the result may also be considered a more complex calendar. For
+example, the Gregorian calendar has no inherent dependence on the seven-day
+week, but in Western society the two are used together, and calendar tools
+indicate both the Gregorian date and the day of week.[2]
+
+The week cycle is shared by various calendar systems (although the
+significance of special days such as Friday, Saturday, and Sunday varies).
+Systems of leap days usually do not affect the week cycle. The week cycle was
+not even interrupted when 10, 11, 12, or 13 dates were skipped when the Julian
+calendar was replaced by the Gregorian calendar by various countries.
+
+### [edit] Solar calendars
+
+Main article: Solar calendar
+
+#### [edit] Days used by solar calendars
+
+Solar calendars assign a date to each solar day. A day may consist of the
+period between sunrise and sunset, with a following period of night, or it may
+be a period between successive events such as two sunsets. The length of the
+interval between two such successive events may be allowed to vary slightly
+during the year, or it may be averaged into a mean solar day. Other types of
+calendar may also use a solar day.
+
+#### [edit] Calendar reform
+
+Main article: Calendar reform
+
+There have been a number of proposals for reform of the calendar, such as the
+World Calendar, International Fixed Calendar and Holocene calendar. The United
+Nations considered adopting such a reformed calendar for a while in the 1950s,
+but these proposals have lost most of their popularity.
+
+### [edit] Lunar calendars
+
+Main article: Lunar calendar
+
+Not all calendars use the solar year as a unit. A lunar calendar is one in
+which days are numbered within each lunar phase cycle. Because the length of
+the lunar month is not an even fraction of the length of the tropical year, a
+purely lunar calendar quickly drifts against the seasons, which don't vary
+much near the equator. It does, however, stay constant with respect to other
+phenomena, notably tides. An example is the Islamic calendar.
+
+A lunisolar calendar is a lunar calendar that compensates by adding an extra
+month as needed to realign the months with the seasons. An example is the
+Hebrew calendar which uses a 19-year cycle.
+
+Lunar calendars are believed to be the oldest calendars invented by mankind.
+Cro-Magnon people are claimed to have invented one around 32,000 BC.
+
+## [edit] Calendar subdivisions
+
+Nearly all calendar systems group consecutive days into "months" and also into
+"years". In a solar calendar a year approximates Earth's tropical year (that
+is, the time it takes for a complete cycle of seasons), traditionally used to
+facilitate the planning of agricultural activities. In a lunar calendar, the
+month approximates the cycle of the moon phase. Consecutive days may be
+grouped into other periods such as the week.
+
+Because the number of days in the tropical year is not a whole number, a solar
+calendar must have a different number of days in different years. This may be
+handled, for example, by adding an extra day (29 February) in leap years. The
+same applies to months in a lunar calendar and also the number of months in a
+year in a lunisolar calendar. This is generally known as intercalation. Even
+if a calendar is solar, but not lunar, the year cannot be divided entirely
+into months that never vary in length.
+
+Cultures may define other units of time, such as the week, for the purpose of
+scheduling regular activities that do not easily coincide with months or
+years. Many cultures use different baselines for their calendars' starting
+years. For example, the year in Japan is based on the reign of the current
+emperor: 2006 was Year 18 of the Emperor Akihito.
+
+See Decade, Century, Millennium
+
+## [edit] Other calendar types
+
+### [edit] Arithmetic and astronomical calendars
+
+An astronomical calendar is based on ongoing observation; examples are the
+religious Islamic calendar and the old religious Jewish calendar in the time
+of the Second Temple. Such a calendar is also referred to as an observation-
+based calendar. The advantage of such a calendar is that it is perfectly and
+perpetually accurate. The disadvantage is that working out when a particular
+date would occur is difficult.
+
+An arithmetic calendar is one that is based on a strict set of rules; an
+example is the current Jewish calendar. Such a calendar is also referred to as
+a rule-based calendar. The advantage of such a calendar is the ease of
+calculating when a particular date occurs. The disadvantage is imperfect
+accuracy. Furthermore, even if the calendar is very accurate, its accuracy
+diminishes slowly over time, owing to changes in Earth's rotation. This limits
+the lifetime of an accurate arithmetic calendar to a few thousand years. After
+then, the rules would need to be modified from observations made since the
+invention of the calendar.
+
+### [edit] Complete and incomplete calendars
+
+Calendars may be either complete or incomplete. Complete calendars provide a
+way of naming each consecutive day, while incomplete calendars do not. The
+early Roman calendar, which had no way of designating the days of the winter
+months other than to lump them together as "winter", is an example of an
+incomplete calendar, while the Gregorian calendar is an example of a complete
+calendar.
+
+## [edit] Uses
+
+The primary practical use of a calendar is to identify days: to be informed
+about and/or to agree on a future event and to record an event that has
+happened. Days may be significant for civil, religious or social reasons. For
+example, a calendar provides a way to determine which days are religious or
+civil holidays, which days mark the beginning and end of business accounting
+periods, and which days have legal significance, such as the day taxes are due
+or a contract expires. Also a calendar may, by identifying a day, provide
+other useful information about the day such as its season.
+
+Calendars are also used to help people manage their personal schedules, time
+and activities, particularly when individuals have numerous work, school, and
+family commitments. People frequently use multiple systems, and may keep both
+a business and family calendar to help prevent them from overcommitting their
+time.
+
+Calendars are also used as part of a complete timekeeping system: date and
+time of day together specify a moment in time. In the modern world, written
+calendars are no longer an essential part of such systems, as the advent of
+accurate clocks has made it possible to record time independently of
+astronomical events.
+
+## [edit] Currently used calendars
+
+Calendars in widespread use today include the Gregorian calendar, which is the
+de facto international standard, and is used almost everywhere in the world
+for civil purposes, including in the People's Republic of China and India
+(along with the Indian national calendar). Due to the Gregorian calendar's
+obvious connotations of Western Christianity, non-Christians and even some
+Christians sometimes justify its use by replacing the traditional era
+notations "AD" and "BC" ("Anno Domini" and "Before Christ") with "CE" and
+"BCE" ("Common Era" and "Before Common Era"). The Hindu calendars are some of
+the most ancient calendars of the world. Eastern Christians of eastern Europe
+and western Asia used for a long time the Julian Calendar, that of the old
+Orthodox church, in countries like Russia. For over 1500 years, Westerners
+used the Julian Calendar also.
+
+While the Gregorian calendar is widely used in Israel's business and day-to-
+day affairs, the Hebrew calendar, used by Jews worldwide for religious and
+cultural affairs, also influences civil matters in Israel (such as national
+holidays) and can be used there for business dealings (such as for the dating
+of checks).
+
+The Iranian (Persian) calendar is used in Iran and Afghanistan. The Islamic
+calendar is used by most non-Iranian Muslims worldwide. The Chinese, Hebrew,
+Hindu, and Julian calendars are widely used for religious and/or social
+purposes. The Ethiopian calendar or Ethiopic calendar is the principal
+calendar used in Ethiopia and Eritrea. In Thailand, where the Thai solar
+calendar is used, the months and days have adopted the western standard,
+although the years are still based on the traditional Buddhist calendar.
+
+Even where there is a commonly used calendar such as the Gregorian calendar,
+alternate calendars may also be used, such as a fiscal calendar or the
+astronomical year numbering system[3].
+
+### [edit] Fiscal calendars
+
+Main article: Fiscal calendar
+
+A fiscal calendar (such as a 4/4/5 calendar) fixes each month at a specific
+number of weeks to facilitate comparisons from month to month and year to
+year. January always has exactly 4 weeks (Sunday through Saturday), February
+has 4 weeks, March has 5 weeks, etc. Note that this calendar will normally
+need to add a 53rd week to every 5th or 6th year, which might be added to
+December or might not be, depending on how the organization uses those dates.
+There exists an international standard way to do this (the ISO week). The ISO
+week starts on a Monday, and ends on a Sunday. Week 1 is always the week that
+contains 4 January in the Gregorian calendar.
+
+## [edit] Gregorian calendar with Easter Sunday
+
+Calculating the calendar of a previous year (for the Gregorian calendar taking
+account of the week) is a relatively easy matter when Easter Sunday is not
+included on the calendar. However, calculating for Easter Sunday is difficult
+because the calculation requires the knowledge of the full moon cycle. Easter
+Sunday is on the first Sunday after the first full moon after the Vernal
+Equinox according to the computus. So, this makes an additional calculation
+necessary on top of the normal calculation for January 1st and the calculation
+of whether or not the year is a leap year.
+
+There are only 14 different calendars when Easter Sunday is not involved. Each
+calendar is determined by the day of the week January 1st falls on and whether
+or not the year is a leap year. However, when Easter Sunday is included, there
+are 70 different calendars (two for each date of Easter).
+
+## [edit] Physical calendars
+
+<IMG>
+
+<IMG>
+
+At-A-Glance 2004-2005 calendar
+
+A calendar is also a physical device (often paper) (for example, a desktop
+calendar or a wall calendar). In a paper calendar one or two sheets can show a
+single day, a week, a month, or a year. If a sheet is for a single day, it
+easily shows the date and the weekday. If a sheet is for multiple days it
+shows a conversion table to convert from weekday to date and back. With a
+special pointing device, or by crossing out past days, it may indicate the
+current date and weekday. This is the most common usage of the word.
+
+The sale of physical calendars has been restricted in some countries, and
+given as a monopoly to universities and national academies. Examples include
+the Prussian Academy of Sciences and the University of Helsinki, which had a
+monopoly on the sale of calendars in Finland until the 1990s.
+
+## [edit] Legal
+
+Main article: Docket (court)
+
+For lawyers and judges, the calendar is the docket used by the court to
+schedule the order of hearings or trials. This is especially used in a
+criminal calendar. A paralegal or court officer may actually keep track of the
+cases on the calendar or docket, by use of docketing software or law practice
+management software.
+
+## [edit] Calendars in computing
+
+  * Category:Calendaring standards
+  * Electronic calendar
+
+### [edit] Layout
+
+There are different layouts for calendars.
+
+<IMG>
+
+A table for each month
+
+<IMG>
+
+A calendar which has a different month on each page. This page shows August  
+## [edit] See also
+
+  * Calendar reform
+  * Calendrical calculation
+  * Real-Time Clock (RTC), which underlies the Calendar software on modern computers.
+  * Time for divisions smaller than one day
+
+### [edit] List of calendars
+
+Main article: List of calendars
+
+## [edit] Sources
+
+  * Birashk, Ahmad (1993), A comparative Calendar of the Iranian, Muslim Lunar, and Christian Eras for Three Thousand Years, Mazda Publishers, ISBN 0939214954
+  * Dershowitz, Nachum; Reingold, Edward M (1997), Calendrical Calculations, Cambridge University Press, ISBN 0521564743, http://emr.cs.iit.edu/home/reingold/calendar-book/second-edition/ with Online Calculator
+  * Zerubavel, Eviatar (1985), The Seven Day Circle: The History and Meaning of the Week, University of Chicago Press, ISBN 0226981657
+  * Doggett, LE (1992), "Calendars", in Seidelmann, P. Kenneth, Explanatory Supplement to the Astronomical Almanac, University Science Books, ISBN 0935702687, http://astro.nmsu.edu/~lhuber/leaphist.html
+  * Ãrni BjÃ¶rnsson (1995), High Days and Holidays in Iceland, ReykjavÃ­k: MÃ¡l og menning, ISBN 9979308028, OCLC 186511596
+  * Richards, EG (1998), Mapping Time, the calendar and its history, Oxford University Press, ISBN 0198504136
+  * Rose, Lynn E (1999), Sun, Moon, and Sothis, Kronos Press, ISBN 0917994159
+  * Spier, Arthur (1986), The Comprehensive Hebrew Calendar, Feldheim Publishers, ISBN 0873063988
+  * Dieter Schuh (1973) (in German), Untersuchungen zur Geschichte der Tibetischen Kalenderrechnung, Wiesbaden: Franz Steiner Verlag, OCLC 1150484
+
+## [edit] Further reading
+
+  * Fraser, Julius Thomas (1987), Time, the Familiar Stranger (illustrated ed.), Amherst: Univ of Massachusetts Press, ISBN 0870235761, OCLC 15790499
+  * Whitrow, Gerald James (2003), What is Time?, Oxford: Oxford University Press, ISBN 0198607814, OCLC 265440481
+
+## [edit] References
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it lacks inline citations. Please improve this article
+by introducing more precise citations where appropriate. (September 2008)  
+  1. ^ New Shorter Oxford English Dictionary
+  2. ^ Zerubavel, The Seven Day Circle (University of Chicago Press, 1985).
+  3. ^ NASA â Year Dating Conventions
+
+## [edit] External links
+
+  * Calendar FAQ
+  * Make your own Calendar into PDF
+
+<IMG>
+
+Look up calendar in Wiktionary, the free dictionary.
+
+<IMG>
+
+Wikisource has the text of the 1911 EncyclopÃ¦dia Britannica article Calendar.
+
+  
+
+v â¢ d â¢ e
+
+Time  
+Major concepts
+
+Time Â· Eternity Â· Arguments for eternity Â· Immortality  
+Deep time Â· History Â· Past Â· Present Â· Future Â· Futurology  
+
+<IMG>  
+Portal:TimeTime Portal  
+Measurement and Standards
+
+Chronometry Â· UTC Â· UT Â· TAI Â· Second Â· Minute Â· Hour Â· Sidereal time
+Â· Solar time Â· Time zone  
+
+Clock Â· Horology Â· History of timekeeping devices Â· Astrarium Â· Marine
+chronometer Â· Sundial Â· Water clock  
+
+Calendar Â· Day Â· Week Â· Month Â· Year Â· Tropical year Â· Julian Â·
+Gregorian Â· Islamic  
+
+Intercalation Â· Leap second Â· Leap year  
+Chronology
+
+Astronomical chronology Â· Geologic Time Â· Geological history Â·
+Geochronology Â· Archaeological dating  
+Calendar era Â· Regnal year Â· Chronicle Â· Timeline Â· Periodization  
+Religion and Mythology
+
+Time and fate deities Â· Wheel of time Â· KÄla Â· Kalachakra Â· Prophecy Â·
+Dreamtime  
+Philosophy
+
+Causality Â· Eternalism Â· Eternal return Â· Event Â· The Unreality of Time Â·
+A-series and B-series Â· B-Theory of time  
+Endurantism Â· Four dimensionalism Â· Perdurantism Â· Presentism Â· Temporal
+finitism Â· Temporal parts  
+Physical Sciences
+
+Time in physics Â· Spacetime Â· Absolute time and space Â· T-symmetry  
+
+Arrow of time Â· Chronon Â· Fourth dimension Â· Planck epoch Â· Planck time Â·
+Time domain  
+
+Theory of relativity Â· Time dilation Â· Gravitational time dilation Â·
+Coordinate time Â· Proper time  
+Biology
+
+Chronobiology Â· Circadian rhythms  
+Psychology
+
+Consciousness and spacetime Â· Mental chronometry Â· Reaction time Â· Sense of
+time Â· Specious present  
+Sociology and Anthropology
+
+Futures studies Â· Long Now Foundation Â· Time discipline Â· Time use research  
+Economics
+
+Newtonian time in economics Â· Time value of money Â· Time Banking Â· Time-
+based currency  
+Related topics
+
+Space Â· Duration Â· Time capsule Â· Time travel Â· Time signature Â· System
+time Â· Metric time Â· Hexadecimal time Â· Carpe diem Â· Tempus fugit  
+v â¢ d â¢ e
+
+Time measurement and standards  
+Major subjects
+
+Time Â· Chronometry Â· Orders of magnitude Â· Units of time Â· Metrology
+
+<IMG>  
+Portal:TimeTime Portal  
+International standards
+
+UTC Â· UT Â· TAI Â· ISO 31-1 Â· Second Â· DUT1 Â· Leap second Â· IERS  
+
+Terrestrial Time Â· Geocentric Coordinate Time Â· Barycentric Coordinate Time  
+
+Civil time Â· Minute Â· Hour Â· 12-hour clock Â· 24-hour clock Â· ISO 8601  
+
+International Date Line Â· Solar time Â· Time zone Â· Daylight saving time Â·
+Time offset  
+Obsolete standards
+
+Ephemeris time Â· Barycentric Dynamical Time Â· Greenwich Mean Time Â· Prime
+Meridian  
+Time in physics
+
+Spacetime Â· Chronon Â· Cosmological decade Â· Planck epoch Â· Planck time Â·
+T-symmetry  
+
+Theory of relativity Â· Time dilation Â· Gravitational time dilation Â·
+Coordinate time Â· Proper time  
+
+Time domain Â· Continuous time Â· Discrete time Â· Absolute time and space  
+Horology
+
+Clock Â· Astrarium Â· Atomic clock Â· Hourglass Â· Marine chronometer Â· Radio
+clock Â· Sundial Â· Watch Â· Water clock  
+History of timekeeping devices Â· Equation of time Â· Complication  
+Calendar
+
+Day Â· Week Â· Month Â· Year Â· Decade Â· Century Â· Millennium  
+
+Astronomical Â· Julian Â· Gregorian Â· Islamic Â· Lunisolar Â· Solar Â· Lunar
+Â· Epact Â· Intercalation Â· Leap year  
+
+Tropical year Â· Equinox Â· Solstice Â· Seven-day week Â· Week-day names Â·
+Calculating the day of the week Â· Dominical letter  
+Archaeology & geology
+
+International Commission on Stratigraphy Â· Geologic Time Â· Archaeological
+dating  
+Astronomical chronology
+
+Nuclear time scale Â· Precession Â· Sidereal time Â· Galactic year  
+Unusual units
+
+Fortnight Â· Jiffy Â· Lustrum Â· Saeculum Â· Shake Â· Tide  
+Related topics
+
+Chronology Â· Duration Â· System time Â· Metric time Â· Mental chronometry Â·
+Time value of money Â· Timekeeper  
+v â¢ d â¢ e
+
+Chronology  
+Major subjects
+
+Time Â· Astronomy Â· Geology Â· Paleontology Â· Archaeology Â· History
+
+<IMG>  
+Portal:ChronologyChronology Portal  
+Eras and Epochs
+
+Calendar Eras: Ab urbe condita Â· Anno Domini / Common Era Â· Anno Mundi Â·
+Spanish era Â· Before Present Â· Hijri
+
+Egyptian Â· Sothic cycle Â· Hindu units of measurement Â· Hindu Yugas
+
+Regnal year: Canon of Kings Â· King lists Â· Limmu Â· Seleucid era Â· Era
+name: Chinese Â· Japanese Â· Korean  
+Calendars
+
+Pre-Julian Roman Â· Original Julian Â· Proleptic Julian Â· Revised Julian  
+
+Gregorian Â· Proleptic Gregorian Â· Old Style and New Style
+
+Lunisolar Â· Solar Â· Lunar Â· Islamic Â· Chinese sexagenary cycle  
+
+Astronomical year numbering Â· ISO week date  
+Astronomic time  
+and techniques
+
+Astronomical chronology Â· Cosmic Calendar Â· Ephemeris Â· Galactic year Â·
+Metonic cycle Â· Milankovitch cycles  
+Geologic time scale  
+and techniques
+
+Deep time Â· Geological history Â· Geological time units: Eons Â· Eras Â·
+Periods â¢ Epoch â¢ Age Dating Standards: GSSA â¢ GSSP  
+Chronostratigraphy Â· Geochronology Â· Isotope geochemistry Â· Law of
+superposition Â· Optical dating Â· Samarium-neodymium dating  
+Archaeological  
+techniques
+
+Dating methodology  
+Absolute dating Â· Incremental dating Â· Archaeomagnetic dating Â·
+Dendrochronology Â· Glottochronology Â· Ice core Â· Lichenometry Â·
+Paleomagnetism Â· Radiocarbon dating Â· Radiometric dating Â· Tephrochronology
+Â· Thermoluminescence dating Â· Uranium-lead dating  
+Relative dating Â· Seriation Â· Stratification  
+Genetic techniques
+
+Amino acid dating Â· Molecular clock  
+Related topics
+
+Chronicle Â· New Chronology Â· Periodization Â· Synchronoptic view Â· Timeline
+Â· Year zero Â· Circa Â· Floruit  
+Retrieved from "http://en.wikipedia.org/wiki/Calendar"
+
+Categories: Calendars
+
+Hidden categories: Articles lacking in-text citations
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Anglo-Saxon
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Asturianu
+  * AvaÃ±e'áº½
+  * AzÉrbaycan
+  * à¦¬à¦¾à¦à¦²à¦¾
+  * BÃ¢n-lÃ¢m-gÃº
+  * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ
+  * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ (ÑÐ°ÑÐ°ÑÐºÐµÐ²ÑÑÐ°)
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Chamoru
+  * Cymraeg
+  * Dansk
+  * Deutsch
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EmiliÃ n e rumagnÃ²l
+  * Ð­ÑÐ·ÑÐ½Ñ
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Frysk
+  * Furlan
+  * Galego
+  * íêµ­ì´
+  * à¤¹à¤¿à¤¨à¥à¤¦à¥
+  * Hrvatski
+  * Ido
+  * Ilokano
+  * Bahasa Indonesia
+  * Interlingua
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * Basa Jawa
+  * à²à²¨à³à²¨à²¡
+  * á¥áá áá£áá
+  * ÒÐ°Ð·Ð°ÒÑÐ°
+  * Kiswahili
+  * KurdÃ® / ÙÙØ±Ø¯Û
+  * àº¥àº²àº§
+  * Latina
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * LÃ­guru
+  * LingÃ¡la
+  * Magyar
+  * à´®à´²à´¯à´¾à´³à´
+  * MÄori
+  * Bahasa Melayu
+  * ÐÐ¾ÐºÑÐµÐ½Ñ
+  * Myanmasa
+  * Nederlands
+  * à¤¨à¥à¤ªà¤¾à¤² à¤­à¤¾à¤·à¤¾
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * PlattdÃ¼Ã¼tsch
+  * Polski
+  * PortuguÃªs
+  * Qaraqalpaqsha
+  * Runa Simi
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð¡Ð°Ñ Ð° ÑÑÐ»Ð°
+  * Shqip
+  * Sicilianu
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Soomaaliga
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Srpskohrvatski / Ð¡ÑÐ¿ÑÐºÐ¾Ñ ÑÐ²Ð°ÑÑÐºÐ¸
+  * Basa Sunda
+  * Suomi
+  * Svenska
+  * Tagalog
+  * à®¤à®®à®¿à®´à¯
+  * TatarÃ§a/Ð¢Ð°ÑÐ°ÑÑÐ°
+  * à°¤à±à°²à±à°à±
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * Ø§Ø±Ø¯Ù
+  * VÃµro
+  * Wolof
+  * ××Ö´×××©
+  * Zazaki
+  * Å½emaitÄÅ¡ka
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 3 April 2009, at 01:30.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

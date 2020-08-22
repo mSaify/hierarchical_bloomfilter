@@ -1,0 +1,538 @@
+
+# Scale invariance
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+In physics and mathematics, scale invariance is a feature of objects or laws
+that do not change if length scales (or energy scales) are multiplied by a
+common factor. The technical term for this transformation is a dilatation
+(also known as dilation), and the dilatations can also form part of a larger
+conformal symmetry.
+
+  * In mathematics, scale invariance usually refers to an invariance of individual functions or curves. A closely related concept is self-similarity, where a function or curve is invariant under a discrete subset of the dilatations. It is also possible for the probability distributions of random processes to display this kind of scale invariance or self-similarity.
+
+<IMG>
+
+<IMG>
+
+A Koch curve is scale-invariant.
+
+  * In classical field theory, scale invariance most commonly applies to the invariance of a whole theory under dilatations. Such theories typically describe classical physical processes with no characteristic length scale.
+
+  * In quantum field theory, scale invariance has an interpretation in terms of particle physics. In a scale-invariant theory, the strength of particle interactions does not depend on the energy of the particles involved.
+
+  * In statistical mechanics, scale invariance is a feature of phase transitions. The key observation is that near a phase transition or critical point, fluctuations occur at all length scales, and thus one should look for an explicitly scale-invariant theory to describe the phenomena. Such theories are scale-invariant statistical field theories, and are formally very similar to scale-invariant quantum field theories.
+
+  * Universality is the observation that widely different microscopic systems can display the same behaviour at a phase transition. Thus phase transitions in many different systems may be described by the same underlying scale-invariant theory.
+
+  * In general, dimensionless quantities are scale invariant. The analogous concept in statistics are standardized moments, which are scale invariant statistics of a variable, while the unstandardized moments are not.
+
+## Contents
+
+  * 1 Scale-invariant curves and self-similarity
+    * 1.1 Projective geometry
+    * 1.2 Fractals
+  * 2 Scale invariance in stochastic processes
+    * 2.1 Cosmology
+  * 3 Scale invariance in classical field theory
+    * 3.1 Scale invariance of field configurations
+    * 3.2 Classical electromagnetism
+    * 3.3 Massless scalar field theory
+      * 3.3.1 Ï4 theory
+  * 4 Scale invariance in quantum field theory
+    * 4.1 Quantum electrodynamics
+    * 4.2 Massless scalar field theory
+    * 4.3 Conformal field theory
+    * 4.4 Scale and conformal anomalies
+  * 5 Phase transitions
+    * 5.1 The Ising model
+      * 5.1.1 CFT description
+    * 5.2 Schramm-Loewner evolution
+  * 6 Universality
+  * 7 Other examples of scale invariance
+    * 7.1 Newtonian fluid mechanics with no applied forces
+    * 7.2 Computer vision
+  * 8 See also
+  * 9 References
+
+  
+## [edit] Scale-invariant curves and self-similarity
+
+In mathematics, one can consider the scaling properties of a function or curve
+f(x) under rescalings of the variable x. That is, one is interested in the
+shape of f(Î»x) for some scale factor Î», which can be taken to be a length or
+size rescaling. The requirement for f(x) to be invariant under all rescalings
+is usually taken to be
+
+    f(x) = Î» â Îf(Î»x)
+for some choice of exponent Î, and for all dilations Î».
+
+Examples of scale-invariant functions are the monomials f(x) = xn, for which
+one has Î = n, in that clearly
+
+    f(Î»x) = (Î»x)n = Î»nf(x).
+An example of a scale-invariant curve is the logarithmic spiral, a kind of
+curve that often appears in nature. In polar coordinates (r, Î¸) the spiral
+can be written as
+
+    \\theta = \\frac{1}{b} \\ln\(r/a\).
+Allowing for rotations of the curve, it is invariant under all rescalings Î»;
+that is Î¸(Î»r) is identical to a rotated version of Î¸(r).
+
+### [edit] Projective geometry
+
+The idea of scale invariance of a monomial generalizes in higher dimensions to
+the idea of a homogeneous polynomial, and more generally to a homogeneous
+function. Homogeneous functions are the natural denizens of projective space,
+and homogeneous polynomials are studied as projective varieties in projective
+geometry. Projective geometry is a particularly rich field of mathematics; in
+its most abstract forms, the geometry of schemes, it has connections to
+various topics in string theory.
+
+### [edit] Fractals
+
+It is sometimes said that fractals are scale-invariant, although more
+precisely, one should say that they are self-similar. A fractal is equal to
+itself typically for only a discrete set of values Î», and even then a
+translation and rotation must be applied to match up to the fractal to itself.
+Thus, for example the Koch curve scales with Î = 1, but the scaling holds
+only for values of Î» = 1 / 3n for integer n. In addition, the Koch curve
+scales not only at the origin, but, in a certain sense, "everywhere":
+miniature copies of itself can be found all along the curve.
+
+Some fractals may have multiple scaling factors at play at once; such scaling
+is studied with multi-fractal analysis.
+
+## [edit] Scale invariance in stochastic processes
+
+If P(f) is the average, expected power at frequency f, then noise scales as
+
+    P(f) = Î» â ÎP(Î»f)
+with Î = 0 for white noise, Î = â 1 for pink noise, and Î = â 2 for
+Brownian noise (and more generally, Brownian motion).
+
+More precisely, scaling in stochastic systems concerns itself with the
+likelihood of choosing a particular configuration out of the set of all
+possible random configurations. This likelihood is given by the probability
+distribution. Examples of scale-invariant distributions are the Pareto
+distribution and the Zipfian distribution.
+
+### [edit] Cosmology
+
+In physical cosmology, the power spectrum of the spatial distribution of the
+cosmic microwave background is near to being a scale-invariant function. This
+means that the amplitude, P(k), of primordial fluctuations as a function of
+wave number, k, is approximately constant. This pattern is consistent with the
+proposal of cosmic inflation.
+
+## [edit] Scale invariance in classical field theory
+
+Classical field theory is generically described by a field, or set of fields,
+\\varphi, that depend on coordinates, x. Valid field configurations are then
+determined by solving differential equations for \\varphi\(x\), and these
+equations are known as field equations.
+
+For a theory to be scale-invariant, its field equations should be invariant
+under a rescaling of the coordinates, combined with some specified rescaling
+of the fields:
+
+    x\\rightarrow\\lambda x,
+    \\varphi\\rightarrow\\lambda^{-\\Delta}\\varphi.
+The parameter Î is known as the scaling dimension of the field, and its value
+depends on the theory under consideration. Scale invariance will typically
+hold provided that no fixed length scale appears in the theory. Conversely,
+the presence of a fixed length scale indicates that a theory is not scale-
+invariant.
+
+A consequence of scale invariance is that given a solution of a scale-
+invariant field equation, we can automatically find other solutions by
+rescaling both the coordinates and the fields appropriately. In technical
+terms, given a solution, \\varphi\(x\), one always has other solutions of the
+form \\lambda^{-\\Delta}\\varphi\(\\lambda x\).
+
+### [edit] Scale invariance of field configurations
+
+For a particular field configuration, \\varphi\(x\), to be scale-invariant, we
+require that
+
+    \\varphi\(x\)=\\lambda^{-\\Delta}\\varphi\(\\lambda x\)
+where Î is again the scaling dimension of the field.
+
+We note that this condition is rather restrictive. In general, solutions even
+of scale-invariant field equations will not be scale-invariant, and in such
+cases the symmetry is said to be spontaneously broken.
+
+### [edit] Classical electromagnetism
+
+An example of a scale-invariant classical field theory is electromagnetism
+with no charges or currents. The fields are the electric and magnetic fields,
+\\mathbf{E}\(\\mathbf{x},t\) and \\mathbf{B}\(\\mathbf{x},t\), while their
+field equations are Maxwell's equations. With no charges or currents, these
+field equations take the form of wave equations
+
+    \\nabla^2 \\mathbf{E} = \\frac{1}{c^2} \\frac{\\partial^2 \\mathbf{E}}{\\partial t^2}
+    \\nabla^2\\mathbf{B} = \\frac{1}{c^2} \\frac{\\partial^2 \\mathbf{B}}{\\partial t^2}
+where c is the speed of light.
+
+These field equations are invariant under the transformation
+
+    x\\rightarrow\\lambda x,
+    t\\rightarrow\\lambda t.
+Moreover, given solutions of Maxwell's equations, \\mathbf{E}\(\\mathbf{x},t\)
+and \\mathbf{B}\(\\mathbf{x},t\), we have that
+\\mathbf{E}\(\\lambda\\mathbf{x},\\lambda t\) and
+\\mathbf{B}\(\\lambda\\mathbf{x},\\lambda t\) are also solutions.
+
+### [edit] Massless scalar field theory
+
+Another example of a scale-invariant classical field theory is the massless
+scalar field (note that the name scalar is unrelated to scale invariance). The
+scalar field, \\varphi\(\\mathbf{x},t\) is a function of a set of spatial
+variables, \\mathbf{x}, and a time variable, t. We first consider the linear
+theory. Much like the electromagnetic field equations above, the equation of
+motion for this theory is also a wave equation
+
+    \\frac{1}{c^2} \\frac{\\partial^2 \\varphi}{\\partial t^2}-\\nabla^2 \\varphi = 0,
+and is invariant under the transformation
+
+    x\\rightarrow\\lambda x,
+    t\\rightarrow\\lambda t.
+The name massless refers to the absence of a term \\propto m^2\\varphi^2 in
+the field equation. Such a term is often referred to as a `mass' term, and
+would break the invariance under the above transformation. In relativistic
+field theories, a mass-scale, m is physically equivalent to a fixed length
+scale via
+
+    L=\\frac{\\hbar}{mc},
+and so it should not be surprising that massive scalar field theory is not
+scale-invariant.
+
+#### [edit] Ï4 theory
+
+The field equations in the examples above are all linear in the fields, which
+has meant that the scaling dimension, Î, has not been so important. However,
+one usually requires that the scalar field action is dimensionless, and this
+fixes the scaling dimension of \\varphi. In particular,
+
+    \\Delta=\\frac{D-2}{2},
+where D is the combined number of spatial and time dimensions.
+
+Given this scaling dimension for \\varphi, there are certain nonlinear
+modifications of massless scalar field theory which are also scale-invariant.
+One example is massless Ï4 theory for D = 4. The field equation is
+
+    \\frac{1}{c^2} \\frac{\\partial^2 \\varphi}{\\partial t^2}-\\nabla^2 \\varphi+g\\varphi^3=0.
+(Note that the name \\varphi^4 derives from the form of the Lagrangian, which
+contains the fourth power of \\varphi.)
+
+When D=4 (e.g. three spatial dimensions and one time dimension), the scalar
+field scaling dimension is Î = 1. The field equation is then invariant under
+the transformation
+
+    x\\rightarrow\\lambda x,
+    t\\rightarrow\\lambda t,
+    \\varphi\\rightarrow\\lambda^{-1}\\varphi.
+The key point is that the parameter g must be dimensionless, otherwise one
+introduces a fixed length scale into the theory. For Ï4 theory this is only
+the case in D = 4.
+
+## [edit] Scale invariance in quantum field theory
+
+The scale-dependence of a quantum field theory (QFT) is characterised by the
+way its coupling parameters depend on the energy-scale of a given physical
+process. This energy dependence is described by the renormalization group, and
+is encoded in the beta-functions of the theory.
+
+For a QFT to be scale-invariant, its coupling parameters must be independent
+of the energy-scale, and this is indicated by the vanishing of the beta-
+functions of the theory. Such theories are also known as fixed points of the
+corresponding renormalization group flow.
+
+### [edit] Quantum electrodynamics
+
+A simple example of a scale-invariant QFT is the quantized electromagnetic
+field without charged particles. This theory actually has no coupling
+parameters (since photons are massless and non-interacting) and is therefore
+scale-invariant, much like the classical theory.
+
+However, in nature the electromagnetic field is coupled to charged particles,
+such as electrons. The QFT describing the interactions of photons and charged
+particles is quantum electrodynamics (QED), and this theory is not scale-
+invariant. We can see this from the QED beta-function. This tells us that the
+electric charge (which is the coupling parameter in the theory) increases with
+increasing energy. Therefore, while the quantized electromagnetic field
+without charged particles is scale-invariant, QED is not scale-invariant.
+
+### [edit] Massless scalar field theory
+
+Free, massless quantized scalar field theory has no coupling parameters.
+Therefore, like the classical version, it is scale-invariant. In the language
+of the renormalization group, this theory is known as the Gaussian fixed
+point.
+
+However, even though the classical massless Ï4 theory is scale-invariant in D
+= 4, the quantized version is not scale-invariant. We can see this from the
+beta-function for the coupling parameter, g.
+
+Even though the quantized massless Ï4 is not scale-invariant, there do exist
+scale-invariant quantized scalar field theories other than the Gaussian fixed
+point. One example is the Wilson-Fisher fixed point.
+
+### [edit] Conformal field theory
+
+Scale-invariant QFTs are almost always invariant under the full conformal
+symmetry, and the study of such QFTs is conformal field theory (CFT).
+Operators in a CFT have a well-defined scaling dimension, analogous to the
+scaling dimension, Î, of a classical field discussed above. However, the
+scaling dimensions of operators in a CFT typically differ from the those of
+the fields in the corresponding classical theory. The additional contributions
+appearing in the CFT are known as anomalous scaling dimensions.
+
+### [edit] Scale and conformal anomalies
+
+The Ï4 theory example above demonstrates that the coupling parameters of a
+quantum field theory can be scale-dependent even if the corresponding
+classical field theory is scale-invariant (or conformally invariant). If this
+is the case, the classical scale (or conformal) invariance is said to be
+anomalous.
+
+## [edit] Phase transitions
+
+In statistical mechanics, as a system undergoes a phase transition, its
+fluctuations are described by a scale-invariant statistical field theory. For
+a system in equilibrium (i.e. time-independent) in D spatial dimensions, the
+corresponding statistical field theory is formally similar to a D-dimensional
+CFT. The scaling dimensions in such problems are usually referred to as
+critical exponents, and one can in principle compute these exponents in the
+appropriate CFT.
+
+### [edit] The Ising model
+
+An example that links together many of the ideas in this article is the phase
+transition of the Ising model, a crude model of ferromagnetic substances. This
+is a statistical mechanics model which also has a description in terms of
+conformal field theory. The system consists of an array of lattice sites,
+which form a D-dimensional periodic lattice. Associated with each lattice site
+is a magnetic moment, or spin, and this spin can take either the value +1 or
+-1. (These states are also called up and down, respectively.)
+
+The key point is that the Ising model has a spin-spin interaction, making it
+energetically favourable for two adjacent spins to be aligned. On the other
+hand, thermal fluctuations typically introduce a randomness into the alignment
+of spins. At some critical temperature, Tc, spontaneous magnetization is said
+to occur. This means that below Tc the spin-spin interaction will begin to
+dominate, and there is some net alignment of spins in one of the two
+directions.
+
+An example of the kind of physical quantities one would like to calculate at
+this critical temperature is the correlation between spins separated by a
+distance r. This has the generic behaviour:
+
+    G\(r\)\\propto\\frac{1}{r^{D-2+\\eta}},
+for some particular value of Î·, which is an example of a critical exponent.
+
+#### [edit] CFT description
+
+The fluctuations at temperature Tc are scale-invariant, and so the Ising model
+at this phase transition is expected to be described by a scale-invariant
+statistical field theory. In fact, this theory is the Wilson-Fisher fixed
+point, a particular scale-invariant scalar field theory. In this context, G(r)
+is understood as a correlation function of scalar fields:
+
+    \\langle\\phi\(0\)\\phi\(r\)\\rangle\\propto\\frac{1}{r^{D-2+\\eta}}.
+Now we can fit together a number of the ideas we've seen already. From the
+above we can see that the critical exponent, Î·, for this phase transition, is
+also an anomalous dimension. This is because the classical dimension of the
+scalar field
+
+    \\Delta=\\frac{D-2}{2}
+is modified to become
+
+    \\Delta=\\frac{D-2+\\eta}{2},
+where D is the number of dimensions of the Ising model lattice. So this
+anomalous dimension in the conformal field theory is the same as a particular
+critical exponent of the Ising model phase transition.
+
+We note that for dimension D = 4 â Îµ, Î· can be calculated approximately,
+using the epsilon expansion, and one finds that
+
+    \\eta=\\frac{\\epsilon^2}{54}+O\(\\epsilon^3\).
+In the physically interesting case of three spatial dimensions we have Îµ = 1,
+and so this expansion is not strictly reliable. However, a semi-quantitative
+prediction is that Î· is numerically small in three dimensions. On the other
+hand, in the two-dimensional case the Ising model is exactly soluble. In
+particular, it is equivalent to one of the minimal models, a family of well-
+understood CFTs, and it is possible to compute Î· (and the other critical
+exponents) exactly:
+
+    \\eta_{D=2}=\\frac{1}{4}.
+### [edit] Schramm-Loewner evolution
+
+The anomalous dimensions in certain two-dimensional CFTs can be related to the
+typical fractal dimensions of random walks, where the random walks are defined
+via Schramm-Loewner evolution (SLE). As we have seen above, CFTs describe the
+physics of phase transitions, and so one can relate the critical exponents of
+certain phase transitions to these fractal dimensions. Examples include the 2d
+critical Ising model and the more general 2d critical Potts model. Relating
+other 2d CFTs to SLE is an active area of research.
+
+## [edit] Universality
+
+A phenomenon known as universality is seen in a large variety of physical
+systems. It expresses the idea that different microscopic physics can give
+rise to the same scaling behaviour at a phase transition. A canonical example
+of universality involves the following two systems:
+
+  * The Ising model phase transition, described above.
+  * The liquid-vapour transition in classical fluids.
+
+Even though the microscopic physics of these two systems is completely
+different, their critical exponents turn out to be the same. Moreover, one can
+calculate these exponents using the same statistical field theory. The key
+observation is that at a phase transition or critical point, fluctuations
+occur at all length scales, and thus one should look for a scale-invariant
+statistical field theory to describe the phenomena. In a sense, universality
+is the observation that there are relatively few such scale-invariant
+theories.
+
+The set of different microscopic theories described by the same scale-
+invariant theory is known as a universality class. Other examples of systems
+which belong to a universality class are:
+
+  * Avalanches in piles of sand. The likelihood of an avalanche is in power-law proportion to the size of the avalanche, and avalanches are seen to occur at all size scales.
+  * The frequency of network outages on the Internet, as a function of size and duration.
+  * The frequency of citations of journal articles, considered in the network of all citations amongst all papers, as a function of the number of citations in a given paper.
+  * The formation and propagation of cracks and tears in materials ranging from steel to rock to paper. The variations of the direction of the tear, or the roughness of a fractured surface, are in power-law proportion to the size scale.
+  * The electrical breakdown of dielectrics, which resemble cracks and tears.
+  * The percolation of fluids through disordered media, such as petroleum through fractured rock beds, or water through filter paper, such as in chromatography. Power-law scaling connects the rate of flow to the distribution of fractures.
+  * The diffusion of molecules in solution, and the phenomenon of diffusion-limited aggregation.
+  * The distribution of rocks of different sizes in an aggregate mixture that is being shaken (with gravity acting on the rocks).
+
+The key observation is that, for all of these different systems, the behaviour
+resembles a phase transition, and that the language of statistical mechanics
+and scale-invariant statistical field theory may be applied to describe them.
+
+## [edit] Other examples of scale invariance
+
+### [edit] Newtonian fluid mechanics with no applied forces
+
+Under certain circumstances, fluid mechanics is a scale-invariant classical
+field theory. The fields are the velocity of the fluid flow,
+\\mathbf{u}\(\\mathbf{x},t\), the fluid density, \\rho\(\\mathbf{x},t\), and
+the fluid pressure, P\(\\mathbf{x},t\). These fields must satisfy both the
+NavierâStokes equation and the continuity equation. For a Newtonian fluid
+these take the respective forms
+
+    \\rho\\frac{\\partial \\mathbf{u}}{\\partial t}+\\rho\\mathbf{u}\\cdot\\nabla \\mathbf{u} = -\\nabla P+\\mu \\left\(\\nabla^2 \\mathbf{u}+\\frac{1}{3}\\nabla\\left\(\\nabla\\cdot\\mathbf{u}\\right\)\\right\)
+    \\frac{\\partial \\rho}{\\partial t}+\\nabla\\cdot \\left\(\\rho\\mathbf{u}\\right\)=0
+where Î¼ is the dynamic viscosity.
+
+In order to deduce the scale invariance of these equations we specify an
+equation of state, relating the fluid pressure to the fluid density. The
+equation of state depends on the type of fluid and the conditions to which it
+is subjected. For example, we consider the isothermal ideal gas, which
+satisfies
+
+    P=c_s^2\\rho,
+where cs is the speed of sound in the fluid. Given this equation of state,
+NavierâStokes and the continuity equation are invariant under the
+transformations
+
+    x\\rightarrow\\lambda x,
+    t\\rightarrow\\lambda t,
+    \\rho\\rightarrow\\lambda \\rho,
+    \\mathbf{u}\\rightarrow\\mathbf{u}.
+Given the solutions \\mathbf{u}\(\\mathbf{x},t\) and \\rho\(\\mathbf{x},t\),
+we automatically have that \\mathbf{u}\(\\lambda\\mathbf{x},\\lambda t\) and
+\\lambda\\rho\(\\lambda\\mathbf{x},\\lambda t\) are also solutions.
+
+### [edit] Computer vision
+
+In computer vision, scale invariance refers to a local image description that
+remains invariant when the scale of the image is changed. A general framework
+for obtaining scale invariance in practice is by detecting local maxima over
+scales of normalized derivative responses -- see the article on scale-space
+for a brief introduction to the general theory and references. Examples of
+scale invariant blob detectors and ridge detectors are given in the articles
+on blob detection and ridge detection. An example of the application of scale
+invariance to object recognition is given in the article on the scale-
+invariant feature transform.
+
+## [edit] See also
+
+  * Scale space, in computer vision and image processing
+  * Scale relativity, physics
+
+## [edit] References
+
+  * Zinn-Justin, Jean ; Quantum Field Theory and Critical Phenomena, Oxford University Press (2002). Extensive discussion of scale invariance in quantum and statistical field theories, applications to critical phenomena and the epsilon expansion and related topics.
+
+Retrieved from "http://en.wikipedia.org/wiki/Scale_invariance"
+
+Categories: Symmetry | Scaling symmetries | Conformal field theory | Critical
+phenomena
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * FranÃ§ais
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 March 2009, at 11:33 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

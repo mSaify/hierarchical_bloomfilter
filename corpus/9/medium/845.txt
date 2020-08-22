@@ -1,0 +1,830 @@
+
+# Constructed wetland
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article is missing citations or needs footnotes. Please help add inline
+citations to guard against copyright violations and factual inaccuracies.
+(April 2008)  
+<IMG>
+
+<IMG>
+
+Vertical Flow Constructed Wetlands
+
+A constructed wetland or wetpark is an artificial marsh or swamp, created for
+anthropogenic discharge such as wastewater, stormwater runoff or sewage
+treatment, and as habitat for wildlife, or for land reclamation after mining
+or other disturbance. Natural wetlands act as biofilters, removing sediments
+and pollutants such as heavy metals from the water, and constructed wetlands
+can be designed to emulate these features.
+
+## Contents
+
+  * 1 Operation
+  * 2 General contaminant removal
+  * 3 Removal of nitrogen
+    * 3.1 Organic nitrogen
+    * 3.2 Ammonia (NH3) and ammonium (NH4+)
+    * 3.3 Nitrogen removal in constructed wetlands used to treat domestic sewage
+  * 4 Removal of phosphorus
+    * 4.1 Incorporation into biomass
+    * 4.2 Phosphorus retention by soils or root-bed media
+    * 4.3 Phosphorus removal in constructed wetlands used to treat domestic sewage
+  * 5 Set-up of commercial treatment ponds/combined treatment ponds construction in urban areas
+    * 5.1 Design characteristics of the commercial systems
+    * 5.2 Plants/organisms used in treatment ponds in commercial undertakings
+  * 6 Finishing
+  * 7 Literature citations
+  * 8 See also
+  * 9 References
+  * 10 External links
+
+  
+## [edit] Operation
+
+Vegetation in a wetland provides a substrate (roots, stems, and leaves) upon
+which microorganisms can grow as they break down organic materials. This
+community of microorganisms is known as the periphyton. The periphyton and
+natural chemical processes are responsible for approximately 90 percent of
+pollutant removal and waste breakdown. The plants remove about seven to ten
+percent of pollutants, and act as a carbon source for the microbes when they
+decay. Different species of aquatic plants have different rates of heavy metal
+uptake, a consideration for plant selection in a constructed wetland used for
+water treatment.
+
+<IMG>
+
+<IMG>
+
+Newly Planted Constructed Wetland
+
+Constructed wetlands are of two basic types: subsurface-flow and surface-flow
+wetlands. Subsurface-flow wetlands can be further classified as horizontal
+flow and vertical flow constructed wetlands. Subsurface-flow wetlands move
+effluent (agricultural or mining runoff, tannery or meat processing wastes,
+wastewater from sewage or storm drains, or other water to be cleansed) through
+a gravel lavastone or sand medium on which plants are rooted; surface-flow
+wetlands move effluent above the soil in a planted marsh or swamp, and thus
+can be supported by a wider variety of soil types including bay mud and other
+silty clays. In subsurface-flow systems, the effluent may move either
+horizontally, parallel to the surface, or vertically, from the planted layer
+down through the substrate and out. Subsurface horizontal-flow wetlands are
+less hospitable to mosquitoes, whose populations can be a problem in
+constructed wetlands (carnivorous plants have been used to address this
+problem). Subsurface-flow systems have the advantage of requiring less land
+area for water treatment, but are not generally as suitable for wildlife
+habitat as are surface-flow constructed wetlands.
+
+<IMG>
+
+<IMG>
+
+The same constructed wetland two years later
+
+Plantings of reedbeds are popular in European constructed wetlands, and plants
+such as cattails or bulrushes (Typha spp.), sedges, water hyacinth and
+Pontederia spp. are used worldwide. Recent research in use of constructed
+wetlands for subarctic regions has shown that buckbeans (Menyanthes
+trifoliata) and pendant grass (Arctophila fulva) are also useful for metals
+uptake.
+
+## [edit] General contaminant removal
+
+Physical, chemical, and biological processes combine in wetlands to remove
+contaminants from wastewater. An understanding of these processes is
+fundamental not only to designing wetland systems but to understanding the
+fate of chemicals once they have entered the wetland. Theoretically, treatment
+of wastewater within a constructed wetland occurs as it passes through the
+wetland medium and the plant rhizosphere. A thin aerobic film around each root
+hair is aerobic due to the leakage of oxygen from the rhizomes, roots, and
+rootlets.[1] Decomposition of organic matter is facilitated by aerobic and
+anaerobic micro-organisms present. Microbial nitrification and subsequent
+denitrification releases nitrogen as gas to the atmosphere. Phosphorus is
+coprecipitated with iron, aluminum, and calcium compounds located in the root-
+bed medium.[2][3] Suspended solids are filtered out as they settle in the
+water column in surface flow wetlands or are physically filtered out by the
+medium within subsurface flow wetland cells. Harmful bacteria and viruses are
+reduced by filtration and adsorption by biofilms on the rock media in
+subsurface flow and vertical flow systems.
+
+## [edit] Removal of nitrogen
+
+The dominant forms of nitrogen in wetlands that are of importance to
+wastewater treatment include organic nitrogen, ammonia, ammonium, nitrate,
+nitrite, and nitrogen gases. Inorganic forms are essential to plant growth in
+aquatic systems but if scarce can limit or control plant productivity.[4] The
+nitrogen entering wetland systems can be measured as organic nitrogen,
+ammonia, nitrate and nitrite. Total Nitrogen refers to all nitrogen species.
+The removal of nitrogen from wastewater is important because of ammoniaâs
+toxicity to fish if discharged into water courses. Excessive levels of
+nitrates in drinking water is thought to cause methemoglobinemia in infants,
+which decreases the oxygen transport ability of the blood. The UK has
+experienced a significant increase in nitrate concentration in groundwater and
+rivers.[5]
+
+### [edit] Organic nitrogen
+
+Mitsch & Gosselink define nitrogen mineralisation as "the biological
+transformation of organically combined nitrogen to ammonium nitrogen during
+organic matter degradation".[6] This can be both an aerobic and anaerobic
+process and is often referred to as ammonification. Mineralisation of
+organically combined nitrogen releases inorganic nitrogen as nitrates,
+nitrites, ammonia and ammonium, making it available for plants, fungi and
+bacteria.[6] Mineralisation rates may be affected by oxygen levels in a
+wetland.[3]
+
+### [edit] Ammonia (NH3) and ammonium (NH4+)
+
+The formation of ammonia (NH3) occurs via the mineralisation or ammonification
+of organic matter under either anaerobic or aerobic conditions (Keeney, 1973).
+The ammonium ion (NH4+) is the primary form of mineralized nitrogen in most
+flooded wetland soils. The formation of this ion occurs when ammonia combines
+with water as follows:
+
+NH3 \+ H2O <\-----> NH4+ \+ OH-  
+[6]
+
+Upon formation, several pathways are available to the ammonium ion. It can be
+absorbed by the plants and algae and converted back into organic matter, or
+the ammonium ion can be electrostatically held on negatively charged surfaces
+of soil particles.[6] At this point, the ammonium ion can be prevented from
+further oxidation because of the anaerobic nature of wetland soils. Under
+these conditions the ammonium ion is stable and it is in this form that
+nitrogen predominates in anaerobic sediments typical of wetlands (Brock &
+Madigan, 1991; ).[3]
+
+Most wetland soils have a thin aerobic layer at the surface. As an ammonium
+ion from the anaerobic sediments diffuses upward into this layer it is
+converted to nitrite or nitrified (Klopatek, 1978). An increase in the
+thickness of this aerobic layer results in an increase in nitrification.[3]
+This diffusion of the ammonium ion sets up a concentration gradient across the
+aerobic-anaerobic soil layers resulting in further nitrification reactions
+(Klopatek, 1978).[3]
+
+Nitrification is the biological conversion of organic and inorganic
+nitrogenous compounds from a reduced state to a more oxidized state.[7]
+Nitrification is strictly an aerobic process in which the end product is
+nitrate (NO3-); this process is limited when anaerobic conditions prevail.[3]
+Nitrification will occur readily down to 0.3 ppm dissolved oxygen (Keeney,
+1973). The process of nitrification (1) oxidizes ammonium (from the sediment)
+to nitrite (NO2-), and then (2) nitrite is oxidized to nitrate (NO3-). The
+overall nitrification reactions are as follows:
+
+(1) 2 NH4+ \+ 3 O2 <\----> 4 H+ \+ 2 H2O + 2 NO2-  
+
+    
+            (2)  2 NO2- + O2     <----> 2 NO3-  
+    (Davies & Hart, 1990)
+    
+Two different bacteria are required to complete this oxidation of ammonium to
+nitrate. Nitrosomonas sp. oxidizes ammonium to nitrite via reaction (1) , and
+Nitrobacter sp. oxidizes nitrite to nitrate via reaction (2) (Keeney, 1973).
+
+Denitrification is the biochemical reduction of oxidized nitrogen anions,
+nitrate (NO3-) and nitrite (NO2-) to produce the gaseous products nitric oxide
+(NO), nitrous oxide (N2O) and nitrogen gas (N2), with concomitant oxidation of
+organic matter.[7] The general sequence is as follows:
+
+NO3- \---> NO2- \---> NO ---> N2O ---> N2
+
+The end products, N2O and N2 are gases that re-enter the atmosphere.
+Denitrification occurs intensely in anaerobic environments but will also occur
+in aerobic conditions (Bandurski, 1965). A deficiency of oxygen causes certain
+bacteria to use nitrate in place of oxygen as an electron acceptor for the
+reduction of organic matter.[3] The process of denitrification is restricted
+to a narrow zone in the sediment immediately below the aerobic-anaerobic soil
+interface (Nielson et al., 1990).[6] Denitrification is considered by
+Richardson et al. (1978) to be the predominant microbial process that modifies
+the chemical composition of nitrogen in a wetland system and the major process
+whereby elemental nitrogen is returned to the atmosphere.[3] To summarize, the
+nitrogen cycle is completed as follows: ammonia in water, at or near neutral
+pH is converted to ammonium ions; the aerobic bacterium Nitrosomonas sp.
+oxidizes ammonium to nitrite; Nitrobacter sp. then converts nitrite to
+nitrate. Under anaerobic conditions, nitrate is reduced to relatively harmless
+nitrogen gas, that is given off to the atmosphere.
+
+### [edit] Nitrogen removal in constructed wetlands used to treat domestic
+sewage
+
+In a review of 19 surface flow wetlands (US EPA, 1988) it was found that
+nearly all reduced total nitrogen. In a review of both surface flow and
+subsurface flow wetlands Reed (1995) concluded that effluent nitrate
+concentration is dependent on maintaining anoxic conditions within the wetland
+so that denitrification can occur. He found that subsurface flow wetlands were
+superior to surface flow wetlands for nitrate removal. The 20 surface flow
+wetlands reviewed reported effluent nitrate levels below 5 mg/L; the 12
+subsurface flow wetlands reviewed reported effluent nitrate ranging from <1 to
+< 10 mg/L. Results obtained from the Niagara-On-The-Lake vertical flow systems
+show a significant reduction in both total nitrogen and ammonia (> 97%) when
+primary treated effluent was applied at a rate of 60L/mÂ²/day. Calculations
+made showed that over 50% of the total nitrogen going into the system was
+converted to relatively harmless nitrogen gas. Effective removal of nitrate
+from the sewage lagoon influent was dependent on medium type used within the
+vertical cell as well as water table level within the cell (Lemon et
+al.,1997).
+
+## [edit] Removal of phosphorus
+
+Phosphorus occurs naturally in both organic and inorganic forms. The
+analytical measure of biologically available orthophosphates is referred to as
+soluble reactive phosphorus (SR-P). Dissolved organic phosphorus and insoluble
+forms of organic and inorganic phosphorus are generally not biologically
+available until transformed into soluble inorganic forms.[6]
+
+In freshwater aquatic ecosystems phosphorus has been described as the major
+limiting nutrient. Under undisturbed natural conditions, phosphorus is in
+short supply. The natural scarcity of phosphorus is demonstrated by the
+explosive growth of algae in water receiving heavy discharges of phosphorus-
+rich wastes. Because phosphorus does not have an atmospheric component as does
+nitrogen, the phosphorus cycle can be characterized as closed. The removal and
+storage of phosphorus from wastewater can only occur within the constructed
+wetland itself. According to Mitsch and Gosselink phosphorus may be
+sequestered within a wetland system by the following:
+
+  1. The binding of phosphorus in organic matter as a result of incorporation into living biomass,
+  2. Precipitation of insoluble phosphates with ferric iron, calcium, and aluminum found in wetland soils.[6]
+
+### [edit] Incorporation into biomass
+
+Higher plants in wetland systems may be viewed as transient nutrient storage
+compartments absorbing nutrients during the growing season and releasing large
+amounts at senescence (Guntensbergen, 1989).[8] Generally, plants from
+nutrient-rich habitats accumulate more nutrients than plants found in
+nutrient-poor habitats, a phenomenon referred to as luxury uptake of nutrients
+(Guntensbergen, 1989; Kadlec, 1989). Aquatic vegetation may play an important
+role in phosphorus removal and, if harvested, extend the life of a system by
+postponing phosphorus saturation of the sediments (Breen, 1990; Guntensbergen,
+1989; Rogers et al., 1991). According to Sloey et al. (1978) vascular plants
+may account for only a small amount of phosphorus uptake with only 5 to 20% of
+the nutrients detained in a natural wetland being stored in harvestable plant
+material. Bernard and Solsky also reported relatively low phosphorus
+retention, estimating that a sedge (Carex sp.) wetland retained 1.9 g of
+phosphorus per square metre of wetland.[8] Bulrushes (Scirpus sp.) in a
+constructed wetland system receiving secondarily treated domestic wastes
+contained 40.5% of the total phosphorus influent. The remaining 59.0% was
+found to be stored in the gravel substratum (Sloey et al., 1978). Phosphorus
+removal in a surface flow wetland treatment system planted with one of Scirpus
+sp., Phragmites sp. or Typha sp. was investigated by Finlayson and Chick
+(1983).
+
+Phosphorus removal of 60%, 28%, and 46% were found for Scirpus sp., Phragmites
+sp. and Typha sp. respectively. More recent work by Breen (1990) may prove
+this to be a low estimate. His work on an artificial wetland indicated that
+vascular plants are a major phosphorus storage compartment accounting for
+67.3% of the influent phosphorus. Thut (1989) attributed plant adsorption with
+80% phosphorus removal.
+
+Only a small proportion (<20%) of phosphate removal by constructed wetlands
+can be attributed to nutritional uptake by bacteria, fungi and algae (Moss,
+1988). Swindell et al., (1990) found that the lack of seasonal fluctuation in
+phosphorus removal rates suggests that the primary mechanism is bacterial and
+alga fixation. However, Richardson (1985) dismisses this mechanism as
+temporary saying that although the initial removal of dissolved inorganic
+phosphorus from the water under natural loading levels is due largely to
+microbial uptake and adsorption, the microbial pool is small and quickly
+becomes saturated at which point the soil medium takes over as the major
+contributor to phosphate removal.
+
+There are more indirect ways in which plants contribute to wastewater
+purification. Plants create a unique environment at the attachment surface of
+the biofilm. Certain plants transport oxygen which is released at the
+biofilm/root interface perhaps adding oxygen to the wetland system (Pride et
+al., 1990). Plants also increase soil or other root-bed medium hydraulic
+conductivity. As roots and rhizomes grow they are thought to disturb and
+loosen the medium increasing its porosity which may allow more effective fluid
+movement in the rhizosphere. When roots decay they leave behind ports and
+channels known as macropores which are effective in channeling water through
+the soil (Conley et al., 1991).
+
+Whether or not wetland systems act as a phosphorus sink or source seems to
+depend on system characteristics such as sediment and hydrology. Kramer et
+al., (1972) indicated that there seems to be a net movement of phosphorus into
+the sediment in many lakes. In Lake Erie as much as 80% of the total
+phosphorus is removed from the waters by natural processes and is presumably
+stored in the sediment. According to Klopatek (1978) marsh sediments high in
+organic matter act as sinks. He has also shown that phosphorus release from a
+marsh exhibits a cyclical pattern. Much of the spring phosphorus release comes
+from high phosphorus concentrations locked up in the winter ice covering the
+marsh; in summer the marsh acts as a phosphorus sponge. Simpson (1978) found
+that phosphorus was exported from the system following dieback of vascular
+plants. It has been demonstrated by Klopatek (1978) that phosphorus
+concentrations in water are reduced during the growing season due to plant
+uptake but decomposition and subsequent mineralisation of organic matter
+releases phosphorus over the winter and accounts for the higher winter
+phosphorus concentrations in the marsh (Klopatek, 1978;).[6]
+
+### [edit] Phosphorus retention by soils or root-bed media
+
+Two types of phosphate retention mechanisms may occur in soils or root-bed
+media: chemical adsorption onto the medium (Hsu, 1964) and physical
+precipitation of the phosphate ion (Faulkner and Richardson, 1989). Both
+result from the attraction between phosphate ion and ions of Al, Fe or Ca
+(Hsu, 1964; Cole et al., 1953) and terminates with formation of various iron
+phosphates (Fe-P), aluminum phosphates (Al-P) or calcium phosphates (Ca-P)
+(Fried and Dean, 1955).
+
+Redox potential (Eh) of soil or water is a measure of its ability to reduce or
+oxidize chemical substances and may range between -300 and +300 millivolts
+(mV) (Hammer, 1992). Though the oxidation state of phosphorus is unaffected by
+redox reactions, the redox potential is important because of Fe reduction.
+Severely reduced conditions in the sediments may result in phosphorus release
+(Mann, 1990). Typical wetland soils may have an Eh of -200 mV (Hammer, 1992).
+Under these reduced conditions Fe3+ (Ferric iron) may be reduced to Fe2+
+(Ferrous iron) and may release the bound phosphate ion back into solution
+(Faulkner and Richardson, 1989; Sah and Mikkelson, 1986). The introduction of
+oxygen causes the Fe2+ to be oxidized to Fe3+ producing a simultaneous
+reduction of phosphate.[7] The solubility of phosphorus may be affected by the
+amount of oxygen present in the sediment because saturation by water and
+subsequent loss of oxygen generally cause wetland soils to have negative redox
+potentials (Hammer, 1992). A well documented occurrence in the hypolimnion of
+lakes is the release of soluble phosphorus when conditions become anaerobic
+(Burns & Ross, 1972; Williams & Mayer, 1972). This phenomenon also occurs in
+natural wetlands (Gosselink & Turner, 1978) and Kramer et al., (1972) report
+that oxygen concentrations of less than 2.0 mg/l result in the release of
+phosphorus from sediments.
+
+### [edit] Phosphorus removal in constructed wetlands used to treat domestic
+sewage
+
+Adsorption to binding sites within the sediments was identified as the major
+phosphorus removal mechanism in the surface flow constructed wetland system at
+Port Perry, Ontario (Snell, unpublished data). Release of phosphorus from the
+sediments occurred when anaerobic conditions prevailed. The lowest wetland
+effluent phosphorus levels occurred when oxygen levels of the overlying water
+column were above 1.0 mg / L. Removal efficiencies for total phosphorus were
+54-59% with mean effluent levels of 0.38 mg P/L. Wetland effluent phosphorus
+concentration was higher than influent levels during the winter months.
+
+Lantzke et al., (1999) investigated phosphorus removal in a VF wetland in
+Australia and found that the quantity of phosphorus removed over a short term
+was stored in the following wetland components in order of decreasing
+importance: substratum> macrophyte >biofilm but over the long term phosphorus
+storage was located in macrophyte> substratum>biofilm components. They also
+found that medium iron-oxide adsorption provides additional removal for some
+years.
+
+Mann (1990) investigated the phosphorus removal efficiency of two large-scale,
+surface flow wetland systems in Australia which had a gravel substratum. He
+then compared these results to laboratory phosphorus adsorption experiments.
+For the first two months of wetland operation the mean phosphorus removal
+efficiency of system 1 and 2 was 38% and 22%, respectively. Over the first
+year a decline in removal efficiencies occurred. During the second year of
+operation release of phosphorus from the system was often recorded such that
+more phosphorus came out than was put in. This release was attributed to the
+saturation of phosphorus binding sites. Close agreement was found between the
+phosphorus adsorption capacity of the gravel as determined in the laboratory
+and the adsorption capacity recorded in the field.
+
+The phosphorus adsorption capacity of a subsurface flow constructed wetland
+system containing a predominantly quartz gravel was investigated by Breen
+(1990). The adsorption characteristics of this gravel as determined by
+laboratory adsorption experiments and using the Langmuir adsorption isotherm
+was 25 mg P / g gravel. Close agreement between calculated and realized
+phosphorus adsorption was found. Because of the poor adsorption capacity of
+the quartz gravel, plant uptake and subsequent harvesting were identified as
+the major phosphorus removal mechanism.[9]
+
+## [edit] Set-up of commercial treatment ponds/combined treatment ponds
+construction in urban areas
+
+<IMG>
+
+<IMG>
+
+The 3 treatment set-ups mostly employed
+
+As previously mentioned, 3 types of reedbed-set ups are used. All these
+systems are used in commercial systems (usually together with septic
+tanks).[10] The system again are:
+
+  * Surface flow (SF) reedbeds
+  * Sub Surface Flow (SSF) reedbeds
+  * Vertical Flow (VF) reedbeds
+
+All three types of reed beds are placed in a closed basin with a substrate.
+Also, for most commercial undertakings (eg agricultural enterprises), the
+bottom is covered with a rubber foil (to ensure that the whole is completely
+waterproof, which is essential in urban areas). The substrate can be either
+gravel, sand or lavastone.
+
+### [edit] Design characteristics of the commercial systems
+
+<IMG>
+
+<IMG>
+
+A water-purifying pond, planted with Iris pseudacorus
+
+Surface flow reed beds are characterised by the horizontal flow of wastewater
+between the roots of the plants. They are no longer used as much due to the
+land-area requirements to purify water for a single person (20 mÂ²), and the
+increased smell and poor purification in winter.[10]
+
+With subsurface flow reedbeds, the flow of wastewater occurs between the roots
+of the plants itself (and not at the water surface). As a result the system is
+more efficient, less odorous and less sensitive to winter conditions. Also,
+less area is needed to purify water for a single person (5-10 mÂ²). A downside
+to the system are the intakes, which can clog easily.[10]
+
+Vertical flow reed beds are very similar to subsurface flow reed beds
+(subsurface wastewater flow is present here as well), according comparable
+advantages in efficiency and winter hardiness. The wastewater is divided at
+the bottom with the assistance of a pump. Other than the 2 previous systems,
+this system makes almost exclusive use of fine sand to increase bacteria
+counts. Intake of oxygen into the water is also better, and pumping is pulsed
+to reduce obstructions within the intakes. Through the increased efficiency,
+only 3 mÂ² of space is needed to purify the water for one person.[10]
+
+### [edit] Plants/organisms used in treatment ponds in commercial undertakings
+
+See also: Organisms used in water purification
+
+Usually, Common reed or Phragmites australis are used in treatment ponds (eg
+in greywater treatment systems to purify wastewater). In self-purifying water
+reservoirs(used to purify rainwater) however, certain other plants are used as
+well. These reservoirs firstly need to be dimensioned to be filled with 1/4th
+of lavastone and water-purifying plants to purify a certain water
+quantity.[11]
+
+The water-purifying plants used include a wide variety of plants, depending on
+the local climate and geographical location. Plants are usually chosen which
+are indigenous in that location for ecological reasons and optimum workings of
+the system. In addition to water-purifying (de-nutrifying) plants, plants that
+supply oxygen, and shade are also added in to allow a complete ecosystem to
+form. Finally, in addition to plants, locally grown bacteria and non-predatory
+fish are also added to eliminate pests. The bacteria are usually grown locally
+by submerging straw in water and allowing it to form bacteria (arriving from
+the surrounding atmosphere). The plants used (placed on an area 1/4th of the
+water mass) are divided in 4 separate water depth-zones; knowingly:
+
+  1. A water-depth zone from 0-20cm; Iris pseudacorus, Sparganium erectum, ... may be placed here (temperate climates)
+  2. A water-depth zone from 40-60cm; Stratiotes aloides, Hydrocharis morsus-ranae, ... may be placed here (temperate climates)
+  3. A water-depth zone from 60-120cm; Nymphea alba, ... my be placed here (temperate climates)
+  4. A submerged water-depth zone; Myriophyllum spicatum, ... may be placed here (temperate climates)
+
+Finally, 3 types of (non-predatory) fish (surface; bottom and ground-swimmers)
+are chosen. This is to ensure that the fish may 'get along'. Examples of the 3
+types of fish (for temperate climates) are:
+
+  * Surface swimming fish: Leuciscus leuciscus, Leuciscus idus, Scardinius erythrophthalmus, ...
+  * Middle-swimmers: Rutilus rutilus, ...
+  * Bottom-swimming fish: Tinca tinca, ...
+
+The plants are usually grown on coconut fibre growing medium.[12] At the time
+of implantation to water-purifying ponds, de-nutrified soil is used to prevent
+the possible growth of algae and unwanted organisms.
+
+<IMG>
+
+<IMG>
+
+Flowforms in treatment pond in Norway
+
+## [edit] Finishing
+
+Finally, also worth mentioning are the hybrid systems. These are systems that
+for example aerate the water after the final reedbed using cascades such as
+Flowforms before holding the water in a shallow pond.[13] Also, primary
+treatments as septic tanks, and different types of pumps as grinder pumps may
+also be added.[14]
+
+## [edit] Literature citations
+
+  * Bhamidimarri, R. and A. Shilton and I. Armstrong and P. Jacobsen and D. Scarlet. 1991. Constructed wetlands for wastewater treatment: the New Zealand experience. Wat. Sci. Tech. 24:247-253.
+
+Bowmer, K.H. 1987. Nutrient removal from effluents by an artificial wetland:
+influence of rhizosphere aeration and preferential flow studied using bromide
+and dye tracers. Wat. Res. 21:591-599.
+
+Brix, H. and H. Schierup. 1989. Danish experience with sewage treatment in
+constructed wetlands. Pp.565-573. In Constructed wetlands for wastewater
+treatment. D.A. Hammer, ed. Lewis publishers, Chelsea, Michigan.
+
+Breen, P.F. 1990. A mass balance method for assessing the potential of
+artificial wetlands for wastewater treatment. Wat. Res. 24:689-697.
+
+Brix, Hans. 1994. Use of constructed wetlands in water pollution control:
+Historical development, present status, and future perspectives. Wat. Sci.
+Tech. Vol. 30 No. 8. pp. 209 - 223.
+
+Burgoon, P.S. and K.R. Reddy and T.A. DeBusk. 1989. Domestic wastewater
+treatment using emergent plants cultured in gravel and plastic substrates.
+Pp.536-541. In Constructed wetlands for wastewater treatment. D.A. Hammer, ed.
+Lewis publishers, Chelsea, Michigan.
+
+Burgoon, P.S. and K.R. Reddy and T.A. DeBusk. 1991. Vegetated submerged beds
+with artificial substrates. II: N and P removal. Journ of Env. Eng. 117 # 4
+:408 - 422.
+
+Burns, N.M. and C. Ross. 1972. Oxygen-nutrient relationships within the
+central basin of lake Erie. Pp.193-250. In Nutrients in natural waters. John
+Wiley and Sons, Toronto.
+
+Cole, C.V. and S.R. Olsen and C.O. Scott. 1953. The nature of phosphate
+sorption by calcium carbonate. Soil Sci. Soc. Amer. Proc. 410:352-356.
+
+Conway, T.E. and J. M. Murtha. 1989. The Iselin marsh pond meadow. Pp. 139-
+140. In Constructed wetlands for wastewater treatment. D.A. Hammer, ed. Lewis
+publishers, Chelsea, Michigan.
+
+Davies, T.H. and B.T. Hart. 1990. Use of aeration to promote nitrification in
+reed beds treating wastewater. Adv. Wat. Poll. Control. 11:77-84.
+
+Faulkner, S.P. and C.J. Richardson. 1989. Physical and chemical
+characteristics of freshwater wetland soils. Pp. 41-131. In Constructed
+wetlands for wastewater treatment. D.A. Hammer, ed. Lewis publishers, Chelsea,
+Michigan.
+
+Finlayson, M.C. and A.J. Chick. 1983. Testing the significance of aquatic
+plants to treat abattoir effluent. Wat. Res. 17:15-422.
+
+Fried, M. and L.A. Dean. 1955. Phosphate retention by iron and aluminum in
+cation exchange systems. Soil Sci. Soc. Amer. Proc. __: 143- 47.
+
+Gosselink, J.G. and R.E. Turner. 1978. The role of hydrology in freshwater
+wetland ecosystems. Pp.63-78. Freshwater wetlands, ecological processes and
+management potential. R.E. Good, and D.F. Whigham, R.L. Simpson, eds. Academic
+press, New York.
+
+Guntensbergen, G.R. and F. Stearns, and J.A. Kadlec. 1989. Wetland vegetation.
+Pp.73-88. In Constructed wetlands for wastewater treatment. D.A. Hammer, ed.
+Lewis publishers, Chelsea, Michigan.
+
+Hammer, D.A. 1992. Creating freshwater wetlands. Lewis publishers, Inc.
+Chelsea, MI. p. 298.
+
+Hammer, D.A. and R.K. Bastion. 1989. Wetlands ecosystems: Natural water
+purifiers? Pp.5-20. In Constructed wetlands for wastewater treatment. D.A.
+Hammer, ed. Lewis publishers, Chelsea, Michigan.
+
+Herskowitz, J. 1986. Listowell artificial marsh project report. Ontario
+Ministry of the Environment project no. 128 RR, p. 253.
+
+Hammer, D.A. and R.K. Bastian. Wetland ecosystems: Natural water purifiers?
+Pp. 5- 20. In Constructed wetlands for wastewater treatment. D.A. Hammer, ed.
+Lewis publishers, Chelsea, Michigan.
+
+Hsu, P.H. 1964. Adsorption of phosphate by aluminum and iron in soils. Soil
+Sci. Soc. Proc. 9:474-478.
+
+Jenssen, P.D., T. Maehlum, T. Zhu and W.S. Warner. 1992. Cold-climate
+constructed wetlands. JORDFORSK Centre for Soil and Environmental Research,
+N-1432 Aas, Norway.
+
+Kadlec, R.H. 1989. Hydrologic factors in wetland water treatment. Pp. 21- 40.
+In Constructed wetlands for wastewater treatment. D.A. Hammer, ed. Lewis
+publishers, Chelsea, Michigan.
+
+Kadlec, R. H. 1995. Wetland treatment at Listowel (revisited). unpublished.
+
+Klopatek, J.M. 1978. Nutrient dynamics of Freshwater Riverine marshes and the
+role of emergent macrophytes. Pp.195-217. In Freshwater wetlands, ecological
+processes and management potential. R.E. Good, and D.F. Whigham, R.L. Simpson,
+eds. Academic Press, New York.
+
+Kotz, J.C. and K.F. Purcell. 1987. Chemistry and chemical reactivity. CBS
+College Publishing. New York, N.Y.G1
+
+Kramer, J.R., and S.E. Herbes, and H.E. Allen. 1972. Phosphorus: analysis of
+water, biomass, and sediment. Pp.51-101. In Nutrients in natural waters. John
+Wiley and Sons, Toronto.
+
+Lantzke, I.R., D.S. Mitchell, A.D. Heritage and K.P. Sharma. 1999. A model
+controlling orthophosphate removal in planted vertical flow wetlands.
+Ecological Engineering. 12:93-105.
+
+Lemon, E. R. and I.D. Smith.1993. Sewage waste amendment marsh process
+(SWAMP). Interim report, October, 1993. Unpublished.
+
+Lemon, E.R., G. Bis., T Braybrook, L. Rozema and I. Smith. 1997. . Sewage
+waste amendment marsh process (SWAMP). Final report.
+
+Mann, R.A. 1990. Phosphorus removal by constructed wetlands: substratum
+adsorption. Adv Wat. Poll. Control. 11:97-105.
+
+Moss, B. 1988. Ecology of freshwater. Blackball Scientific Publishers, London.
+417p.
+
+Nichols, D.S. and D.H. Boelter. 1982. Treatment of secondary sewage with a
+peat-sand filter bed. J. Environ. Qual. Vol. 11, No. 1.
+
+Niering, W.A. 1988. Wetlands: Audubon society nature guide. Random House of
+Canada Limited. Toronto. p. 638.
+
+Ontario Ministry of the Environment. 1994. Storm water management practices
+planning and design manual. Queen's Printer for Ontario. O.B.C. - Ontario
+Building Code Act, S.O. 1992, c.23, Part 8, Sewage Systems pp. 8-14.
+
+Rozema, L.R. , G.N. Bis, T. Braybrook, E, R, Lemon and I. Smith. 1996.
+Retention of phosphorus in a Sub-surface flow constructed wetland. Presented
+at: The 31st central Canadian symposium on water pollution research,
+Burlington, Ontario.
+
+Reddy, K.R. and W.F. DeBusk. 1987. Nutrient storage capabilities of aquatic
+and wetland plants. In Aquatic plants for water treatment and resource
+recovery. K.R. Reddy and W.H. Smith (Eds.). Magnolia Publishing Inc.
+
+Reed, S.C. 1986. Wetlands as effluent treatment systems. Pp. 207-219. In
+Appropriate Wastewater Management Technologies for Rural Areas Under Adverse
+Conditions. Tech Press. Halifax, N.S.
+
+Reed, S.C. 1991. Constructed Wetlands for Wastewater Treatment. BioCycle,
+January:44-49.
+
+Reed, S.C. 1995. Natural systems for waste management and treatment. McGraw
+Hill, Inc.
+
+Reed, S.C. and D. Brown. 1995. Subsurface flow wetlands - a performance
+evaluation. Wat. Env. Res. 67:244 - 248.
+
+Rogers, K.H. and P.F. Breen, and A.J. Chick. 1991. Nitrogen removal in
+experimental wetland treatment systems: evidence for the role of aquatic
+plants. Res. J. Water Polit.. Control Fed. 63:934-941.
+
+Sah, R.N. and D. Mikkelson. 1986. Transformations of inorganic phosphorus
+during the flooding and draining cycles of soil. Am. J. Soil Soc.50: 62-67.
+
+Simpson, R.L. and D.F. Whigham. 1978. Seasonal patterns of nutrient movement
+in a freshwater tidal marsh. Pp.243-257. In Freshwater wetlands, ecological
+processes and management potential. R.E. Good, and D.F. Whigham, R.L. Simpson,
+eds. Academic Press, New York.
+
+Sloey, W.E. and F.L. Spangler, and C.W. Fetter, Jr. 1978. Management of
+freshwater wetlands For nutrient assimilation. Pp. 321-340. In Freshwater
+wetlands, ecological processes and management potential. R.E. Good, and D.F.
+Whigham, R.L. Simpson, eds. Academic Press, New York.
+
+Smith, I. G.N. Bis, E.R. Lemon and L.R. Rozema. 1997. A thermal analysis of a
+vertical flow constructed wetland. Wat. Sci. Tech. 35:55-62.
+
+Snell, D. 1990. Port Perry artificial marsh sewage treatment system.
+unpublished report.
+
+Steiner, R.S. and R.J. Freeman. Configuration and substrate design
+considerations for constructed wetlands wastewater treatment. Pp.363-377. In
+Constructed wetlands for wastewater treatment. D.A. Hammer, ed. Lewis
+Publishers, Chelsea, Michigan.
+
+Tanner, C. C., J. S. Clayton and M.P. Upsdell. 1995. Effect of loading rate
+and planting on treatment of dairy farm wastewaterâs in constructed wetlands
+- II. removal of nitrogen phosphorus. Wat. Res. 29:27-34.
+
+Thut, N.R. 1989. Utilisation of artificial marshes for treatment of pulp mill
+effluents, Pp.239-251. In Constructed wetlands for wastewater treatment. D.A.
+Hammer, ed. Lewis Publishers, Chelsea, Michigan.
+
+United States environmental protection agency. 1988. Design manual:
+constructed wetlands and aquatic plant systems for municipal wastewater
+treatment. EPA/625/1- 88/022. p. 83.
+
+Watson, J.T., and S.C. Reed, and R.H. Kadlec, and R.L. Knight, and A.E.
+Whitehouse. Performance expectations and loading rates for constructed
+wetlands. Pp.319-353. In Constructed wetlands for wastewater treatment. D.A.
+Hammer, ed. Lewis publishers, Chelsea, Michigan.
+
+Weber, L.R. 1990. Ontario soils. Physical, chemical and biological properties
+and soil management practices. By the Faculty and Staff of the Department of
+Land Resources Science. Ontario Agricultural College. University of Guelph.
+Guelph, Ontario. A reprint of Ontario Soils.
+
+Williams, J.D.H. and T. Mayer. 1972. Effects of sediment diagenesis and
+regeneration of phosphorus with special reference to lakes Erie and Ontario.
+Pp. 281-315. In Nutrients in natural waters. John Wiley and Sons, Toronto.
+
+## [edit] See also
+
+  * Biofilter
+  * Bioswale
+  * Ecological sanitation
+  * Folkewall
+  * John Todd (biologist)
+  * Reedbed
+  * Lava filter
+  * Beaver pond
+
+## [edit] References
+
+  1. ^ Hammer, 1989
+  2. ^ Brix and Schierup, 1989; Davies and Hart, 1990; Fried and Dean,1955; Sah and Mikkelson, 1986
+  3. ^ a b c d e f g h Patrick, W.H. Jr. and K.R. Reddy. 1976. Nitrification-denitrification in flooded soils and water bottoms: dependence on oxygen supply and ammonium diffusion. Journal of Environmental. Quality. 5:469-472.
+  4. ^ Mitsch & Gosselink, 1993
+  5. ^ Gray, N.F. 1989. Biology of wastewater treatment. Oxford University Press, New York. p. 828.
+  6. ^ a b c d e f g h Mitsch, J.W. and J.G. Gosselink. 1986. Wetlands. Van Nostrand Reinhold Company, New York. p. 536.
+  7. ^ a b c Wetzel, R.G. 1983. Limnology. Pp. 255-297. Saunders college publishing. Orlando, Florida.
+  8. ^ a b Bernard, J.M. and B.A. Solsky. 1976. Nutrient cycling in a Carex lacustris wetland. Can. J. Bot. 55:630-638.
+  9. ^ Lloyd R. Rozema, M.Sc. (excerpt form Master of Science thesis, Brock University, St. Catharines, ON, 2000)
+  10. ^ a b c d van Oirschot, Dion; Zaakvoerder RietLand, Poppel (2002-10-23) (in German). Certificering van plantenwaterzuiveringssystemen. http://www.certipro.be/docs/Certificering%20van%20plantenwaterzuiveringssystemen.pdf. Retrieved on 2008-06-18.
+  11. ^ "Lava Filters". http://www.stowa-selectedtechnologies.nl/Sheets/Sheets/Lava.Filters.html. Retrieved on 2008-06-18.
+  12. ^ Coconut growing medium used for water purifying plants
+  13. ^ [1] Reedbed and Flowform cascade polishing, Sheepdrove Organic Farm, England
+  14. ^ Pictures of hybrid reed bed systems
+
+  * University of Alaska Agriculture and Forestry Station (2005). "Wetlands and wastewater treatment in Alaska". Agroborealis 36 (2). http://www.uaf.edu/snras/afes/pubs/misc/MP_05_02.pdf.
+  * Cole, Stephen (1998). "The emergence of treatment wetlands". Environmental Science & Technology 32 (9): 218â223. http://pubs.acs.org/hotartcl/est/98/may/emer.html.
+  * Gelt, Joe (1997). "Constructed Wetlands: Using Human Ingenuity, Natural Processes to Treat Water, Build Habitat". ARROYO 9 (4). http://ag.arizona.edu/AZWATER/arroyo/094wet.html.
+
+## [edit] External links
+
+  * American Society of Professional Wetland Engineers a wiki on wetland restoration for habitat and treatment
+  * Aqua Treatment Technologies a Canadian company specializing in the design and installation of constructed wetlands, contains actual performance data and project descriptions.
+  * On-line constructed wetlands workshop moderated by Greg Gearheart and Bob Gearheart.
+  * Constructed Wetlands \- resources on the U.S. Environmental Protection Agencyâ site.
+  * Google Books - Creating Freshwater Wetlands by Donald A. Hammer
+  * [2] Constructed wetlands in Lake Macquarie, NSW, Australia.
+  * [3] Federal Park Wetlands, Annandale, NSW, Australia.
+  * [4] Whites Creek Wetland, Lilyfield NSW, Australia.
+  * Wetpark water treatment systems
+
+v â¢ d â¢ e
+
+Stormwater structures  
+Containment
+
+Biofilter Â· Constructed wetland Â· Detention basin Â· Dry well Â· Media
+filter Â· Retention basin Â· Stormwater detention vault  
+Flow control
+
+Flow control structure Â· Hydrodynamic separator Â· Storm drain  
+Infiltration
+
+Bioretention Â· Bioswale Â· Infiltration basin Â· Percolation trench Â·
+Permeable paving  
+Retrieved from "http://en.wikipedia.org/wiki/Constructed_wetland"
+
+Categories: Environmental engineering | Environmental soil science | Sewerage
+infrastructure | Water pollution | Wetlands
+
+Hidden categories: Articles with unsourced statements since April 2008 | All
+articles with unsourced statements
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+  * Nederlands
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 23 December 2008, at 13:49.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

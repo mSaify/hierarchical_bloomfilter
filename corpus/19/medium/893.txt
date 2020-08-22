@@ -1,0 +1,293 @@
+
+# OpenLDAP
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+OpenLDAP Software The OpenLDAP Logo  
+Developed by The OpenLDAP Project  
+Latest release 2.4.16 / 2009-04-05; 5 days ago  
+Written in C  
+Operating system Any  
+Platform Cross-platform  
+Type LDAP Directory service  
+License OpenLDAP Public License  
+Website http://www.openldap.org/  
+OpenLDAP Software is a free, open source implementation of the Lightweight
+Directory Access Protocol (LDAP) developed by the OpenLDAP Project. It is
+released under its own BSD-style license called the OpenLDAP Public
+License[1]. LDAP is a platform-independent protocol. Several common Linux
+distributions include OpenLDAP Software for LDAP support. The software also
+runs on BSD-variants, as well as AIX, HP-UX, Mac OS X, Solaris, Microsoft
+Windows (NT and derivatives, e.g. 2000, XP, Vista, etc.), and z/OS.
+
+## Contents
+
+  * 1 Project history and core team
+  * 2 Components of OpenLDAP Software
+  * 3 Backends
+    * 3.1 Overall Concept
+    * 3.2 Available Backends
+  * 4 Overlays
+    * 4.1 Overall Concept
+    * 4.2 Available Overlays
+  * 5 Release summary
+  * 6 See also
+  * 7 References
+  * 8 External links
+
+  
+## [edit] Project history and core team
+
+The OpenLDAP Project[2] was started in 1998 by Kurt Zeilenga[3]. The project
+started by cloning the LDAP reference source from the University Of Michigan
+where a long-running project had supported development and evolution of the
+LDAP protocol.
+
+As of April, 2006, the OpenLDAP Project has three Core Team members: Howard
+Chu (Chief Architect)[4], Pierangelo Masarati[5], and Kurt Zeilenga. There are
+numerous other important and active contributors including Luke Howard,
+Hallvard Furuseth, Quanah Gibson-Mount, and Gavin Henry.
+
+## [edit] Components of OpenLDAP Software
+
+OpenLDAP Software has three main components:
+
+  * slapd - stand-alone LDAP daemon and associated overlays and tools,
+  * libraries implementing the LDAP protocol, and
+  * clients software: ldapsearch, ldapadd, ldapdelete, and others
+
+Additionally, the OpenLDAP Project is home to a number of subprojects:
+
+  * JLDAP - LDAP class libraries for Java
+  * JDBC-LDAP - Java JDBC - LDAP Bridge driver
+  * ldapc++ - LDAP class libraries for C++
+
+## [edit] Backends
+
+### [edit] Overall Concept
+
+Historically the OpenLDAP server (slapd, the Standalone LDAP Daemon)
+architecture was split between a frontend which handles network access and
+protocol processing, and a backend which deals strictly with data storage. The
+architecture is modular and many different backends are available for
+interfacing to other technologies, not just traditional databases.
+
+Note: In older (1.x) releases, the terms "backend" and "database" were often
+used interchangeably. To be precise, a "backend" is a class of storage
+interface, and a "database" is an instance of a backend. The slapd server can
+use arbitrarily many backends at once, and can have arbitrarily many instances
+of each backend (i.e., arbitrarily many databases) active at once.
+
+### [edit] Available Backends
+
+Currently 16 different backends are provided in the OpenLDAP distribution, and
+various 3rd parties are known to maintain other backends independently. The
+standard backends are loosely organized into three different categories:
+
+  * Data Storage backends - these actually store data 
+    * back-bdb: the first transactional backend for OpenLDAP, built on BerkeleyDB
+    * back-hdb: a variant of back-bdb that is fully hierarchical and supports subtree renames
+    * back-ldif: built on plain text LDIF files
+    * back-ndb: a transactional backend built on MySQL's NDB cluster engine
+  * Proxy backends - these act as gateways to other data storage systems 
+    * back-ldap: simple proxy to other LDAP servers
+    * back-meta: proxy with meta-directory features
+    * back-passwd: uses a Unix system's passwd and group data
+    * back-relay: internally redirects to other slapd backends
+    * back-sql: talks to arbitrary SQL databases
+  * Dynamic backends - these generate data on the fly 
+    * back-config: slapd configuration via LDAP
+    * back-dnssrv: Locates LDAP servers via DNS
+    * back-monitor: slapd statistics via LDAP
+    * back-null: a sink/no-op backend, analogous to Unix /dev/null
+    * back-perl: invokes arbitrary perl modules in response to LDAP requests
+    * back-shell: invokes shell scripts for LDAP requests
+    * back-sock: forwards LDAP requests over IPC to arbitrary daemons
+
+Some backends available in older OpenLDAP releases have been retired from use,
+most notably back-ldbm which was inherited from the original UMich code, and
+back-tcl which was similar to back-perl and back-shell.
+
+In practice, backends like -perl, -shell, and -sock allow interfacing to any
+arbitrary programming language, thus providing limitless capabilities for
+customization and expansion. In effect the slapd server becomes an RPC engine
+with a compact, well-defined and ubiquitous API.
+
+## [edit] Overlays
+
+### [edit] Overall Concept
+
+Ordinarily an LDAP request is received by the frontend, decoded, and then
+passed to a backend for processing. When the backend completes a request, it
+returns a result to the frontend, which then sends the result to the LDAP
+client. An overlay is a piece of code that can be inserted between the
+frontend and the backend. It is thus able to intercept requests and trigger
+other actions on them before the backend receives them, and it can also
+likewise act on the backend's results before they reach the frontend. Overlays
+have complete access to the slapd internal APIs, and so can invoke anything
+the frontend or other backends could perform. Multiple overlays can be used at
+once, forming a stack of modules between the frontend and the backend.
+
+Overlays provide a simple means to augment the functionality of a database
+without requiring that an entirely new backend be written, and allow new
+functionalities to be added in compact, easily debuggable and maintainable
+modules. Since the introduction of the overlay feature in OpenLDAP 2.2 many
+new overlays have been contributed from the OpenLDAP community.
+
+### [edit] Available Overlays
+
+Currently there are 20 overlays in the core OpenLDAP distribution, with
+another 10 overlays in the user-contributed code section, and more awaiting
+approval for inclusion.
+
+  * The core overlays include: 
+    * accesslog: log server activity in another LDAP database, for LDAP-accessible logging
+    * auditlog: log server activity in a flat text file
+    * chain: intercept referrals and chain them instead; code is part of back-ldap
+    * collect: implement X.500-style collective attributes (aka Netscape Class Of Service)
+    * constraint: restrict the acceptable values for particular attributes
+    * dds: dynamic data service - short-lived, self-expiring entries
+    * deref: return information about entries referenced in a given search result
+    * dyngroup: simple dynamic group support
+    * dynlist: more sophisticated dynamic group support plus more
+    * memberof: support for memberOf and similar backlink attributes
+    * pcache: cache search results, mainly to improve performance for proxied servers
+    * ppolicy: LDAP Password Policy - password quality, expiration, etc.
+    * refint: referential integrity
+    * retcode: set predetermined return codes for various operations; used for client debugging
+    * rwm: rewrite module, for various alterations of LDAP data
+    * seqmod: serialize writes to individual entries
+    * syncprov: Syncrepl Provider, implements the master side of a replication agreement
+    * translucent: Semi-transparent pass-through, for locally augmenting data on a proxied server
+    * unique: for enforcing uniqueness of attribute values within a tree
+    * valsort: maintain various sort orders for values of an attribute
+
+  * The contrib overlays include: 
+    * addpartial: receive Add requests and turn them into Modifies if the target entry already exists
+    * allop: returns all operational attributes, for clients that don't know how to request them
+    * autogroup: dynamically managed static groups
+    * denyop: reject arbitrarily configured requests
+    * lastmod: maintain the timestamp of the last change within a tree
+    * nops: filter out redundant modifies
+    * nssov: Answer NSS requests directly in slapd, replaces nss-ldap.
+    * proxyOld: support an obsolete encoding of ProxyAuthz used by Sun et al
+    * smbk5pwd: Maintain Samba and Kerberos passwords
+    * trace: Log every LDAP request and response
+
+OpenLDAP also supports SLAPI, the plugin architecture used by Sun and
+Netscape/Fedora/RedHat. In current releases, the SLAPI framework is
+implemented inside a slapd overlay. While many plugins written for
+Sun/Netscape/Fedora/RedHat are compatible with OpenLDAP, very few members of
+the OpenLDAP community use SLAPI.
+
+## [edit] Release summary
+
+The major (functional) releases of OpenLDAP Software include:
+
+  * OpenLDAP Version 1 was a general clean-up of the last release from the University of Michigan project (release 3.3), and consolidation of additional changes.
+  * OpenLDAP Version 2.0, released in August, 2000, included major enhancements including LDAP version 3 (LDAPv3) support, Internet Protocol version 6 (IPv6) support, and numerous other enhancements.
+  * OpenLDAP Version 2.1, released in June, 2002, included the transactional database backend (based on Berkeley Database or BDB), Simple Authentication and Security Layer (SASL) support, and Meta, Monitor, and Virtual experimental backends.
+  * OpenLDAP Version 2.2, released in December, 2003, included the LDAP "sync" Engine with replication support (syncrepl), the overlay interface, and numerous database and RFC-related functional enhancements.
+  * OpenLDAP Version 2.3, released in June, 2005, included the Configuration Backend (dynamic configuration), additional overlays including RFC-compliant Password Policy software, and numerous additional enhancements.
+  * OpenLDAP Version 2.4, released in October[6], 2007, introduced N-way MultiMaster replication, Stand-by master, and the ability to delete and modify Schema elements on the fly, plus many more[6].
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * List of LDAP software
+
+## [edit] References
+
+  1. ^ http://www.openldap.org/software/release/license.html
+  2. ^ http://www.openldap.org/project
+  3. ^ http://www.openldap.org/project/kurt
+  4. ^ http://www.highlandsun.com/hyc
+  5. ^ http://www.sys-net.it/~ando
+  6. ^ a b http://www.openldap.org/lists/openldap-announce/200710/msg00002.html
+
+## [edit] External links
+
+  * The OpenLDAP website
+  * The OpenLDAP Project
+  * The OpenLDAP Foundation
+  * OpenLDAP Software
+  * OpenLDAP Public License
+  * Using libldap, A tutorial on the OpenLDAP client API
+  * An OpenLDAP Update article by Marty Heyman 09/13/2007
+
+Retrieved from "http://en.wikipedia.org/wiki/OpenLDAP"
+
+Categories: Identity management systems | Free software | Free software
+programmed in C | Cross-platform software
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * âªNorsk (bokmÃ¥l)â¬
+  * Nederlands
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 April 2009, at 19:28 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

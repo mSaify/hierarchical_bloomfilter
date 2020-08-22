@@ -1,0 +1,249 @@
+
+# Apple Lossless
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Apple Lossless Filename extension `.m4a`  
+Developed by Apple Inc.  
+Type of format Lossless audio file format  
+Contained by MPEG-4 Part 14  
+Apple Lossless (also known as Apple Lossless Encoder, ALE, or Apple Lossless
+Audio Codec, ALAC) is an audio codec developed by Apple Inc. for lossless data
+compression of digital music.
+
+Apple Lossless data is stored within an MP4 container with the filename
+extension .m4a. It is not a variant of AAC, but uses linear prediction similar
+to other lossless codecs such as FLAC and Shorten.[1] All current iPod players
+can play Apple Lossless-encoded files. It does not utilize any digital rights
+management (DRM) scheme, but by the nature of the container, it is thought
+that DRM could be applied to ALAC much the same way it can with other files in
+QuickTime containers.
+
+Apple claims that audio files compressed with its lossless codec will use up
+"about half the storage space" that the uncompressed data would require.
+Testers using a selection of music have found that compressed files are about
+40% to 60% the size of the originals depending on the kind of music, similar
+to other lossless formats. Furthermore, the speed at which it can be decoded
+makes it useful for a limited-power device such as the iPod.[2]
+
+The Apple Lossless Encoder was introduced as a component of QuickTime 6.5.1 on
+April 28, 2004 and thus as a feature of iTunes 4.5 and above. The codec is
+also used in the AirPort Express's AirTunes implementation.
+
+## Contents
+
+  * 1 Alternate players
+  * 2 References
+  * 3 See also
+  * 4 External links
+
+  
+## [edit] Alternate players
+
+David Hammerton and Cody Brocious have analyzed and decoded this codec without
+any documents on the format. On March 5, 2005 Hammerton published a simple
+open source decoder in the programming language C on the basis of the reverse
+engineering work.
+
+The open source library libavcodec now incorporates both a decoder and an
+encoder for Apple Lossless format which means that media players based on that
+library, including VLC media player and MPlayer, are able to play Apple
+Lossless files.
+
+## [edit] References
+
+  1. ^ Hammerton, David (2005-03-01). "Re: Apple Lossless Audio Codec: Issues surrounding the release of my code?". Gmane. http://article.gmane.org/gmane.comp.video.ffmpeg.devel/19686. Retrieved on 2006-11-05.
+  2. ^ Speek (2005-02-07). "Performance comparison of lossless audio compressors". http://members.home.nl/w.speek/comparison.htm. Retrieved on 2006-11-05.
+
+## [edit] See also
+
+  * Comparison of audio codecs
+  * TTA
+  * Monkey's Audio
+  * WavPack
+  * WMA Lossless
+
+## [edit] External links
+
+  * Apple - iTunes - Import
+  * Open Source Decoder
+  * Win32 port of the Open Source ALAC Decoder
+  * Comparison of lossless codecs
+
+v â¢ d â¢ e
+
+Multimedia compression formats  
+Video compression
+
+ISO/IEC
+
+MJPEG Â· Motion JPEG 2000 Â· MPEG-1 Â· MPEG-2 Â· MPEG-4 ASP Â· MPEG-4/AVC  
+ITU-T
+
+H.120 Â· H.261 Â· H.262 Â· H.263 Â· H.264  
+Others
+
+AMV Â· AVS Â· Bink Â· Dirac Â· Indeo Â· Pixlet Â· RealVideo Â· RTVideo Â·
+SheerVideo Â· Smacker Â· Theora Â· VC-1 Â· VP6 Â· VP7 Â· VP8 Â· WMV Â· XVD  
+Audio compression
+
+ISO/IEC
+
+MPEG-1 Layer III (MP3) Â· MPEG-1 Layer II Â· MPEG-1 Layer I Â· AAC Â· HE-AAC  
+ITU-T
+
+G.711 Â· G.718 Â· G.719 Â· G.722 Â· G.722.1 Â· G.722.2 Â· G.723 Â· G.723.1 Â·
+G.726 Â· G.728 Â· G.729 Â· G.729.1 Â· G.729a  
+Others
+
+AC3 Â· AMR Â· Apple Lossless Â· ATRAC Â· FLAC Â· iLBC Â· Monkey's Audio Â· Î¼-
+law Â· Musepack Â· Nellymoser Â· OptimFROG Â· RealAudio Â· RTAudio Â· SHN Â·
+Siren Â· Speex Â· Vorbis Â· WavPack Â· WMA Â· TAK Â· True Audio  
+Image compression
+
+ISO/IEC/ITU-T
+
+JPEG Â· JPEG 2000 Â· lossless JPEG Â· JBIG Â· JBIG2 Â· PNG Â· WBMP  
+Others
+
+APNG Â· BMP Â· EXR Â· GIF Â· ICER Â· ILBM Â· MNG Â· PCX Â· PGF Â· TGA Â· TIFF
+Â· JPEG XR / HD Photo  
+Media containers
+
+General
+
+3GP Â· ASF Â· AVI Â· Bink Â· BXF Â· DMF Â· DPX Â· EVO Â· FLV Â· Matroska Â·
+MPEG-PS Â· MPEG-TS Â· MP4 Â· MXF Â· Ogg Â· Ogg Media Â· QuickTime Â· RealMedia
+Â· Smacker Â· RIFF Â· VOB  
+Audio only
+
+AIFF Â· AU Â· WAV  
+See Compression Methods for methods and Compression Software Implementations
+for codecs  
+v â¢ d â¢ e
+
+Data compression software implementations  
+Video compression  
+(Comparison)
+
+MPEG-4 ASP
+
+3ivx Â· DivX Â· Nero Digital Â· FFmpeg MPEG-4 Â· HDX4 Â· Xvid  
+H.264/MPEG-4 AVC
+
+CoreAVC Â· DivX H.264 Â· Nero Digital AVC Â· QuickTime H.264 Â· x264  
+Lossless
+
+CorePNG Â· FFV1 Â· Huffyuv Â· Lagarith Â· MSU Lossless Â· SheerVideo  
+Others
+
+Dirac Â· Indeo Â· Sorenson Â· Snow Â· VP7 Â· libtheora Â· WMV  
+Audio compression  
+(Comparison)
+
+General
+
+Musepack  
+Lossless
+
+FLAC Â· Monkey's Audio Â· OptimFROG Â· TTA Â· libvorbis Â· WavPack Â· WMA  
+Archivers  
+(Comparison)
+
+Free software
+
+bzip2 Â· gzip Â· compress Â· 7-Zip Â· Info-ZIP Â· KGB Archiver Â· PeaZip Â·
+The Unarchiver Â· File Roller Â· Ark Â· Xarchiver  
+Freeware
+
+7zX Â· DGCA Â· Filzip Â· IZArc Â· StuffIt Expander Â· TUGZip Â· Zipeg Â·
+ZipGenius Â· WinUHA  
+Proprietary
+
+ALZip Â· Archive Utility Â· MacBinary Â· PowerArchiver Â· Squeez Â· StuffIt Â·
+WinAce Â· WinRAR Â· WinZip  
+Command line
+
+ARC Â· ARJ Â· JAR Â· Info-ZIP Â· LHA Â· lzop Â· PAQ Â· PKZIP Â· RAR Â· SBC Â·
+UPX Â· UHarc Â· tar  
+See Compression Methods for methods and Compression Formats and Standards for
+formats  
+Retrieved from "http://en.wikipedia.org/wiki/Apple_Lossless"
+
+Categories: Lossless audio codecs
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * æ¥æ¬èª
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Svenska
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 24 March 2009, at 11:17.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

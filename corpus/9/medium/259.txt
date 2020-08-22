@@ -1,0 +1,447 @@
+
+# Astrolabe
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For other uses, see Astrolabe (disambiguation).
+
+<IMG>
+
+<IMG>
+
+A 16th century astrolabe, showing a tulip rete and rule.
+
+An astrolabe is a historical astronomical instrument used by classical
+astronomers, navigators, and astrologers. Its many uses include locating and
+predicting the positions of the Sun, Moon, planets, and stars; determining
+local time given local latitude and vice-versa; surveying; and triangulation.
+
+In the medieval Islamic world, they were used primarily for astronomical
+studies, as well as in other areas as diverse as astrology, navigation,
+surveying, timekeeping, Salah prayers, and Qibla. Astrologers of the European
+nations used astrolabes to construct horoscopes.
+
+There is often confusion between the astrolabe and the mariner's astrolabe.
+While the astrolabe could be useful for determining latitude on land, it was
+an awkward instrument for use on the heaving deck of a ship or in wind. The
+mariner's astrolabe was developed to address these issues.
+
+## Contents
+
+  * 1 A Brief History
+    * 1.1 Astrolabes and clocks
+  * 2 Construction
+  * 3 See also
+  * 4 Notes
+  * 5 References
+  * 6 External links
+
+  
+## [edit] A Brief History
+
+File:Ms1186 astrolabe.jpan astrolab is a franco perazzo g
+
+Three Capetian French scholars consulting an astrolabe, ca. AD 1200
+
+<IMG>
+
+<IMG>
+
+A Persian (Iranian) astrolabe from 1208
+
+<IMG>
+
+<IMG>
+
+The spherical astrolabe from medieval Islamic astronomy.
+
+<IMG>
+
+<IMG>
+
+A Treatise on the astrolabe by Nasir al-Din al-Tusi, Isfahan 1505
+
+An early rudimentary astrolabe was invented in the Hellenistic world in either
+the first or second centuries BC and is often attributed to Hipparchus. A
+marriage of the planisphere and dioptra, the astrolabe was effectively an
+analog calculator capable of working out several different kinds of problems
+in spherical astronomy. Theon of Alexandria wrote a detailed treatise on the
+astrolabe, and Lewis (2001) argues that Ptolemy used an astrolabe to make the
+astronomical observations recorded in the Tetrabiblos.[1]
+
+Brass astrolabes (Arabic: Ø§Ø³Ø·Ø±ÙØ§Ø¨ asterlab, ostorlabâ) were developed
+in the medieval Islamic world, chiefly as an aid to navigation and as a way of
+finding the qibla, the direction of Mecca. The first person credited with
+building the astrolabe in the Islamic world is reportedly the eighth century
+mathematician, Muhammad al-Fazari.[2] The mathematical background was
+established by the Arab astronomer, Muhammad ibn JÄbir al-HarrÄnÄ« al-
+BattÄnÄ« (Albatenius), in his treatise Kitab az-Zij (ca. 920 AD), which was
+translated into Latin by Plato Tiburtinus (De Motu Stellarum). The earliest
+surviving astrolabe is dated AH 315 (927/8 AD). In the Islamic world,
+astrolabes were used to find the times of sunrise and the rising of fixed
+stars, to help schedule morning prayers (salat). In the 10th century, al-Sufi
+first described over 1,000 different uses of an astrolabe, in areas as diverse
+as astronomy, astrology, horoscopes, navigation, surveying, timekeeping,
+prayer, Salah, Qibla, etc.[3]
+
+AbÅ« IshÄq IbrÄhÄ«m al-ZarqÄlÄ« (Arzachel) of Al-Andalus constructed the
+first universal astrolabe instrument which, unlike its predecessors, did not
+depend on the latitude of the observer, and could be used from anywhere on the
+Earth. This instrument became known in Europe as the "Saphaea". The astrolabe
+was introduced to other parts of Europe via Al-Andalus in the 11th century.[4]
+Early Christian recipients of Arab astronomy included Gerbert of Aurillac and
+Hermannus Contractus.
+
+The spherical astrolabe, a variation of both the astrolabe and the armillary
+sphere, was invented during the Middle Ages by astronomers and inventors in
+the Islamic world.[5] The earliest description of the spherical astrolabe
+dates back to Al-Nayrizi (fl. 892-902). In the 12th century, Sharaf al-DÄ«n
+al-TÅ«sÄ« invented the linear astrolabe, sometimes called the "staff of al-
+Tusi", which was "a simple wooden rod with graduated markings but without
+sights. It was furnished with a plumb line and a double chord for making
+angular measurements and bore a perforated pointer."[6] The first geared
+mechanical astrolabe was later invented by Abi Bakr of Isfahan in 1235.[7]
+
+Peter of Maricourt in the last half of the thirteenth century also wrote a
+treatise on the construction and use of a universal astrolabe (Nova compositio
+astrolabii particularis). However, given the complicated nature of the
+instrument, it is highly unlikely that any were actually constructed; at least
+none survive.
+
+The English author Geoffrey Chaucer (ca. 1343â1400) compiled a treatise on
+the astrolabe for his son, mainly based on Messahalla. The same source was
+translated by the French astronomer and astrologer Pelerin de Prusse and
+others. The first printed book on the astrolabe was Composition and Use of
+Astrolabe by Cristannus de Prachaticz, also using Messahalla, but relatively
+original.
+
+In 1370, the first Indian treatise on the astrolabe was written by the Jain
+astronomer Mahendra Suri.[8]
+
+The first known European metal astrolabe was developed in the fifteenth
+century by Rabbi Abraham Zacuto in Lisbon. Metal astrolabes improved on the
+accuracy of their wooden precursors. In the fifteenth century, the French
+instrument-maker Jean Fusoris (ca. 1365â1436) also started selling
+astrolabes in his shop in Paris, along with portable sundials and other
+popular scientific gadgets of the day.
+
+In the 16th century, Johannes StÃ¶ffler published Elucidatio fabricae ususque
+astrolabii, a manual of the construction and use of the astrolabe. Four
+identical 16th century astrolabes made by Georg Hartmann provide some of the
+earliest evidence for batch production by division of labor.
+
+### [edit] Astrolabes and clocks
+
+At first mechanical astronomical clocks were influenced by the astrolabe; in
+many ways they could be seen as clockwork astrolabes designed to produce a
+continual display of the current position of the sun, stars, and planets. Ibn
+al-Shatir constructed the earliest astrolabic clock in the early 14th
+century.[9] At around the same time, Richard of Wallingford's clock (c. 1330)
+consisted essentially of a star map rotating behind a fixed rete, similar to
+that of an astrolabe.[10]
+
+Many astronomical clocks, such as the famous clock at Prague, use an
+astrolabe-style display, adopting a stereographic projection (see below) of
+the ecliptic plane.
+
+In 1985 Swiss watchmaker Dr. Ludwig Oechslin designed and built an astrolabe
+wristwatch in conjunction with Ulysse Nardin.
+
+## [edit] Construction
+
+<IMG>
+
+<IMG>
+
+The Hartmann astrolabe in Yale's collection. This beautiful instrument shows
+its rete and rule.
+
+An astrolabe consists of a hollow disk, called the mater (mother), which is
+deep enough to hold one or more flat plates called tympans, or climates. A
+tympan is made for a specific latitude and is engraved with a stereographic
+projection of circular lines of equal azimuth and altitude representing the
+portion of the celestial sphere which is above the local horizon. The rim of
+the mater is typically graduated into hours of time, or degrees of arc, or
+both. Above the mater and tympan, the rete, a framework bearing a projection
+of the ecliptic plane and several pointers indicating the positions of the
+brightest stars, is free to rotate. Some astrolabes have a narrow rule or
+label which rotates over the rete, and may be marked with a scale of
+declinations.
+
+The rete, representing the sky, has the function of a star chart. When it is
+rotated, the stars and the ecliptic move over the projection of the
+coordinates on the tympan. A complete rotation represents the passage of one
+day. The astrolabe is therefore a predecessor of the modern planisphere.
+
+On the back of the mater there will often be engraved a number of scales which
+are useful in the astrolabe's various applications; these will vary from
+designer to designer, but might include curves for time conversions, a
+calendar for converting the day of the month to the sun's position on the
+ecliptic, trigonometric scales, and a graduation of 360 degrees around the
+back edge. The alidade is attached to the back face. An alidade can be seen in
+the lower right illustration of the Persion astrolabe above. When the
+astrolabe is held vertically, the alidade can be rotated and a star sighted
+along its length, so that the star's altitude in degrees can be read ("taken")
+from the graduated edge of the astrolabe; hence "astro" = star + "labe" = to
+take.
+
+## [edit] See also
+
+Sister project Wikimedia Commons has media related to: Astrolabe  
+  * Antikythera mechanism
+  * Armillary sphere
+  * Astrarium
+  * Astronomical clock
+  * Cosmolabe
+  * Equatorium
+  * Islamic astronomy
+  * Orrery
+  * Planetarium
+  * Prague Orloj
+  * Sextant (astronomical)
+  * Sharafeddin Tusi, the inventor of the linear astrolabe
+  * Torquetum
+
+## [edit] Notes
+
+  1. ^ Evans (1998:155) "The astrolabe was in fact an invention of the ancient Greeks."  
+Krebs & Krebs (2003:56) "It is generally accepted that Greek astrologers, in
+either the first or second centuries BC, invented the astrolabe, an instrument
+that measures the altitude of stars and planets above the horizon. Some
+historians attribute its invention to Hipparchus"
+
+  2. ^ Richard Nelson Frye: Golden Age of Persia. p. 163
+  3. ^ Dr. Emily Winterburn (National Maritime Museum), Using an Astrolabe, Foundation for Science Technology and Civilisation, 2005.
+  4. ^ M. T. Houtsma and E. van Donzel (1993), E. J. Brill's First Encyclopaedia of Islam, Brill Publishers, ISBN 9004082654
+  5. ^ Emilie Savage-Smith (1993). "Book Reviews", Journal of Islamic Studies 4 (2), p. 296-299. 
+> "There is no evidence for the Hellenistic origin of the spherical astrolabe,
+but rather evidence so far available suggests that it may have been an early
+but distinctly Islamic development with no Greek antecedents."
+
+  6. ^ O'Connor, John J.; Robertson, Edmund F., "Sharaf al-Din al-Muzaffar al-Tusi", MacTutor History of Mathematics archive
+  7. ^ Silvio A. Bedini, Francis R. Maddison (1966). "Mechanical Universe: The Astrarium of Giovanni de' Dondi", Transactions of the American Philosophical Society 56 (5), p. 1-69.
+  8. ^ Glick et al., eds. (2005). Medieval Science, Technology, and Medicine: An Encyclopedia. Routledge. pp. 464\. ISBN 0415969301.
+  9. ^ David A. King (1983). "The Astronomy of the Mamluks", Isis 74 (4), p. 531-555 [545-546].
+  10. ^ John David North, "God's Clockmaker: Richard of Wallingford and the Invention of Time", Continuum International Publishing Group, 2005, ISBN 978-1852854515
+
+## [edit] References
+
+  * Evans, James (1998), The History and Practice of Ancient Astronomy, Oxford University Press, ISBN 0195095391 .
+
+  * Alessandro Gunella and John Lamprey, Stoeffler's Elucidatio (translation of Elucidatio fabricae ususque astrolabii into English). Published by John Lamprey, 2007. lamprey@frii.com
+
+  * Krebs, Robert E.; Krebs, Carolyn A. (2003), Groundbreaking Scientific Experiments, Inventions, and Discoveries of the Ancient World, Greenwood Press .
+
+  * Lewis, M. J. T. (2001), Surveying Instruments of Greece and Rome, Cambridge University Press .
+
+  * John North. God's Clockmaker, Richard of Wallingford and the invention of time. Hambledon and London, 2005.
+
+  * Critical edition of Pelerin de Prusse on the Astrolabe (translation of Practique de Astralabe). Editors Edgar Laird, Robert Fischer. Binghamton, New York, 1995, in Medieval & Renaissance Texts & Studies. ISBN 0-86698-132-2
+
+  * King, Henry Geared to the Stars: the evolution of planetariums, orreries, and astronomical clocks University of Toronto Press, 1978
+
+## [edit] External links
+
+  * The Astrolabe
+  * Keith's Astrolabe, a software astrolabe simulator and tutorial written in Java
+  * A working model of the Dr. Ludwig Oechslin's Astrolabium Galileo Galilei watch
+  * Ulysse Nardin Astrolabium Galilei Galileo: A Detailed Explanation
+  * Fully illustrated online catalogue of world's largest collection of astrolabes
+  * Gerbert d'Aurillac's use of the Astrolabe at Convergence
+
+v â¢ d â¢ e
+
+Islamic astronomy  
+Astronomers
+
+Abd al-Rahman al-Sufi Â· AbÅ« al-WafÄ' al-BÅ«zjÄnÄ« Â· AbÅ« IshÄq IbrÄhÄ«m
+al-ZarqÄlÄ« Â· AbÅ« Ja'far al-KhÄzin Â· Abu-Mahmud al-Khujandi Â· Abu Nasr
+Mansur Â· AbÅ« RayhÄn al-BÄ«rÅ«nÄ« Â· AbÅ« Sahl al-QÅ«hÄ« Â· Ahmed ibn Yusuf
+Â· Al-Birjandi Â· Al-Ghazali Â· Al-HajjÄj ibn YÅ«suf ibn Matar Â· Al-Khazini
+Â· Al-Kindi Â· Al-Mahani Â· Al-Nayrizi Â· Al-Saghani Â· Al-Sijzi Â· Ali
+KuÅÃ§u Â· Avicenna Â· BanÅ« MÅ«sÄ Â· Brethren of Purity Â· Ibn al-Banna al-
+Marrakushi Â· Ibn al-Haytham Â· Ibn al-Shatir Â· Ibn YahyÄ al-MaghribÄ« al-
+Samaw'al Â· Ibn Yunus Â· Ibrahim ibn Sinan Â· Ja'far al-Sadiq Â· JamshÄ«d al-
+KÄshÄ« Â· KamÄl al-DÄ«n al-FÄrisÄ« Â· Kushyar ibn Labban Â· Muhammad ibn
+JÄbir al-HarrÄnÄ« al-BattÄnÄ« Â· Muhammad ibn MÅ«sÄ al-KhwÄrizmÄ« Â·
+Muhyi al-DÄ«n al-MaghribÄ« Â· NasÄ«r al-DÄ«n al-TÅ«sÄ« Â· Omar KhayyÃ¡m Â·
+QÄá¸Ä« ZÄda al-RÅ«mÄ« Â· Shams al-DÄ«n AbÅ« Abd AllÄh al-KhalÄ«lÄ« Â·
+Shams al-DÄ«n al-SamarqandÄ« Â· Sharaf al-DÄ«n al-TÅ«sÄ« Â· Sinan ibn Thabit
+Â· Taqi al-Din Â· ThÄbit ibn Qurra Â· Ulugh Beg Â· Zakariya al-Qazwini  
+Works
+
+'Aja'ib al-makhluqat wa-ghara'ib al-mawjudat Â· Almanac Â· Arabic star names
+Â· Book of Optics Â· Encyclopedia of the Brethren of Purity Â· Star chart Â·
+Tabula Rogeriana Â· The Book of Healing Â· Zij (Astronomical catalog Â· Book
+of Fixed Stars Â· Star catalogue Â· Tables of Toledo Â· Trigonometry table Â·
+Zij-i Ilkhani Â· Zij-i-Sultani)  
+Instruments
+
+Alidade Â· Analog computer Â· Aperture Â· Armillary sphere Â· Astrolabe Â·
+Astronomical clock Â· Celestial globe Â· Compass Â· Compass dial Â· Compass
+rose Â· Dioptra Â· Equatorial ring Â· Equitorium Â· Globe Â· Graph paper Â·
+Magnifying glass Â· Mural instrument Â· Navigational astrolabe Â· Nebula Â·
+Planisphere Â· Quadrant Â· Sextant Â· Spherical astrolabe Â· Sundial Â·
+Telescope Â· Triquetrum  
+Concepts
+
+Almucantar Â· Apogee Â· Astrophysics Â· Azimuth Â· Celestial mechanics Â·
+Celestial spheres Â· Circular orbit Â· Deferent and epicycle Â· Earth's
+rotation Â· Eccentricity Â· Ecliptic Â· Elliptic orbit Â· Equant Â· Galaxy Â·
+Geocentrism Â· Gravitational potential energy Â· Gravity Â· Heliocentrism Â·
+Inertia Â· Islamic astrology Â· Moonlight Â· Obliquity Â· Parallax Â·
+Precession Â· Qibla Â· Specific gravity Â· Spherical Earth Â· Starlight Â·
+Sublunary sphere Â· Sunlight Â· Supernova Â· Temporal finitism Â· Trepidation
+Â· Triangulation Â· Tusi-couple  
+Centers
+
+Al-Azhar University Â· House of Knowledge Â· House of Wisdom Â· Istanbul
+observatory of Taqi al-Din Â· Observatory Â· Madrasah Â· Maragheh observatory
+Â· Research institute Â· University of Al-Karaouine  
+Influences
+
+Babylonian astronomy Â· Hellenistic astronomy Â· Indian astronomy  
+Influenced
+
+Byzantine astronomy Â· Chinese astronomy Â· European astronomy Â· Indian
+astronomy  
+v â¢ d â¢ e
+
+Greek astronomy  
+Astronomers
+
+Acoreus Â· Aglaonike Â· Agrippa Â· Anaximander Â· Andronicus Â· Apollonius Â·
+Aratus Â· Aristarchus Â· Aristillus Â· Attalus Â· Autolycus Â· Bion Â·
+Callippus Â· Cleomedes Â· Cleostratus Â· Conon Â· Eratosthenes Â· Euctemon Â·
+Eudoxus Â· Geminus Â· Heraclides Â· Hicetas Â· Hipparchus Â· Hippocrates of
+Chios Â· Hypsicles Â· Menelaus Â· Meton Â· Oenopides Â· Philip of Opus Â·
+Philolaus Â· Posidonius Â· Ptolemy Â· Pytheas Â· Seleucus Â· Sosigenes of
+Alexandria Â· Sosigenes the Peripatetic Â· Strabo Â· Thales Â· Theodosius Â·
+Theon of Alexandria Â· Theon of Smyrna Â· Timocharis  
+Works
+
+Almagest Â· On Sizes and Distances (Hipparchus) Â· On the Sizes and Distances
+(Aristarchus) Â· On the Heavens (Aristotle)  
+Instruments
+
+Antikythera mechanism Â· Armillary sphere Â· Astrolabe Â· Dioptra Â·
+Equatorial ring Â· Gnomon Â· Mural quadrant Â· Triquetrum  
+Concepts
+
+Callippic cycle Â· Celestial spheres Â· Circle of latitude Â· Counter-Earth Â·
+Deferent and epicycle Â· Equant Â· Geocentrism Â· Heliocentrism Â· Hipparchic
+cycle Â· Metonic cycle Â· Octaeteris Â· Solstice Â· Spherical Earth Â·
+Sublunary sphere Â· Zodiac  
+Influences
+
+Babylonian astronomy Â· Egyptian astronomy  
+Influenced
+
+European astronomy Â· Indian astronomy Â· Islamic astronomy  
+Retrieved from "http://en.wikipedia.org/wiki/Astrolabe"
+
+Categories: Ancient Greek astronomy | History of astronomy | History of
+astrology | Astrometry | Astronomical instruments | Navigational equipment |
+Mechanical calculators | Scientific equipment | Historical scientific
+instruments | Analog computers
+
+Hidden categories: Articles containing Arabic language text
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Asturianu
+  * AzÉrbaycan
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Galego
+  * Hrvatski
+  * Ido
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Srpskohrvatski / Ð¡ÑÐ¿ÑÐºÐ¾Ñ ÑÐ²Ð°ÑÑÐºÐ¸
+  * Suomi
+  * Svenska
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 04:21.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

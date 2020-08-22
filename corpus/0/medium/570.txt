@@ -1,0 +1,325 @@
+
+# F-test
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article may require cleanup to meet Wikipedia's quality standards. Please
+improve this article if you can. (April 2008)  
+<IMG>
+
+This article is in need of attention from an expert on the subject.
+WikiProject Statistics or the Statistics Portal may be able to help recruit
+one. (November 2008)  
+An F-test is any statistical test in which the test statistic has an
+F-distribution if the null hypothesis is true. The name was coined by George
+W. Snedecor, in honour of Sir Ronald A. Fisher. Fisher initially developed the
+statistic as the variance ratio in the 1920s.[1] Examples include:
+
+  * The hypothesis that the means of multiple normally distributed populations, all having the same standard deviation, are equal. This is perhaps the most well-known of hypotheses tested by means of an F-test, and the simplest problem in the analysis of variance (ANOVA).
+
+  * The hypothesis that a proposed regression model fits well. See Lack-of-fit sum of squares.
+
+  * The hypothesis that the standard deviations of two normally distributed populations are equal, and thus that they are of comparable origin.
+
+Note that if it is equality of variances (or standard deviations) that is
+being tested, the F-test is extremely non-robust to non-normality. That is,
+even if the data displays only modest departures from the normal distribution,
+the test is unreliable and should not be used.
+
+## Contents
+
+  * 1 Formula and calculation
+  * 2 Table on F-test
+  * 3 One-way ANOVA example
+  * 4 Footnotes
+  * 5 References
+
+  
+## [edit] Formula and calculation
+
+The value of the test statistic used in an F-test consists of the ratio two
+different estimates of quantities which are the same according to the null
+hypothesis being tested. If the null hypothesis were true and if estimated
+values were not being used, this ratio would have a value of 1: however,
+because estimated values are used, F would sometimes be above or below 1. If
+the null hypothesis is not true the ratio would be rather different from 1. In
+the usual applications, statistical modelling assumptions are made founded on
+using the normal distribution to describe random errors and the estimates used
+in the ratio are statistically independent but are typically derived from the
+same data set.
+
+In the case of multiple-comparison ANOVA problems, the F-test is used to test
+if the variance measuring the differences between groups in a certain pre-
+defined grouping of observations is large compared to the variance measuring
+the differences within the groups: a large value would tend to suggest that
+grouping is good or valid in some sense, or that there are real differences
+between the groups. The formula for an F-test is:
+
+    F = \\frac{\\left\(\\text{explained variance}\\right\)}{\\left\(\\text{unexplained variance} \\right\)} ,
+or:
+
+    F = \\frac{\\left\(\\text{between-group variability}\\right\)}{\\left\(\\text{within-group variability} \\right\)} ,
+where the quantities on the top and bottom of this ratio are each unbiased
+estimates of the within-group variance on the assumption that the between
+group variance is zero. Note that when there are only two groups for the
+F-test,
+
+    F = t^2 \\, ,
+where t is the Student's t statistic.
+
+In the case of regression: consider two models, 1 and 2, where model 1 is
+nested within model 2. That is, model 1 has p1 parameters, and model 2 has p2
+parameters, where p2 > p1. (Any constant parameter in the model is included
+when counting the parameters. For instance, the simple linear model y = mx + b
+has p = 2 under this convention.) If there are n data points to estimate
+parameters of both models from, then F is[2]
+
+    F=\\frac{\\left\(\\frac{\\mbox{RSS}_1 - \\mbox{RSS}_2 }{p_2 - p_1}\\right\)}{\\left\(\\frac{\\mbox{RSS}_2}{n - p_2}\\right\)} ,
+where RSSi is the residual sum of squares of model i. If your regression model
+has been calculated with weights, then replace RSSi with Ï2, the weighted sum
+of squared residuals. F here is distributed as an F-distribution, with (p2 â
+p1, n â p2) degrees of freedom; the probability that the decrease in Ï2
+associated with the addition of p2 â p1 parameters is solely due to chance
+is given by the probability associated with the F distribution at that point.
+The null hypothesis, that none of the additional p2 â p1 parameters differs
+from zero, is rejected if the calculated F is greater than the F given by the
+critical value of F for some desired rejection probability (e.g. 0.05).
+
+## [edit] Table on F-test
+
+A table of F-test critical values can be found here and is usually included in
+most statistical texts.
+
+## [edit] One-way ANOVA example
+
+a1 a2 a3  
+6 8 13  
+8 12 9  
+4 9 11  
+5 11 8  
+3 6 7  
+4 8 12  
+a1, a2, and a3 are the three levels of the factor being studied. To calculate
+the F-ratio:
+
+Step 1: calculate the Ai values where i refers to the number of the condition.
+So:
+
+    
+\\begin{align}
+
+A_1 & = \\sum a_1 = 6 + 8 + 4 + 5 + 3 + 4 = 30 \\\\
+
+A_2 & = \\sum a_2 = 8 + 12 + 9 + 11 + 6 + 8 = 54 \\\\
+
+A_3 & = \\sum a_3 = 13 + 9 + 11 + 8 + 7 + 12 = 60
+
+\\end{align}
+
+Step 2: calculate È²Ai being the average of the values of condition ai
+
+    
+\\begin{align}
+
+\\overline{Y}_{A1} & = \\frac{A_1}{n} = \\frac{30}{6} = 5 \\\\\[5pt\]
+
+\\overline{Y}_{A2} & = \\frac{A_2}{n} = \\frac{54}{6} = 9 \\\\\[5pt\]
+
+\\overline{Y}_{A3} & = \\frac{A_3}{n} = \\frac{60}{6} = 10
+
+\\end{align}
+
+Step 3 calculate these values:
+
+    Total:
+    T = \\sum A_i = A_1 + A_2 + A_3 = 30 + 54 + 60 = 144
+    Average overall score:
+    \\overline{Y}_T = \\frac{T}{a\(n\)} = \\frac{144}{3\(6\)} = 8
+    where a = the number of conditions and n = the number of participants in each condition.
+    \[Y\] = \\sum{\\left\(Y^2\\right\)} = 1304
+    This is every score in every condition squared and then summed.
+    \[A\] = \\frac{\\sum\({A_i}^2\)}{n} = 1236
+    \[T\] = \\frac{T^2}{a\(n\)} = 1152
+Step 4 calculate the sum of squared terms:
+
+    SSA = [A] â [T] = 84
+    SSS / A = [Y] â [A] = 68
+Step 5 the degrees of freedom are now calculated:
+
+    dfa = a â 1 = 3 â 1 = 2
+    dfS / A = a(n â 1) = 3(6 â 1) = 15
+<IMG>
+
+Step 6 the Means Squared Terms are calculated:
+
+    MS_A = \\frac{SS_A}{df_A} = 42
+    MS_{S/A} = \\frac{SS_{S/A}}{df_{S/A}} = 4.5
+Step 7 finally the ending F-ratio is now ready:
+
+    F = \\frac{MS_A}{MS_{S/A}} = 9.27
+  
+
+Step 8 look up the Fcrit value for the problem:
+
+Fcrit(2,15) = 3.68 at Î± = 0.05. Since F = 9.27 â¥ 3.68, the results are
+significant and one can reject the null hypothesis.
+
+Note F(x, y) notation means that there are x degrees of freedom in the
+numerator and y degrees of freedom in the denominator.
+
+## [edit] Footnotes
+
+  1. ^ Lomax, Richard G. (2007) "Statistical Concepts: A Second Course", p. 10, ISBN 0-8058-5850-4
+  2. ^ GraphPad Software Inc (2007-10-11). "How the F test works to compare models". GraphPad Software Inc. http://www.graphpad.com/help/Prism5/prism5help.html?howtheftestworks.htm.
+
+## [edit] References
+
+  * Testing utility of model â F-test
+  * F-test
+
+v â¢ d â¢ e
+
+Statistics  
+Design of experiments
+
+Population â¢ Sampling â¢ Stratified sampling â¢ Replication â¢ Blocking  
+Sample size estimation
+
+Null hypothesis â¢ Alternative hypothesis â¢ Type I and Type II errors â¢
+Statistical power â¢ Effect size â¢ Standard error  
+Descriptive statistics
+
+Continuous data
+
+Location
+
+Mean (Arithmetic, Geometric, Harmonic) â¢ Median â¢ Mode  
+Dispersion
+
+Range â¢ Standard deviation â¢ Coefficient of variation â¢ Percentile  
+Moments
+
+Variance â¢ Semivariance â¢ Skewness â¢ Kurtosis  
+Categorical data
+
+Frequency â¢ Contingency table  
+Inferential statistics
+
+Bayesian inference â¢ Frequentist inference â¢ Hypothesis testing â¢
+Significance â¢ P-value â¢ Interval estimation â¢ Confidence interval â¢
+Meta-analysis  
+General estimation
+
+Bayesian estimator â¢ Maximum likelihood â¢ Method of moments â¢ Minimum
+distance â¢ Maximum spacing  
+Specific tests
+
+Z-test (normal) â¢ Student's t-test â¢ Chi-square test â¢ F-test â¢
+Sensitivity and specificity  
+Survival analysis
+
+Survival function â¢ Kaplan-Meier â¢ Logrank test â¢ Failure rate â¢
+Proportional hazards models  
+Correlation
+
+Pearson product-moment correlation coefficient â¢ Rank correlation
+(Spearman's rho, Kendall's tau) â¢ Confounding variable  
+Linear models
+
+General linear model â¢ Generalized linear model â¢ Analysis of variance â¢
+Analysis of covariance  
+Regression analysis
+
+Linear regression â¢ Nonlinear regression â¢ Nonparametric regression â¢
+Semiparametric regression â¢ Logistic regression  
+Statistical graphics
+
+Bar chart â¢ Biplot â¢ Box plot â¢ Control chart â¢ Forest plot â¢
+Histogram â¢ Q-Q plot â¢ Run chart â¢ Scatter plot â¢ Stemplot  
+History
+
+History of statistics â¢ Founders of statistics â¢ Timeline of probability
+and statistics  
+Publications
+
+Journals in statistics â¢ Important publications  
+Category â¢ Portal â¢ Topic outline â¢ List of topics  
+Retrieved from "http://en.wikipedia.org/wiki/F-test"
+
+Categories: Analysis of variance | Statistical ratios | Statistical tests
+
+Hidden categories: Cleanup from April 2008 | All pages needing cleanup |
+Statistics articles needing expert attention | Articles needing expert
+attention since November 2008 | Statistics articles with navigational template
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Basa Sunda
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 28 March 2009, at 12:41 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

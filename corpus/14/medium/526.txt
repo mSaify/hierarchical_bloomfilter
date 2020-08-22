@@ -1,0 +1,123 @@
+
+# LINPACK
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it lacks inline citations. Please improve this article
+by introducing more precise citations where appropriate. (March 2009)  
+LINPACK is a software library for performing numerical linear algebra on
+digital computers. It was written in Fortran by Jack Dongarra, Jim Bunch,
+Cleve Moler, and Pete Stewart, and was intended for use on supercomputers in
+the 1970s and early 1980s. It has been largely superseded by LAPACK, which
+will run more efficiently on modern architectures.
+
+LINPACK makes use of the BLAS (Basic Linear Algebra Subprograms) libraries for
+performing basic vector and matrix operations.
+
+The LINPACK Benchmarks are a measure of a system's floating point computing
+power. Introduced by Jack Dongarra, they measure how fast a computer solves a
+dense N by N system of linear equations Ax=b, which is a common task in
+engineering. The solution is obtained by Gaussian elimination with partial
+pivoting, with 2/3Â·N3 \+ 2Â·N2 floating point operations. The result is
+reported in millions of floating point operations per second (MFLOP/s,
+sometimes simply called FLOPS).
+
+For large-scale distributed-memory systems, HPL, a portable implementation of
+the High-Performance LINPACK Benchmark, is used as a performance measure for
+ranking supercomputers in the TOP500 list of the world's fastest computers.
+(There is now also a Green500 list ranking the machines on the TOP500 list
+based on energy efficiency, in FLOPs per Watt.) The HPC benchmark is run for
+different matrix sizes N searching for the size Nmax for which the maximal
+performance Rmax is obtained. The benchmark also reports the problem size N1/2
+where half of the performance (Rmax/2) is achieved.
+
+## [edit] External links
+
+  * http://www.netlib.org/linpack/
+  * http://www.netlib.org/blas/
+  * http://www.top500.org/ Top500
+  * http://www.netlib.org/benchmark/linpackjava/ a web-based LINPACK benchmark
+  * http://www.netlib.org/benchmark/hpl/ The HPL benchmark used in the TOP500
+  * Source code, pre-compiled versions and results for PCs
+  * http://www.green500.org/ Green500
+
+Retrieved from "http://en.wikipedia.org/wiki/LINPACK"
+
+Categories: Fortran libraries | Supercomputers | Computer benchmarks |
+Numerical software
+
+Hidden categories: Articles lacking in-text citations from March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * FranÃ§ais
+  * æ¥æ¬èª
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 9 April 2009, at 06:53 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

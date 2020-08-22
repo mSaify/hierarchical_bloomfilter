@@ -1,0 +1,219 @@
+
+# Spiral model
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+Spiral model (Boehm, 1988).
+
+Software development process  
+Activities and steps  
+Requirements Â· Specification  
+Architecture Â· Design  
+Implementation Â· Testing  
+Deployment Â· Maintenance  
+Models  
+Agile Â· Cleanroom Â· DSDM  
+Iterative Â· RAD Â· RUP Â· Spiral  
+Waterfall Â· XP Â· Scrum Â· V-Model  
+FDD  
+Supporting disciplines  
+Configuration management  
+Documentation  
+Quality assurance (SQA)  
+Project management  
+User experience design  
+Tools  
+Compiler Â· Debugger Â· Profiler  
+GUI designer  
+Integrated development environment  
+This box: view â¢ talk  
+The spiral model is a software development process combining elements of both
+design and prototyping-in-stages, in an effort to combine advantages of top-
+down and bottom-up concepts. Also known as the spiral lifecycle model, it is a
+systems development method (SDM) used in information technology (IT). This
+model of development combines the features of the prototyping model and the
+waterfall model. The spiral model is intended for large, expensive and
+complicated projects.
+
+## Contents
+
+  * 1 History
+  * 2 The Spiral Model
+  * 3 Applications
+  * 4 Advantages
+  * 5 See also
+  * 6 References
+
+  
+## [edit] History
+
+The spiral model was defined by Barry Boehm in his 1988 article "A Spiral
+Model of Software Development and Enhancement"[1]. This model was not the
+first model to discuss iterative development, but it was the first model to
+explain why the iteration matters.[citation needed]
+
+As originally envisioned, the iterations were typically 6 months to 2 years
+long. Each phase starts with a design goal and ends with the client (who may
+be internal) reviewing the progress thus far. Analysis and engineering efforts
+are applied at each phase of the project, with an eye toward the end goal of
+the project.
+
+## [edit] The Spiral Model
+
+The steps in the spiral model can be generalized as follows:
+
+  1. The new system requirements are defined in as much detail as possible. This usually involves interviewing a number of users representing all the external or internal users and other aspects of the existing system.
+  2. A preliminary design is created for the new system.
+  3. A first prototype of the new system is constructed from the preliminary design. This is usually a scaled-down system, and represents an approximation of the characteristics of the final product.
+  4. A second prototype is evolved by a fourfold procedure: 
+    1. evaluating the first prototype in terms of its strengths, weaknesses, and risks;
+    2. defining the requirements of the second prototype;
+    3. planning and designing the second prototype;
+    4. constructing and testing the second prototype.
+
+## [edit] Applications
+
+The spiral model is used most often in large projects. For smaller projects,
+the concept of agile software development is becoming a viable alternative.
+The US military has adopted the spiral model for its Future Combat Systems
+program.
+
+## [edit] Advantages
+
+The spiral model promotes quality assurance through prototyping at each stage
+in systems development.
+
+## [edit] See also
+
+  * Software engineering
+  * List of software engineering topics
+  * Waterfall model
+  * Chaos model
+  * MBASE
+  * V-model
+  * Dual Vee Model
+
+## [edit] References
+
+Sister project Wikimedia Commons has media related to: Spiral model of Boehm  
+  1. ^ Boehm B, "A Spiral Model of Software Development and Enhancement", "Computer", "IEEE", 21(5):61-72, May 1988
+
+v â¢ d â¢ e
+
+Software engineering  
+Fields
+
+Requirements analysis â¢ Software design â¢ Computer programming â¢ Formal
+methods â¢ Software testing â¢ Software deployment â¢ Software maintenance  
+Concepts
+
+Data modeling â¢ Enterprise architecture â¢ Functional specification â¢
+Modeling language â¢ Programming paradigm â¢ Software â¢ Software
+architecture â¢ Software development methodology â¢ Software development
+process â¢ Software quality â¢ Software quality assurance â¢ Structured
+analysis  
+Orientations
+
+Agile â¢ Aspect-oriented â¢ Object orientation â¢ Ontology â¢ Service
+orientation â¢ SDLC  
+Models
+
+Development models: Agile â¢ Iterative model â¢ RUP â¢ Scrum â¢ Spiral
+model â¢ Waterfall model â¢ XP â¢ V-Model  
+Other models: CMMI â¢ Data model â¢ Function model â¢ IDEF â¢ Information
+model â¢ Metamodeling â¢ Object model â¢ View model â¢ UML  
+Software  
+engineers
+
+Kent Beck â¢ Grady Booch â¢ Fred Brooks â¢ Barry Boehm â¢ Ward Cunningham
+â¢ Ole-Johan Dahl â¢ Tom DeMarco â¢ Edsger W. Dijkstra â¢ Martin Fowler
+â¢ C. A. R. Hoare â¢ Watts Humphrey â¢ Michael A. Jackson â¢ Ivar Jacobson
+â¢ Craig Larman â¢ James Martin â¢ Bertrand Meyer â¢ David Parnas â¢
+Winston W. Royce â¢ James Rumbaugh â¢ Niklaus Wirth â¢ Edward Yourdon  
+Related fields
+
+Computer science â¢ Computer engineering â¢ Enterprise engineering â¢
+History â¢ Management â¢ Mathematics â¢ Project management â¢ Quality
+management â¢ Software ergonomics â¢ Systems engineering  
+Retrieved from "http://en.wikipedia.org/wiki/Spiral_model"
+
+Categories: Software development process
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 March 2009, at 06:53 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

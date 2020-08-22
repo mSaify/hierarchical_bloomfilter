@@ -1,0 +1,221 @@
+
+# Amaranth Advisors
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Amaranth Advisors LLC was an American multistrategy hedge fund managing US$9
+billion in assets. In September 2006, it collapsed after losing roughly US$6
+billion in a single week on natural gas futures. The failure was one of the
+largest known hedge fund collapses in history. (See List of trading losses)
+
+## Contents
+
+  * 1 History
+  * 2 Energy Trading
+  * 3 Downfall
+  * 4 Aftermath
+  * 5 External links
+  * 6 References
+
+  
+## [edit] History
+
+The company was founded by Nicholas Maounis and based in Greenwich,
+Connecticut. "Amaranth" means "unfading" in Greek.
+
+Throughout much of the firm's history, convertible arbitrage was the firm's
+primary profit center. As more and more capital began flowing into the
+convertible arbitrage strategy during the early 2000s, trading opportunities
+became more difficult to find.
+
+## [edit] Energy Trading
+
+By 2004-2005, the firm had shifted much of its capital to energy trading.
+Amaranthâs energy desk was run by a Canadian trader named Brian Hunter who
+placed "spread trades" in the natural gas market. Hunter had made enormous
+profits for the company by placing bullish bets on natural gas prices in 2005,
+the year Hurricane Katrina had severely impacted natural gas and oil
+production and refining capacity. Hoping for a repeat performance, Amaranth
+wagered with 8:1 leverage that the price of the March '07 and March '08
+futures contracts would increase relative to the price of the April '07 and
+April '08 contracts (i.e., they were "long" the March contracts and "short"
+the April contracts).
+
+Unfortunately for Amaranth, they did not. The spread between the March and
+April 2007 contracts, for example, went from US$2.49 at the end of August 2006
+to US$0.58 by the end of September 2006. The price decline was catastrophic
+for Amaranth, resulting in a loss of US$6.5 billion.[1]. Historically, the
+spread in future prices for the March and April contracts have not been easily
+predictable. The spread is dependent on meteorological and sociopolitical
+events whose uncertainty makes the placing of such large bets a precarious
+matter.
+
+## [edit] Downfall
+
+The fund had over US$9 billion under management and reports indicate "losses
+may exceed 65 percent[2]." On September 20, 2006, Reuters reported that
+Amaranth would transfer its energy portfolio to a third party, eventually
+revealed to be Citadel Investment Group and JPMorgan Chase [3]. The losses
+were not as threatening to the financial system as were the losses of Long-
+Term Capital Management, but it has led to increased pressure on the SEC to
+regulate hedge funds. On September 29, 2006 the founder of Amaranth sent a
+letter to fund investors notifying them of the fund's suspension, and on
+October 1, 2006, Amaranth hired the Fortress Investment Group to help
+liquidate its assets.
+
+## [edit] Aftermath
+
+In 2007, Hunter founded a new hedge fund, Solengo Capital Advisors. The firm
+received attention in April 2007 for suing Dealbreaker.com, a website which
+had published Solengo's prospectus.
+
+On July 25 2007, the Commodity Futures Trading Commission (CFTC) charged
+Amaranth and head energy trader Brian Hunter with Attempted Manipulation of
+the Price of Natural Gas Futures including making false statements to the New
+York Mercantile Exchange (NYMEX) [4]. The Federal Energy Regulatory Commission
+has also charged Amaranth and traders Brian Hunter and Matthew Donohoe with
+market manipulation[5]. The CFTC and the FERC have different, conflicting,
+versions of what Brian Hunter did, and are currently fighting over
+jurisdiction[1].
+
+Amaranth filed a lawsuit against JP Morgan claiming US$ 1 billion in damages,
+on the grounds that the bank interfered in the company's efforts to strike a
+better deal with Goldman Sachs and Citadel.[6]
+
+## [edit] External links
+
+  * Amaranth webpage
+
+## [edit] References
+
+  1. ^ "Betting on the Weather and Taking an Ice-Cold Bath". New York Times. 2006-09-29. http://www.nytimes.com/2006/09/29/business/29insider.html.
+  2. ^ "Goldman, Morgan hit by Amaranth losses". CNNMoney. 2006-09-20. http://money.cnn.com/2006/09/20/news/companies/goldman.reut/index.htm?postversion=2006092012.
+  3. ^ "Amaranth says to transfer energy portfolio". Reuters. 2006-09-20. http://today.reuters.com/news/articleinvesting.aspx?type=mergersNews&storyID=2006-09-20T174910Z_01_N20404893_RTRIDST_0_FUNDS-AMARANTH-FUNDS-UPDATE-1.XML.
+  4. ^ "U.S. Commodity Futures Trading Commission Charges Hedge Fund Amaranth and its Former Head Energy Trader, Brian Hunter, with Attempted Manipulation of the Price of Natural Gas Futures". CFTC. 2007-07-25. http://www.cftc.gov/newsroom/enforcementpressreleases/2007/pr5359-07.html.
+  5. ^ "Commission Takes Preliminary Action in Two Major Market Manipulation Cases". Federal Energy Regulatory Commission. 2007-07-26. http://www.ferc.gov/news/news-releases/2007/2007-3/07-26-07.pdf.
+  6. ^ "Amaranth Sues JPMorgan for Disrupting Transactions (Update2) : Bloomberg". Bloomberg. 2007-11-14. http://www.bloomberg.com/apps/news?pid=newsarchive&sid=axS.FCBhb4uw.
+
+  * "IPO Blank-Check Bounce", September 19, 2006, thestreet.com
+  * Washington Post article
+  * "Hedge Fund, a Gamble Too Far", First Post
+  * "Flare-up", The Economist, September 21, 2006.
+  * "Amaranth's Risky Business", TheStreet.com, September 18, 2006
+  * "A Hedge Fund's Loss Rattles Nerves", New York Times, September 19, 2006
+  * "The Amaranth Case : early lessons from the debacle", Hillary Till, EDHEC Risk & Asset Management Research Centre, October 2, 2006.
+  * "The Lights Are On - October 2006", Chris Finger, RiskMetrics Group
+  * "The Long Arms of Enron Reach Beyond The Grave", Salon, July 6, 2007
+  * "Excessive Speculation in the Natural Gas Market", United States Senate Permanent Subcommittee on Investigations, June 25, 2007
+  * Commodities Futures Trading Commission charges Amaranth and head energy trader Brian Hunter with Attempted Manipulation of the Price of Natural Gas Futures", CFTC, July 25, 2007
+
+v â¢ d â¢ e
+
+Hedge funds and Alternative investments  
+Investment  
+strategy
+
+Arbitrage / Relative value
+
+Equity market neutral â¢ Fixed income arbitrage â¢ Convertible arbitrage â¢
+Statistical arbitrage â¢ Volatility arbitrage â¢ Capital structure arbitrage  
+Event driven
+
+Merger arbitrage / Risk arbitrage â¢ Distressed securities â¢ Activist
+shareholder  
+Directional
+
+Long / short equity â¢ Global macro â¢ CTA/managed futures â¢ Dedicated
+short  
+Other
+
+Fund of hedge funds / Multi-manager  
+<IMG>  
+Trading
+
+Program trading â¢ Algorithmic trading â¢ Prime brokerage â¢ Trend
+following â¢ Day trading  
+Related  
+terms
+
+Markets
+
+Equity â¢ Fixed income â¢ Commodities â¢ Money markets â¢ FX â¢
+Derivatives â¢ Structured securities  
+Misc
+
+Alpha â¢ Beta â¢ Hedging â¢ Shorting â¢ Securitization â¢ Technical
+analysis â¢ Fundamental analysis  
+Investors
+
+Institutional Investors â¢ Pension funds â¢ Insurance companies â¢
+Endowments â¢ Investment Banks â¢ Commercial Banks â¢ Fund of hedge funds
+â¢ High net worth individuals â¢ Family offices â¢ Sovereign wealth funds  
+Hedge funds â¢ Hedge fund managers â¢ Alternative investment firms  
+Retrieved from "http://en.wikipedia.org/wiki/Amaranth_Advisors"
+
+Categories: Defunct financial services companies of the United States | Hedge
+funds | Greenwich, Connecticut | Companies based in Fairfield County,
+Connecticut
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 3 April 2009, at 16:29 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

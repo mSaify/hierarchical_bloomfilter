@@ -1,0 +1,192 @@
+
+# Information extraction
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+It has been suggested that data extraction be merged into this article or
+section. (Discuss)  
+In natural language processing, information extraction (IE) is a type of
+information retrieval whose goal is to automatically extract structured
+information, i.e. categorized and contextually and semantically well-defined
+data from a certain domain, from unstructured machine-readable documents. An
+example of information extraction is the extraction of instances of corporate
+mergers, more formally MergerBetween(company1,company2,date), from an online
+news sentence such as: "Yesterday, New-York based Foo Inc. announced their
+acquisition of Bar Corp." A broad goal of IE is to allow computation to be
+done on the previously unstructured data. A more specific goal is to allow
+logical reasoning to draw inferences based on the logical content of the input
+data.
+
+The significance of IE is determined by the growing amount of information
+available in unstructured (i.e. without metadata) form, for instance on the
+Internet. This knowledge can be made more accessible by means of
+transformation into relational form, or by marking-up with XML tags. An
+intelligent agent monitoring a news data feed requires IE to transform
+unstructured data into something that can be reasoned with.
+
+A typical application of IE is to scan a set of documents written in a natural
+language and populate a database with the information extracted. Current
+approaches to IE use natural language processing techniques that focus on very
+restricted domains. For example, the Message Understanding Conference (MUC) is
+a competition-based conference that focused on the following domains in the
+past:
+
+  * MUC-1 (1987), MUC-2 (1989): Naval operations messages.
+  * MUC-3 (1991), MUC-4 (1992): Terrorism in Latin American countries.
+  * MUC-5 (1993): Joint ventures and microelectronics domain.
+  * MUC-6 (1995): News articles on management changes.
+  * MUC-7 (1998): Satellite launch reports.
+
+Natural Language texts may need to use some form of a Text simplification to
+create a more easily machine readable text to extract the sentences.
+
+Typical subtasks of IE are:
+
+  * Named Entity Recognition: recognition of entity names (for people and organizations), place names, temporal expressions, and certain types of numerical expressions.
+  * Coreference: identification chains of noun phrases that refer to the same object. For example, anaphora is a type of coreference.
+  * Terminology extraction: finding the relevant terms for a given corpus
+  * Relationship Extraction: identification of relations between entities, such as: 
+    * PERSON works for ORGANIZATION (extracted from the sentence "Bill works for IBM.")
+    * PERSON located in LOCATION (extracted from the sentence "Bill is in France.")
+
+## Contents
+
+  * 1 See also
+  * 2 Information extraction and the World Wide Web
+  * 3 Free or Open Source Information Extraction Software
+  * 4 Further reading
+  * 5 External links
+
+  
+## [edit] See also
+
+  * Concept mining
+  * DARPA TIPSTER Program
+  * Semantic translation
+  * ECHELON
+
+## [edit] Information extraction and the World Wide Web
+
+IE has been the focus of the MUC conferences. The proliferation of the Web,
+however, intensified the need for developing IE systems that help people to
+cope with the enormous amount of data that is available online. Systems that
+perform IE from online text, should meet the requirements of low cost,
+flexibility in development and easy adaptation to new domains. MUC systems
+fail to meet those criteria. Moreover, linguistic analysis performed for
+unstructured text does not exploit the HTML/XML tags and layout format that
+are available in online text. As a result, less linguistically intensive
+approaches have been developed for IE on the Web using wrappers, which are
+sets of highly accurate rules that extract the a particular page's content.
+
+## [edit] Free or Open Source Information Extraction Software
+
+  * General Architecture for Text Engineering "General Architecture for Text Engineering", which is bundled with a free Information Extraction system
+  * OpenCalais Automated information extraction tool from Reuters (Free limited version)
+  * TermFinder, online terminology extractor for EN, FR & IT - web application
+  * TextRunner Part of the KnowItAll Project of the Turing Center at the University of Washington
+  * Alias-I LingPipe A suite of Java libraries for the linguistic analysis of human language.
+  * TermExtractor
+  * CRF++ A free toolkit, implemented in C++, for various NLP tasks, including information extraction.
+
+## [edit] Further reading
+
+  * Sunita Sarawagi. (2008). Information extraction. FnT Databases, 1(3), 2008.
+
+  * R. J. Mooney and R. C. Bunescu. (2005). Mining knowledge from text using information extraction. SIGKDD Explorations 7(1).
+
+  * Ralph Grishman. (1997). Information extraction: Techniques and challenges. In Information Extraction: A Multidisciplinary Approach to an Emerging Information Technology, International Summer School, (SCIE-97), pages 10â27, 1997.
+
+  * Claire Cardie. (1997). Empirical Methods in Information Extraction. AI Magazine, 18(4): Winter 1997, 65-80.
+
+  * Claire Cardie. (1993). A Case-Based Approach to Knowledge Acquisition for Domain-Specific Sentence Analysis. In Proceedings of the Eleventh National Conference on Artificial Intelligence (AAAI-93).
+
+  
+
+## [edit] External links
+
+  * MUC
+  * ACE (LDC)
+  * ACE (NIST)
+  * Alias-I "competition" page A listing of academic toolkits and industrial toolkits for natural language information extraction.
+  * Gabor Melli's page on IE Detailed description of the information extraction task.
+
+Retrieved from "http://en.wikipedia.org/wiki/Information_extraction"
+
+Categories: Natural language processing | Artificial intelligence
+
+Hidden categories: Articles to be merged since December 2008 | All articles to
+be merged
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Euskara
+  * æ¥æ¬èª
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 8 April 2009, at 08:12 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

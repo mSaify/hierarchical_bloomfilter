@@ -1,0 +1,441 @@
+
+# OpenStreetMap
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+OpenStreetMap <IMG>  
+<IMG>  
+OpenStreetMap of Cambridge  
+URL http://www.openstreetmap.org  
+Slogan The Free Wiki World Map  
+Commercial? No  
+Type of site Collaborative mapping  
+Registration required for contributors  
+Owner OpenStreetMap Foundation  
+Created by Steve Coast  
+Launched July 1, 2004(2004-07-01)  
+OpenStreetMap (OSM) is a collaborative project to create a free editable map
+of the world. The maps are created using data from portable GPS devices,
+aerial photography and other free sources. Both rendered images and the vector
+dataset are available for download under a Creative Commons Attribution-
+ShareAlike 2.0 licence.[1] Registered users can upload GPS track logs and edit
+the vector data using the given editing tools. OpenStreetMap was inspired by
+sites such as Wikipedia â the map display features a prominent 'Edit' tab
+and a full revision history is maintained.
+
+## Contents
+
+  * 1 History
+  * 2 Map production
+    * 2.1 Technique
+    * 2.2 Structured ground surveys
+    * 2.3 Government data sources
+    * 2.4 Commercial data sources
+  * 3 Licensing
+    * 3.1 The OpenStreetMap database
+    * 3.2 Input data
+    * 3.3 Software
+  * 4 Usage
+    * 4.1 On-line raster maps
+    * 4.2 Flickr
+    * 4.3 Map data
+  * 5 Software
+    * 5.1 Map rendering and presentation
+    * 5.2 Map data collection
+    * 5.3 Map data editing
+    * 5.4 Routing
+  * 6 Data format
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] History
+
+OpenStreetMap (OSM) was founded in July 2004 by Steve Coast. In April 2006, a
+foundation was established with the aim of encouraging the growth, development
+and distribution of free geospatial data and providing geospatial data for
+anybody to use and share. In December 2006 Yahoo confirmed that OpenStreetMap
+could use their aerial photography as a backdrop for map production.[2]
+
+In April 2007 Automotive Navigation Data donated a complete road dataset for
+the Netherlands and trunk road data for India and China to the project[3] and
+by July 2007, when the first OSM international The State of the Map conference
+was held there were 9,000 registered users. Sponsors of the event included
+Google, Yahoo and Multimap. In August 2007 an independent project,
+OpenAerialMap, was launched, to hold a database of aerial photography
+available on open licensing[4] and in October 2007 OpenStreetMap completed the
+import of a US Census TIGER road dataset.[5] In December Oxford University
+became the first major organisation to use OpenStreetMap data on their main
+website.[6]
+
+In January 2008 functionality was made available to download map data into a
+GPS unit for use by cyclists.[7] In February 2008 a series of workshops were
+held in India.[8] In March two founders of OpenStreetMap announced that they
+have received venture capital funding of 2.4m euros for Cloud Made, a
+commercial company that will use OpenStreetMap data.[9]
+
+By August 2008, shortly after the second The State of the Map conference was
+held, there were over 50,000 registered users with over 5,000 active
+contributors.[10] In March 2009, 100,000 users were surpassed.[11]
+
+## [edit] Map production
+
+<IMG>
+
+<IMG>
+
+Recording of a GPS trace.
+
+### [edit] Technique
+
+The initial map data was all built from scratch by volunteers performing
+systematic ground surveys using a handheld GPS unit and a notebook or a voice
+recorder, data which was then entered into the OpenStreetMap database from a
+computer.
+
+More recently the availability of aerial photography and other data sources
+from commercial and government sources has greatly increased the speed of this
+work and has allowed land-use data to be collected more accurately.
+
+When large datasets are available a technical team will manage the conversion
+and import of the data.
+
+### [edit] Structured ground surveys
+
+<IMG>
+
+<IMG>
+
+Raw GPS data (tracklogs) for Hedge End
+
+Ground surveys are performed by a volunteer, on foot, bicycle or in a car,
+although a bicycle is the mode of choice for many volunteers mapping urban
+areas, using a GPS unit, and some combination of notebook, voice recorder and
+digital camera and questioning of passers-by. This data is then entered into
+the database. Some committed contributors are systematically mapping whole
+towns over a period of time. Mapping Parties are organised to bring a number
+of mappers together to map a particular area for an evening or a weekend to
+intensively map an area.
+
+In addition to structured surveys, a large number of smaller edits are made by
+contributors to correct errors or add features.
+
+### [edit] Government data sources
+
+Some government agencies have released official data on appropriate licences,
+much of this data has come from the United States, where the federal
+government cannot copyright such data.
+
+  * Landsat 7 satellite imagery
+  * Prototype Global Shorelines (PGS)
+  * TIGER data of the United States
+
+Various authorities have also made more local detailed aerial photography
+available on suitable licences through OpenAerialMap.
+
+The UK Ordnance Survey is legally a Trading Fund and as such is required to
+earn money from selling its data and is not open to contributing data to the
+project.[12] Consideration is however currently being given to changing the
+structure of the organisation to make its data more available.[13] In 2006 The
+Guardian launched a campaign 'Free our data' to argue to free up government
+data including mapping data[14]. The Government's Shareholder Executive will
+report on its latest review of the Trading Funds in the 2008 Pre-Budget
+Report, due in the autumn.
+
+Out-of-copyright maps can be good source of information about features which
+don't change frequently. Copyright periods vary, but in the UK 'Crown
+copyright' expires after 50 years and hence Ordnance Survey maps until the
+1950s can legally be used. A complete set of UK 1 inch/mile maps from the late
+1940s and early 1950s have been collected, scanned and are available online as
+a resource for contributors.
+
+### [edit] Commercial data sources
+
+Some commercial companies have donated data to the project on suitable
+licenses. Notably, Automotive Navigation Data (AND) who provided a complete
+road dataset for Netherlands and details of trunk roads in China and India.
+
+Yahoo! confirmed that OpenStreetMap was able to make use of their vertical
+aerial imagery and this photography is now available within the editing
+software as an overlay. Contributors can create their vector based maps as a
+derived work, released with a free and open license.[15]
+
+## [edit] Licensing
+
+<IMG>
+
+<IMG>
+
+Homepage of OpenStreetMap.org
+
+### [edit] The OpenStreetMap database
+
+OpenStreetMap data is published using a Creative Commons Attribution-Share
+Alike 2.0 licence. A new licence is being prepared which is more suitable for
+a map dataset.[1]
+
+### [edit] Input data
+
+All data added to the project needs to have a license compatible with the
+Creative Commons Attribution-Share Alike license. This can include out of
+copyright information, public domain or other licenses. All contributors must
+register with the project and agree to provide data on a Creative Commons BY-
+SA 2.0 licence or determine that the licencing of the source data is suitable.
+Increasingly this involves examining licences for government data to establish
+if it they are compatible. Use of unfree data is an especially severe problem
+for a map, as the only way to prove that no data came from unfree sources
+would be to revert the whole area in question to before the addition of the
+questionable data.
+
+A subset of contributors have made their contributions available as public
+domain.[16]
+
+### [edit] Software
+
+Software used in the production and presentation of OpenStreetMap data is
+available from many different projects and each may have their own licencing.
+The core software to manage the databases, user interaction and the API are
+available under a GNU General Public License.[17]
+
+## [edit] Usage
+
+OpenStreetMap data is available through an increasing number of sites and in
+different formats:
+
+### [edit] On-line raster maps
+
+Mapping is available online both on general mapping sites:
+
+  * OpenStreetMap general, cyclists, debugging (Worldwide)
+  * FreeMap walkers (parts of the UK)
+  * OpenCycleMap cyclists (Worldwide)
+  * Yournavigation routing (Worldwide)
+  * OpenRouteService routing (Europe)
+  * OpenPisteMap skiing (some European and USA resorts)[18]
+  * CloudMade general, mobile (Worldwide)
+  * OSM Mapper Debugging maps by Ito World Ltd
+
+### [edit] Flickr
+
+Yahoo has started using OpenStreetMap data within its Flickr service for
+various cities around the world, including Baghdad, Beijing, Kabul, Sydney and
+Tokyo.[19][20][21].
+
+### [edit] Map data
+
+Map data is available for download in a variety of formats and for different
+geographical areas:
+
+  * OpenStreetMap osm[22]
+  * CloudMade osm, garmin[23]
+  * Geofabrik osm, esri[24]
+
+## [edit] Software
+
+### [edit] Map rendering and presentation
+
+<IMG>
+
+<IMG>
+
+OpenStreetMap of Soho, central London
+
+  * Online Ajax-style OpenLayers based slippy map interface. Displaying map tiles rendered by: 
+    * Mapnik â C++ opensource map rendering software using on main OSM site
+    * Osmarender â XSLT style sheets for generating SVG images from OSM data. Used as part of the Tiles@home distributed map-rendering system for the main OSM site.
+  * Desktop 
+    * Kosmos â Windows application for rendering maps, with an interactive mode and a local tile server mode.
+    * OSMMap â Windows tool for browsing the OSM Maps (using Mapnik and Osmarender)
+    * tangoGPS â Open source, linux-based mapping application for use with or without GPS. Suitable for use on many Linux platforms including desktops, the eeePC and phones such as the Openmoko Neo.
+    * Prune \- Open source java application for viewing and editing data recorded by GPS. Uses OSM for the map layers.
+    * GPSDrive \- Open source, linux/BSD/OS X-based car navigation application.
+  * Phone and GPS displays
+
+### [edit] Map data collection
+
+  * GPSBabel â converts tracklogs from one format to another.
+  * AFTrack â Symbian 60v3 for Nokia mobile phones, live tracking and routing software, from version 1.03 onwards
+  * MyMotion â Windows CE tracking software
+
+### [edit] Map data editing
+
+<IMG>
+
+<IMG>
+
+JOSM - Java-based map editor
+
+  * Potlatch â Online Flash editor
+  * JOSM â Desktop Java editor
+  * Merkaartor â Desktop Qt editor
+
+### [edit] Routing
+
+  * Gosmore
+  * Pyroute
+  * OpenRouteService
+  * Traveling salesman \- Open source java application working as route-planner and GPS-Navigator using the map-data from OpenStreetMap via LibOSM
+
+## [edit] Data format
+
+OpenStreetMap uses a topological data structure.
+
+  * Nodes are points with a geographic position.
+  * Ways are lists of nodes, representing a polyline or polygon.
+  * Relations are groups of nodes, ways and other relations which can be assigned certain properties.
+  * Tags can be applied to nodes, ways or relations and consist of name=value pairs.
+
+Up to version 0.4 of its protocol, an intermediate element between nodes and
+ways (segments) was also used.
+
+The ontology of map features (the meaning of tags) is maintained on a wiki.
+
+## [edit] See also
+
+Sister project Wikimedia Commons has media related to: OpenStreetMap  
+  * Neogeography
+  * OpenLayers
+  * Wikimapia
+  * Placeopedia
+  * OpenStreetMap WikiProject
+  * Category:OpenStreetMap (Wikimedia commons)
+  * Collaborative mapping
+
+## [edit] References
+
+  1. ^ a b Richard Fairhurst (2008-01-07). "The licence: where we are, where weâre going". OpenGeoData. http://www.opengeodata.org/?p=262. Retrieved on 2008-07-24.
+  2. ^ http://www.opengeodata.org/?p=120
+  3. ^ http://www.opengeodata.org/?p=223
+  4. ^ http://www.opengeodata.org/?p=230
+  5. ^ http://www.linux.com/feature/119493?theme=print
+  6. ^ http://geothought.blogspot.com/2007/12/oxford-university-using-openstreetmap.html
+  7. ^ http://www.systemed.net/blog/entry080113140415.html
+  8. ^ openstreetmap:India
+  9. ^ http://blog.cloudmade.com/2008/03/17/were-funded/
+  10. ^ http://www.opengeodata.org/?p=309
+  11. ^ http://www.opengeodata.org/?p=444
+  12. ^ http://www.ordnancesurvey.co.uk/oswebsite/media/features/tradingfund.html
+  13. ^ http://www.oft.gov.uk/news/press/2008/78-08
+  14. ^ SA Mathieson and Michael Cross (2006-03-23). "Ordnance Survey challenged to open up". The Guardian. http://www.guardian.co.uk/society/2006/mar/23/epublic.technology. Retrieved on 2009-02-23.
+  15. ^ Steve Coast (2006-12-04). "Yahoo! aerial imagery in OSM". OpenGeoData. http://www.opengeodata.org/?p=120. Retrieved on 2008-07-23. [dead link]
+  16. ^ "OpenStreetMap Legal FAQ". http://wiki.openstreetmap.org/wiki/Legal_FAQ. "Several contributors additionally make their code available under different licences"
+  17. ^ "OpenStreetMap License". http://wiki.openstreetmap.org/wiki/OpenStreetMap_License. "OpenStreetMap software is licensed under the GNU GPL"
+  18. ^ openstreetmap:WikiProject Piste Maps
+  19. ^ "Around the world and back again". blog-flickr.net. http://blog.flickr.net/en/2008/08/12/around-the-world-and-back-again/. Retrieved on 2008-11-07.
+  20. ^ "More cities". blog-flickr.net. http://blog.flickr.net/en/2008/10/30/more-cities/. Retrieved on 2008-11-07.
+  21. ^ "Japanese progress in osm. Amazing stuff!". http://thinkwhere.wordpress.com/2008/09/16/japan-osm-progress/.
+  22. ^ http://planet.openstreetmap.org/
+  23. ^ http://downloads.cloudmade.com/
+  24. ^ http://download.geofabrik.de/osm/
+
+## [edit] External links
+
+  * www.openstreetmap.org - Project page
+  * Project Wiki
+  * OpenAerialMap
+  * geo.topf.org online-comparison between Google and OpenStreetMap
+
+Retrieved from "http://en.wikipedia.org/wiki/OpenStreetMap"
+
+Categories: Collaborative mapping | Distributed computing projects | Creative
+Commons-licensed works | Open content projects | OpenStreetMap maps | Internet
+properties established in 2004 | Web mapping | Web Map Services | Wiki
+communities | Maps | 2004 establishments | Free websites | Geographic
+information systems
+
+Hidden categories: All articles with dead external links | Articles with dead
+external links since March 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * Eesti
+  * EspaÃ±ol
+  * Esperanto
+  * ×¢××¨××ª
+  * FranÃ§ais
+  * Ãslenska
+  * Italiano
+  * æ¥æ¬èª
+  * Kiswahili
+  * LatvieÅ¡u
+  * LietuviÅ³
+  * Magyar
+  * Nederlands
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 6 April 2009, at 14:01.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

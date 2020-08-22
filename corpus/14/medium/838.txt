@@ -1,0 +1,244 @@
+
+# Spaghetti code
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+A plate of spaghetti looks twisted and tangled, which is where the name for
+spaghetti code comes from.
+
+Spaghetti code is a pejorative term for source code which has a complex and
+tangled control structure, especially one using many GOTOs, exceptions,
+threads, or other "unstructured" branching constructs. It is named such
+because program flow tends to look like a bowl of spaghetti, i.e. twisted and
+tangled. Spaghetti code can be caused by several factors, including
+inexperienced programmers and a complex program which has been continuously
+modified over a long life cycle. Structured programming greatly decreased the
+incidence of spaghetti code, and is widely regarded as one of the most
+important advances in programming history.
+
+## Contents
+
+  * 1 Examples
+  * 2 Assembly and script languages
+  * 3 Ravioli code
+  * 4 Lasagna code
+  * 5 See also
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Examples
+
+Below is an example of what would be considered a trivial example of spaghetti
+code in BASIC. The program prints the numbers 1 to 10 to the screen along with
+their square. Notice that indentation is not needed and that the program's
+`GOTO` statements create a reliance on line numbers. Also observe the
+unpredictable way the flow of execution jumps from one area to another. Real-
+world occurrences of spaghetti code are more complex and can add greatly to a
+program's maintenance costs.
+
+    
+    10 i = 0
+    20 i = i + 1
+    30 PRINT i; " squared = "; i * i
+    40 IF i >= 10 THEN GOTO 60
+    50 GOTO 20
+    60 PRINT "Program Completed."
+    70 END
+    
+Here is the same code written in a structured programming style:
+
+    
+    FOR i = 1 TO 10
+        PRINT i; " squared = "; i * i
+    NEXT i
+    PRINT "Program Completed."
+    END
+    
+The program jumps from one area to another but this jumping is predictable and
+formal. This is because using for loops and functions are standard ways of
+providing flow control whereas the goto statement encourages arbitrary flow
+control. Though this example is small, real world programs are composed of
+many lines of code and are difficult to maintain when written in a spaghetti
+code fashion.
+
+## [edit] Assembly and script languages
+
+When using the many forms of assembly language (and also the underlying
+machine code) the danger of writing spaghetti code is especially great. This
+is because they are low-level programming languages where equivalents for
+structured control flow statements such as for loops and while loops seldom
+exist. Many scripting languages have the same deficiencies: this applies to
+the batch scripting language of DOS and DCL on VMS.
+
+Nonetheless, adopting the same discipline as in structured programming can
+greatly improve the readability and maintainability of such code. This may
+take the form of conventions limiting the use of `goto` to correspond to the
+standard structures, or use of a set of assembler macros for `if` and `loop`
+constructs. Most assembly languages also provide a function stack, and
+function call mechanisms which can be used to gain the advantages of
+procedural programming. Macros can again be used to support a standardized
+form of parameter passing, to avoid the accumulate and fire anti-pattern.
+
+Programs written in higher-level languages with high-level constructs such as
+for loops (as in the second example above) are often compiled into assembly or
+machine code. When this process occurs, the high-level constructs are
+translated into low-level "spaghetti code" which may resemble the first
+example above in terms of control flow. But because compilers must be faithful
+to high-level constructs in the source code, the problems that plague
+relatively unstructured languages like BASIC do not haunt higher-level
+languages. It does, however, mean that debugging even mildly optimized code
+with a source-level debugger can be surprisingly confusing.
+
+## [edit] Ravioli code
+
+Ravioli code is a type of computer program structure, characterized by a
+number of small and (ideally) loosely-coupled software components. The term is
+in comparison with spaghetti code, comparing program structure to pasta; with
+ravioli (small pasta pouches containing cheese, meat, or vegetables) being
+analogous to objects (which ideally are encapsulated modules consisting of
+both code and data).
+
+## [edit] Lasagna code
+
+<IMG>
+
+<IMG>
+
+Lasagna code has many layered components, much like the filling and pasta of
+its namesake.
+
+Lasagna code is a type of program structure, characterized by several well-
+defined and separable layers, where each layer of code accesses services in
+the layers below through well-defined interfaces. The term is in comparison
+with spaghetti code, comparing program structure to pasta. The analogy stems
+from the layered structure of a plate of lasagna, where different ingredients
+(meat, sauce, vegetables, or cheese) are each separated by strips of pasta.
+
+One common instance of lasagna code occurs at the interface between different
+subsystems, such as between web application code, business logic, and a
+relational database. Another common programming technique, alternate hard and
+soft layers (use of different programming languages at different levels of the
+program architecture), tends to produce lasagna code. In general, client-
+server applications are frequently lasagna code, with well-defined interfaces
+between client and server.
+
+Lasagna code generally enforces encapsulation between the different "layers",
+as the subsystems in question may have no means of communication other than
+through a well-defined mechanism, such as Structured Query Language, a foreign
+function interface, or Remote Procedure Call. However, individual layers in
+the system may be highly unstructured or disorganized.
+
+The term was coined by database guru Joe Celko in 1982.[1]
+
+## [edit] See also
+
+  * Structured programming Coding without `goto`, e.g. using only loop, sequence and alternate structures.
+  * International Obfuscated C Code Contest A competition to produce pleasingly obscure C code.
+  * Spaghetti with Meatballs (programming) Twisted, tangled and unstructured code, that also includes objects.
+
+## [edit] References
+
+This article was originally based on material from the Free On-line Dictionary
+of Computing, which is licensed under the GFDL.
+
+  1. ^ Celko, Joe (January 1997). "The Future of SQL Programming". DBMS Online. http://www.dbmsmag.com/9701d06.html. Retrieved on 2008-09-10.
+
+<IMG>
+
+This article needs references that appear in reliable third-party
+publications. Primary sources or sources affiliated with the subject are
+generally not sufficient for a Wikipedia article. Please add more appropriate
+citations from reliable sources. (April 2007)  
+## [edit] External links
+
+  * Go To Statement Considered Harmful. The classic repudiation of spaghetti code by Edsger Dijkstra.
+  * We don't know where to GOTO if we don't know where we've COME FROM by R. Lawrence Clark from DATAMATION, December, 1973
+  * Refactoring Java spaghetti code into Java bento code separating out a bowl full of code from one class into seven classes
+
+Retrieved from "http://en.wikipedia.org/wiki/Spaghetti_code"
+
+Categories: Anti-patterns | Articles with example BASIC code
+
+Hidden categories: Wikipedia articles incorporating text from FOLDOC |
+Articles lacking reliable references from April 2007 | All articles lacking
+sources
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * ×¢××¨××ª
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 March 2009, at 08:07.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,132 @@
+
+# Unique visitor
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+See also: unique user
+
+A unique visitor is a statistic describing a unit of traffic to a Web site,
+counting each visitor only once in the time frame of the report. This
+statistic is relevant to site publishers and advertisers as a measure of a
+site's true audience size, equivalent to the term "Reach" used in other media.
+
+The number of Total Visitors to a site divided by Unique Visitors results in
+the derived statistic "Average Sessions Per Unique Visitor" which tells a
+publisher how many times each Unique Visitor came to their site on average in
+the time frame of the report. Average Sessions Per Unique Visitor is
+equivalent to "Frequency" used in other media.
+
+The Unique Visitors statistic is most accurately measured in two ways with
+current technology:
+
+  1. by requiring all Visitors to log-in to the site, thereby capturing the identity of each Visitor on each visit, or
+  2. by placing a cookie on each Visitor's computer, writing the cookie ID to a database, and checking for the cookie on each Visitor's computer each time they visit.
+
+Some log file analysis software products calculate a proxy for Unique Visitors
+by counting the number of visitors from unique IP addresses. This statistic is
+a poor measure as it is distorted by two main factors:
+
+  1. Many consumers access the internet from networks that allow them to share a single IP address, which results in the IP address proxy undercounting Unique Visitors. Tracking the visitor's UserAgent (browser identification information) in addition to the IP address can help mitigate this, but many of the users that share a single IP address may also use the same browser.
+  2. There are also Internet Service Providers (ISP), such as AOL and cable modem providers, that use Dynamic Host Configuration Protocol (DHCP) which can provide their customers with a different IP addresses for each request they make from a site, thereby making one visitor look like many, thereby causing the IP address proxy to overcount Unique Users. However, most only do this after a timeout period when they run out of available IP addresses.
+
+Many log file analysis products also use a proxy for Unique Visitors in which
+they count multiple visitors from the same IP Address if they don't visit the
+site within the same 30-minute window. This statistic results in a higher
+number than counting unique IP addresses, but is not equivalent to Unique
+Visitors as there is no guarantee that a visitor from the same IP Address
+outside the 30-minute window is a different visitor than a previous Visitor
+within the window.
+
+## [edit] Criticism
+
+The science of tracking Internet usage is still far from perfect. Marketers
+rely heavily on comScore and the other major Web-measurement company, Nielsen
+Online, when trying to decide how to spend their online ad dollars.
+Advertisers study their data - including a Web site's total visitors or page
+views and time spent on the site -- to try to determine which sites are
+popular among particular demographic groups or in certain topic areas, such as
+news or sports. They typically compare those data with a Web site's own
+figures. Both Web-measurement companies have gaps in their research. Because
+they use panels of Web users to gather data and then extrapolate, the results
+are estimates. And both companies lack the capacity to measure total
+international audiences. The companies are trying to address those
+shortcomings by looking for ways to increase the size and depth of their
+panels, investing in technology and expanding overseas. Nielsen Online, which
+is owned by the audience-measurement firm Nielsen, also is trying to combine
+its Web research with usage data from other media, such as mobile-phone and
+television measures. To complicate matters, disparities between comScore and
+Nielsen data are common, as the two companies use different methodologies to
+measure their audience panels.[1]
+
+## [edit] External links
+
+  * Visitor Estimation from Site Access Logs
+  * [2] Web Analytics Association Definitions
+
+Retrieved from "http://en.wikipedia.org/wiki/Unique_visitor"
+
+Categories: Web analytics
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 7 April 2009, at 14:42 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

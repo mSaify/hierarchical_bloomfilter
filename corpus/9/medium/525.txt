@@ -1,0 +1,1051 @@
+
+# Standard Mandarin
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Standard Mandarin  
+
+æ®éè©± / æ®éè¯ PÇtÅnghuÃ  
+åèª / å½è¯­ GuÃ³yÇ  
+è¯èª / åè¯­ HuÃ¡yÇ  
+ç¾ä»£æ¨æºæ¼¢èª / ç°ä»£æ åæ±è¯­ XiÃ ndÃ ibiÄozhÇnhÃ nyÇ  
+Spoken in: People's Republic of China, Republic of China, Singapore  
+Region: Most of northern and southwestern China (and also overseas Singapore,
+Malaysia, Los Angeles, Vancouver, Sydney, Suriname, Mauritius, New York City
+and other overseas Chinese communities)  
+Total speakers: 885 million (first language speakers) [1]  
+Ranking: 1 (native speakers)  
+Language family: Sino-Tibetan  
+Sinitic  
+Chinese  
+Mandarin  
+Northern Mandarin  
+Standard Mandarin  
+Official status  
+Official language in: Official language of People's Republic of China,Republic
+of China and Singapore  
+Regulated by: In the PRC: National Language Regulating Committee[1]  
+In the ROC: National Languages Committee  
+In Singapore: Promote Mandarin Council/Speak Mandarin Campaign[2]  
+Language codes  
+ISO 639-1: `zh`  
+ISO 639-2: `chi (B)` `zho (T)`  
+ISO 639-3: `cmn`  
+Note: This page may contain IPA phonetic symbols in Unicode.  
+<IMG>
+
+<IMG>
+
+<IMG>
+
+<IMG>
+
+Map of eastern mainland China and Taiwan, showing the historic distribution of
+Mandarin Chinese in light brown. Standard Mandarin is based on the particular
+dialect of Mandarin spoken in Beijing.
+
+Standard Mandarin, or Standard Chinese, is the official modern Chinese spoken
+language used in mainland China and Taiwan, and is one of the four official
+languages of Singapore.
+
+The phonology of Standard Mandarin is based on the Beijing dialect of
+Mandarin, a large and diverse group of Chinese dialects spoken across northern
+and southwestern China. The vocabulary is largely drawn from this group of
+dialects. The grammar is standardized to the body of modern literary works
+written in Vernacular Chinese, which in practice follows the same tradition of
+the Mandarin dialects with some notable exceptions. As a result, Standard
+Mandarin itself is usually just called "Mandarin" in non-academic, everyday
+usage. However, linguists use "Mandarin" to refer to the entire language. This
+convention will be adopted by the rest of this article.
+
+## Contents
+
+  * 1 Native names
+  * 2 History
+  * 3 Phonology
+    * 3.1 Initials
+    * 3.2 Finals
+    * 3.3 R Finals
+    * 3.4 The "ki-" sequence
+    * 3.5 Tones
+      * 3.5.1 Neutral tone
+      * 3.5.2 Tone sandhi
+        * 3.5.2.1 Tone sandhi rules at a glance
+        * 3.5.2.2 Rules for "ä¸" and "ä¸"
+      * 3.5.3 Relationship between Middle Chinese and modern tones
+    * 3.6 Word stress
+  * 4 Standard Mandarin and Beijing dialect
+  * 5 Standard Mandarin and other dialects and languages
+    * 5.1 Accents
+  * 6 Role of standard Mandarin
+  * 7 Common Phrases
+  * 8 See also
+  * 9 Notes
+  * 10 References
+  * 11 External links
+
+  
+## [edit] Native names
+
+Standard Mandarin is officially known
+
+  * in mainland China, Hong Kong [2] and Macau as Putonghua (traditional Chinese: æ®éè©±; simplified Chinese: æ®éè¯; pinyin: PÇtÅnghuÃ ; literally "common speech").
+  * in Taiwan as Guoyu, and unofficially in Hong Kong as Gwok Yu (traditional Chinese: åèª; simplified Chinese: å½è¯­; pinyin: GuÃ³yÇ; literally "national language").
+  * in Malaysia and Singapore as Huayu (traditional Chinese: è¯èª; simplified Chinese: åè¯­; pinyin: HuÃ¡yÇ; literally "Chinese (in a cultural sense) language").
+
+In other parts of the world, the three names are used interchangeably to
+varying degrees, Putonghua being the most common.
+
+The name Guoyu received official recognition in 1909, when the Qing Dynasty
+determined Standard Mandarin as the "national language". The name Putonghua
+also has a long, albeit unofficial, pedigree. It was used as early as 1906 in
+writings by Zhu Wenxiong (æ±æç) to differentiate a modern, standard
+language from classical Chinese and Chinese dialects.
+
+For some linguists of the early 20th century, the Putonghua, or "common
+tongue", was conceptually different from the Guoyu, or "national language".
+The former was a national prestige dialect or language, while the latter was
+the legal standard. Based on common understandings of the time, the two were,
+in fact, different. Guoyu was understood as formal vernacular Chinese, which
+is close to classical Chinese. By contrast, Putonghua was called the "the
+common speech of the modern man", which is the spoken language adopted as a
+national lingua franca by conventional usage. The use of the term Putonghua by
+left-leaning intellectuals such as Qu Qiubai and Lu Xun influenced the
+People's Republic of China government to adopt that term to describe Standard
+Mandarin in 1956. Prior to this, the government used both terms
+interchangeably.[3]
+
+Huayu, or "language of the Chinese nation", originally simply meant "Chinese
+language", and was used in overseas communities to contrast Chinese dialects
+against foreign languages. Over time, the desire to standardise the variety of
+Chinese spoken in these communities led to the adoption of the name "Huayu" to
+refer to standard Mandarin. This name also avoids choosing a side between the
+alternative names of Putonghua and Guoyu, which came to have political
+significance after their usages diverged along political lines between the PRC
+and the ROC. It also incorporates the notion that Mandarin is usually not the
+national or common language of the areas in which overseas Chinese live.
+
+## [edit] History
+
+Main article: History of Standard Mandarin
+
+Chinese languages have always had dialects; hence prestige dialects have
+always existed, and linguae francae have always been needed. Confucius, for
+example, used yÇyÃ¡n (é è¨), or "elegant speech", rather than colloquial
+regional dialects; text during the Han Dynasty also referred to tÅngyÇ
+(éè¯­), or "common language". Rime books, which were written since the
+Southern and Northern Dynasties, may also have reflected one or more systems
+of standard pronunciation during those times. However, all of these standard
+dialects were probably unknown outside the educated elite; even among the
+elite, pronunciations may have been very different, as the unifying factor of
+all Chinese dialects, Classical Chinese, was a written standard, not a spoken
+one.
+
+The Ming Dynasty (1368â1644) and the Qing Dynasty (1644â1912) began to use
+the term guÄnhuÃ  (å®è¯), or "official speech", to refer to the speech used
+at the courts. The term "Mandarin" comes directly from the Portuguese. The
+word mandarim was first used to name the Chinese bureaucratic officials (i.e.,
+the mandarins), because the Portuguese, under the misapprehension that the
+Sanskrit word (mantri or mentri) that was used throughout Asia to denote "an
+official" had some connection with the Portuguese word mandar (to order
+somebody to do something), and having observed that these officials all
+"issued orders", chose to call them mandarins. From this, the Portuguese
+immediately started calling the special language that these officials spoke
+amongst themselves (i.e., "Guanhua") "the language of the mandarins", "the
+mandarin language" or, simply, "Mandarin". The fact that Guanhua was, to a
+certain extent, an artificial language, based upon a set of conventions (that
+is, the various Mandarin dialects for grammar and meaning, and the specific
+dialect of the Imperial Court's locale for its pronunciation), is precisely
+what makes it such an appropriate term for Modern Standard Chinese (also the
+various Mandarin dialects for grammar and meaning, and their dialect of
+Beijing for its pronunciation).
+
+It seems that during the early part of this period, the standard was based on
+the Nanjing dialect of Mandarin, but later the Beijing dialect became
+increasingly influential, despite the mix of officials and commoners speaking
+various dialects in the capital, Beijing. In the 17th century, the Empire had
+set up Orthoepy Academies (æ­£é³æ¸é¢ ZhÃ¨ngyÄ«n ShÅ«yuÃ n) in an attempt to
+make pronunciation conform to the Beijing standard. But these attempts had
+little success since as late as the 19th century the emperor had difficulty
+understanding some of his own ministers in court, who did not always try to
+follow any standard pronunciation. Although by some account, as late as the
+early 20th century, the position of Nanjing Mandarin was considered to be
+higher than that of Beijing by some and the Chinese Postal Map Romanization
+standards set in 1906 included spellings with elements of Nanjing
+pronunciation.[4] Nevertheless, by 1909, the dying Qing Dynasty had
+established the Beijing dialect as guÃ³yÇ (å½è¯­), or the "national
+language".
+
+After the Republic of China was established in 1912, there was more success in
+promoting a common national language. A Commission on the Unification of
+Pronunciation was convened with delegates from the entire country. At first
+there was an attempt to introduce a standard pronunciation with elements from
+regional dialects. But this was deemed too difficult to promote, and in 1924
+this attempt was abandoned and the Beijing dialect became the major source of
+standard national pronunciation, due to the status of that dialect as a
+prestigious dialect since the Qing Dynasty. Elements from other dialects
+continue to exist in the standard language, but as exceptions rather than the
+rule.
+
+The People's Republic of China, established in 1949, continued the effort. In
+1955, the name guÃ³yÇ was replaced by pÇtÅnghuÃ  (æ®éè¯), or "common
+speech". (By contrast, the name guÃ³yÇ continued to be used by the Republic
+of China which, after the 1949 loss in the Chinese Civil War, had a territory
+consisting of Taiwan, Penghu, Kinmen, Matsu Islands, and smaller islands)
+Since then, the standards used in mainland China and Taiwan have diverged
+somewhat, especially in newer vocabulary terms, and a little in pronunciation.
+
+The advent of the 20th century has seen many profound changes in Standard
+Mandarin. Many formal, polite and humble words that were in use in imperial
+China have almost entirely disappeared in daily conversation in modern-day
+Standard Mandarin, such as jiÃ n (è´± "my humble") and guÃ¬ (è´µ "your
+honorable").
+
+The word 'Putonghua' was defined in October 1955 by the Minister of Education
+Department in mainland China as follows: "Putonghua is the common spoken
+language of the modern Han group, the lingua franca of all ethnic groups in
+the country. The standard pronunciation of Putonghua is based on the Beijing
+dialect, Putonghua is based on the Northern dialects [i.e. the Mandarin
+dialects], and the grammar policy is modeled after the vernacular used in
+modern Chinese literary classics" [5].
+
+In both China and Taiwan, the use of Standard Mandarin as the medium of
+instruction in the educational system and in the media has contributed to the
+spread of Standard Mandarin. In Taiwan, all other languages, including Minnan,
+Hakka, Aboriginal languages, and Japanese were banned from school, the media,
+and official use. As a result, Standard Mandarin is now spoken fluently by
+most people in China and in Taiwan.
+
+In Hong Kong and Macau, which are now special administrative regions of the
+People's Republic of China, Standard Cantonese has been the primary language
+spoken by the majority of the population, due to historical and linguistic
+reasons. After Hong Kong's handover from Britain and Macau's handover from
+Portugal, Standard Mandarin has become only slightly more understood (but
+still not widely spoken) and is used by the governments of the two territories
+to communicate with the Central People's Government of China. In fact, many
+students from Hong Kong and Macau go to China or Taiwan to study Standard
+Mandarin. Cantonese remains the official government language of Hong Kong and
+Macau when not communicating with China.
+
+## [edit] Phonology
+
+This article contains IPA phonetic symbols. Without proper rendering support,
+you may see question marks, boxes, or other symbols instead of Unicode
+characters.  
+The standardized phonology of Standard Mandarin is reproduced below. Actual
+reproduction varies widely among speakers, as everyone (including national
+leaders) inadvertently introduces elements of his/her own native dialect. By
+contrast, television and radio announcers are chosen for their pronunciation
+accuracy and "neutral" accent.
+
+### [edit] Initials
+
+The following is the initial inventory of Standard Mandarin as represented in
+the International Phonetic Alphabet (IPA):
+
+Bilabial Labio-  
+dental Alveolar Retroflex Alveolo-  
+palatal Velar  
+Nasal m n Å  
+Plosive p pÊ° t tÊ° k kÊ°  
+Affricate ts tsÊ° ÊÊ ÊÊÊ° tÉ tÉÊ°  
+Fricative f s Ê (Ê)1 É x  
+Approximant l É»1 j É¥ w  
+1 /É»/ is often transcribed as [Ê] (a voiced retroflex fricative). This
+represents a variation in pronunciation among different speakers, rather than
+two different phonemes.
+
+Corresponding chart in:
+
+  * Pinyin
+  * Zhuyin
+  * Gwoyeu Romatzyh
+
+For more complete information, showing how initials and finals interact, see
+this zhuyin-IPA chart. The vowel sounds in that chart have been verified
+against the official IPA: site. A table of valid initial and final
+combinations can also be seen at:
+
+  * Pinyin table
+  * Zhuyin table
+
+What are traditionally termed retroflex are phonetically not true retroflex
+articulations. These consonants are, rather, flat apical postalveolar, and
+thus differ from both palatoalveolar and (true) retroflex consonants
+(Ladefoged & Wu 1984; Ladefoged & Maddieson 1996:150-154).
+
+The alveolo-palatal consonants /tÉ tÉÊ° É/ are in complementary
+distribution (see minimal pair) with the alveolar consonants /ts tsÊ° s/,
+retroflex consonants /tÊ tÊÊ° Ê/ and velar consonants /k kÊ° x/. As a
+result, linguists prefer to classify /tÉ tÉÊ° É/ as allophones of one of
+the three other sets. The Yale and Wade-Giles systems, for example, mostly
+treat the palatals as allophones of the retroflex consonants; Tongyong Pinyin
+mostly treats them as allophones of the alveolars; and Chinese braille treats
+them as allophones of the velars.
+
+/tÉ tÉÊ° É/ may be pronounced as [tsj tsÊ°j sj], which is characteristic of
+the speech of young women, and also of some men. This is usually considered
+rather effeminate and may also be considered substandard.
+
+The null initial, written as an apostrophe word-medially or -finally, is most
+commonly realized as [É°], though [n], [Å], [É£], and [Ê] are common in
+other dialects of Mandarin; some of these correspond to null in the Standard
+Mandarin but contrast with it in their dialect.[citation needed]
+
+### [edit] Finals
+
+The final, or rime, of a syllable, in Standard Mandarin, is the part after the
+initial consonant. A Mandarin final can be structurally described as
+(Vm)V(Cf). In other words, it consists of an optional medial, a nucleus, and
+an optional coda. When present, the medial can be one of the three glides
+corresponding to the three high vowels: /i/, /u/, /y/. The coda can be absent;
+it can be one of two glides: /i/ and /u/; or it can be one of two nasals: /n/,
+/Å/.
+
+Not counting tone distinctions, there are about 35 distinct finals in
+Mandarin.
+
+There are at least the following phones:
+
+  * [a] (only in finals [a], [ia], [ua], [ya], [ai], [uai], [uan])
+  * [É] (only in finals [ÉÊ], [iÉÊ], [ÉÅ], [iÉÅ], [uÉÅ])
+  * [e] (only in finals [ei] and [uei])
+  * [É] (only in finals [iÉ], [iÉn], [yÉn] and in the isolated word [É])
+  * [Å] (only in final [yÅ])
+  * [o] (only in finals [ou] and [iou])
+  * [É] (only in final [uÉ] and in the isolated word [É])
+  * [É] (only in finals [Én], [uÉn], [ÉÅ], [uÉÅ])
+  * [É¤] (only in final [É¤])
+  * [zÌ©] (only in final [zÌ©], which occurs only after alveolar sibilants; sometimes pronounced as [É¨])
+  * [ÊÌ©] (only in final [ÊÌ©Ì©], which occurs only after retroflex sibilants; sometimes pronounced as [É¨])
+  * [i] (only in finals [i], [in], [iÅ])
+  * [Ê] (only in finals [ÊÅ], [yÊÅ])
+  * [u] (only in final [u])
+  * [y] (only in final [y], [yn])
+
+This shows fourteen different vowels. By very conservative standards, this
+represents a system of eight phonemes: /a/ ([a]/[É]), /e/ ([e]/[É]/[Å]),
+/o/ ([o]/[É]), /É/ ([É]/[É¤]), /zÌ©/ ([zÌ©]/[ÊÌ©]), /i/ ([i]), /u/
+([Ê]/[u]), and /y/ ([y]).
+
+Further reduction can be achieved by noticing that /e/, /o/, and /É/ are in
+complementary distribution, and can be treated as a single phoneme /É/.
+Exceptions are the isolated words [É] and [É], which function only as
+exclamations and can be treated as outside of the core system (similar to the
+normal treatment of "hmm", "unh-unh", "shhh!" and other English exclamations
+that violate usual syllabic constraints). Note also that the finals [iÉn] can
+be considered to be phonemically either /iÉn/ or /ian/; likewise for [yÉn],
+which can be either /yÉn/ or /yan/. (Taking into account that [iÉn] and
+[yÉn] become [iaÉ»] and [yaÉ»] upon rhoticization, the latter interpretation
+seems more likely.) It would also be possible to merge /zÌ©/ and /i/, provided
+that the alveolo-palatal and retroflex series are not themselves merged, since
+/i/ does not occur after retroflex or velar sounds or after alveolar
+fricatives and affricates. If all of these suggestions are followed, and
+[iÉn] and [yÉn] considered to be /ian/ and /yan/, the resulting system of
+/a/, /É/, /i/, /u/, and /y/ is much like the standard pinyin romanization
+scheme (except that pinyin does not merge /É/ with /o/ and uses a certain
+number of shortcut spellings).
+
+An even more reduced system results from considering main vowel /i/, /u/ and
+/y/ to be the surface results of the respective glides combined with a null
+meta-phoneme. This system, shown below, analyzes the final part of a syllable
+as a combination of a glide slot (/i/, /u/, /y/ or null), a main vowel slot
+(/a/, /É/ or null), and a coda slot (/i/, /u/, /n/, /Å/ or null). (The
+minimal vowel /zÌ©/ ([zÌ©]/[ÊÌ©] or [É¨]) is considered to be the surface
+manifestation when all three slots are null, rather than an allophone of main
+vowel /i/.)
+
+When the medial, nucleus, and coda combine into a final, their pronunciations
+may be affected. The following is the full table of finals of Standard
+Mandarin in the IPA:
+
+Nucleus Coda Medial  
+Ã i u y  
+a Ã a ia ua  
+i ai uai  
+u ÉÊ iÉÊ  
+n an iÉn uan yÉn  
+Å ÉÅ iÉÅ uÉÅ  
+É Ã É¤ iÉ uo 1 yÉ Â²  
+i ei uei  
+u É¤Ê iÉ¤Ê  
+n Én in uÉn yn  
+Å É¤Å iÅ uÉ¤Å Â³ yÊÅ  
+Ã zÌ© i u y  
+1 Both pinyin and zhuyin have an additional "o", used after "b p m f", which
+is distinguished from "uo", used after everything else. "o" is generally put
+into the first column instead of the third. However, in Beijing pronunciation,
+these are identical.  
+Â² Another way to represent the four finals of this line is: [É¯Ê iÉ uÉ
+yÅ], which reflects Beijing pronunciation.  
+Â³ /uÉ¤Å/ is pronounced [ÊÅ] when it follows an initial.
+
+Corresponding chart in:
+
+  * Pinyin
+  * Zhuyin#Another_comparison_table
+  * Gwoyeu Romatzyh
+
+A table of valid initial and final combinations can also be seen at:
+
+  * Pinyin table
+  * Zhuyin table
+
+### [edit] R Finals
+
+Main article: Erhua
+
+Standard Mandarin also uses a rhotic consonant, /É/. This usage is a unique
+feature of Standard Mandarin; other dialects lack this sound. In Chinese, this
+feature is known as Erhua. There are two cases in which it is used:
+
+  1. In a small number of words, such as äº Ã¨r "two", è³ Är "ear", etc. All of these words are pronounced as [ÉÉ] with no initial consonant.
+  2. As a noun suffix -å /-å¿ -r. The suffix combines with the final, and regular but complex changes occur as a result.
+
+The "r" final must be distinguished from the retroflex semi-vowel written as
+<ri> in the pinyin spelling and represented either by <Ê> or <É»> in IPA.
+"The star rode a donkey" in some rhotic English accents, and æå¥³å å
+¥é«é¢/æå¥³å¿å ¥å»é¢ WÇ nÇ'Ã©r rÃ¹ yÄ«yuÃ n "My daughter entered the
+hospital" in standard Mandarin, both have a first r pronounced with a
+relatively lax tongue, whereas the second /r/ sounds involves a very active
+curling of the tongue and contact with the top of the mouth.
+
+In other dialects of Mandarin, the rhotic consonant is sometimes replaced by
+another syllable, such as li, in words that indicate locations. For example,
+éå /è¿å¿ zhÃ¨r "here" and é£å /é£å¿ nÃ r "there" become éè£¡/è¿é
+zhÃ¨li and é£è£¡/é£é nÃ li, respectively.
+
+### [edit] The "ki-" sequence
+
+Until a few centuries ago, some Mandarin Chinese words started with the sound
+sequence "ki-" or "gi-" (Wade-Giles "k'i-" and "ki-"). This changed in the
+last two or three centuries to "chi-" and "ji-", at varying times in different
+areas, and not in the dialect used in the Manchu dynasty imperial court. That
+is why some European transcriptions of Chinese names contain "ki-". Examples
+are Peking for Beijing, Nanking, Chungking, "-kiang" for "-jiang" (= "river"),
+Fukien for Fujian (a province).
+
+### [edit] Tones
+
+<IMG>
+
+<IMG>
+
+Relative pitch changes of the four tones
+
+Mandarin, like all Chinese dialects, is a tonal language. This means that
+tones, just like consonants and vowels, are used to distinguish words from
+each other. Many foreigners have difficulties mastering the tones of each
+character, but correct tonal pronunciation is essential for intelligibility
+because of the vast number of characters in the language that only differ by
+tone (i.e. are minimal pairs with respect to tone). The following are the 4
+tones of Standard Mandarin:
+
+Tone chart of Standard Mandarin Tone name Yin Ping Yang Ping Shang Qu  
+Tone number 1 2 3 4  
+Pinyin diacritic Ä Ã¡ Ç Ã  
+Tone letter Ë¥ (55) Ë§Ë¥ (35) Ë©, Ë¨Ë©Ë¦ (1, 214) Ë¥Ë© (51)  
+IPA diacritic Ã¡ Ç Ã , aá· Ã¢  
+  1. First tone, or high-level tone (é°å¹³/é´å¹³ yÄ«npÃ­ng, literal meaning: yin-level): 
+    a steady high sound, as if it were being sung instead of spoken.
+  2. Second tone, or rising tone (é½å¹³/é³å¹³ yÃ¡ngpÃ­ng, literal meaning: yang-level), or linguistically, high-rising: 
+    is a sound that rises from mid-level tone to high (e.g., What?!)
+  3. Third tone (low or dipping tone, ä¸è²/ä¸å£° shÇngshÄng or shÃ ngshÄng, literal meaning: "up tone"): 
+    has a mid-low to low descent; if at the end of a sentence or before a pause, it is then followed by a rising pitch. Between other tones it may simply be low.
+  4. Fourth tone, falling tone (å»è²/å»å£° qÃ¹shÄng, literal meaning: "away tone"), or high-falling: 
+    features a sharp fall from high to low, and is a shorter tone, similar to curt commands. (e.g., Stop!)
+
+    zh-pinyin_tones_with_ma.ogg The syllable "ma" pronounced with the four main tones (helpÂ·info)
+The nature of these four tones are actually slured musical pitches.
+
+#### [edit] Neutral tone
+
+Also called Fifth tone or zeroth tone (in Chinese: è¼è²/è½»å£° qÄ«ng shÄng,
+literal meaning: "light tone"), neutral tone is sometimes thought of as a lack
+of tone. It usually comes at the end of a word or phrase, and is pronounced in
+a light and short manner. The neutral tone has a large number of allotones:
+Its pitch depends almost entirely on the tone carried by the syllable
+preceding it. The situation is further complicated by the amount of dialectal
+variation associated with it; in some regions, notably Taiwan, the neutral
+tone is relatively uncommon.
+
+Despite many examples of minimal pairs (for example, è¦æ¯ and é¥å, yÃ
+oshÃ¬ if and yÃ oshi key, respectively), it is sometimes described as
+something other than a full-fledged tone for technical reasons: Namely because
+some linguists feel that it results from a "spreading out" of the tone on the
+preceding syllable. This idea is appealing intuitively because without it, the
+neutral tone requires relatively complex tone sandhi rules to be made sense
+of; indeed, it would have to have 4 separate allotones, one for each of the
+four tones that could precede it. However, the "spreading" theory incompletely
+characterizes the neutral tone, especially in sequences where more than one
+neutrally toned syllable are found adjacent[6].
+
+The following are from Beijing dialect[7]. Other dialects may be slightly
+different.
+
+Realization of neutral tones Tone of first syllable Pitch of neutral tone
+Example Pinyin English meaning  
+1 Ë¥ Ë¨ (2) ç»ç (Ë¥.Ë¨) bÅli glass  
+2 Ë§Ë¥ Ë§ (3) ä¼¯ä¼¯ (Ë§Ë¥.Ë§) bÃ³bo uncle  
+3 Ë¨Ë© Ë¦ (4) åå­ (Ë¨Ë©.Ë¦) lÇba horn  
+4 Ë¥Ë© Ë© (1) å å­ (Ë¥Ë©.Ë©) tÃ¹zi rabbit  
+Most romanizations represent the tones as diacritics on the vowels (e.g.,
+Hanyu Pinyin, MPS II and Tongyong Pinyin). Zhuyin uses diacritics as well.
+Others, like Wade-Giles, use superscript numbers at the end of each syllable.
+The tone marks and numbers are rarely used outside of language textbooks.
+Gwoyeu Romatzyh is a rare example where tones are not represented as special
+symbols, but using normal letters of the alphabet (although without a one-to-
+one correspondence).
+
+To listen to the tones, see
+http://www.wku.edu/~shizhen.gao/Chinese101/pinyin/tones.htm (click on the
+blue-red yin yang symbol).
+
+#### [edit] Tone sandhi
+
+Pronunciation also varies with context according to the rules of tone sandhi.
+The most prominent phenomenon of this kind is when there are two third tones
+in immediate sequence, in which case the first of them changes to a rising
+tone, the second tone. In the literature, this contour is often called two-
+thirds tone or half-third tone, though generally, in Standard Mandarin, the
+"two-thirds tone" is the same as the second tone. If there are three third
+tones in series, the tone sandhi rules become more complex, and depend on word
+boundaries, stress, and dialectal variations.
+
+##### [edit] Tone sandhi rules at a glance
+
+  1. When there are two 3rd tones (Ë¨Ë©Ë¦) in a row, the first syllable becomes 2nd tone (Ë§Ë¥), and the second syllable becomes half-3rd tone (Ë¨Ë©). 
+    ex: èé¼  (lÇoshÇ) becomes [laoË§Ë¥ÊuË¨Ë©]
+  2. When there are three 3rd tones in a row, things get more complicated. 
+    If the first word is two syllables, and the second word is one syllable, the first two syllables become 2nd tones, and the last syllable stays 3rd tone: 
+    ex: ä¿ç®¡å¥½ (bÇoguÇn hÇo) becomes [paoË§Ë¥kuanË§Ë¥xaoË¨Ë©Ë¦]
+    If the first word is one syllable, and the second word is two syllables, the first syllable becomes half-3rd tone (Ë¨Ë©), the second syllable becomes 2nd tone, and the last syllable stays 3rd tone: 
+    ex: èä¿ç®¡ (lÇo bÇoguÇn) becomes [laoË¨Ë©paoË§Ë¥kuanË¨Ë©Ë¦]
+  3. When a 3rd tone is followed by a first, second or fourth tone, or most neutral tone syllables, it usually becomes a half-3rd tone. The half-3rd tone is a tone that only falls but does not rise. 
+    ex: ç¾å¦ (mÄimiÃ o) becomes [meiË¨Ë©miaoË¥Ë©]
+
+##### [edit] Rules for "ä¸" and "ä¸"
+
+"ä¸" (yÄ«) and "ä¸" (bÃ¹) have special rules which do not apply to other
+Chinese characters:
+
+  1. When in front of a 4th tone syllable, "ä¸" becomes 2nd tone. 
+    ex: ä¸å® (yÄ«dÃ¬ng becomes yÃ­dÃ¬ng [iË§Ë¥tiÅË¥Ë©])
+  2. When in front of a non-4th tone syllable, "ä¸" becomes 4th tone. 
+    ex. (1st tone)ï¼ä¸å¤© (yÄ«tiÄn â yÃ¬tiÄn [iË¥Ë©tÊ°iÉnË¥Ë¥])
+    ex. (2nd tone): ä¸å¹´ (yÄ«niÃ¡n â yÃ¬niÃ¡n [iË¥Ë©niÉnË§Ë¥])
+    ex. (3rd tone): ä¸èµ· (yÄ«qÇ â yÃ¬qÇ [iË¥Ë©tÉÊ°iË¨Ë©Ë¦])
+  3. When "ä¸" falls between two words, it becomes neutral tone. 
+    ex: çä¸ç (kÃ nyÄ«kÃ n) becomes kÃ nyikÃ n
+  4. When counting sequentially, and for all other situations "ä¸" retains its root tone value of 1st tone. This includes when ä¸ is used at the end of a multi-syllable word (regardless of the first tone of the next word), and when ä¸ is immediately followed by any digit, including another ä¸; hence ä¸ also retains its root tone value of 1st tone in both syllables of the word "ä¸ä¸". However, it does not include situations where ä¸ä¸ is part of a longer word like ä¸ä¸å¯¹åº or ä¸ä¸å¦å½ (these are pronounced yÃ¬yÃ­duÃ¬yÃ¬ng and yÃ­yÃ¬rÃºmÃ¬ng, although written yÄ«yÄ«duÃ¬yÃ¬ng and yÄ«yÄ«rÃºmÃ¬ng). The word ä¸ä¸ä¸ (meaning "I won't go into details") is pronounced differently depending on whether or not speakers interpret it as containing ä¸ä¸ as a component word.
+  5. When ä¸ is part of a cardinal number, it is pronounced as 4th tone when before å or ç¾, but in an ordinal number it is pronounced as 1st tone in these contexts.
+  6. "ä¸" becomes 2nd tone only when followed by a 4th tone syllable. 
+    ex: ä¸æ¯ (bÃ¹shÃ¬) becomes [puË§Ë¥ÊË¥Ë©]
+  7. When "ä¸" comes between two words, it loses its tone (becomes neutral in tone). 
+    ex: æ¯ä¸æ¯ (shÃ¬bÃ¹shÃ¬) becomes shÃ¬bushÃ¬
+
+#### [edit] Relationship between Middle Chinese and modern tones
+
+Relationship between Middle Chinese and modern tones:
+
+V- = unvoiced initial consonant  
+L = sonorant initial consonant  
+V+ = voiced initial consonant (not sonorant)
+
+Middle Chinese Tone Ping (å¹³) Shang (ä¸) Qu (å») Ru (å ¥)  
+Middle Chinese Initial V- L V+ V- L V+ V- L V+ V- L V+  
+Standard Mandarin Tone name Yin Ping  
+(é°å¹³, 1) Yang Ping  
+(é½å¹³, 2) Shang  
+(ä¸, 3) Qu  
+(å», 4) redistributed  
+with no pattern to Qu to Yang Ping  
+Standard Mandarin Tone contour 55 35 214 51 to 51 to 35  
+It is known that if the two morphemes of a compound word cannot be ordered by
+grammar, the order of the two is usually determined by tones â Yin Ping (1),
+Yang Ping (2), Shang (3), Qu (4), and Ru, which is the plosive-ending tone
+that has already disappeared. Below are some compound words that show this
+rule. Tones are shown in parentheses, and R indicates Ru.
+
+å·¦å³ (34)  
+åå (2R)  
+è¼é (14)  
+è²§å¯ (24)  
+å¹å¸ (1R)  
+åæ (34)  
+åæ¨ (1R)  
+çæ­» (13)  
+æ­»æ´» (3R)  
+é°é½ (12)  
+ææ (24)  
+æ¯è­½ (34)  
+è¤è²¶ (13)  
+é¢å (2R)
+
+### [edit] Word stress
+
+The stress pattern of Chinese language is made up of three degrees of stress.
+There are three stress patterns, which commonly occur in the two-syllable
+compound words[8]:
+
+    Pattern One: Normal Stress + Primary Stress (\ + /)
+    Pattern Two: Primary Stress + Unstressed (/ + o)
+    Pattern Three: Primary Stress + Normal Stress (/ + \\)
+    Pattern One \ + /
+  * å­ç»å¿ zÃ¬huÃ r
+  * é³ä¹ yÄ«nyuÃ¨
+  * å­¦æ ¡ xuÃ©xiÃ o
+  * æ±½è½¦ qÃ¬chÄ
+
+    Pattern Two / + o
+  * ç¶äº² fÃ¹qin
+  * åæ¬¢ xÇhuan
+  * ä¸è¥¿ dÅngxi
+
+    Pattern Three / + \
+  * åæ nÃ³ngcÅ«n
+  * ç¤¾ä¼ shÃ¨huÃ¬
+  * ç­æ rÃ¨qÃ­ng
+
+## [edit] Standard Mandarin and Beijing dialect
+
+Due to evolution and standardization, Standard Mandarin, although based on the
+Beijing dialect, is no longer synonymous with it. Part of this was due to the
+standardization of Mandarin to reflect a greater vocabulary scheme and a more
+archaic and "proper-sounding" pronunciation and vocabulary. The areas near
+Beijing, especially the cities of Chengde and Shijiazhuang in neighbouring
+Hebei province, speak a form of Mandarin closest to its fully standardized
+pronunciation; this form is generally heard on national and local television
+and radio.
+
+By the official definition of the People's Republic of China, Standard
+Mandarin uses:
+
+  * The phonology or sound system of Beijing. A distinction should be made between the sound system of a dialect or language and the actual pronunciation of words in it. The pronunciations of words chosen for Standard Mandarin -- a standardized speech -- do not necessarily reproduce all of those of the Beijing dialect. The pronunciation of words is a standardization choice and occasional standardization differences (not accents) do exist, between Putonghua and Guoyu, for example.
+
+In fluent speech, Chinese speakers can easily tell the difference between a
+speaker of the Beijing dialect and a speaker of Standard Mandarin. Beijingers
+speak Standard Mandarin with elements of their own dialect in the same way as
+other speakers.
+
+  * The vocabulary of Mandarin dialects in general. This means that all slang and other elements deemed "regionalisms" are excluded. On the one hand, the vocabulary of all Chinese dialects, especially in more technical fields like science, law, and government, are very similar. (This is similar to the profusion of Latin and Greek words in European languages.) This means that much of the vocabulary of standardized Mandarin is shared with all varieties of Chinese. On the other hand, much of the colloquial vocabulary and slang found in Beijing dialect is not found in Standard Mandarin, and may not be understood by people outside Beijing.
+  * The grammar and usage of exemplary modern Chinese literature, such as the work of Lu Xun, collectively known as "Vernacular Chinese" (baihua). Vernacular Chinese, the standard written form of modern Chinese, is in turn based loosely upon a mixture of northern (predominant), southern, and classical grammar and usage. This gives formal standard Mandarin structure a slightly different feel from that of street Beijing dialect.
+
+In theory the Republic of China in Taiwan defines standard Mandarin
+differently, though in reality the differences are minor and are concentrated
+mostly in the tones of a small minority of words.
+
+Speakers of Standard Mandarin generally have little difficulty understanding
+the Beijing accent, which the former is based on. Natives of Beijing commonly
+add a final "er" (/É»/) (å é³/å¿é³; pinyin: Ã©ryÄ«n) â commonly used as
+a diminutive â to vocabulary items, as well as use more neutral tones in
+their speech. An example of Standard Mandarin versus the Beijing dialect would
+be: standard men (door) compared with Beijing menr. These give the Beijing
+dialect a somewhat distinctive lilt compared to Standard Mandarin spoken
+elsewhere. The dialect is also known for its rich colloquialisms and idiomatic
+expressions.
+
+Although Chinese speakers make a clear distinction between Standard Mandarin
+and the Beijing dialect, there are aspects of Beijing dialect that have made
+it into the official standard. Standard Mandarin has a T-V distinction between
+the polite and informal versions of you that comes from Beijing dialect, but
+its use is quite diminished in daily speech. In addition, there is a
+distinction between "zÃ¡nmen" (we including the listener) and "wÇmen" (we not
+including the listener). In practice, neither distinction is commonly used by
+most Chinese.
+
+The following samples are some phrases from Beijing dialect which are not yet
+accepted into Standard Mandarin:
+
+åå¿: bÃ¨ir means 'very much'; æè: bÃ n suÃ n means 'stagger'; ä¸å:
+bÃ¹ lÃ¬n means 'do not worry about'; æ®: cuÅ means 'eat'; åºæº: chÅ« liÅ«
+means 'slip'; å¤§èç·å¿ä»¬å¿: dÃ lÄo yer menr means 'man, male';
+
+The following samples are some phrases from Beijing dialect which have been
+already accepted as Standard Mandarin in recent years. äºæå: Ã¨r bÄ dÄo
+means 'not very skillful'; å¥ä»¬å¿: gÄ mÃ©nr means 'good male friends',
+"buddies"; æ é¨å¿: kÅu mÃ©nr means 'parsimony'.
+
+## [edit] Standard Mandarin and other dialects and languages
+
+Although Standard Mandarin is now firmly established as the lingua franca in
+Mainland China, the national standard can be somewhat different from the other
+dialects in the vast Mandarin dialect chain, to the point of being to some
+extent unintelligible. However, pronunciation differences within the Mandarin
+dialects are usually regular, usually differing only in the tones. For
+example, the character for "sky" å¤© is pronounced with the high level tone in
+the Beijing dialect and in Standard Mandarin (pinyin: tian), but is the
+falling tone in the Tianjin dialect of Mandarin. In languages other than
+Mandarin it can range from ti (with a light tone in the Shanghainese dialect
+of Wu) to teen in the high level or high falling tone in Standard Cantonese.
+
+Although both Mainland China and Taiwan use Standard Mandarin in the official
+context and are keen to promote its use as a national lingua franca, there is
+no official intent to have Standard Mandarin replace the regional
+languages.[citation needed] As a practical matter, speaking only Standard
+Mandarin in areas such as in southern China or Taiwan can be a social
+handicap,[citation needed] as some elderly or rural Chinese-language speakers
+do not speak Standard Mandarin fluently (although most do understand it). In
+addition, it is very common for it to be spoken with the speaker's regional
+accent, depending on factors as age, level of education, and the need and
+frequency to speak correctly for official or formal purposes. This situation
+appears to be changing, though, in large urban centers, as social changes,
+migrations, and urbanization take place.
+
+In the predominantly Han areas in Mainland China, while the use of Standard
+Mandarin is encouraged as the common working language, the PRC has been
+sensitive to the status of minority languages and has not discouraged their
+use.[citation needed] Standard Mandarin is very commonly used for logistical
+reasons,[citation needed] as in many parts of southern China the linguistic
+diversity is so large that neighboring city dwellers may have difficulties
+communicating with each other without a lingua franca.
+
+In Taiwan, the relationship between Standard Mandarin and local languages,
+particularly Taiwanese, has been more heated. During the dictatorship of the
+Kuomintang (KMT) from 1949 until the lifting of martial law in 1987, the KMT
+government discouraged or even forbade the use of Taiwanese and other local
+vernaculars. This produced a backlash in the 1990s, amongst the general
+Taiwanese populace. Under the administration of Chen Shui-Bian, the Taiwanese
+languages were taught as an individual class, with dedicated textbooks and
+course materials. The former President, Chen Shui-Bian, often broke out into
+Taiwanese during speeches, while former President Lee Teng-hui, also speaks
+Taiwanese openly when interviewed in the media.
+
+In Singapore, the government has heavily promoted a "Speak Mandarin Campaign"
+since the late 1970s. The use of other Chinese languages in broadcast media is
+prohibited and their use in any context is officially discouraged. This has
+led to some resentment amongst the older generations, as Singapore's migrant
+Chinese community is made up almost entirely of south Chinese descent. Lee
+Kuan Yew, the initiator of the campaign, admitted that to most Chinese
+Singaporeans, Mandarin was a "stepmother tongue" rather than a true mother
+language. Nevertheless, he saw the need for a unified language among the
+Chinese community not biased in favor of any existing group.[9]
+
+See also:
+
+  * Commission on the Unification of Pronunciation
+  * Mandarin Promotion Council
+  * Speak Mandarin Campaign
+
+### [edit] Accents
+
+Most Chinese (Beijingers included) speak Standard Mandarin with elements of
+their own dialects (i.e. their "accents") mixed in.
+
+For example, natives of Beijing, add a final "er" (/É»/) â commonly used as
+a diminutive â sound to vocabulary items that other speakers would leave
+unadorned (å é³/å¿é³; pinyin: Ã©ryÄ«n).
+
+On the other hand, speakers from northeastern and southern China as well as
+Taiwan often mix up zh and z, ch and c, q and c, sh and s, x and s, h and f,
+and l and n because their own home dialects often do not make these
+distinctions. As a result, it can be difficult for people who do not have the
+standard pronunciation to use pinyin, because they do not distinguish these
+sounds.
+
+See List of Chinese dialects for a list of articles on individual dialects of
+Chinese languages and how their features differ from Standard Mandarin.
+
+## [edit] Role of standard Mandarin
+
+From an official point of view, Standard Mandarin serves the purpose of a
+lingua franca â a way for speakers of the several mutually unintelligible
+Han Chinese languages, as well as the Han and Chinese minorities, to
+communicate with each other. The very name Putonghua, or "common speech",
+reinforces this idea. In practice, however, due to Standard Mandarin being a
+"public" lingua franca, other languages or dialects, both Han and non-Han,
+have shown signs of losing ground to Standard Mandarin, to the chagrin of
+certain local culture proponents.
+
+On Taiwan, Guoyu (national language) continues to be the official term for
+standard Mandarin. The term Guoyu is rarely used in Mainland China, because
+declaring a Beijing-dialect-based standard to be the national language would
+be deemed unfair to other Chinese dialects and ethnic minorities. The term
+Putonghua (common speech), on the contrary, implies nothing more than the
+notion of a lingua franca. However, the term Guoyu does persist among many
+older Mainland Chinese, and it is common in U.S. Chinese communities, even
+among Mainlanders. Some in Taiwan, especially proponents of Taiwan
+independence, also object to the term Guoyu to refer to standardized Mandarin,
+on the grounds that the "nation" referred to in the name of the language is
+China and that Taiwan is or should be independent. They prefer to refer to
+Mandarin with the terms "Beijing dialect" or Zhongwen (writing of China). As
+with most things political in Taiwan, some support the name for precisely the
+same reasons that others oppose them.
+
+In December 2004, the first survey of language use in the People's Republic of
+China revealed that only 53% of its population, about 700 million people,
+could communicate in Standard Mandarin. (China Daily) A survey by South China
+Morning Post released in September 2006 gave the same result.[citation needed]
+This 53% is defined as a passing grade above 3-B (i.e. error rate lower than
+40%) of the Evaluation Exam. Another survey in 2003 by the China National
+Language And Character Working Committee (å½å®¶è¯­è¨æå­å·¥ä½å§åä¼)
+shows, if mastery of Standard Mandarin is defined as Grade 1-A (an error rate
+lower than 3%), the percentages as follows are: Beijing 90%, Shanghai 3%,
+Tianjin 25%, Guangzhou 0.5%, Dalian 10%, Xi'an 12%, Chengdu 1%, Nanjing
+2%.[citation needed] Consequently, foreign learners of Mandarin usually opt to
+learn at Beijing, although learning grammar and writing is not confined to
+that area.
+
+With the fast development of China, more Chinese people leaving rural areas
+for cities for job or study opportunities, and the Mandarin Level Evaluation
+Exam (æ®éè¯æ°´å¹³æµè¯) has quickly become popular. Most university
+graduates take this exam before looking for a job. Many companies require a
+basic Mandarin Level Evaluation Certificate from their applicants, barring
+applicants who were born or bred in Beijing, since their Proficiency level is
+believed to be inherently 1-A (ä¸çº§ç²ç­)(Error rate: lower than 3%). As
+for the rest, the score of 1-A is rare. People who get 1-B (Error rate: lower
+than 8%) are considered qualified to work as television correspondents or in
+broadcasting stations. 2-A (Error rate: lower than 13%) can work as Chinese
+Literature Course teachers in public schools. Other levels include: 2-B (Error
+rate: lower than 20%), 3-A (Error rate: lower than 30%) and 3-B (Error rate:
+lower than 40%). In China, a proficiency of level 3-B usually cannot be
+achieved unless special training is received. Even if most Chinese do not
+speak Standard Mandarin with standard pronunciation, spoken Standard Mandarin
+is understood by virtually everyone.[citation needed]
+
+The China National Language And Character Working Committee was founded in
+1985. One of its important responsibilities is to promote Standard Mandarin
+and Mandarin Level proficiency for Chinese native speakers. (Its website link
+can be found in the external links section.)
+
+## [edit] Common Phrases
+
+English Chinese  
+(Traditional) Chinese  
+(Simplified) Pinyin  
+Hello ä½ å¥½ ä½ å¥½ NÇhÇo  
+What's your name? ä½ å«çéº¼åå­ï¼ ä½ å«ä»ä¹åå­ï¼ NÇ jiÃ o
+shÃ©nme mÃ­ngzi?  
+My name is... æå«... æå«... WÇ jiÃ o...  
+How are you? ä½ å¥½åï¼/ ä½ æéº¼æ¨£ï¼ ä½ å¥½åï¼/ ä½ æä¹æ ·ï¼ NÇ
+hÇo ma? / NÇ zÄnmeyÃ ng?  
+I am fine, and you? æå¾å¥½ï¼ä½ å¢ï¼ æå¾å¥½ï¼ä½ å¢ï¼ WÇ hÄn hÇo,
+nÇ ne?  
+I don't want it. æä¸è¦ã æä¸è¦ã WÇ bÃº yÃ o.  
+Thank you è¬è¬ è°¢è°¢ XiÃ¨xiÃ¨  
+Welcome! / You're welcome! æ­¡è¿æ¨ï¼/ ä¸ç¨è¬ï¼ æ¬¢è¿æ¨ï¼/
+ä¸ç¨è°¢ï¼ HuÄnyÃ­ng nÃ­n! / bÃº yÃ²ng xiÃ¨ (Bu ke qi more commonly used)  
+Yes æ¯ç æ¯ç ShÃ¬ de  
+No ä¸ ä¸ BÃ¹  
+When? çéº¼æåï¼ ä»ä¹æ¶åï¼ ShÃ©nme shÃ­hou?  
+How much money? å¤å°é¢ï¼ å¤å°é±ï¼ DuÅshÇo qiÃ¡n?  
+How long (distance)? å¤é·ï¼ å¤é¿ï¼ DuÅ chÃ¡ng?  
+Can you speak more slowly? æ¨è½è¬å¾åæ ¢äºåï¼ æ¨è½è®²å¾åæ
+¢äºåï¼ NÃ­n nÃ©ng jiÇng de zÃ i mÃ n xiÄ ma?  
+Good morning! æ©ä¸å¥½ï¼ (æ©å®ï¼ in Taiwan) æ©ä¸å¥½ï¼ ZÇoshang hÇo!
+(ZÇo an in Taiwan)  
+Goodbye! åè¦ï¼ åè§ï¼ ZÃ ijiÃ n!  
+How do you get to the airport? å»æ©å ´æéº¼èµ°ï¼ å»æºåºæä¹èµ°ï¼ QÃ¹
+jÄ«chÇng zÄnme zÇu?  
+I want to fly to London on the eighteenth ææ³18æ¥åé£æ©å°å«æ¦
+ææ³18æ¥åé£æºå°ä¼¦æ¦ WÇ xiÇng shÃ­bÄ rÃ¬ zuÃ² fÄijÄ« dÃ o
+LÃºndÅ«n  
+How much will it cost to get to Munich? å°æ å°¼é»éè¦å¤å°é¢ï¼ å°æ
+å°¼é»éè¦å¤å°é±ï¼ DÃ o MÃ¹nÃ­hÄi xÅ«yÃ o duÅshÇo qiÃ¡n?  
+I don't speak Chinese too well. æçä¸­æè¬å¾ä¸å¤ªå¥½.
+æçä¸­æè®²å¾ä¸å¤ªå¥½. WÇ de ZhÅngwÃ©n jiÇng de bÃº tÃ i hÇo.  
+New æ° æ° XÄ«n  
+## [edit] See also
+
+Sister project Wikibooks has a book on the topic of
+
+Chinese (Mandarin)  
+  * Mandarin Chinese
+  * Beijing dialect
+  * Chinese grammar
+  * Mandarin slang
+  * Chinese speech synthesis
+
+## [edit] Notes
+
+  1. ^ http://www.china-language.gov.cn/ (Chinese)
+  2. ^ http://mandarin.org.sg/html/home.htm[dead link]
+  3. ^ Yuan, Zhongrui. (2008) "å½è¯­ãæ®éè¯ãåè¯­ (Guoyu, Putonghua, Huayu)". China Language National Language Committee, People's Republic of China
+  4. ^ From Louis Richard. L. Richard's comprehensive geography of the Chinese empire and dependencies. Translated into English, revised and enlarged by M. Kennelly, S.J. [Translation of "Geographie de l'empire de Chine," Shanghai, 1905.] Shanghai: T'usewei Press, 1908. p. iv.)
+  5. ^ Original text in Chinese: "æ®éè¯å°±æ¯ç°ä»£æ±æ°æå ±åè¯­ï¼æ¯å ¨å½åæ°æéç¨çè¯­è¨ãæ®éè¯ä»¥åäº¬è¯­é³ä¸ºæ åé³ï¼ä»¥åæ¹è¯ä¸ºåºç¡æ¹è¨ï¼ä»¥å ¸èçç°ä»£ç½è¯æèä½ä¸ºè¯­æ³è§è"
+  6. ^ Yiya Chen and Yi Xu, Pitch Target of Mandarin Neutral Tone (abstract), presented at the 8th Conference on Laboratory Phonology
+  7. ^ Wang Jialing, The Neutral Tone in Trysyllabic Sequences in Chinese Dialects, Tianjin Normal University, 2004
+  8. ^ A Reference Grammar of Chinese Sentences by Henry Hung-Yeh Tiee, p. XXVI
+  9. ^ Lee Kuan Yew (2000). From Third World to First: The Singapore Story: 1965-2000. HarperCollins. ISBN 0-06-019776-5.
+
+## [edit] References
+
+  * Branner, David Prager (ed.) (2006). The Chinese Rime Tables: Linguistic Philosophy and Historical-Comparative Phonology. Studies in the Theory and History of Linguistic Science, Series IV: Current Issues in Linguistic Theory; 271. Amsterdam: John Benjamins. ISBN 90-272-4785-4.
+  * Chao, Y.R., A Grammar of Spoken Chinese, University of California Press, (Berkeley), 1968.
+  * Chen, Ping (1999). Modern Chinese: History and sociolinguistics. New York: Cambridge University Press. ISBN 0521645727.
+  * Hsia, T., Chinaâs Language Reforms, Far Eastern Publications, Yale University, (New Haven), 1956.
+  * Ladefoged, Peter; & Maddieson, Ian. (1996). The sounds of the world's languages. Oxford: Blackwell Publishers. ISBN 0-631-19814-8 (hbk); ISBN 0-631-19815-6 (pbk).
+  * Ladefoged, Peter; & Wu, Zhongji. (1984). Places of articulation: An investigation of Pekingese fricatives and affricates. Journal of Phonetics, 12, 267-278.
+  * Lehmann, W.P. (ed.), Language & Linguistics in the Peopleâs Republic of China, University of Texas Press, (Austin), 1975.
+  * Lin, Y., Lin Yutang's Chinese-English Dictionary of Modern Usage, The Chinese University of Hong Kong, 1972.
+  * Milsky, C., "New Developments in Language Reform", The China Quarterly, No.53, (January-March 1973), pp.98-133.
+  * Norman, J., Chinese, Cambridge University Press, (Cambridge), 1988.
+  * Ramsey, R.S.(1987). The Languages of China. Princeton, NJ: Princeton University Press. ISBN 0-691-01468-X
+  * San Duanmu (2000) The Phonology of Standard Chinese ISBN 0-19-824120-8
+  * Seybolt, P.J. & Chiang, G.K. (eds.), Language Reform in China: Documents and Commentary, M.E. Sharpe, (White Plains), 1979.
+  * Simon, W., A Beginners' Chinese-English Dictionary Of The National Language (Gwoyeu): Fourth Revised Edition, Lund Humphries, (London), 1975.
+
+## [edit] External links
+
+  * General Introduction of Chinese Language
+  * Arch Chinese - Learn To Read And Write Chinese Characters \- Online Chinese character stroke order animations for over 12,000 frequently used Chinese characters, simplified and traditional, with native speaker pronunciations, example phrases, writing worksheet generation and character learning flashcards.
+  * Standard Mandarin Pinyin Table The complete listing of all Pinyin syllables used in standard Mandarin, along with native speaker pronunciation for each syllable.
+  * TheChineseReader, A text-annotator and aid for those learning to read Chinese.
+  * Stroke order for Chinese character Official website of Taiwan's Ministry of Education
+  * Introductory Course for Mandarin Chinese
+  * New Asia--Yale-in-China Chinese Language Centerof the Chinese University of Hong Kong
+  * TheChineseReader, A text-annotator and aid for those learning to read Chinese that features Mandarin Pinyin and Cantonese Yale romanizations.
+  * The musical nature of the Four Tones of Chinese mandarin
+
+  
+
+v â¢ d â¢ e
+
+Chinese language  
+Spoken varieties  
+Major Subdivisions
+
+Mandarin
+
+Northeastern Â· Beijing Â· Jilu Â· Jiao-Liao Â· Zhongyuan Â· Dungan Â·
+Southwestern Â· Taiwanese Mandarin  
+Wu
+
+Hangzhou Â· Ningbo Â· Quzhou Â· Shanghainese Â· Suzhou Â· Changzhou Â· Wenzhou
+Â· Wuxi  
+Cantonese
+
+Cantonese Â· Gaoyang Â· Taishanese  
+Min
+
+Min Bei Â· Min Dong Â· Min Nan Â· Min Zhong Â· Puxian Â· Qiong Wen Â·
+Taiwanese Minnan Â· Teochew  
+Xiang
+
+Changsha  
+Hakka  
+Gan
+
+Nanchang  
+Often accepted
+
+Huizhou Â· Jin Â· Ping  
+Unclassified
+
+Danzhouhua Â· Shaozhou Tuhua  
+Ausbausprachen
+
+Standard Mandarin Â· Standard Cantonese  
+Historical phonology
+
+Old Chinese Â· Middle Chinese Â· Proto-Min Â· Proto-Mandarin Â· Haner  
+Written varieties  
+Official
+
+Classical Â· Vernacular  
+Other
+
+Vernacular Cantonese  
+List of Chinese dialects Â· Identification of Chinese language varieties  
+Retrieved from "http://en.wikipedia.org/wiki/Standard_Mandarin"
+
+Categories: Standard Mandarin | Chinese dialects | Chinese languages in
+Singapore | Mandarin Chinese | Standard languages
+
+Hidden categories: All articles with dead external links | Articles with dead
+external links since May 2008 | Articles containing Chinese language text |
+Articles containing non-English language text | All articles with unsourced
+statements | Articles with unsourced statements since July 2008 | Articles
+with unsourced statements since December 2007 | Articles with unsourced
+statements since July 2007 | Articles with unsourced statements since
+September 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * íêµ­ì´
+  * Bahasa Indonesia
+  * Ãslenska
+  * ×¢××¨××ª
+  * KurdÃ® / ÙÙØ±Ø¯Û
+  * Bahasa Melayu
+  * MÃ¬ng-dÄÌ¤ng-ngá¹³Ì
+  * Nederlands
+  * æ¥æ¬èª
+  * Occitan
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Seeltersk
+  * Simple English
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Suomi
+  * Svenska
+  * Tiáº¿ng Viá»t
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 30 March 2009, at 04:27.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,386 @@
+
+# Resampling (statistics)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For other uses, see Resampling.
+
+In statistics, resampling is any of a variety of methods for doing one of the
+following:
+
+  1. Estimating the precision of sample statistics (medians, variances, percentiles) by using subsets of available data (jackknifing) or drawing randomly with replacement from a set of data points (bootstrapping)
+  2. Exchanging labels on data points when performing significance tests (permutation tests, also called exact tests, randomization tests, or re-randomization tests)
+  3. Validating models by using random subsets (bootstrapping, cross validation)
+
+Common resampling techniques include bootstrapping, jackknifing and
+permutation tests.
+
+## Contents
+
+  * 1 Bootstrap
+  * 2 Jackknife
+  * 3 Cross-validation
+  * 4 Permutation tests
+    * 4.1 Relation to parametric tests
+    * 4.2 Examples
+    * 4.3 Advantages
+    * 4.4 Limitations
+    * 4.5 Monte Carlo testing
+  * 5 See also
+  * 6 Bibliography
+    * 6.1 Introductory statistics
+    * 6.2 Resampling methods
+      * 6.2.1 Bootstrapping
+      * 6.2.2 Permutation test
+    * 6.3 References
+  * 7 External links
+    * 7.1 Software
+
+  
+## [edit] Bootstrap
+
+Main article: Bootstrap (statistics)
+
+Bootstrapping is a statistical method for estimating the sampling distribution
+of an estimator by sampling with replacement from the original sample, most
+often with the purpose of deriving robust estimates of standard errors and
+confidence intervals of a population parameter like a mean, median,
+proportion, odds ratio, correlation coefficient or regression coefficient. It
+may also be used for constructing hypothesis tests. It is often used as a
+robust alternative to inference based on parametric assumptions when those
+assumptions are in doubt, or where parametric inference is impossible or
+requires very complicated formulas for the calculation of standard errors.
+
+## [edit] Jackknife
+
+Jackknifing, which is similar to bootstrapping, is used in statistical
+inferencing to estimate the bias and standard error in a statistic, when a
+random sample of observations is used to calculate it. The basic idea behind
+the jackknife estimator lies in systematically recomputing the statistic
+estimate leaving out one observation at a time from the sample set. From this
+new set of "observations" for the statistic an estimate for the bias can be
+calculated and an estimate for the variance of the statistic.
+
+Both methods estimate the variability of a statistic from the variability of
+that statistic between subsamples, rather than from parametric assumptions.
+The jackknife is a less general technique than the bootstrap, and explores the
+sample variation differently. However the jackknife is easier to apply to
+complex sampling schemes, such as multi-stage sampling with varying sampling
+weights, than the bootstrap.
+
+The jackknife and bootstrap may in many situations yield similar results. But
+when used to estimate the standard error of a statistic, bootstrap gives
+slightly different results when repeated on the same data, whereas the
+jackknife gives exactly the same result each time (assuming the subsets to be
+removed are the same).
+
+## [edit] Cross-validation
+
+Main article: Cross-validation (statistics)
+
+Cross-validation is a statistical method for validating a predictive model.
+Subsets of the data are held out, to be used as validating sets; a model is
+fit to the remaining data (a training set) and used to predict for the
+validation set. Averaging the quality of the predictions across the validation
+sets yields an overall measure of prediction accuracy.
+
+One form of cross-validation leaves out a single observation at a time; this
+is similar to the jackknife. Another, K-fold cross-validation, splits the data
+into K subsets; each is held out in turn as the validation set.
+
+This avoids "self-influence". For comparison, in regression analysis methods
+such as linear regression, each y value draws the regression line toward
+itself, making the predictions appear more accurate than they really are, on
+average. Cross-validation applied to linear regression predicts the y value
+for each observation without using that observation.
+
+This is often used for deciding how many predictor variables to use in
+regression. Without cross-validation, adding predictors always reduces the
+residual sum of squares (or possibly leaves it unchanged). In contrast, the
+cross-validated mean-square error will tend to decrease if valuable predictors
+are added, but increase if worthless predictors are added.[citation needed]
+
+## [edit] Permutation tests
+
+Main article: Exact test
+
+A permutation test (also called a randomization test, re-randomization test,
+or an exact test) is a type of statistical significance test in which a
+reference distribution is obtained by calculating all possible values of the
+test statistic under rearrangements of the labels on the observed data points.
+In other words, the method by which treatments are allocated to subjects in an
+experimental design is mirrored in the analysis of that design. If the labels
+are exchangeable under the null hypothesis, then the resulting tests yield
+exact significance levels; see also exchangeability. Confidence intervals can
+then be derived from the tests. The theory has evolved from the works of R.A.
+Fisher and E.J.G. Pitman in the 1930s.
+
+To illustrate the basic idea of a permutation test, suppose we have two groups
+A and B whose sample means are \\bar{x}_{A} and \\bar{x}_{B}, and that we want
+to test, at 5% significance level, whether they come from the same
+distribution. Let nA and nB be the sample size corresponding to each group.
+The permutation test is designed to determine whether the observed difference
+between the sample means is large enough to reject the null hypothesis H0 that
+the two groups have identical probability distribution.
+
+The test proceeds as follows. First, the difference in means between the two
+samples is calculated: this is the observed value of the test statistic,
+T(obs). Then the observations of groups A and B are pooled.
+
+Next, the difference in sample means is calculated and recorded for every
+possible way of dividing these pooled values into two groups of size nA and nB
+(i.e., for every permutation of the group labels A and B). The set of these
+calculated differences is the exact distribution of possible differences under
+the null hypothesis that group label does not matter.
+
+The one-sided p-value of the test is calculated as the proportion of sampled
+permutations where the difference in means was greater than or equal to
+T(obs). The two-sided p-value of the test is calculated as the proportion of
+sampled permutations where the absolute difference was greater than or equal
+to ABS(T(obs)).
+
+If the only purpose of the test is reject or not reject the null hypothesis,
+we can as an alternative sort the recorded differences, and then observe if
+T(obs) is contained within the middle 95% of them. If it does not, we reject
+the hypothesis of identical probability curves at the 5% significant level.
+
+### [edit] Relation to parametric tests
+
+Permutation tests are a subset of non-parametric statistics. The basic premise
+is to use only the assumption that it is possible that all of the treatment
+groups are equivalent, and that every member of them is the same before
+sampling began (i.e. the slot that they fill is not differentiable from other
+slots before the slots are filled). From this, one can calculate a statistic
+and then see to what extent this statistic is special by seeing how likely it
+would be if the treatment assignments had been jumbled.
+
+In contrast to permutation tests, the reference distributions for many popular
+"classical" statistical tests, such as the t-test, f-test, z-test and chi-
+squared test, are obtained from theoretical probability distributions.
+Fisher's exact test is a commonly used test for evaluating the association
+between two dichotomous variables, that is a permutation test. When sample
+sizes are large, the Pearson's chi-square test will give accurate results, but
+for small samples the chi-square reference distribution can't be assumed to
+give a correct description of the probability distribution of the test
+statistic, and in this situation the use of Fisherâs exact test becomes more
+appropriate. A rule of thumb is that the expected count in each cell of the
+table should be greater than 5 before Pearson's chi-squared test is used.
+
+Permutation tests exist in many situations where parametric tests do not. For
+example, when deriving an optimal test when losses are proportional to the
+size of an error rather than its square. All simple and many relatively
+complex parametric tests have a corresponding permutation test version that is
+defined by using the same test statistic as the parametric test, but obtains
+the p-value from the sample-specific permutation distribution of that
+statistic, rather than from the theoretical distribution derived from the
+parametric assumption. For example, it is possible in this manner to construct
+a permutation t-test, a permutation chi-squared test of association, a
+permutation version of Aly's test for comparing variances and so on.
+
+The major down-side to permutation tests are that
+
+  * They can be computationally intensive, and may require "custom" code for difficult-to-calculate statistics. This must be rewritten for every case.
+  * They are primarily used to provide a p-value. The inversion of the test to get confidence regions/intervals requires even more computation.
+
+### [edit] Examples
+
+### [edit] Advantages
+
+Permutation tests exist for any test statistic, regardless of whether or not
+its distribution is known. Thus one is always free to choose the statistic
+which best discriminates between hypothesis and alternative and which
+minimizes losses.
+
+Permutation tests can be used for analyzing unbalanced designs
+(http://tbf.coe.wayne.edu/jmasm/vol1_no2.pdf) and for combining dependent
+tests on mixtures of categorical, ordinal, and metric data (Pesarin, 2001).
+
+Before the 1980s, the burden of creating the reference distribution was
+overwhelming except for data sets with small sample sizes. But since the
+1980s, the confluence of cheap fast computers and the development of new
+sophisticated path algorithms applicable in special situations, made the
+application of permutation test methods practical for a wide range of
+problems, and initiated the addition of exact-test options in the main
+statistical software packages and the appearance of specialized software for
+performing a wide range of uni- and multi-variable exact tests and computing
+test-based "exact" confidence intervals.
+
+### [edit] Limitations
+
+An important assumption behind a permutation test is that the observations are
+exchangeable under the null hypothesis. An important consequence of this
+assumption is that tests of difference in location (like a permutation t-test)
+require equal variance. In this respect, the permutation t-test shares the
+same weakness as the classical Studentâs t-test. A third alternative in this
+situation is to use a bootstrap-based test. Good (2000) explains the
+difference between permutation tests and bootstrap tests the following way:
+"Permutations test hypotheses concerning distributions; bootstraps tests
+hypotheses concerning parameters. As a result, the bootstrap entails less-
+stringent assumptions." Of course, bootstrap tests are not exact.
+
+### [edit] Monte Carlo testing
+
+An asymptotically equivalent permutation test can be created when there are
+too many possible orderings of the data to conveniently allow complete
+enumeration. This is done by generating the reference distribution by Monte
+Carlo sampling, which takes a small (relative to the total number of
+permutations) random sample of the possible replicates. The realization that
+this could be applied to any permutation test on any dataset was an important
+breakthrough in the area of applied statistics. The earliest known reference
+to this approach is Dwass (1957)[1]. This type of permutation test is known
+under various names: approximate permutation test, Monte Carlo permutation
+tests or random permutation tests.[2]
+
+The necessary size of the Monte Carlo sample depends on the need for accuracy
+of the test. If one merely wants to know if the p-value is significant,
+sometimes few as 400 rearrangements is sufficient to generate a reliable
+answer. However, for most scientific applications the required size is much
+higher. For observed p=0.05, the accuracy from 10,000 random permutations is
+0.0056 and for 50,000 it is 0.0025. For observed p=0.01, the corresponding
+accuracy is 0.0077 and 0.0035. Accuracy is defined from the binomial 99%
+confidence interval: p +/- accuracy
+
+## [edit] See also
+
+  * Particle filter
+  * Random permutation
+  * Nonparametric statistics
+
+## [edit] Bibliography
+
+### [edit] Introductory statistics
+
+  * Good, P. (2005) Introduction to Statistics Through Resampling Methods and R/S-PLUS. Wiley. ISBN 0-471-71575-1
+
+  * Good, P. (2005) Introduction to Statistics Through Resampling Methods and Microsoft Office Excel. Wiley. ISBN 0-471-73191-9
+
+  * Hesterberg, T. C., D. S. Moore, S. Monaghan, A. Clipson, and R. Epstein (2005): Bootstrap Methods and Permutation Tests, software.
+
+### [edit] Resampling methods
+
+  * Good, P. (2006) Resampling Methods. 3rd Ed. Birkhauser.
+
+#### [edit] Bootstrapping
+
+  * Bradley Efron (1979). "Bootstrap methods: Another look at the jackknife", The Annals of Statistics, 7, 1-26.
+  * Bradley Efron (1981). "Nonparametric estimates of standard error: The jackknife, the bootstrap and other methods", Biometrika, 68, 589-599.
+  * Bradley Efron (1982). The jackknife, the bootstrap, and other resampling plans, In Society of Industrial and Applied Mathematics CBMS-NSF Monographs, 38.
+  * P. Diaconis, Bradley Efron (1983), "Computer-intensive methods in statistics," Scientific American, May, 116-130.
+  * Bradley Efron, Robert J. Tibshirani, (1993). An introduction to the bootstrap, New York: Chapman & Hall, software.
+  * Davison, A. C. and Hinkley, D. V. (1997): Bootstrap Methods and their Applications, software.
+  * Mooney, C Z & Duval, R D (1993). Bootstrapping. A Nonparametric Approach to Statistical Inference. Sage University Paper series on Quantitative Applications in the Social Sciences, 07-095. Newbury Park, CA: Sage.
+  * Simon, J. L. (1997): Resampling: The New Statistics.
+
+#### [edit] Permutation test
+
+Original references:
+
+  * R. A. Fisher, The Design of Experiment, New York: Hafner, 1935.
+  * Pitman, E. J. G., "Significance tests which may be applied to samples from any population", Royal Statistical Society Supplement, 1937; 4: 119-130 and 225-32 (parts I and II).
+  * Pitman, E. J. G., "Significance tests which may be applied to samples from any population. Part III. The analysis of variance test", Biometrika, 1938; 29: 322-335.
+
+Modern references:
+
+  * E. S. Edgington, Randomization tests, 3rd ed. New York: Marcel-Dekker, 1995.
+  * Phillip I. Good, Permutation, Parametric and Bootstrap Tests of Hypotheses, 3rd ed., Springer, 2005. ISBN 0-387-98898-X
+  * Good, P. (2002) Extensions of the concept of exchangeability and their applications, J. Modern Appl. Statist. Methods, 1:243-247.
+  * Lunneborg, Cliff. Data Analysis by Resampling, Duxbury Press, 1999. ISBN 0-534-22110-6.
+  * Pesarin, F. 2001. Multivariate Permutation Tests, Wiley.
+  * Welch, W. J., Construction of permutation tests, Journal of American Statistical Association, 85:693-698, 1990.
+
+Computational methods:
+
+  * Mehta, C. R. and Patel, N. R. (1983). 2A network algorithm for performing Fisherâs exact test in r x c contingency tables", J. Amer. Statist. Assoc, 78(382):427â434.
+  * Metha, C. R., Patel, N. R. and Senchaudhuri, P. (1988). "Importance sampling for estimating exact probabilities in permutational inference", J. Am. Statist. Assoc., 83(404):999â1005.
+
+### [edit] References
+
+  1. ^ Meyer Dwass, "Modified Randomization Tests for Nonparametric Hypotheses", The Annals of Mathematical Statistics, 28:181-187, 1957.
+  2. ^ Thomas E. Nichols, Andrew P. Holmes (2001). "Nonparametric Permutation Tests For Functional Neuroimaging: A Primer with Examples". Human Brain Mapping 15: 1â25. doi:10.1002/hbm.1058. http://www.fil.ion.ucl.ac.uk/spm/doc/papers/NicholsHolmes.pdf.
+
+## [edit] External links
+
+[Current research on permutation tests]
+
+  * Bootstrap Sampling tutorial
+  * Hesterberg, T. C., D. S. Moore, S. Monaghan, A. Clipson, and R. Epstein (2005): Bootstrap Methods and Permutation Tests, software.
+  * Moore, D. S., G. McCabe, W. Duckworth, and S. Sclove (2003): Bootstrap Methods and Permutation Tests
+  * Simon, J. L. (1997): Resampling: The New Statistics.
+  * Yu, Chong Ho (2003): Resampling methods: concepts, applications, and justification. Practical Assessment, Research & Evaluation, 8(19). (statistical bootstrapping)
+  * Resampling: A Marriage of Computers and Statistics (ERIC Digests)
+
+### [edit] Software
+
+  * Statistics101: Resampling, Bootstrap, Monte Carlo Simulation program
+
+Retrieved from "http://en.wikipedia.org/wiki/Resampling_(statistics)"
+
+Categories: Monte Carlo methods | Statistical tests | Statistical inference |
+Resampling (statistics) | Non-parametric statistics
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 3 May 2009, at 02:42 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

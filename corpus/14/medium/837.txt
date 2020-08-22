@@ -1,0 +1,160 @@
+
+# Bluejacking
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (January 2008)  
+<IMG>
+
+<IMG>
+
+This Siemens M75 is Bluejacking the Sony Ericsson K600i pictured below
+
+Bluejacking is the sending of unsolicited messages over Bluetooth to
+Bluetooth-enabled devices such as mobile phones, PDAs or laptop computers,
+sending a vCard which typically contains a message in the name field (i.e. for
+bluedating or bluechat) to another bluetooth enabled device via the OBEX
+protocol.
+
+Bluetooth has a very limited range, usually around 10 metres (32.8 ft) on
+mobile phones, but laptops can reach up to 100 metres (328 ft) with powerful
+(Class 1) transmitters.
+
+## [edit] Origins
+
+'Bluejacking' was reportedly first carried out by a Malaysian IT consultant
+who used his phone to advertise Sony Ericsson. He also invented the name,
+which purports to be an amalgam of Bluetooth and 'ajack', his username on
+Esato, a Sony Ericsson fan online forum. "Jacking" is however an extremely
+common shortening of hijack, the act of taking over something. [1][2]
+
+<IMG>
+
+<IMG>
+
+This Sony Ericsson K600i is getting Bluejacked by the Siemens M75 pictured
+above. The text at the bottom of the screen reads "Add to contacts?" in
+Norwegian.
+
+## [edit] Usage
+
+Bluejacking is usually harmless, but because bluejacked people generally don't
+know what has happened, they may think that their phone is malfunctioning.
+Usually, a bluejacker will only send a text message, but with modern phones
+it's possible to send images or sounds as well. Bluejacking has been used in
+guerrilla marketing campaigns to promote advergames.
+
+With the increase in the availability of Bluetooth enabled devices, these
+devices have become vulnerable to virus attacks and even complete take over of
+devices through a trojan horse program.
+
+Bluejacking is also confused with Bluesnarfing which is the way in which
+mobile phones are illegally hacked via Bluetooth.
+
+## [edit] Bluejacking Tools and Software
+
+Many tools have been developed for bluejacking. Most of the development
+happened in the 2000 to 2004, where multiple new bluetooth vulnerabilities
+were developed. Most of these tools are developed by individual developers and
+have very specific functions. Example is bluesniff [3], which seeks out hidden
+bluetooth devices. One of the most commonly used bluetooth software is bloover
+[4], which is in version 2 now. It allows users to seek then send unsolicited
+messages to unwary bluetooth devices. While there are so many tools to assist
+someone in bluetoothing, only a few hidden tools are available for the more
+sinister bluesnarfing or bluebugging. These are usually internal trade secrets
+which the expert guard earnestly.
+
+## [edit] See also
+
+  * Bluesnarfing
+  * Bluecasting
+  * Snarfing
+
+## [edit] References
+
+  1. ^ Do You Speak American . Words That Shouldn't Be? . Sez Who? . Cyberspace | PBS
+  2. ^ Bluejacking âa harmless prank'
+  3. ^ Blue Sniff, the tools that seeks out hidden devices
+  4. ^ âBlover II - A common Bluejacking software'
+
+Retrieved from "http://en.wikipedia.org/wiki/Bluejacking"
+
+Categories: Bluetooth | Spamming
+
+Hidden categories: Articles needing additional references from January 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 April 2009, at 11:24 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

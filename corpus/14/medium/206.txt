@@ -1,0 +1,1168 @@
+
+# List of Intel Xeon microprocessors
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This list is incomplete; you can help by expanding it.
+
+The Xeon microprocessor from Intel is a CPU targeted at the server and
+workstation markets, it also competes with AMD's Opteron.
+
+## Contents
+
+  * 1 P6 based Xeons
+    * 1.1 Pentium II Xeon
+      * 1.1.1 "Drake" (250 nm)
+    * 1.2 Pentium III Xeon
+      * 1.2.1 "Tanner" (250 nm)
+      * 1.2.2 "Cascades" (180 nm)
+  * 2 NetBurst based Xeons
+    * 2.1 Xeon (UP/DP)
+      * 2.1.1 "Foster" (180 nm)
+      * 2.1.2 "Prestonia" (standard-voltage, 130 nm)
+      * 2.1.3 "Prestonia" (low-voltage, 130 nm)
+      * 2.1.4 "Gallatin" (130 nm)
+      * 2.1.5 "Nocona" (standard-voltage, 90 nm)
+      * 2.1.6 "Nocona" (low-voltage, 90 nm)
+      * 2.1.7 "Irwindale" (standard-voltage, 90 nm)
+      * 2.1.8 "Irwindale" (medium-voltage, 90 nm)
+      * 2.1.9 "Irwindale" (low-voltage, 90 nm)
+    * 2.2 Xeon (UP/DP), Dual Core
+      * 2.2.1 "Paxville DP" (90 nm)
+      * 2.2.2 "Dempsey" (65 nm)
+      * 2.2.3 "Dempsey" (medium-voltage, 65 nm)
+    * 2.3 Xeon MP
+      * 2.3.1 "Foster MP" (180 nm)
+      * 2.3.2 "Gallatin" (130 nm)
+      * 2.3.3 "Cranford" (90 nm)
+      * 2.3.4 "Potomac" (90 nm)
+    * 2.4 Xeon MP, Dual Core
+      * 2.4.1 "Paxville MP" (90 nm)
+      * 2.4.2 "Tulsa" (65 nm)
+  * 3 Pentium M (Yonah) based Xeons
+    * 3.1 Xeon DP, Dual Core
+      * 3.1.1 "Sossaman" (low-voltage, 65 nm)
+      * 3.1.2 "Sossaman" (ultra-low-voltage, 65 nm)
+  * 4 Core based Xeons
+    * 4.1 Xeon (UP/DP), Dual Core
+      * 4.1.1 "Allendale" (65 nm)
+      * 4.1.2 "Conroe" (65 nm)
+      * 4.1.3 "Woodcrest" (65 nm)
+      * 4.1.4 "Woodcrest" (low-voltage, 65 nm)
+      * 4.1.5 "Wolfdale" (45 nm)
+      * 4.1.6 "Wolfdale" (low voltage, 45 nm)
+      * 4.1.7 "Wolfdale-DP" (standard-voltage, 45 nm)
+      * 4.1.8 "Wolfdale-DP" (low-voltage, 45 nm)
+    * 4.2 Xeon MP, Dual Core
+      * 4.2.1 "Tigerton-DC" (standard-voltage, 65 nm)
+    * 4.3 Xeon (UP/DP), Quad Core
+      * 4.3.1 "Kentsfield" (65 nm)
+      * 4.3.2 "Yorkfield" (45 nm)
+      * 4.3.3 "Clovertown" (65 nm)
+      * 4.3.4 "Clovertown" (low voltage, 65 nm)
+      * 4.3.5 "Harpertown" (standard-voltage, 45 nm)
+      * 4.3.6 "Harpertown" (low-voltage, 45 nm)
+    * 4.4 Xeon MP, Quad Core
+      * 4.4.1 "Tigerton" (standard-voltage, 65 nm)
+      * 4.4.2 "Tigerton" (low-voltage, 65 nm)
+      * 4.4.3 "Dunnington-QC" (standard-voltage, 45 nm)
+      * 4.4.4 "Dunnington-QC" (low-voltage, 45 nm)
+    * 4.5 Xeon MP, Six Core
+      * 4.5.1 "Dunnington" (standard-voltage, 45 nm)
+      * 4.5.2 "Dunnington" (low-voltage, 45 nm)
+  * 5 Nehalem based Xeons
+    * 5.1 Xeon (UP/DP), Dual Core
+      * 5.1.1 "Gainestown" (45 nm)
+    * 5.2 Xeon (UP/DP), Quad Core
+      * 5.2.1 "Bloomfield" (45 nm)
+      * 5.2.2 "Gainestown" (45 nm) [2] [3]
+      * 5.2.3 "Gainestown" (low-voltage, 45 nm)
+  * 6 References
+  * 7 See also
+  * 8 External links
+
+  
+## [edit] P6 based Xeons
+
+### [edit] Pentium II Xeon
+
+#### [edit] "Drake" (250 nm)
+
+  * All models support: MMX
+
+Model Number Frequency L2-Cache Front Side Bus Multiplier Voltage TDP Socket
+Release Date Part Number(s) sSpec Number(s)  
+Pentium II Xeon 400 400 MHz 512 KiB 100 MT/s 4x 2.0 V 30.8 W Slot 2 June 1998
+80523KX400512, BX80523KX400512, BX80523KX40N512 Q519ES, Q626ES, SL2RH, Sl344,
+SL34H, SL2RH, SL35N  
+Pentium II Xeon 400 400 MHz 1024 KiB 100 MT/s 4x 2.0 V 38.1 W Slot 2 June 1998
+80523KX4001M, BX80523KX4001M, BX80523KX40N1M Q619ES, SL2NB, SL345, SL34J,
+SL2NB, SL35P  
+Pentium II Xeon 450 450 MHz 512 KiB 100 MT/s 4.5x 2.0 V 34.5 W Slot 2 October
+1998 80523KX450512, BX80523KX450512, BX80523KX45G512 Q665ES, Q799ES, Q809ES,
+SL2XJ, SL354, SL36W, SL33T  
+Pentium II Xeon 450 450 MHz 1024 KiB 100 MT/s 4.5x 2.0 V 42.8 W Slot 2 January
+1999 80523KX4501M, BX80523KX4501M Q810ES, SL2XK, SL33U  
+Pentium II Xeon 450 450 MHz 2048 KiB 100 MT/s 4.5x 2.0 V 46.7 W Slot 2 January
+1999 80523KX4502M, BX80523KX4502M Q667ES, Q811ES, SL2XL, SL33V  
+### [edit] Pentium III Xeon
+
+#### [edit] "Tanner" (250 nm)
+
+  * Based on Intel P6 microarchitecture
+  * All models support: MMX, SSE
+  * All models support quad-processor configurations
+  * Die size: 123 mmÂ²
+  * Steppings: B0, C0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Pentium III Xeon 500 SL2XU (B0)  
+SL3D9 (C0) 500 MHz 512 KiB 100 MT/s 5x 2.0 V 36 W Slot 2 March 17, 1999 $931  
+Pentium III Xeon 500 SL2XV (B0)  
+SL3DA (C0) 500 MHz 1024 KiB 100 MT/s 5x 2.0 V 44 W Slot 2 March 17, 1999
+BX80525KY5001M $1980  
+Pentium III Xeon 500 SL2XW (B0)  
+SL3DB (C0) 500 MHz 2048 KiB 100 MT/s 5x 2.0 V 36.2 W Slot 2 March 17, 1999
+BX80525KY5002M $3692  
+Pentium III Xeon 550* SL3LM (C0) 550 MHz 512 KiB 100 MT/s 5.5x 2.0 V 34 W Slot
+2 April 7, 1999 $1059  
+Pentium III Xeon 550 SL3Y4 (C0) 550 MHz 512 KiB 100 MT/s 5.5x 2.0 V 34 W Slot
+2 August 23, 1999 $931  
+Pentium III Xeon 550 SL3TW (C0) 550 MHz 1024 KiB 100 MT/s 5.5x 2.0 V 34 W Slot
+2 August 23, 1999 $1980  
+Pentium III Xeon 550 SL3CF (C0) 550 MHz 2048 KiB 100 MT/s 5.5x 2.0 V 39.5 W
+Slot 2 August 23, 1999 $3692  
+  * *Note: Only capable of dual processor/uni processor configurations.
+
+#### [edit] "Cascades" (180 nm)
+
+  * All models support: MMX, SSE
+
+Model Number Frequency L2-Cache Front Side Bus Multiplier Voltage TDP Socket
+Release Date Part Number(s)  
+Pentium III Xeon 600 600 MHz 256 KiB 133 MT/s 4.5x 2.8 V 20.8 W Slot 2 October
+1999  
+Pentium III Xeon 667 667 MHz 256 KiB 133 MT/s 5x 2.8 V 23 W Slot 2 October 25,
+1999  
+Pentium III Xeon 700 700 MHz 1024 KiB 100 MT/s 7x 2.8 V 32 W Slot 2 May 22,
+2000  
+Pentium III Xeon 700 700 MHz 2048 KiB 100 MT/s 7x 2.8 V 32 W Slot 2 May 22,
+2000  
+Pentium III Xeon 733 733 MHz 256 KiB 133 MT/s 5.5x 2.8 V 25.2 W Slot 2 October
+25, 1999  
+Pentium III Xeon 800 800 MHz 256 KiB 133 MT/s 6x 2.8 V 27.4 W Slot 2 January
+12, 2000  
+Pentium III Xeon 866 866 MHz 256 KiB 133 MT/s 6.5x 2.8 V 29.6 W Slot 2 March
+13, 2000  
+Pentium III Xeon 900 900 MHz 2048 KiB 100 MT/s 9x 2.8 V 39.3 W Slot 2 March
+21, 2001  
+Pentium III Xeon 933 933 MHz 256 KiB 133 MT/s 7x 2.8 V 32 W Slot 2 July 2000  
+Pentium III Xeon 1000 1000 MHz 256 KiB 133 MT/s 7.5x 2.8 V 33.3 W Slot 2
+August 22, 2000  
+## [edit] NetBurst based Xeons
+
+### [edit] Xeon (UP/DP)
+
+#### [edit] "Foster" (180 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2
+
+Model Number Frequency L2-Cache Front Side Bus Multiplier Voltage TDP Socket
+Release Date Part Number(s)  
+Xeon 1.4 1400 MHz 256 KiB 400 MT/s 14x 1.75 V 56 W Socket 603 May 21, 2001
+RN80528KC017G0K  
+Xeon 1.5 1500 MHz 256 KiB 400 MT/s 15x 1.75 V 59.2 W Socket 603 May 21, 2001
+RN80528KC021G0K  
+Xeon 1.7 1700 MHz 256 KiB 400 MT/s 17x 1.75 V 65.8 W Socket 603 May 21, 2001
+RN80528KC029G0K  
+Xeon 2.0 2000 MHz 256 KiB 400 MT/s 20x 1.75 V 77.5 W Socket 603 September 2001
+RN80528KC041G0K  
+#### [edit] "Prestonia" (standard-voltage, 130 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, Hyper-Threading
+
+Model Number Frequency L2-Cache Front Side Bus Multiplier Voltage TDP Socket
+Release Date Part Number(s)  
+Xeon 1.8 1800 MHz 512 KiB 400 MT/s 18x 1.475/1.5 V 55 W Socket 603 February
+25, 2002 RN80532KC033512  
+Xeon 2.0 A 2000 MHz 512 KiB 400 MT/s 20x 1.475/1.5 V 58 W Socket 603 February
+25, 2002 RN80532KC041512  
+Xeon 2.0B 2000 MHz 512 KiB 533 MT/s 15x 1.5 V 58 W Socket 604 November 18 2002
+RK80532KE041512  
+Xeon 2.2 2200 MHz 512 KiB 400 MT/s 22x 1.475/1.5 V 61 W Socket 603 February
+25, 2002 RN80532KC049512  
+Xeon 2.4 2400 MHz 512 KiB 400 MT/s 24x 1.475/1.5 V 65 W Socket 603 April 23
+2002 RN80532KC056512  
+Xeon 2.4B 2400 MHz 512 KiB 533 MT/s 18x 1.475/1.5 V 65/77 W Socket 604
+November 18 2002 RK80532KE056512  
+Xeon 2.6 2600 MHz 512 KiB 400 MT/s 26x 1.475/1.5 V 60/71 W Socket 603
+September 11 2002 RN80532KC064512  
+Xeon 2.66 2667 MHz 512 KiB 533 MT/s 20x 1.5 V 72/77 W Socket 604 November 18
+2002 RK80532KE067512  
+Xeon 2.8 2800 MHz 512 KiB 400 MT/s 28x 1.475/1.5 V 68/74 W Socket 603
+September 11 2002 RN80532KC072512  
+Xeon 2.8B 2800 MHz 512 KiB 533 MT/s 21x 1.5 V 74/77 W Socket 604 November 18
+2002 RK80532KE072512  
+Xeon 3.0 3000 MHz 512 KiB 400 MT/s 30x 1.525 V 85 W Socket 603 March 10 2003
+RN80532KC080512  
+Xeon 3.06 3066 MHz 512 KiB 533 MT/s 23x 1.525 V 85 W Socket 604 March 10 2003
+RK80532KE083512  
+#### [edit] "Prestonia" (low-voltage, 130 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, Hyper-Threading
+
+Model Number Frequency L2-Cache Front Side Bus Multiplier Voltage TDP Socket
+Release Date Part Number(s)  
+Xeon LV 1.6 1600 MHz 512 KiB 400 MT/s 16x 1.187/1.274 V 30 W Socket 604
+September 2003 RK80532EC025512  
+Xeon LV 2.0 2000 MHz 512 KiB 400 MT/s 20x 1.179/1.27 V 35 W Socket 604
+September 2003 RK80532EC041512  
+Xeon LV 2.4 2400 MHz 512 KiB 533 MT/s 18x 1.17/1.265 V 40 W Socket 604
+September 2003 RK80532EE056512  
+#### [edit] "Gallatin" (130 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, Hyper-Threading
+
+Model Number Frequency L2-Cache L3-Cache Front Side Bus Multiplier Voltage TDP
+Socket Release Date Part Number(s)  
+Xeon 2.4B 2400 MHz 512 KiB 1024 KiB 533 MT/s 18x 1.525 V 77 W Socket 604 March
+2003 RK80532KE0561M  
+Xeon 2.8B 2800 MHz 512 KiB 1024 KiB 533 MT/s 21x 1.525 V 77 W Socket 604
+February 2004 RK80532KE0721M  
+Xeon 3.06 3066 MHz 512 KiB 1024 KiB 533 MT/s 23x 1.525 V 87 W Socket 604 July
+14, 2003 RK80532KE0831M  
+Xeon 3.2 3200 MHz 512 KiB 1024 KiB 533 MT/s 24x 1.525 V 92 W Socket 604
+October 6, 2003 RK80532KE0881M  
+Xeon 3.2 3200 MHz 512 KiB 2048 KiB 533 MT/s 24x 1.525 V 92 W Socket 604
+February 2004[1] RK80532KE0882M  
+#### [edit] "Nocona" (standard-voltage, 90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64
+  * Steppings: D0, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Xeon 2.8 SL7DV (D0),  
+SL7PD (E0) 2800 MHz 1024 KiB 800 MT/s 14x 1.287/1.4 V 103 W Socket 604 June
+28, 2004 RK80546KG0721M $209  
+Xeon 3.0 SL7DW (D0),  
+SL7PE (E0) 3000 MHz 1024 KiB 800 MT/s 15x 1.287/1.4 V 103 W Socket 604 June
+28, 2004 RK80546KG0801M $316  
+Xeon 3.2 SL7DX (D0),  
+SL7PF (E0) 3200 MHz 1024 KiB 800 MT/s 16x 1.287/1.4 V 103 W Socket 604 June
+28, 2004 RK80546KG0881M $455  
+Xeon 3.4 SL7DY (D0),  
+SL7PG (E0) 3400 MHz 1024 KiB 800 MT/s 17x 1.287/1.4 V 103 W Socket 604 June
+28, 2004 RK80546KG0961M $690  
+Xeon 3.6 SL7DZ (D0),  
+SL7PH (E0) 3600 MHz 1024 KiB 800 MT/s 18x 1.287/1.4 V 103 W Socket 604 June
+28, 2004 RK80546KG1041M $851  
+#### [edit] "Nocona" (low-voltage, 90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Xeon LV 2.8 SL8RW 2800 MHz 1024 KiB 800 MT/s 14x 1.2 V 55 W Socket 604 October
+2004 RK80546KG0721M $260  
+#### [edit] "Irwindale" (standard-voltage, 90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, EIST, Intel 64, XD bit (an NX bit implementation)
+  * Steppings: N0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Xeon 2.8 SL7ZG 2800 MHz 2048 KiB 800 MT/s 14x 1.25/1.388 V 110 W Socket 604
+September 26, 2005 RK80546KG0722MM  
+Xeon 3.0 SL7ZF 3000 MHz 2048 KiB 800 MT/s 15x 1.25/1.388 V 110 W Socket 604
+February 14, 2005 RK80546KG0802MM $316  
+Xeon 3.2 SL7ZE 3200 MHz 2048 KiB 800 MT/s 16x 1.25/1.388 V 110 W Socket 604
+February 14, 2005 RK80546KG0882MM $455  
+Xeon 3.4 SL7ZD 3400 MHz 2048 KiB 800 MT/s 17x 1.25/1.388 V 110 W Socket 604
+February 14, 2005 RK80546KG0962MM $690  
+Xeon 3.6 SL7ZC 3600 MHz 2048 KiB 800 MT/s 18x 1.25/1.388 V 110 W Socket 604
+February 14, 2005 RK80546KG1042MM $851  
+Xeon 3.8 SL7ZB 3800 MHz 2048 KiB 800 MT/s 19x 1.25/1.388 V 110 W Socket 604
+September 26, 2005 RK80546KG1122MM $851  
+#### [edit] "Irwindale" (medium-voltage, 90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, EIST, Intel 64, XD bit (an NX bit implementation)
+  * Steppings: R0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Xeon MV 3.2 SL8T3 3200 MHz 2048 KiB 800 MT/s 16x 1.213/1.388 V 90 W Socket 604
+September 26, 2005 NE80546QG0882MM $487  
+#### [edit] "Irwindale" (low-voltage, 90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, EIST, Intel 64, XD bit (an NX bit implementation)
+  * Steppings: R0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Xeon LV 3.0 SL8SV 3000 MHz 2048 KiB 800 MT/s 15x 1.05/1.20 V 55 W Socket 604
+September 26, 2005 NE80546JG0802MM $519  
+### [edit] Xeon (UP/DP), Dual Core
+
+#### [edit] "Paxville DP" (90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation)
+  * Steppings: A0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 2.8 SL8MA 2800 MHz 2 Ã 2048 KiB 800 MT/s 14x 1.287/1.412 V 135
+W Socket 604 October 10, 2005 NE80551KG0724MM $1043  
+#### [edit] "Dempsey" (65 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 2 Ã 81 mmÂ²
+  * Demand Based Switching (Intel's Server EIST): Supported by: All except 5060.
+  * Steppings: C1
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 5030 SL96E 2667 MHz 2 Ã 2048 KiB 667 MT/s 16x 1.25 - 1.4 V 95
+W LGA 771 May 23, 2006 HH80555KF0674M $156  
+Dual-Core Xeon 5050 SL96C 3000 MHz 2 Ã 2048 KiB 667 MT/s 18x 1.25 - 1.4 V 95
+W LGA 771 May 23, 2006 HH80555KF0804M $177  
+Dual-Core Xeon 5060 SL96A 3200 MHz 2 Ã 2048 KiB 1066 MT/s 12x 1.25 - 1.4 V
+130 W LGA 771 May 23, 2006 HH80555KH0884M $316  
+Dual-Core Xeon 5080 SL968 3733 MHz 2 Ã 2048 KiB 1066 MT/s 14x 1.25 - 1.4 V
+130 W LGA 771 May 23, 2006 HH80555KH1094M $851  
+#### [edit] "Dempsey" (medium-voltage, 65 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 2 Ã 81 mmÂ²
+  * Steppings: C1
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon MV 5063 SL96B 3200 MHz 2 Ã 2048 KiB 1066 MT/s 12x 1.075 -
+1.350 V 95 W LGA 771 May 23, 2006 HH80555QH0884M $369  
+### [edit] Xeon MP
+
+#### [edit] "Foster MP" (180 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, Hyper-Threading
+
+Model Number Frequency L2-Cache L3-Cache Front Side Bus Multiplier Voltage TDP
+Socket Release Date Part Number(s)  
+Xeon MP 1.4 1400 MHz 256 KiB 512 KiB 400 MT/s 14x 1.75 V 64 W Socket 603 March
+12, 2002 RN80528KC017512  
+Xeon MP 1.5 1500 MHz 256 KiB 512 KiB 400 MT/s 15x 1.75 V 68 W Socket 603 March
+12, 2002 RN80528KC021512  
+Xeon MP 1.5 1500 MHz 256 KiB 1024 KiB 400 MT/s 15x 1.75 V 48 W Socket 603
+March 12, 2002 RN80528KC0211M  
+Xeon MP 1.6 1600 MHz 256 KiB 1024 KiB 400 MT/s 16x 1.75 V 72 W Socket 603
+March 12, 2002 RN80528KC025011  
+#### [edit] "Gallatin" (130 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, Hyper-Threading
+
+Model Number Frequency L2-Cache L3-Cache Front Side Bus Multiplier Voltage TDP
+Socket Release Date Part Number(s)  
+Xeon MP 1.5 1500 MHz 512 KiB 1024 KiB 400 MT/s 15x 1.475 V 48 W Socket 603
+November 4, 2002 RN80532KC0211M  
+Xeon MP 1.9 1900 MHz 512 KiB 1024 KiB 400 MT/s 19x 1.475 V 55 W Socket 603
+November 4, 2002 RN80532KC0371M  
+Xeon MP 2.0 2000 MHz 512 KiB 1024 KiB 400 MT/s 20x 1.475 V 57 W Socket 603
+June 30, 2003 RN80532KC0411M  
+Xeon MP 2.0 2000 MHz 512 KiB 2048 KiB 400 MT/s 20x 1.475 V 57 W Socket 603
+November 4, 2002 RN80532KC0412M  
+Xeon MP 2.2 2200 MHz 512 KiB 2048 KiB 400 MT/s 22x 1.475 V 65 W Socket 603
+March 2, 2004 RN80532KC0492M  
+Xeon MP 2.5 2500 MHz 512 KiB 1024 KiB 400 MT/s 25x 1.475 V 66 W Socket 603
+June 30, 2003 RN80532KC0601M  
+Xeon MP 2.7 2700 MHz 512 KiB 2048 KiB 400 MT/s 27x 1.475 V 80 W Socket 603
+March 2, 2004 RN80532KC0682M  
+Xeon MP 2.8 2800 MHz 512 KiB 2048 KiB 400 MT/s 28x 1.475 V 72 W Socket 603
+June 30, 2003 RN80532KC0722M  
+Xeon MP 3.0 3000 MHz 512 KiB 4096 KiB 400 MT/s 30x 1.5 V 85 W Socket 603 March
+2, 2004 RN80532KC0804M  
+#### [edit] "Cranford" (90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation)
+  * Steppings: A0, B0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Xeon MP 3.16 SL84W (A0)  
+SL8UN (B0) 3166 MHz 1024 KiB 667 MT/s 19x 1.25/1.388 V 110 W Socket 604 March
+29, 2005 RK80546KF0871M $722  
+Xeon MP 3.66 SL84U (A0)  
+SL8UM (B0) 3667 MHz 1024 KiB 667 MT/s 22x 1.25/1.388 V 110 W Socket 604 March
+29, 2005 RK80546KF1071M $963  
+#### [edit] "Potomac" (90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation)
+  * Steppings: C0
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache Front Side Bus Mult
+Voltage TDP Socket Release Date Part Number(s) Release Price (USD)  
+Xeon MP 2.83 SL8ED 2833 MHz 1024 KiB 4096 KiB 667 MT/s 17x 1.25/1.388 V 129 W
+Socket 604 March 29, 2005 RK80546KF0734M $1177  
+Xeon MP 3.0 SL8EW 3000 MHz 1024 KiB 8192 KiB 667 MT/s 18x 1.25/1.388 V 129 W
+Socket 604 March 29, 2005 RK80546KF0808M $1980  
+Xeon MP 3.33 SL8EY 3333 MHz 1024 KiB 8192 KiB 667 MT/s 20x 1.25/1.388 V 129 W
+Socket 604 March 29, 2005 RK80546KF0938M $3692  
+### [edit] Xeon MP, Dual Core
+
+#### [edit] "Paxville MP" (90 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * Demand Based Switching (Intel's Server EIST): All except 7030.
+  * Steppings: A0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 7020 SL8UA 2667 MHz 2 Ã 1024 KiB 667 MT/s 16x 1.262/1.412 V
+165 W Socket 604 December 2005 NE80560KF0672MH $1177  
+Dual-Core Xeon 7030 SL8UB 2800 MHz 2 Ã 1024 KiB 800 MT/s 14x 1.262/1.412 V
+165 W Socket 604 December 2005 NE80560KG0722MH $1980  
+Dual-Core Xeon 7040 SL8UC 3000 MHz 2 Ã 2048 KiB 667 MT/s 18x 1.262/1.412 V
+165 W Socket 604 December 2005 NE80560KF0804MH $3157  
+Dual-Core Xeon 7041 SL8UD 3000 MHz 2 Ã 2048 KiB 800 MT/s 15x 1.262/1.412 V
+165 W Socket 604 December 2005 NE80560KG0804MH $3157  
+#### [edit] "Tulsa" (65 nm)
+
+  * Based on NetBurst microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, Hyper-Threading, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor and octo-processor configurations
+  * Demand Based Switching (Intel's Server EIST): Supported by: All except 7110M/N & 7120M/N.
+  * Die size: 435 mmÂ²
+  * Steppings: B0
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache Front Side Bus Mult
+Voltage TDP Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 7110M SL9Q9 2600 MHz 2 Ã 1024 KiB 4096 KiB 800 MT/s 13x \---
+95 W Socket 604 August 27, 2006 LF80550KG0644M $856  
+Dual-Core Xeon 7110N SL9QA 2500 MHz 2 Ã 1024 KiB 4096 KiB 667 MT/s 15x \---
+95 W Socket 604 August 27, 2006 LF80550KF0604M $856  
+Dual-Core Xeon 7120M SL9HC 3000 MHz 2 Ã 1024 KiB 4096 KiB 800 MT/s 15x \---
+95 W Socket 604 August 27, 2006 LF80550KG0804M $1177  
+Dual-Core Xeon 7120N SL9HF 3000 MHz 2 Ã 1024 KiB 4096 KiB 667 MT/s 18x \---
+95 W Socket 604 August 27, 2006 LF80550KF0804M $1177  
+Dual-Core Xeon 7130M SL9HB 3200 MHz 2 Ã 1024 KiB 8192 KiB 800 MT/s 16x \---
+150 W Socket 604 August 27, 2006 LF80550KG0888M $1391  
+Dual-Core Xeon 7130N SL9HE 3166 MHz 2 Ã 1024 KiB 8192 KiB 667 MT/s 19x \---
+150 W Socket 604 August 27, 2006 LF80550KF0878M $1391  
+Dual-Core Xeon 7140M SL9HA 3400 MHz 2 Ã 1024 KiB 16384 KiB 800 MT/s 17x \---
+150 W Socket 604 August 27, 2006 LF80550KG096007 $1980  
+Dual-Core Xeon 7140N SL9HD 3333 MHz 2 Ã 1024 KiB 16384 KiB 667 MT/s 20x \---
+150 W Socket 604 August 27, 2006 LF80550KF093007 $1980  
+Dual-Core Xeon 7150N SL9YR 3500 MHz 2 Ã 1024 KiB 16384 KiB 667 MT/s 21x \---
+150 W Socket 604 Q1 2007 LF80550KF100007 $2622  
+## [edit] Pentium M (Yonah) based Xeons
+
+### [edit] Xeon DP, Dual Core
+
+#### [edit] "Sossaman" (low-voltage, 65 nm)
+
+  * Based on Pentium M microarchitecture - Intel Core derivative
+  * All models support: MMX, SSE, SSE2, SSE3, Demand Based Switching (Intel's Server EIST) , XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 90.3 mmÂ²
+  * Steppings: C0, D0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon LV 1.66 SL98Q (C0)  
+SL9HP (D0) 1667 MHz 2048 KiB 667 MT/s 10x 1.1125 - 1.275 V 31 W Socket M March
+14, 2006 LF80539KF0282M $209  
+Dual-Core Xeon LV 1.73 SL9VY (DO) 1733 MHz 1024 KB 533 MT/s 13x 1.1125 - 1.213
+V 31 W Socket M ? LF80539GE0301M ?  
+Dual-Core Xeon LV 2.0 SL8WT (C0)  
+SL9HN (D0) 2000 MHz 2048 KiB 667 MT/s 12x 1.1125 - 1.275 V 31 W Socket M March
+14, 2006 LF80539KF0412M $423  
+Dual-Core Xeon LV 2.16 ? 2166 MHz 2048 KiB 667 MT/s 14x 1.1125 - 1.275 V 31 W
+Socket M ? ? ?  
+#### [edit] "Sossaman" (ultra-low-voltage, 65 nm)
+
+  * Based on Pentium M microarchitecture - Intel Core derivative
+  * All models support: MMX, SSE, SSE2, SSE3, Demand Based Switching (Intel's Server EIST), XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 90.3 mmÂ²
+  * Steppings: D0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon ULV 1.66 SL9HS 1667 MHz 2048 KiB 667 MT/s 10x 0.8250 - 1.2125 V
+15 W Socket M March 14, 2006 LF80539JF0282M  
+## [edit] Core based Xeons
+
+### [edit] Xeon (UP/DP), Dual Core
+
+#### [edit] "Allendale" (65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support uni-processor configurations
+  * Die size: 111 mmÂ²
+  * Steppings: L2
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 3040 SL9VT 1866 MHz 2048 KiB 1066 MT/s 7x 1.225 - 1.325 V 65 W
+LGA 775 January 2007 HH80557KH0362M $183  
+Dual-Core Xeon 3050 SL9VS 2133 MHz 2048 KiB 1066 MT/s 8x 1.225 - 1.325 V 65 W
+LGA 775 January 2007 HH80557KH0462M $224  
+#### [edit] "Conroe" (65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support uni-processor configurations
+  * Die size: 143 mmÂ²
+  * Steppings: B2, G0, L2
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 3040 SL9TW (B2),  
+SLAC2 (L2) 1866 MHz 2048 KiB 1066 MT/s 7x 65 W LGA 775 October 2006
+HH80557KH0362M $183  
+Dual-Core Xeon 3050 SL9TY (B2),  
+SLABZ (L2) 2133 MHz 2048 KiB 1066 MT/s 8x 65 W LGA 775 October 2006
+HH80557KH0462M $224  
+Dual-Core Xeon 3060 SL9TZ, SL9ZH (B2) 2400 MHz 4096 KiB 1066 MT/s 9x 65 W LGA
+775 October 2006 HH80557KH0564M $316  
+Dual-Core Xeon 3065 SLAA9 (G0) 2333 MHz 4096 KiB 1333 MT/s 7x 0.85 - 1.3625 V
+65 W LGA 775 October 7, 2007 HH80557KJ0534MG $163  
+Dual-Core Xeon 3070 SL9U2, SL9ZC (B2) 2667 MHz 4096 KiB 1066 MT/s 10x 65 W LGA
+775 October 2006 HH80557KH0674M $530  
+Dual-Core Xeon 3075 SLAA3 (G0) 2667 MHz 4096 KiB 1333 MT/s 8x 0.85 - 1.3625 V
+65 W LGA 775 October 7, 2007 HH80557KJ0674MG $183  
+Dual-Core Xeon 3085 SLAA2 (G0) 3000 MHz 4096 KiB 1333 MT/s 9x 0.85 - 1.3625 V
+65 W LGA 775 October 7, 2007 HH80557KJ0804MG $266  
+#### [edit] "Woodcrest" (65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Demand Based Switching (Intel's Server EIST): All except 5110, 5130.
+  * Die size: 143 mmÂ²
+  * Steppings: B2, G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon 5110 SL9RZ, SLABR,  
+SLAGE (G0) 1600 MHz 4096 KiB 1066 MT/s 6x 1.00-1.50 V 65 W LGA 771 June 26,
+2006 HH80556KH0254M $209  
+Dual-Core Xeon 5120 SL9RY, SLABQ,  
+SLAGD (G0) 1866 MHz 4096 KiB 1066 MT/s 7x 1.00-1.50 V 65 W LGA 771 June 26,
+2006 HH80556KH0364M $256  
+Dual-Core Xeon 5130 SL9RX, SLABP,  
+SLAGC (G0) 2000 MHz 4096 KiB 1333 MT/s 6x 1.00-1.50 V 65 W LGA 771 June 26,
+2006 HH80556KJ0414M $316  
+Dual-Core Xeon 5140 SL9RW, SLABN,  
+SLAGB (G0) 2333 MHz 4096 KiB 1333 MT/s 7x 1.00-1.50 V 65 W LGA 771 June 26,
+2006 HH80556KJ0534M $455  
+Dual-Core Xeon 5150 SL9RU, SLABM,  
+SLAGA (G0) 2667 MHz 4096 KiB 1333 MT/s 8x 1.00-1.50 V 65 W LGA 771 June 26,
+2006 HH80556KJ0674M $690  
+Dual-Core Xeon 5160 SL9RT, SLABS,  
+SLAG9 (G0) 3000 MHz 4096 KiB 1333 MT/s 9x 1.00-1.50 V 80 W LGA 771 June 26,
+2006 HH80556KJ0804M $851  
+#### [edit] "Woodcrest" (low-voltage, 65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 143 mmÂ²
+  * Steppings: B2, G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon LV 5128 SL9XA (B2) 1866 MHz 4096 KiB 1066 MT/s 7x 1.15 - 1.25 V
+40 W LGA 771 December 4, 2006 HH80556JH0364M $412  
+SLAG6 (G0) July 22, 2007  
+Dual-Core Xeon LV 5138 SL9RM (B2) 2133 MHz 4096 KiB 1066 MT/s 8x 1.150 - 1.212
+V 35 W LGA 771 December 4, 2006 HH80556JH0464M $617  
+SLAG3 (G0) July 22, 2007  
+Dual-Core Xeon LV 5148 SL9RR, SLABH (B2) 2333 MHz 4096 KiB 1333 MT/s 7x 1.15 -
+1.25 V 40 W LGA 771 Q3 2006 HH80556JJ0534M $519  
+SLAG4 (G0) July 22, 2007  
+#### [edit] "Wolfdale" (45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Enhanced Intel SpeedStep Technology (EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * Models support only uni-processor configurations
+  * Die size: 107 mmÂ²
+  * Steppings: C0, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon E3110 SLAPM (C0),  
+SLB9C (E0) 3000 MHz 6144 KiB 1333 MT/s 9x 0.956 - 1.225 V 65 W LGA 775 Q1 2008
+EU80570KJ0806M,  
+AT80570KJ0806M $188  
+Dual-Core Xeon E3120 SLB9D 3166 MHz 6144 KiB 1333 MT/s 9.5x 1.3625 V 65 W LGA
+775 Q3 2008 AT80570KJ0876M $188  
+#### [edit] "Wolfdale" (low voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Enhanced Intel SpeedStep Technology (EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * Models support only uni-processor configurations
+  * Die size: 107 mmÂ²
+  * Steppings: E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon L3110 SLGP9 3000 MHz 6144 KiB 1333 MT/s 9x 1.250 V 45 W LGA 775
+Q1 2009 AT80570JJ0806M  
+#### [edit] "Wolfdale-DP" (standard-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 107 mmÂ²
+  * Steppings: C0, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon E5205 SLANG (C0),  
+SLBAU (E0) 1866 MHz 6144 KiB 1066 MT/s 7x 0.950 - 1.212 V 65 W LGA 771
+November 11, 2007 EU80573KH0366M,  
+AT80573KH0366M $177  
+Dual-Core Xeon E5220 SLANF (C0),  
+SLBAT (E0) 2333 MHz 6144 KiB 1333 MT/s 7x 0.850 - 1.35 V 65 W LGA 771 March
+2008 EU80573KJ0536M,  
+AT80573QJ0536M  
+Dual-Core Xeon E5240 SLAND (C0),  
+SLBAW (E0) 3000 MHz 6144 KiB 1333 MT/s 9x 0.95 - 1.2125 V 65 W LGA 771 March
+2008 EU80573KJ0806M,  
+AT80573QJ0806M  
+Dual-Core Xeon X5260 SLANJ (C0),  
+SLBAS (E0) 3333 MHz 6144 KiB 1333 MT/s 10x 0.95 - 1.2125 V 80 W LGA 771
+November 11, 2007 EU80573KJ0936M,  
+AT80573KJ0936M $851  
+Dual-Core Xeon X5270 SLBAQ (E0) 3500 MHz 6144 KiB 1333 MT/s 10.5x 0.975 -
+1.262 V 80 W LGA 771 Q3 2008 AT80573KJ1006M $1172  
+Dual-Core Xeon X5272 SLANH (C0),  
+SLBAR (E0) 3400 MHz 6144 KiB 1600 MT/s 8.5x 0.95 - 1.2125 V 80 W LGA 771
+November 11, 2007 EU80573KL0966M,  
+AT80573KL0966M $1172  
+#### [edit] "Wolfdale-DP" (low-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 107 mmÂ²
+  * Steppings: C0, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon L5215 SLBB3 1867 MHz 6144 KiB 1066 MT/s 7x 1.35 V 20 W LGA 771
+AT80573JH0366M  
+Dual-Core Xeon L5238 SLANM 2667 MHz 6144 KiB 1333 MT/s 8x 1.35 V 35 W LGA 771
+March 2008 EU80573JJ0676M  
+Dual-Core Xeon L5240 SLAS3 (C0),  
+SLBAY (E0) 3000 MHz 6144 KiB 1333 MT/s 9x 1.35 V 40 W LGA 771 March 2008
+EU80573JJ0806M,  
+AT80573JJ0806M $669  
+### [edit] Xeon MP, Dual Core
+
+#### [edit] "Tigerton-DC" (standard-voltage, 65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Enhanced Intel SpeedStep Technology (EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Die size: 2 Ã 143 mmÂ²
+  * Steppings: G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Dual-Core Xeon E7210 SLA6D 2400 MHz 2 Ã 4096 KiB 1066 MT/s 9x 1.200 - 1.325 V
+80 W Socket 604 September 6, 2007 LF80564QH0568M $856  
+Dual-Core Xeon E7220 SLA6C 2933 MHz 2 Ã 4096 KiB 1066 MT/s 11x 1.200 - 1.325
+V 80 W Socket 604 September 6, 2007 LF80564QH0778M $1177  
+### [edit] Xeon (UP/DP), Quad Core
+
+#### [edit] "Kentsfield" (65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Enhanced Intel SpeedStep Technology (EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support uni-processor configurations
+  * Die size: 2 Ã 143 mmÂ²
+  * Steppings: B3, G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon X3210 SL9UQ (B3) 2133 MHz 2 Ã 4096 KiB 1066 MT/s 8x 1.100 -
+1.372 V 105 W LGA 775 January 7, 2007 HH80562QH0468M $690  
+SLACU (G0) 95 W July 27, 2007 $224  
+Quad-Core Xeon X3220 SL9UP (B3) 2400 MHz 2 Ã 4096 KiB 1066 MT/s 9x 1.100 -
+1.372 V 105 W LGA 775 January 7, 2007 HH80562QH0568M $851  
+SLACT (G0) 95 W July 27, 2007 $266  
+Quad-Core Xeon X3230 SLACS (G0) 2667 MHz 2 Ã 4096 KiB 1066 MT/s 10x 1.100 -
+1.372 V 95 W LGA 775 July 27, 2007 HH80562QH0678M $530  
+#### [edit] "Yorkfield" (45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Enhanced Intel SpeedStep Technology (EIST), Enhanced Halt State (C1E), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support uni-processor configurations
+  * Die size: 2 Ã 107 mmÂ²
+  * Steppings: C1, M1, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon X3320 SLAWF (M1) 2500 MHz 2 Ã 3072 KiB 1333 MT/s 7.5x 0.962 -
+1.212 V 95 W LGA 775 March 2008 EU80580KJ0606M $266  
+Quad-Core Xeon X3330 SLB6C 2667 MHz 2 Ã 3072 KiB 1333 MT/s 8.0x 1.3625 V 95 W
+LGA 775 August 2008 AT80580KJ0676M $266  
+Quad-Core Xeon X3350 SLAX2 (C1) 2667 MHz 2 Ã 6144 KiB 1333 MT/s 8.0x 0.950 -
+1.212 V 95 W LGA 775 March 2008 EU80569KJ067N $316  
+SLB8Y (E0) August 2008 $$$  
+Quad-Core Xeon X3360 SLAWZ (C1) 2833 MHz 2 Ã 6144 KiB 1333 MT/s 8.5x 0.962 -
+1.237 V 95 W LGA 775 March 2008 EU80569KJ073N $530  
+SLB8X (E0) August 2008 $$$  
+Quad-Core Xeon X3370 SLB8Z (E0) 3000 MHz 2 Ã 6144 KiB 1333 MT/s 9.0x 0.962 -
+1.362 V 95 W LGA 775 August 2008 AT80569KJ080N $530  
+Quad-Core Xeon X3380 SLGPG 3167 MHz 2 Ã 6144 KiB 1333 MT/s 9.5x 0.85 - 1.3625
+V 95 W LGA 775 February 2009 AT80569KJ087N $530  
+#### [edit] "Clovertown" (65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Demand Based Switching (Intel's Server EIST): All except E5310, E5335.
+  * Steppings: B3, G0
+  * Die size: 2 Ã 143 mmÂ²
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon E5310 SL9XR, SLACB (B3) 1600 MHz 2 Ã 4096 KiB 1066 MT/s 6x 1.5
+V 80 W LGA 771 November 2006 HH80563QH0258M $455  
+SLAEM (G0) 1.187 - 1.325 V July 2007 $209  
+Quad-Core Xeon E5320 SL9MV, SLAC8 (B3) 1866 MHz 2 Ã 4096 KiB 1066 MT/s 7x 1.5
+V 80 W LGA 771 November 2006 HH80563QH0368M $690  
+SLAEL (G0) 1.187 - 1.325 V July 2007 $256  
+Quad-Core Xeon E5330 2133 MHz 2 Ã 4096 KiB 1066 MT/s 8x 1.5 V 80 W LGA 771
+HH80563QH0468M  
+Quad-Core Xeon E5335 SL9YK, SLAC7 (B3) 2000 MHz 2 Ã 4096 KiB 1333 MT/s 6x
+1.162 - 1.200 V 80 W LGA 771 December 2006 HH80563QJ0418M $690  
+SLAEK (G0) 1.187 - 1.325 V July 2007 $316  
+Quad-Core Xeon E5340 2400 MHz 2 Ã 4096 KiB 1066 MT/s 9x 1.5 V 80 W LGA 771
+HH80563KH0568M  
+Quad-Core Xeon E5345 SL9YL, SLAC5 (B3) 2333 MHz 2 Ã 4096 KiB 1333 MT/s 7x
+1.162 - 1.200 V 80 W LGA 771 November 2006 HH80563QJ0538M $851  
+SLAEJ (G0) 1.187 - 1.325 V July 2007 $455  
+Quad-Core Xeon E5350 2667 MHz 2 Ã 4096 KiB 1066 MT/s 10x 1.5 V 80 W LGA 771  
+Quad-Core Xeon X5355 SL9YM, SLAC4 (B3) 2667 MHz 2 Ã 4096 KiB 1333 MT/s 8x
+1.162 - 1.200 V 120 W LGA 771 November 2006 HH80563KJ0678M $1172  
+SLAEG (G0) 1.20 - 1.35 V July 2007 $744  
+Quad-Core Xeon X5365 SL9YZ (B3) 3000 MHz 2 Ã 4096 KiB 1333 MT/s 9x 1.162 -
+1.200 V 150 W LGA 771 April 2007 HH80563KJ0808MP $1350  
+SLAED (G0) 1.35 V 120 W August 13, 2007 $1172  
+E5330, E5340 and E5350 is not listed on [1] but it is mentioned on [2]. In
+August 2007, E5330 is widely available. In June 2007, E5340 Engineering
+Samples were available on eBay.
+
+#### [edit] "Clovertown" (low voltage, 65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Demand Based Switching (Intel's Server EIST): L5320
+  * Die size: 2 Ã 143 mmÂ²
+  * Steppings: B3, G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon LV L5310 SL9MT, SLACA (B3) 1600 MHz 2 Ã 4096 KiB 1066 MT/s 6x
+1.10 - 1.25 V 50 W LGA 771 March 12, 2007 HH80563JH0258M $455  
+SLAEQ (G0) Q3 2007 $273  
+Quad-Core Xeon LV L5320 SLA4Q, SLAC9 (B3) 1866 MHz 2 Ã 4096 KiB 1066 MT/s 7x
+1.100 - 1.325 V 50 W LGA 771 March 12, 2007 HH80563JH0368M $519  
+SLAEP (G0) 1.10 - 1.25 V Q3 2007 $320  
+Quad-Core Xeon LV L5335 SLAEN (G0) 2000 MHz 2 Ã 4096 KiB 1333 MT/s 6x 1.187 -
+1.325 V 50 W LGA 771 August 13, 2007 HH80563JJ0418MP $380  
+#### [edit] "Harpertown" (standard-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Demand Based Switching (Intel's Server EIST, except E5405), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 2 Ã 107 mmÂ²
+  * Steppings: C0, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon E5405 SLAP2 2000 MHz 2 Ã 6144 KiB 1333 MT/s 6x 0.95 - 1.225 V
+80 W LGA 771 November 11, 2007 EU80574KJ041N $209  
+Quad-Core Xeon E5410 SLANW 2333 MHz 2 Ã 6144 KiB 1333 MT/s 7x 0.95 - 1.225 V
+80 W LGA 771 November 11, 2007 EU80574KJ053N $256  
+Quad-Core Xeon E5420 SLANV 2500 MHz 2 Ã 6144 KiB 1333 MT/s 7.5x 0.95 - 1.225
+V 80 W LGA 771 November 11, 2007 EU80574KJ060N $316  
+Quad-Core Xeon E5430 SLANU 2667 MHz 2 Ã 6144 KiB 1333 MT/s 8x 0.95 - 1.225 V
+80 W LGA 771 November 11, 2007 EU80574KJ067N $455  
+Quad-Core Xeon E5440 SLANS 2833 MHz 2 Ã 6144 KiB 1333 MT/s 8.5x 0.95 - 1.225
+V 80 W LGA 771 November 11, 2007 EU80574KJ073N $690  
+Quad-Core Xeon E5450 SLANQ 3000 MHz 2 Ã 6144 KiB 1333 MT/s 9x 0.95 - 1.225 V
+80 W LGA 771 November 11, 2007 EU80574KJ080N $915  
+Quad-Core Xeon X5450 SLASB 3000 MHz 2 Ã 6144 KiB 1333 MT/s 9x 0.95 - 1.225 V
+120 W LGA 771 November 11, 2007 EU80574KJ080NT $851  
+Quad-Core Xeon X5460 SLANP 3166 MHz 2 Ã 6144 KiB 1333 MT/s 9.5x 0.95 - 1.225
+V 120 W LGA 771 November 11, 2007 EU80574KJ087N $1172  
+Quad-Core Xeon E5462 SLANT 2800 MHz 2 Ã 6144 KiB 1600 MT/s 7x 0.95 - 1.225 V
+80 W LGA 771 November 11, 2007 EU80574KL072N $797  
+SLBBN 1.212V AT80574KL072N  
+Quad-Core Xeon X5470 SLBBF 3333 MHz 2 Ã 6144 KiB 1333 MT/s 10x 1.212 V 120 W
+LGA 771 September 8, 2008 AT80574KJ093N $1386  
+Quad-Core Xeon E5472 SLANR 3000 MHz 2 Ã 6144 KiB 1600 MT/s 7.5x 0.95 - 1.225
+V 80 W LGA 771 November 11, 2007 EU80574KL080N $1022  
+SLBBH 1.212V AT80574KL080N  
+Quad-Core Xeon X5472 SLASA 3000 MHz 2 Ã 6144 KiB 1600 MT/s 7.5x 0.95 - 1.225
+V 120 W LGA 771 November 11, 2007 EU80574KL080NT $958  
+SLBBB 1.212V AT80574KL080NT  
+Quad-Core Xeon X5482 SLANZ 3200 MHz 2 Ã 6144 KiB 1600 MT/s 8x 0.95 - 1.225 V
+150 W LGA 771 November 11, 2007 EU80574KL088N $1279  
+SLBBG 0.85V â 1.35V 120 W AT80574KL088NT  
+Quad-Core Xeon X5492 SLBBD 3400 MHz 2 Ã 6144 KiB 1600 MT/s 8.5x 1.212 V 150 W
+LGA 771 September 8, 2008 AT80574KL096N $1493  
+#### [edit] "Harpertown" (low-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 2 Ã 107 mmÂ²
+  * Steppings: C0, E0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon L5408 SLAP5 2133 MHz 2 Ã 6144 KiB 1066 MT/s 8x 1.35 V 40 W LGA
+771 March 2008 EU80574JH046N  
+Quad-Core Xeon L5410 SLAP4 2333 MHz 2 Ã 6144 KiB 1333 MT/s 7x 1.35 V 50 W LGA
+771 March 25, 2008 EU80574JJ053N $320  
+Quad-Core Xeon L5420 SLARP 2500 MHz 2 Ã 6144 KiB 1333 MT/s 7.5x 1.35 V 50 W
+LGA 771 March 25, 2008 EU80574JJ060N $380  
+Quad-Core Xeon L5430 SLBBQ 2666 MHz 2 Ã 6144 KiB 1333 MT/s 8x 1.212 V 50 W
+LGA 771 September 8, 2008 AT80574JJ067N $562  
+### [edit] Xeon MP, Quad Core
+
+#### [edit] "Tigerton" (standard-voltage, 65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Demand Based Switching (Intel's Server EIST): All except E7310
+  * Die size: 2 Ã 143 mmÂ²
+  * Steppings: G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon E7310 SLA6A 1600 MHz 2 Ã 2048 KiB 1066 MT/s 6x 1.20 - 1.35 V
+80 W Socket 604 September 6, 2007 LF80565QH0254M $856  
+Quad-Core Xeon E7320 SLA69 2133 MHz 2 Ã 2048 KiB 1066 MT/s 8x 1.20 - 1.35 V
+80 W Socket 604 September 6, 2007 LF80565QH0464M $1177  
+Quad-Core Xeon E7330 SLA77 2400 MHz 2 Ã 3072 KiB 1066 MT/s 9x 1.20 - 1.35 V
+80 W Socket 604 September 6, 2007 LF80565QH0566M $1391  
+Quad-Core Xeon E7340 SLA68 2400 MHz 2 Ã 4096 KiB 1066 MT/s 9x 1.20 - 1.35 V
+80 W Socket 604 September 6, 2007 LF80565QH0568M $1980  
+Quad-Core Xeon X7350 SLA67 2933 MHz 2 Ã 4096 KiB 1066 MT/s 11x 1.20 - 1.35 V
+130 W Socket 604 September 6, 2007 LF80565KH0778M $2301  
+#### [edit] "Tigerton" (low-voltage, 65 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Die size: 2 Ã143 mmÂ²
+  * Steppings: G0
+
+Model Number sSpec Number Frequency L2-Cache Front Side Bus Mult Voltage TDP
+Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon LV L7345 SLA6B 1866 MHz 2 Ã 4096 KiB 1066 MT/s 7x 1.10 - 1.25
+V 50 W Socket 604 September 6, 2007 LF80565JH0368M $2301  
+#### [edit] "Dunnington-QC" (standard-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Die size: TBA
+  * Steppings: A1
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache Front Side Bus Mult
+Voltage TDP Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon E7420 SLG9G 2133 MHz 2 Ã 3072 KiB 8 MiB 1066 MT/s 8x 1.45 V 90
+W Socket 604 September 15, 2008 AD80583QH0468M $1177  
+Quad-Core Xeon E7430 SLG9H 2133 MHz 2 Ã 3072 KiB 12 MiB 1066 MT/s 8x 1.45 V
+90 W Socket 604 September 15, 2008 AD80583QH046003 $1391  
+Quad-Core Xeon E7440 SLG9J 2400 MHz 2 Ã 3072 KiB 16 MiB 1066 MT/s 9x 1.45 V
+90 W Socket 604 September 15, 2008 AD80583QH056007 $1980  
+#### [edit] "Dunnington-QC" (low-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Die size: TBA
+  * Steppings: A1
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache Front Side Bus Mult
+Voltage TDP Socket Release Date Part Number(s) Release Price (USD)  
+Quad-Core Xeon L7445 SLG9L 2133 MHz 2 Ã 3072 KiB 12 MiB 1066 MT/s 8x 1.45 V
+50 W Socket 604 September 15, 2008 AD80583JH046003 $1980  
+### [edit] Xeon MP, Six Core
+
+#### [edit] "Dunnington" (standard-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Die size: TBA
+  * Steppings: A1
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache Front Side Bus Mult
+Voltage TDP Socket Release Date Part Number(s) Release Price (USD)  
+Six-Core Xeon E7450 SLG9K 2400 MHz 3 Ã 3072 KiB 12 MiB 1066 MT/s 9x 1.45 V 90
+W Socket 604 September 15, 2008 AD80582QH056003 $2301  
+Six-Core Xeon X7460 SLG9P 2667 MHz 3 Ã 3072 KiB 16 MiB 1066 MT/s 10x 1.45 V
+130 W Socket 604 September 15, 2008 AD80582KH067007 $2729  
+#### [edit] "Dunnington" (low-voltage, 45 nm)
+
+  * Based on Intel Core microarchitecture
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support quad-processor configurations
+  * Die size: TBA
+  * Steppings: A1
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache Front Side Bus Mult
+Voltage TDP Socket Release Date Part Number(s) Release Price (USD)  
+Six-Core Xeon L7455 SLG9M 2133 MHz 3 Ã 3072 KiB 12 MiB 1066 MT/s 8x 1.45 V 65
+W Socket 604 September 15, 2008 AD80582JH046003 $2729  
+## [edit] Nehalem based Xeons
+
+### [edit] Xeon (UP/DP), Dual Core
+
+#### [edit] "Gainestown" (45 nm)
+
+  * Based on Nehalem
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support dual-processor configurations
+  * Die size: 263 mmÂ²
+  * Steppings: C0
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache QPI Frequency Mult
+Memory Controller Voltage TDP Socket Release Date Part Number(s) Release Price
+(USD)  
+Xeon E5502 SLBEZ 1.86 GHz 2 x 256 KiB 4 MiB 2 x 6.4 GT/s 14x DDR3-800 0.75 -
+1.35 V 80 W LGA 1366 March 30, 2009 BX80602E5502, AT80602000804AA $188  
+### [edit] Xeon (UP/DP), Quad Core
+
+#### [edit] "Bloomfield" (45 nm)
+
+  * Based on Nehalem
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Hyper-Threading, Turbo Boost, Intel VT
+  * All models support uni-processor configurations
+  * Die size: 263 mmÂ²
+  * Steppings: C0
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache QPI Frequency Mult
+Memory Controller Voltage TDP Socket Release Date Part Number(s) Release Price
+(USD)  
+Xeon W3570 SLBES 3.2 GHz 4 x 256 KiB 8 MiB 6.4 GT/s 24x DDR3-1333 0.8 - 1.375
+V 130 W LGA 1366 March 30, 2009 $999  
+Xeon W3540 SLBEX 2.93 GHz 4.8 GT/s 22x March 30, 2009 $562  
+Xeon W3520 SLBEW 2.66 GHz 20x March 30, 2009 $284  
+#### [edit] "Gainestown" (45 nm) [2] [3]
+
+  * Based on Nehalem
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support: Hyper-Threading, Turbo Boost except E5504, E5506
+  * All models support dual-processor configurations
+  * Die size: 263 mmÂ²
+  * Steppings: C0
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache QPI Frequency Mult
+Memory Controller Voltage TDP Socket Release Date Part Number(s) Release Price
+(USD)  
+Xeon W5580 SLBF2 3.2 GHz 4 x 256 KiB 8 MiB 2 x 6.4 GT/s 24x DDR3-1333 0.75 -
+1.35 V 130 W LGA 1366 March 30, 2009 BX80602W5580, AT80602000756AD $1600  
+Xeon X5570 SLBF3 2.93 GHz 22x 95 W March 30, 2009 BX80602X5570,
+AT80602000765AA $1386  
+Xeon X5560 SLBF4 2.8 GHz 21x March 30, 2009 BX80602X5560, AT80602000768AA
+$1172  
+Xeon X5550 SLBF5 2.66 GHz 20x March 30, 2009 BX80602X5550, AT80602000771AA
+$958  
+Xeon E5540 SLBF6 2.53 GHz 2 x 5.86 GT/s 19x DDR3-1066 80 W March 30, 2009 $744  
+Xeon E5530 SLBF7 2.4 GHz 18x March 30, 2009 $530  
+Xeon E5520 SLBFD 2.26 GHz 17x March 30, 2009 $373  
+Xeon E5506 SLBF8 2.13 GHz 4 MiB 2 x 4.8 GT/s 16x DDR3-800 March 30, 2009 $266  
+Xeon E5504 SLBF9 2 GHz 15x March 30, 2009 $224  
+#### [edit] "Gainestown" (low-voltage, 45 nm)
+
+  * Based on Nehalem
+  * All models support: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Demand Based Switching (Intel's Server EIST), Intel 64, XD bit (an NX bit implementation), Intel VT
+  * All models support: Hyper-Threading, Turbo Boost except L5506
+  * All models support dual-processor configurations
+  * Die size: 263 mmÂ²
+  * Steppings: C0
+
+Model Number sSpec Number Frequency L2-Cache L3-Cache QPI Frequency Mult
+Memory Controller Voltage TDP Socket Release Date Part Number(s) Release Price
+(USD)  
+Xeon L5520 SLBFA 2.26 GHz 4 x 256 KiB 8 MiB 2 x 5.86 GT/s 17x DDR3-1066 0.75 -
+1.35 V 60 W LGA 1366 March 30, 2009 BX80602L5520, AT80602000810AA $530  
+Xeon L5506 SLBFH 2.13 GHz 4 MiB 2 x 4.8 GT/s 16x DDR3-800 March 30, 2009
+BX80602L5506, AT80602002712AA $423  
+## [edit] References
+
+  1. ^ "Intel Xeon Processor Specification Update" (PDF). p. 7. http://download.intel.com/support/processors/xeon/sb/249678.pdf. Retrieved on 2008-05-21. "-035 Added new Processor Intel Xeon Processor with 2-MB L3 Cache with Processor Signature=0F25H (M0 Stepping). February 2004"
+  2. ^ http://www.tomshardware.com/news/intel-product-roadmap-2009,6384.html
+  3. ^ http://www.tgdaily.com/content/view/40180/139/
+
+## [edit] See also
+
+  * Comparison of Intel processors
+  * List of future Intel Xeon microprocessors
+  * Intel Xeon
+
+## [edit] External links
+
+  * SSPEC/QDF Reference (Intel)
+  * Intel Xeon Processor Finder
+  * Intel Processor Numbers
+  * Intel prices up Woodcrest, Tulsa server chips
+  * Intel Xeon 7100 16 MB L3 model launch on Aug 27
+  * Intel Quietly Ships New Quad-Core Xeon
+  * INTEL Announces New Xeon CPUs
+  * Intel Core Microarchitecture-Based Processor Line-Up Expands to Communications Solutions
+  * Dual-Core Xeon Processor LV and ULV Specification Update
+  * Intel Marks Energy-Efficient Milestone With 50-Watt, High-Performing Quad-Core Server Processors
+  * Quad-core Intel Xeon processor specifications
+  * Intel's Fundamental Advance in Transistor Design Extends Moore's Law, Computing Performance
+  * New Intel Server Processors: Fewer Watts, High Performance
+
+v â¢ d â¢ e
+
+Intel processors  
+Discontinued
+
+pre-8086
+
+4004 Â· 4040 Â· 8008 Â· 8080 Â· 8085  
+x86 (16 bit)
+
+8086 Â· 8088 Â· 80186 Â· 80188 Â· 80286  
+x86/IA32 (32 bit)
+
+80386 Â· 80486 Â· Pentium Â· Pentium Pro Â· Pentium II Â· Pentium III Â·
+Pentium 4 Â· Pentium M Â· Core Â· Celeron M Â· Celeron D  
+x86-64/EM64T (64 bit)
+
+Pentium 4 (Some) Â· Pentium D Â· Pentium Extreme Edition Â· Celeron D (Some)  
+Other
+
+Itanium â iAPX 432 â RISC: i860 Â· i960 Â· XScale â Microcontrollers:
+8048 Â· 8051 Â· MCS-96  
+Current
+
+Celeron Â· Pentium Dual-Core Â· Core 2 Â· A100 Â· Atom Â· Xeon Â· Itanium Â·
+Core i7  
+Upcoming
+
+Tukwila Â· Tolapai Â· Moorestown Â· Core i5  
+Lists
+
+CPU sockets Â· Chipsets Â· Microarchitectures Â· Processors Â· Codenames  
+Atom Â· Celeron Â· Core Â· Core 2 Â· Core i7 Â· Itanium Â· Pentium II Â·
+Pentium III Â· Pentium 4 Â· Pentium D Â· Pentium Dual-Core Â· Pentium M Â·
+Xeon  
+Future Celeron Â· Future Pentium Â· Future Core 2 Â· Future Core i7 Â· Future
+Xeon  
+Microarchitectures
+
+Past and present
+
+P5 Â· P6 Â· NetBurst Â· Core Â· Nehalem  
+Future
+
+Larrabee Â· Sandy Bridge Â· Haswell  
+Retrieved from
+"http://en.wikipedia.org/wiki/List_of_Intel_Xeon_microprocessors"
+
+Categories: Intel x86 microprocessors | Lists of microprocessors
+
+Hidden categories: Incomplete lists
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * íêµ­ì´
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 April 2009, at 02:21 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

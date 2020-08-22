@@ -1,0 +1,472 @@
+
+# EN 13402
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+Clothes-size label with EN 13402-1 pictogram and body dimensions in
+centimetres (found on a high-visibility jacket sold in the United Kingdom).
+
+EN 13402 is a European standard for labelling clothes sizes. It is based on
+body dimensions, measured in centimetres. It aims to replace many older
+national dress-size systems, most likely after the year 2007. Acceptance of
+this form of standardization is likely to vary from country to country. For
+example, the Spanish Ministry of Health and Consumer Affairs has commissioned
+a study [1] to categorise female body types with a view to harmonising Spanish
+clothing sizes with EN-13402. Few other countries are known to have followed
+suit.
+
+## Contents
+
+  * 1 Background
+  * 2 EN 13402-1: Terms, definitions and body measurement procedure
+  * 3 EN 13402-2: Primary and secondary dimensions
+  * 4 EN 13402-3: Measurements and intervals
+    * 4.1 Men
+    * 4.2 Women
+      * 4.2.1 Dress sizes
+      * 4.2.2 Bra sizes
+    * 4.3 Letter codes
+  * 5 EN 13402-4: Coding system
+  * 6 References
+  * 7 Related links
+  * 8 External links
+
+  
+## [edit] Background
+
+There are three approaches for size-labelling of clothes:
+
+  * body dimensions: The product label states for which range of body dimensions the product was designed. (Example: bike helmet labelled "head girth: 56â60 cm", shoe labelled "foot length: 28 cm")
+
+  * product dimensions: The label states characteristic measures of the product. (Example: jeans labelled with their inner-leg length in centimetres or inches: i.e., not theâseveral centimetres longerâinner leg length of the intended wearer)
+
+  * ad-hoc size: The label provides a size number or code with no obvious relationship to any measurement. (Example: Size 12, XL)
+
+Traditionally, clothes have been labelled using many different ad-hoc size
+systems. This approach has led to a number of problems:
+
+  * Country-specific or even vendor-specific labels create additional costs.
+  * Ad-hoc sizes have changed with time, often due to "vanity labelling", an inflation in body dimensions associated with a size, to avoid confronting aging customers with uncomfortable anthropometric truths.
+  * Mail-order purchasing requires accurate methods for predicting the best-fitting size.
+  * For many types of garments, size cannot be described adequately by just a single number, because two independent body dimensions have to match for a good fit, sometimes even three. (This is a problem in sizing jeans.)
+  * Scalar ad-hoc sizes based on 1950s anthropometric studies are no longer adequate, as changes in nutrition and life styles have shifted the distribution of body dimensions.
+
+Therefore, the European standards committee CEN/TC 248/WG 10 started in 1996
+the process of designing a new modern system of labelling clothes sizes,
+resulting in the standard EN 13402 "Size designation of clothes".
+
+It is based on
+
+  * body-dimensions
+  * the metric system (SI)
+  * data from new anthropometric studies of the European population performed in the late 1990s
+  * similar existing international standards (ISO 3635, etc.)
+
+## [edit] EN 13402-1: Terms, definitions and body measurement procedure
+
+The first part of the standard defines the list of body dimensions to be used
+for designating clothes sizes, together with an anatomical explanation and
+measurement guidelines:
+
+head girth
+
+    maximum horizontal girth (circumference) of the head measured above the ears
+neck girth
+
+    girth of the neck measured with the tape measure passed 2 cm below the Adam's apple and at the level of the 7th cervical vertebra
+chest girth
+
+    maximum horizontal girth measured during normal breathing with the subject standing erect and the tape-measure passed over the shoulder blades (scapulae), under the armpits (axillae), and across the chest
+bust girth
+
+    maximum horizontal girth measured during normal breathing with the subject standing erect and the tape-measure passed horizontally, under the armpits (axillae), and across the bust prominence (preferably measured with moderate tension over a brassiere that shall not deform the breast in an unnatural way and shall not displace its volume)
+underbust girth
+
+    horizontal girth of the body measured just below the breasts
+waist girth
+
+    girth of the natural waistline between the top of the hip bones (iliac crests) and the lower ribs, measured with the subject breathing normally and standing erect with the abdomen relaxed
+hip girth
+
+    horizontal girth measured round the buttocks at the level of maximum circumference
+height
+
+    vertical distance between the crown of the head and the soles of the feet, measured with the subject standing erect without shoes and with the feet together (for infants not yet able to stand upright: length of the body measured in a straight line from the crown of the head to the soles of the feet)
+inside leg length
+
+    distance between the crotch and the soles of the feet, measured in a straight vertical line with the subject erect, feet slightly apart, and the weight of the body equally distributed on both legs
+arm length
+
+    distance, measured using the tape-measure, from the armscye/shoulder line intersection (acromion), over the elbow, to the far end of the prominent wrist bone (ulna), with the subject's right fist clenched and placed on the hip, and with the arm bent at 90Â°
+hand girth
+
+    maximum girth measured over the knuckles (metacarpals) of the open right hand, fingers together and thumb excluded
+foot length
+
+    horizontal distance between perpendiculars in contact with the end of the most prominent toe and the most prominent part of the heel, measured with the subject standing barefoot and the weight of the body equally distributed on both feet
+EN 13402-1 pictogram example
+
+body mass
+
+    measured with a suitable balance in kilograms
+These dimensions are meant to be measured preferably without or as few as
+possible clothes.
+
+All body dimensions are measured in centimetres, except for the body mass.
+
+The standard also defines a pictogram that can be used in language-neutral
+labels to indicate one or several of the above body dimensions.
+
+## [edit] EN 13402-2: Primary and secondary dimensions
+
+The second part of the standard defines for each type of garment one "primary
+dimension". This is the body measure according to which the product must be
+labelled.
+
+For some types of garment, a single measure may not be sufficient to select
+the right product. In these cases, one or two "secondary dimensions" can be
+added to the label.
+
+The following table shows the primary and secondary dimensions listed in the
+standard. Secondary dimensions are shown in parenthesis.
+
+Garment Men Women Boys Girls  
+Jackets chest girth  
+(height, waist girth) bust girth  
+(height, hip girth) height  
+(chest girth) height  
+(bust girth)  
+Suits chest girth, waist girth  
+(height, inside leg length) bust girth  
+(height, hip girth) height  
+(chest girth) height  
+(bust girth)  
+Overcoats chest girth  
+(height) bust girth  
+(height) height  
+(chest girth) height  
+(bust girth)  
+Trousers/shorts waist girth  
+(height, inside leg length) waist girth  
+(height, hip girth, inside leg length) height  
+(waist girth) height  
+(waist girth)  
+Skirts â waist girth  
+(height, hip girth) â height  
+(waist girth)  
+Dresses â bust girth  
+(height, hip girth, waist girth) â height  
+(bust girth)  
+Knits: cardigans, sweaters, T-shirts chest girth  
+(height) bust girth  
+(height) height  
+(chest girth) height  
+(bust girth)  
+Shirts neck girth  
+(height, arm length) â height  
+(neck girth) â  
+Blouses â bust girth  
+(height) â height  
+(bust girth)  
+Underpants waist girth  
+(height) waist girth  
+(height, hip girth) height  
+(waist girth) height  
+(waist girth)  
+Vest chest girth  
+(height) bust girth  
+(height) height  
+(chest girth) height  
+(bust girth)  
+Pyjamas  
+Ladies' nightdresses chest girth  
+(height, waist girth) bust girth  
+(height, waist girth, hip girth) height  
+(chest girth) height  
+(bust girth)  
+Swim-suits/wear and bodies waist girth  
+(height, chest girth) bust girth  
+(height, hip girth, underbust girth) height  
+(chest girth, waist girth) height  
+(underbust girth, bust girth)  
+Bras â underbust girth, bust girth  
+(cup size) â underbust girth, bust girth  
+(cup size)  
+Corsetry/upper and full body â underbust girth, bust girth  
+(height, hip girth, waist girth) â â  
+Corsetry/lower body â waist girth, hip girth  
+(height) â â  
+Pantyhose â height  
+(waist girth, weight) â height  
+Stockings â foot length  
+Socks foot length  
+Gloves hand girth  
+Head wear head girth  
+## [edit] EN 13402-3: Measurements and intervals
+
+The third part of the standard defines preferred numbers of primary and
+secondary body dimensions.
+
+The product should not be labelled with the average body dimension for which
+the garment was designed (i.e., not "height: 176 cm."). Instead, the label
+should show the range of body dimensions from half the step size below to half
+the step size above the design size (e.g., "height: 172-180 cm.").
+
+For heights, for example, the standard recommends generally to use the
+following design dimensions, with a step size of 8 cm:
+
+Height ... 160 168 176 184 192 200 ...  
+Range ... 156-164 164-172 172-180 180-188 188-196 196-204 ...  
+For trousers, the recommended step size for height is 4 cm:
+
+Height ... 156 160 164 168 172 176  
+Range ... 154-158 158-162 162-166 166-170 170-174 174-178  
+Height 180 184 188 192 196 200 ...  
+Range 178-182 182-186 186-190 190-194 194-198 198-202 ...  
+The standard defines similar tables for other dimensions and garments, only
+some of which are shown here.
+
+### [edit] Men
+
+The standard sizes and ranges for chest and waist girth are:
+
+Chest girth 84 88 92 96 100 104 108 112  
+Range 82-86 86-90 90-94 94-98 98-102 102-106 106-110 110-114  
+Waist girth 72 76 80 84 88 92 96 100  
+Range 70-74 74-78 78-82 82-86 86-90 90-94 94-98 98-102  
+Chest girth 116 120 126 132 138 144  
+Range 114-118 118-123 123-129 129-135 135-141 141-147  
+Waist girth 104 108 114 120 126 132  
+Range 102-106 106-111 111-117 117-123 123-129 129-135  
+The above table is for drop = â12 cm, where
+
+    drop = waist girth â chest girth.
+Example: While manufacturers will typically design clothes for chest girth =
+100 cm such that it fits waist girth = 88 cm, they may also want to combine
+that chest girth with neighbouring waist girth step sizes 84 cm or 92 cm, to
+cover these drop types (â16 cm and â8 cm) as well.
+
+The standard also suggests that neck girth can be associated with chest girth
+according to this table:
+
+Neck girth 37 38 39 40 41 42 43 44  
+Range 36.5-37.5 37.5-38.5 38.5-39.5 39.5-40.5 40.5-41.5 41.5-42.5 42.5-43.5
+43.5-44.5  
+Chest girth 88 92 96 100 104 108 112 116  
+Neck girth 45 46.5 48 49.5 51  
+Range 44.5-45.8 45.8-47.3 47.3-48.8 48.8-50.3 50.3-51.1  
+Chest girth 120 126 132 138 144  
+The standard further suggests that arm length can be associated with height
+according to this table:
+
+Height 156 160 164 168 172 176 180 184 188 192 196 200  
+Arm length 60 61 62 63 64 65 66 67 68 69 70 71  
+Range 59-60 60-61 61-62 62-63 63-64 64-65 65-66 66-67 67-68 68-69 69-70 70-71  
+### [edit] Women
+
+#### [edit] Dress sizes
+
+The standard sizes and ranges for bust, waist and hip girth are:
+
+Bust girth 76 80 84 88 92 96 100 104 110  
+Range 74-78 78-82 82-86 86-90 90-94 94-98 98-102 102-107 107-113  
+Waist girth 60 64 68 72 76 80 84 88 94  
+Range 58-62 62-66 66-70 70-74 74-78 78-82 82-86 86-91 91-97  
+Hip girth 84 88 92 96 100 104 108 112 117  
+Range 82-86 86-90 90-94 94-98 98-102 102-106 106-110 110-115 115-120  
+EN 13402-1 pictogram example for dress size 88-72-96
+
+Bust girth 116 122 128 134 140 146 152  
+Range 113-119 119-125 125-131 131-137 137-143 143-149 149-155  
+Waist girth 100 106 112 118 124 130 136  
+Range 97-103 103-109 109-115 115-121 121-127 127-133 133-139  
+Hip girth 122 127 132 137 142 147 152  
+Range 120-125 125-130 130-135 135-140 140-145 145-150 150-155  
+#### [edit] Bra sizes
+
+    See also: Brassiere measurements
+The standard sizes for brassiere are:
+
+Underbust girth 60 65 70 75 80 85 90 95  
+Range 58-62 63-67 68-72 73-77 78-82 83-88 88-92 93-98  
+EN 13402-1 pictogram for bra size 70B
+
+Underbust girth 100 105 110 115 120 125  
+Range 98-102 103-108 108-112 113-118 118-122 123-128  
+The secondary dimension cup size can be expressed in terms of the difference
+
+    cup size = bust girth â underbust girth
+and can be labelled compactly using a letter code appended to the underbust
+girth:
+
+Code AA A B C D E F G  
+Cup size range 10-12 12-14 14-16 16-18 18-20 20-22 22-24 24-26  
+Example: Bra size 70B is suitable for women with underbust girth 68-72 cm and
+bust girth 84-86 cm.
+
+### [edit] Letter codes
+
+For clothes where a larger step size is sufficient, the standard also defines
+a letter code. This code represents the bust girth for women and the chest
+girth for men. The standard does not define such a code for children.
+
+Meaning Code Chest girth (men) Bust girth (women)  
+extra extra small XXS 70-78 66-74  
+extra small XS 78-86 74-82  
+small S 86-94 82-90  
+medium M 94-102 90-98  
+large L 102-110 98-106  
+extra large XL 110-118 107-119  
+extra extra large XXL 118-129 119-131  
+extra extra extra large 3XL 129-141 131-143  
+Each range combines two adjacent size steps. The ranges could be extended
+below XXS or above 3XL if necessary, for example:
+
+Code Chest girth (men) Bust girth (women)  
+4XL 141-154 143-155  
+5XL 154-166 155-167  
+<IMG> This section requires expansion.  
+## [edit] EN 13402-4: Coding system
+
+The fourth part of the standard is still under review. It will define a
+compact coding system for clothes sizes. This was originally intended
+primarily for industry use in databases and as a part of stock-keeping
+identifiers and catalogue ordering numbers, but later users have also
+expressed a desire to use compact codes for customer communication. Writing
+out all the centimetre figures of all the primary and secondary measures from
+EN 13402-2 can â in some cases â require up to 12 digits. The full list of
+centimetre figures on the pictogram contains a lot of redundancy and the same
+information can be squeezed into fewer graphemes with lookup tables. EN
+13402-4 will define such tables.
+
+An earlier draft of this part of the standard attempted to list all in-use
+combinations of EN 13402-3 measures and assigned a short 2- or 3-digit code to
+each.[1] Some of the industry representatives involved in the standardization
+process considered this approach too restrictive. Others argued that the
+primary dimension in centimetres should be a prominent part of the code.
+Therefore this proposal, originally expected to be adopted in 2005, was
+rejected.
+
+Since then, several new proposals have been presented to the CEN working
+group. One of these, tabled by the European Association of National
+Organisations of Textile Traders (AEDT), proposes a 5-character alphanumeric
+code, consisting of the 3-digit centimetre figure of the primary body
+dimension, followed by one or two letters that code a secondary dimension,
+somewhat like the system already defined for bra sizes.[2] For example, an
+item designed for
+
+  * bust girth: 100 cm (100)
+  * hip girth: 104 cm (B)
+  * height: 176 cm (G)
+
+would bear (in addition to the explanatory pictogram) the compact size code
+"100BG".[3] This proposal was agreed upon in a March 2006 meeting in Florence
+and a final draft was produced by AEDT on 6 June 2006.[4]
+
+## [edit] References
+
+  1. ^ Size Coding, PowerPoint presentation slides
+  2. ^ CEN/TC 248/WG 10 N 285
+  3. ^ mittex 3/2006, Rolf Langenegger, FAMOCO GmbH
+  4. ^ AEDT fosters the new European sizing system, European Fashion Newsletter, No. 0, June 2006
+
+## [edit] Related links
+
+  * Clothing sizes
+  * Dress size
+  * Shoe size
+  * US standard clothing size
+
+## [edit] External links
+
+  * All change for clothes sizes â press release by the British Standards Institute
+  * Dress size harmonization â press release by the British Standards Institute
+  * Size coding â a 2004 Powerpoint presentation explaining an earlier draft of EN 13402-4
+  * John Scrimshaw: One size really might fit all. Fashion Business International, March 2004.
+
+Italian documents:
+
+  * Leonardo Ceriani: Allo studio sistema di codificazione delle taglie â an article on the EN 13402-4 draft (PDF, plain text) (Italian)
+  * Italian presentation on EN 13402(Italian)
+  * another Italian presentation with some EN 13402 tables(Italian)
+  * Leonardo Ceriani: another Italian presentation with some EN 13402 tables(Italian)
+
+Retrieved from "http://en.wikipedia.org/wiki/EN_13402"
+
+Categories: Sizes in clothing | EN standards | Metrication | Fashion design
+
+Hidden categories: Articles to be expanded since June 2008 | All articles to
+be expanded
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * âªNorsk (bokmÃ¥l)â¬
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 10 February 2009, at 06:44 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

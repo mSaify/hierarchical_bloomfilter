@@ -1,0 +1,243 @@
+
+# Web Proxy Autodiscovery Protocol
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article may require cleanup to meet Wikipedia's quality standards. Please
+improve this article if you can. (October 2007)  
+The Web Proxy Autodiscovery Protocol (WPAD) is a method used by clients to
+locate a proxy auto-config file automatically and use this to configure the
+browser's web proxy settings.
+
+WPAD was created by Microsoft and first included with Internet Explorer 5.0;
+this implementation is commonly referred to by the name "Autoproxy".[1] It was
+submitted to the IETF for standardization in 1999,[2] but the draft expired
+and no standardization activity has occurred since. Nevertheless, Internet
+Explorer and other major browsers such as Mozilla Firefox retain this
+functionality.
+
+## Contents
+
+  * 1 Context
+  * 2 Notes
+  * 3 Requirements
+  * 4 Security
+  * 5 References
+  * 6 Further reading
+  * 7 External links
+
+  
+## [edit] Context
+
+In order for all browsers in an organization to be supplied the same proxy
+policy, without configuring each browser manually, both the below technologies
+are required:
+
+  * Proxy auto-config (PAC) standard: create and publish one central proxy configuration file. Details are discussed in a separate article.
+  * Web Proxy Autodiscovery Protocol (WPAD) standard: ensure that an organization's browsers will find this file without manual configuration. This is the topic of this article.
+
+The WPAD standard defines two alternative methods the system administrator can
+use to publish the location of the proxy configuration file, using the Dynamic
+Host Configuration Protocol (DHCP) or the Domain Name System (DNS):
+
+Before fetching its first page, a web browser implementing this method sends
+the local DHCP server a DHCPINFORM query, and uses the URL from the WPAD
+option in the server's reply. If the DHCP server does not provide the desired
+information, DNS is used. If, for example, the network name of the user's
+computer is pc.department.branch.example.com, the browser will try the
+following URLs in turn until it finds a proxy configuration file within the
+domain of the client:
+
+  * http://wpad.department.branch.example.com/wpad.dat
+  * http://wpad.branch.example.com/wpad.dat
+  * http://wpad.example.com/wpad.dat
+  * http://wpad.com/wpad.dat (in incorrect implementations, see note in Security below)
+
+(Note: These are examples and may not be live URLs.)
+
+## [edit] Notes
+
+  * '''DHCP has a higher priority than DNS: if DHCP provides the WPAD URL, no DNS lookup is performed......*
+
+DNS lookup removes the first part of the domain name (presumably the client
+identifier) and replaces it with wpad. Then, it "moves up" in the hierarchy by
+removing more parts of the domain name, until it finds a WPAD PAC file or
+leaves the current organisation.
+
+  * The browser guesses where the organisation boundaries are. The guess is often right for domains like 'company.com' or 'university.edu', but wrong for 'company.co.uk' (see security below).
+  * For DNS lookups, the path of the configuration file is always wpad.dat. For the DHCP protocol, any URL is usable. For traditional reasons, PAC files are often called proxy.pac (of course, files with this name will be ignored by the WPAD DNS search).
+  * The MIME type of the configuration file must be "application/x-ns-proxy-autoconfig". Please read Proxy auto-config for more details.
+
+## [edit] Requirements
+
+In order for WPAD to work, a few requirements have to be met:
+
+  * In order to use DHCP, the server must be configured to serve up the "site-local" option 252 ("auto-proxy-config") with a string value of "http://xxx.yyy.zzz.qqq/wpad.dat" (without the quotes) where xxx.yyy.zzz.qqq is the address of a web server (either IP or DNS).
+  * In order to use DNS, then a DNS entry is needed for a host named WPAD.
+  * The host WPAD must be able to serve a web page.
+  * In both cases, the web server must be configured to set up dat files with a MIME type of "application/x-ns-proxy-autoconfig".
+  * The file named wpad.dat must be located in the WPAD web site's root directory.
+  * Examples for PAC files are shown in Proxy auto-config.
+  * Use caution when configuring a WPAD server in a virtual hosting environment. When automatic proxy detection is used, Internet Explorer sends a "Host: <IP address>" header and Firefox sends a "Host: wpad" header. This is unexpected behavior, therefore, it is recommended that the wpad.dat file be hosted under the default Virtual Host rather than its own.
+  * Internet Explorer version 6.0.2900.2180.xpsp_sp2_rtm request for "wpad.da" instead of wpad.dat" to the web server.
+
+## [edit] Security
+
+While greatly simplifying configuration of one organisation's web browsers,
+the WPAD protocol has to be used with care: simple mistakes can open doors for
+attackers to change what appears on a users browser:
+
+  * An attacker inside a network can set up a DHCP server that hands out the URL of a malicious PAC script.
+  * If the network is 'company.co.uk' and the the file http://wpad.company.co.uk/wpad.dat isn't served, the browsers will go on to request http://wpad.co.uk/wpad.dat. The browser doesn't determine whether this is still inside the organization. See http://wpad.com/ for an example.
+  * The same method has been used with http://wpad.org.uk. This used to serve a wpad.dat file that would redirect all of the user's traffic to an internet auction site.
+
+Through the WPAD file, the attacker can point users browsers to their own
+proxies and intercept and modify all of WWW traffic. Although a simplistic fix
+for Windows WPAD handling was applied in 2005, it only fixed the problem for
+the .com domain. A presentation at Kiwicon showed that the rest of the world
+was still critically vulnerable to this security hole, with a sample domain
+registered in New Zealand for testing purposes receiving proxy requests from
+all over the country at the rate of several a second.
+
+Thus, an administration should make sure that a user can trust all the DHCP
+servers in an organisation and that all possible wpad domains for the
+organisation are under control. Furthermore, if there's no wpad domain
+configured for an organisation, a user will go to whatever external location
+has the next wpad site in the domain hierarchy and use that for its
+configuration. This allows whoever registers the wpad subdomain in a
+particular country to perform a man-in-the-middle attack on large portions of
+that country's internet traffic by setting themselves as a proxy for all
+traffic or sites of interest.
+
+On top of these traps, the WPAD method fetches a JavaScript file and executes
+it on all users browsers, even when they have disabled JavaScript for viewing
+web pages.
+
+## [edit] References
+
+  1. ^ "WinHTTP AutoProxy Support". MSDN Library. Microsoft. http://msdn.microsoft.com/en-us/library/aa384240.aspx.
+  2. ^ "INTERNET-DRAFT Web Proxy Auto-Discovery Protocol". IETF. http://www.cam.ac.uk/WWW/ProxyServer/draft-ietf-wrec-wpad-01.txt. Retrieved on 2008-12-05.
+
+## [edit] Further reading
+
+  * Jonathan de Boyne Pollard (2004). "Automatic proxy HTTP server configuration in web browsers". Frequently Given Answers. http://homepages.tesco.net./~J.deBoynePollard/FGA/web-browser-auto-proxy-configuration.html.
+  * Chris Paget (2007). "WPAD - Attacking the Proxy". http://video.google.com/videoplay?docid=-4596414840866123044.
+  * David W. Hankins (2008). "HOWTO: WPAD". http://www.mercenary.net/blog/index.php?/archives/42-HOWTO-WPAD.html.
+
+## [edit] External links
+
+  * IETF 1999: Web Proxy Auto-Discovery Protocol â Expired internet draft.
+  * http://wpad.com/ â where all unmatched WPAD traffic from .com domains goes to.
+  * Waikato Linux Users Group Wiki 2004: WPAD
+  * PAC File & WPAD Examples
+
+v â¢ d â¢ e
+
+Windows Internet Explorer  
+Versions
+
+Version 1 Â· Version 2 Â· Version 3 Â· Version 4 Â· Version 5 Â· Version 6 Â·
+Version 7 Â· Version 8  
+Pocket Â· Mobile Â· for Mac Â· for UNIX Â· Version Overview  
+Overview
+
+History Â· Removal Â· Easter eggs Â· Box model Â· Add-ins Â· Browser Helper
+Object (BHO) Â· Extensions Â· Shells  
+Technologies
+
+Tasman Â· Trident Â· MSXML Â· RSS Platform Â· Smart tags Â· JScript Â· DHTML
+(HTA Â· HTML Components) Â· Vector Markup Language (VML)  
+MHTML Â· HTML+TIME Â· XMLDomainRequest Â· ActiveX Â· Web Proxy Autodiscovery
+Protocol (WPAD) Â· Temporary Internet Files Â· Index.dat Â· favicon.ico  
+Software
+
+Administration Kit Â· Developer Toolbar Â· Integrated Windows Authentication  
+Implementations
+
+Outlook Express Â· Internet Mail and News Â· Comic Chat/Chat 2.0 Â· NetMeeting
+Â· NetShow Â· ActiveMovie Â· DirectX Media Â· Windows Address Book Â· Windows
+Desktop Update Â· Active Desktop Â· Active Channel Â· Channel Definition
+Format (.cdf) Â· Microsoft Java Virtual Machine (MSJVM) Â· Server Gated
+Cryptography (SGC) Â· MSN Explorer Â· MSN for Mac OS X Â· Spyglass  
+Events
+
+First browser war Â· United States v. Microsoft Â· Sun v. Microsoft Â·
+Download.ject Â· Eolas v. Microsoft Â· Second browser war  
+People
+
+Scott Isaacs Â· Tantek Ãelik  
+Web Browsers (Timeline Â· comparison Â· usage Â· list)  
+Retrieved from "http://en.wikipedia.org/wiki/Web_Proxy_Autodiscovery_Protocol"
+
+Categories: Internet Explorer
+
+Hidden categories: Cleanup from October 2007 | All pages needing cleanup
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * æ¥æ¬èª
+  * PortuguÃªs
+  * TÃ¼rkÃ§e
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 12 December 2008, at 01:31 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

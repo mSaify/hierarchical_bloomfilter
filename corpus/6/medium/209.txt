@@ -1,0 +1,478 @@
+
+# Sonnet
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For the song by English band The Verve, see Sonnet (song).
+
+The sonnet is one of the poetic forms that can be found in lyric poetry from
+Europe. The term "sonnet" derives from the Occitan word sonet and the Italian
+word sonetto, both meaning "little song". By the thirteenth century, it had
+come to signify a poem of fourteen lines that follows a strict rhyme scheme
+and specific structure. The conventions associated with the sonnet have
+evolved over its history. The writers of sonnets are sometimes referred to as
+"sonneteers," although the term can be used derisively. One of the best-known
+sonnet writers is William Shakespeare, who wrote 154 of them. A Shakespearean,
+or English sonnet consists of 14 lines, each line contains ten syllables, and
+each line is written in iambic pentameter in which a pattern of a non-
+emphasized syllable followed by an emphasized syllable is repeated five times.
+The rhyme scheme in a Shakespearean sonnet is ABAB CDCD EFEF GG in which the
+last two lines are a rhyming couplet.
+
+Traditionally, English poets employ iambic pentameter when writing sonnets. In
+the Romance languages, the hendecasyllable and Alexandrine are the most widely
+used metres.
+
+## Contents
+
+  * 1 Italian (Petrarchan) sonnet
+  * 2 Occitan sonnet
+  * 3 English sonnet
+  * 4 Spenserian sonnet
+  * 5 Modern sonnet
+  * 6 See also
+    * 6.1 Types of sonnets
+    * 6.2 Groups of sonnets
+    * 6.3 Forms commonly associated with sonnets
+  * 7 Bibliography
+  * 8 Notes
+  * 9 External links
+
+  
+## [edit] Italian (Petrarchan) sonnet
+
+The Italian sonnet was created by Giacomo da Lentini, head of the Sicilian
+School under Frederick II.[1] Guittone d'Arezzo rediscovered it and brought it
+to Tuscany where he adapted it to his language when he founded the Neo-
+Sicilian School (1235â1294). He wrote almost 300 sonnets. Other Italian
+poets of the time, including Dante Alighieri (1265â1321) and Guido
+Cavalcanti (c. 1250â1300) wrote sonnets, but the most famous early sonneteer
+was Petrarca (known in English as Petrarch). Other fine examples were written
+by Michelangelo.
+
+The Italian sonnets included two parts. First, the octave (two quatrains),
+which describe a problem, followed by a sestet (two tercets), which gives the
+resolution to it. Typically, the ninth line creates a "turn" or volta which
+signals the move from proposition to resolution. Even in sonnets that don't
+strictly follow the problem/resolution structure, the ninth line still often
+marks a "turn" by signaling a change in the tone, mood, or stance of the poem.
+
+In the sonnets of Giacomo da Lentini, the octave rhymed a-b-a-b, a-b-a-b;
+later, the a-b-b-a, a-b-b-a pattern became the standard for Italian sonnets.
+For the sestet there were two different possibilities, c-d-e-c-d-e and c-d-c-
+c-d-c. In time, other variants on this rhyming scheme were introduced such as
+c-d-c-d-c-d.
+
+The first known sonnets in English, written by Sir Thomas Wyatt and Henry
+Howard, Earl of Surrey, used this Italian scheme, as did sonnets by later
+English poets including John Milton, Thomas Gray, William Wordsworth and
+Elizabeth Barrett Browning. Early twentieth-century American poet Edna St.
+Vincent Millay also wrote most of her sonnets using the Italian form.
+
+This example, On His Blindness by Milton, gives a sense of the Italian rhyming
+scheme;
+
+When I consider how my light is spent (a)  
+Ere half my days, in this dark world and wide, (b)  
+And that one talent which is death to hide, (b)  
+Lodged with me useless, though my soul more bent (a)  
+To serve therewith my Maker, and present (a)  
+My true account, lest he returning chide; (b)  
+"Doth God exact day-labor, light denied?" (b)  
+I fondly ask; but Patience to prevent (a)  
+That murmur, soon replies, "God doth not need (c)  
+Either man's work or his own gifts; who best (d)  
+Bear his mild yoke, they serve him best. His state (e)  
+Is Kingly. Thousands at his bidding speed (c)  
+And post o'er land and ocean without rest; (d)  
+They also serve who only stand and wait." (e)
+
+## [edit] Occitan sonnet
+
+The sole confirmed surviving sonnet in the Occitan language is confidently
+dated to 1284, and is conserved only in troubadour manuscript P, an Italian
+chansonnier of 1310, now XLI.42 in the Biblioteca Laurenziana in Florence.[2]
+It was written by Paolo Lanfranchi da Pistoia and is addressed to Peter III of
+Aragon. This poem is historically interesting for its information on north
+Italian perspectives concerning the War of the Sicilian Vespers, the conflict
+between the Angevins and Aragonese for Sicily.[2] Peter III and the Aragonese
+cause was popular in northern Italy at the time and Paolo's sonnet is a
+celebration of his victory over the Angevins and Capetians in the Aragonese
+Crusade:
+
+     Valenz Senher, rei dels Aragones
+    a qi prez es honors tut iorn enansa,
+    remembre vus, Senher, del Rei franzes
+    qe vus venc a vezer e laiset Fransa
+     Ab dos sos fillz es ab aqel d'Artes;
+    hanc no fes colp d'espaza ni de lansa
+    e mainz baros menet de lur paes:
+    jorn de lur vida said n'auran menbransa.
+     Nostre Senhier faccia a vus compagna
+    per qe en ren no vus qal[la] duptar;
+    tals quida hom qe perda qe gazaingna.
+     Seigner es de la terra e de la mar,
+    per qe lo Rei Engles e sel d'Espangna
+    ne varran mais, si.ls vorres aiudar.
+     Valiant Lord, king of the Aragonese
+    to whom honour grows every day closer,
+    remember, Lord, the French king[3]
+    that has come to find you and has left France
+     With his two sons[4] and that one of Artois;[5]
+    but they have not dealt a blow with sword or lance
+    and many barons have left their country:
+    but a day will come when they will have some to remember.
+     Our Lord make yourself a company
+    in order that you might fear nothing;
+    that one who would appear to lose might win.
+     Lord of the land and the sea,
+    as whom the king of England[6] and that of Spain[7]
+    are not worth as much, if you wish to help them.  
+An Occitan sonnet, dated to 1321 and assigned to one "William of Almarichi",
+is found in Jean de Nostredame and cited in Giovanni Crescembeni, Storia della
+volgar Poesia. It congratulates Robert of Naples on his recent victory. Its
+authenticity is dubious. There are also two poorly-regarded sonnets by the
+Italian Dante de Maiano.
+
+## [edit] English sonnet
+
+<IMG>
+
+<IMG>
+
+William Shakespeare, in the famous "Chandos" portrait. Artist and authenticity
+unconfirmed. National Portrait Gallery (UK).
+
+See also: Shakespeare's sonnets
+
+English sonnets were introduced by Thomas Wyatt in the early 16th century. His
+sonnets and those of his contemporary the Earl of Surrey were chiefly
+translations from the Italian of Petrarch and the French of Ronsard and
+others. While Wyatt introduced the sonnet into English, it was Surrey who gave
+them the rhyming meter, and division into quatrains that now characterizes the
+English sonnet. Having previously circulated in manuscript, both poets'
+sonnets were first published in Richard Tottel's Songes and Sonnetts, better
+known as Tottel's Miscellany (1557).
+
+It was, however, Sir Philip Sidney's sequence Astrophel and Stella (1591) that
+started the English vogue for sonnet sequences: the next two decades saw
+sonnet sequences by William Shakespeare, Edmund Spenser, Michael Drayton,
+Samuel Daniel, Fulke Greville, William Drummond of Hawthornden, and many
+others. These sonnets were all essentially inspired by the Petrarchan
+tradition, and generally treat of the poet's love for some woman; the
+exception is Shakespeare's sequence. In the 17th century, the sonnet was
+adapted to other purposes, with John Donne and George Herbert writing
+religious sonnets, and John Milton using the sonnet as a general meditative
+poem. Both the Shakespearean and Petrarchan rhyme schemes were popular
+throughout this period, as well as many variants.
+
+The fashion for the sonnet went out with the Restoration, and hardly any
+sonnets were written between 1670 and Wordsworth's time. However, sonnets came
+back strongly with the French Revolution. Wordsworth himself wrote several
+sonnets, of which the best-known are "The world is too much with us" and the
+sonnet to Milton; his sonnets were essentially modelled on Milton's. Keats and
+Shelley also wrote major sonnets; Keats's sonnets used formal and rhetorical
+patterns inspired partly by Shakespeare, and Shelley innovated radically,
+creating his own rhyme scheme for the sonnet "Ozymandias". Sonnets were
+written throughout the 19th century, but, apart from Elizabeth Barrett
+Browning's Sonnets from the Portuguese and the sonnets of Dante Gabriel
+Rossetti, there were few very successful traditional sonnets. Gerard Manley
+Hopkins wrote several major sonnets, often in sprung rhythm, of which the
+greatest is "The Windhover," and also several sonnet variants such as the
+10Â½-line curtal sonnet "Pied Beauty" and the 24-line caudate sonnet "That
+Nature is a Heraclitean Fire." By the end of the 19th century, the sonnet had
+been adapted into a general-purpose form of great flexibility.
+
+This flexibility was extended even further in the 20th century. Among the
+major poets of the early Modernist period, Robert Frost, Edna St. Vincent
+Millay and E. E. Cummings all used the sonnet regularly. William Butler Yeats
+wrote the major sonnet Leda and the Swan, which used half rhymes. Wilfred
+Owen's sonnet Anthem for Doomed Youth was another sonnet of the early 20th
+century. W. H. Auden wrote two sonnet sequences and several other sonnets
+throughout his career, and widened the range of rhyme-schemes used
+considerably. Auden also wrote one of the first unrhymed sonnets in English,
+"The Secret Agent" (1928). Half-rhymed, unrhymed, and even unmetrical sonnets
+have been very popular since 1950; perhaps the best works in the genre are
+Seamus Heaney's Glanmore Sonnets and Clearances, both of which use half
+rhymes, and Geoffrey Hill's mid-period sequence 'An Apology for the Revival of
+Christian Architecture in England'. The 1990s saw something of a formalist
+revival, however, and several traditional sonnets have been written in the
+past decade.
+
+Soon after the introduction of the Italian sonnet, English poets began to
+develop a fully native form. These poets included Sir Philip Sidney, Michael
+Drayton, Samuel Daniel, the Earl of Surrey's nephew Edward de Vere, 17th Earl
+of Oxford and William Shakespeare. The form is often named after Shakespeare,
+not because he was the first to write in this form but because he became its
+most famous practitioner. The form consists of fourteen lines structured as
+three quatrains and a couplet. The third quatrain generally introduces an
+unexpected sharp thematic or imagistic "turn" called a volta. In Shakespeare's
+sonnets, the couplet usually summarizes the theme of the poem or introduces a
+fresh new look at the theme. The usual meter is iambic pentameter, which means
+five iambic feet, i.e., ten-syllable lines in which even-numbered syllables
+are naturally accentedâalthough few English sonnets do not take liberties
+with these formal constraints (e.g., lines ending with an extra-syllable
+feminine rhyme, or a trochee at the beginning of a line rather than an iamb).
+The usual rhyme scheme is end-rhymed a-b-a-b, c-d-c-d, e-f-e-f, g-g.
+
+This example, Shakespeare's Sonnet 116, illustrates the form (with some
+typical variances one may expect when reading an Elizabethan-age sonnet with
+modern eyes):
+
+Let me not to the marriage of true minds (a)  
+Admit impediments, love is not love (b)*  
+Which alters when it alteration finds, (a)  
+Or bends with the remover to remove. (b)*  
+O no, it is an ever fixed mark (c)**  
+That looks on tempests and is never shaken; (d)***  
+It is the star to every wand'ring bark, (c)  
+Whose worth's unknown although his height be taken. (d)***  
+Love's not time's fool, though rosy lips and cheeks (e)  
+Within his bending sickle's compass come, (f)*  
+Love alters not with his brief hours and weeks, (e)  
+But bears it out even to the edge of doom: (f)*  
+If this be error and upon me proved, (g)*  
+I never writ, nor no man ever loved. (g)*
+
+> * PRONUNCIATION/RHYME: Note changes in pronunciation since composition.  
+>  ** PRONUNCIATION/METER: "Fixed" pronounced as two-syllables, "fix-ed."  
+>  *** RHYME/METER: Feminine-rhyme-ending, eleven-syllable alternative.  
+>
+
+The Prologue to Romeo and Juliet is also a sonnet, as is Romeo and Juliet's
+first exchange in Act One, Scene Five, lines 104-117, beginning with "If I
+profane with my unworthiest hand" (104) and ending with "Then move not while
+my prayer's effect I take." (117).[8]
+
+## [edit] Spenserian sonnet
+
+A variant on the English form is the Spenserian sonnet, named after Edmund
+Spenser (c.1552â1599) in which the rhyme scheme is, abab, bcbc, cdcd, ee. In
+a Spenserian sonnet there does not appear to be a requirement that the initial
+octave set up a problem that the closing sestet answers, as is the case with a
+Petrarchan sonnet. Instead, the form is treated as three quatrains connected
+by the interlocking rhyme scheme and followed by a couplet. The linked rhymes
+of his quatrains suggest the linked rhymes of such Italian forms as terza
+rima. This example is taken from Amoretti.
+
+Happy ye leaves! when those lily hands  
+  
+Happy ye leaves! when those lily hands, (a)  
+Which hold my life in their dead doing might, (b)  
+Shall handle you, and hold in love's soft bands, (a)  
+Like captives trembling at the victor's sight. (b)  
+And happy lines on which, with starry light, (b)  
+Those lamping eyes will deign sometimes to look,(c)  
+And read the sorrows of my dying sprite, (b)  
+Written with tears in heart's close bleeding book. (c)  
+And happy rhymes! bathed in the sacred brook (c)  
+Of Helicon, whence she derived is, (d)  
+When ye behold that angel's blessed look, (c)  
+My soul's long lacked food, my heaven's bliss. (d)  
+Leaves, lines, and rhymes seek her to please alone, (e)  
+Whom if ye please, I care for other none. (e)
+
+## [edit] Modern sonnet
+
+With the advent of free verse, the sonnet came to be seen as somewhat old-
+fashioned and fell out of use for a time among some schools of poets. However,
+a number of 20th-century poets, including Wilfred Owen, John Berryman, Edwin
+Morgan, Robert Frost, Edna St. Vincent Millay, E.E. Cummings, Jorge Luis
+Borges, Pablo Neruda, Joan Brossa, Vikram Seth, Rainer Maria Rilke, and Seamus
+Heaney continued to use the form. The advent of the New Formalism movement in
+the United States has also contributed to contemporary interest in the sonnet.
+
+## [edit] See also
+
+### [edit] Types of sonnets
+
+Literature  
+Major forms  
+Novel Â· Poem Â· Drama  
+Short story Â· Novella  
+  
+Genres  
+Epic Â· Lyric Â· Drama  
+Romance Â· Satire  
+Tragedy Â· Comedy  
+Tragicomedy  
+  
+Media  
+Performance (play) Â· Book  
+Techniques  
+Prose Â· Verse  
+History and lists  
+Basic topics Â· Literary terms  
+History Â· Modern history  
+Books Â· Writers  
+Literary awards Â· Poetry awards  
+Discussion  
+Criticism Â· Theory Â· Magazines  
+  * Caudate sonnet
+  * Curtal sonnet
+  * Pushkin sonnet
+
+### [edit] Groups of sonnets
+
+  * Crown of sonnets
+  * Sonnet cycle
+  * Sonnet sequence
+
+### [edit] Forms commonly associated with sonnets
+
+  * Quatorzain
+  * Fourteener
+
+## [edit] Bibliography
+
+  * I. Bell, et al. A Companion to Shakespeare's Sonnets. Blackwell Pub., 2006. ISBN 1405121556.
+  * Bertoni, Giulio (1915). I Trovatori d'Italia: Biografie, testi, tradizioni, note. Rome: SocietÃ Multigrafica Editrice Somu.
+  * T. W. H. Crosland. The English Sonnet. Hesperides Press, 2006. ISBN 1406796913.
+  * J. Fuller. The Oxford Book of Sonnets. Oxford Univ. Press, 2002. ISBN 0192803891.
+  * J. Fuller. The Sonnet. (The Critical Idiom: #26). Methuen & Co., 1972. ISBN 0416656900.
+  * J. Hollander. Sonnets: From Dante to the Present. Everyman's Library, 2001. ISBN 0375411771.
+  * P. Levin. The Penguin Book of the Sonnet: 500 Years of a Classic Tradition in English. Penguin, 2001. ISBN 0140589295.
+  * J. Phelan. The Nineteenth Century Sonnet. Palgrave-Macmillan, 2005. ISBN 1403938040.
+  * S. Regan. The Sonnet. Oxford Univ. Press, 2006. ISBN 0192893076.
+  * M. R. G. Spiller. The Development of the Sonnet: An Introduction. Routledge, 1992. ISBN 0415087414.
+  * M. R. G. Spiller. The Sonnet Sequence: A Study of Its Strategies. Twayne Pub., 1997. ISBN 0805709703.
+
+## [edit] Notes
+
+  1. ^ Ernest Hatch Wilkins, The invention of the sonnet, and other studies in Italian literature (Rome: Edizioni di Storia e letteratura, 1959), 11-39
+  2. ^ a b Bertoni, 119.
+  3. ^ Philip III of France
+  4. ^ Philip the Fair and Charles of Valois
+  5. ^ Robert II of Artois
+  6. ^ Edward I of England
+  7. ^ Alfonso X of Castile
+  8. ^ Folger's Edition of "Romeo and Juliet"
+
+## [edit] External links
+
+Wikisource
+
+Wikisource has original text related to this article:
+
+Shakespeare's sonnets
+
+  * Sixty-Six: The Journal of Sonnet Studies
+  * Contemporary Sonnet
+  * Sonnets.org
+  * Selective Historical Bibliography on the Sonnet
+  * Shakespeare's sonnets in modern English
+  * Shakespeare's sonnets with accompanying commentary
+
+Retrieved from "http://en.wikipedia.org/wiki/Sonnet"
+
+Categories: Poetic form | Sonnet studies | Sonnets | Poetics
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ (ÑÐ°ÑÐ°ÑÐºÐµÐ²ÑÑÐ°)
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Cymraeg
+  * Dansk
+  * Deutsch
+  * Dolnoserbski
+  * Eesti
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * FranÃ§ais
+  * Galego
+  * íêµ­ì´
+  * Hrvatski
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * á¥áá áá£áá
+  * LatvieÅ¡u
+  * LietuviÅ³
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Nouormand
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Sicilianu
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Suomi
+  * Svenska
+  * à¹à¸à¸¢
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * Walon
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 6 April 2009, at 20:02.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,1014 @@
+
+# Surveillance
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For the 2008 film, see Surveillance (2008 film).
+
+<IMG>
+
+<IMG>
+
+A 'nest' of surveillance cameras at the Gillette Stadium in Foxborough,
+Massachusetts
+
+Surveillance, pronounced pronounced /sÉËveÉªÉns/ or /sÉËveÉªlÉns/[1], is
+the monitoring of the behavior of a person or group of people, often in a
+surreptitious manner. Although the word surveillance in French literally means
+"watching over",[2] the term is often used for all forms of observation or
+monitoring, not just visual observation.
+
+The word surveillance is commonly used to describe observation from a distance
+by means of electronic equipment (such as CCTV cameras), or interception of
+electronically transmitted information (such as Internet traffic or phone
+calls). However, surveillance can also refer to simple, relatively no- or low-
+technology methods such as human intelligence agents and postal interception.
+
+Surveillance is very useful to governments and law enforcement to maintain
+social control, recognize and monitor threats, and prevent/investigate
+criminal activity. With the advent of programs such as the Total Information
+Awareness program and ADVISE, technologies such as high speed surveillance
+computers and biometrics software, and laws such as the Communications
+Assistance For Law Enforcement Act, governments now possess an unprecedented
+ability to monitor the activities of their subjects.[3]
+
+However, many civil rights and privacy groups such as the Electronic Frontier
+Foundation and ACLU have expressed concern that by allowing continual
+increases in government surveillance of citizens that we will end up in a mass
+surveillance society, with extremely limited, or non-existent political and/or
+personal freedoms. Fears such as this have lead to numerous lawsuits such as
+Hepting v. AT&T.[3][4]
+
+## Contents
+
+  * 1 Types of surveillance
+    * 1.1 Computer surveillance
+    * 1.2 Telephones and mobile telephones
+    * 1.3 Surveillance cameras
+    * 1.4 Social Network Analysis
+    * 1.5 Biometric surveillance
+    * 1.6 Aerial surveillance
+    * 1.7 Data mining & profiling
+    * 1.8 Corporate Surveillance
+    * 1.9 Human operatives
+    * 1.10 Satellite Imagery
+    * 1.11 Identification & Credentials
+    * 1.12 RFID & Geolocation Devices
+      * 1.12.1 RFID tagging
+      * 1.12.2 Global Positioning Systems (GPS)
+      * 1.12.3 Mobile phones
+    * 1.13 Surveillance devices, or "bugs"
+    * 1.14 Postal services
+  * 2 Controversy surrounding surveillance
+    * 2.1 Supporting surveillance
+    * 2.2 Opposing surveillance
+      * 2.2.1 Totalitarianism
+      * 2.2.2 Privacy
+  * 3 Countersurveillance, inverse surveillance, sousveillance
+  * 4 Surveillance in popular culture
+  * 5 See also
+  * 6 References
+  * 7 Further reading
+  * 8 External links
+    * 8.1 General Information on Surveillance
+    * 8.2 Historical Information
+    * 8.3 Legal Resources
+
+  
+## [edit] Types of surveillance
+
+### [edit] Computer surveillance
+
+<IMG>
+
+<IMG>
+
+Official seal of the Information Awareness Office \-- a U.S. agency which
+developed technologies for mass surveillance
+
+The vast majority of computer surveillance involves the monitoring of data and
+traffic on the Internet.[5] In the United States for example, under the
+Communications Assistance For Law Enforcement Act, all phone calls and
+broadband internet traffic (emails, web traffic, instant messaging, etc) are
+required to be available for unimpeded real-time monitoring by Federal law
+enforcement agencies.[6][7][8]
+
+There is far too much data on the internet for human investigators to manually
+search through all of it. So automated Internet surveillance computers sift
+through the vast amount of intercepted internet traffic, and filter out and
+report to human investigators those bits of information which are
+"interesting" -- such as the use of certain words or phrases, visiting certain
+types of web sites, or communicating via email or chat with a certain
+individual or group.[9] Billions of dollars per year are spent, by agencies
+such as the Information Awareness Office, NSA, and the FBI, to develop,
+purchase, implement, and operate systems such as Carnivore, NarusInsight, and
+ECHELON to intercept and analyze all of this data, and extract only the
+information which is useful to law enforcement and intelligence agencies. [10]
+
+Computers are also a surveillance target because of the personal data stored
+on them. If someone is able to install software (either physically or
+remotely), such as the FBI's "Magic Lantern" and CIPAV, on a computer system,
+they can easily gain unauthorized access to this data. [11]
+
+Another form of computer surveillance, known as TEMPEST, involves reading
+electromagnetic emanations from computing devices in order to extract data
+from them at distances of hundreds of meters.[12][13][14]
+
+### [edit] Telephones and mobile telephones
+
+The official and unofficial tapping of telephone lines is widespread. In the
+United States for instance, the Communications Assistance For Law Enforcement
+Act (CALEA) requires that all telephone and VoIP communications be available
+for real-time wiretapping by Federal law enforcement and intelligence
+agencies. [6][7][8] Two major telecommunications companies in the U.S. -- AT&T
+and Verizon -- have contracts with the FBI, requiring them to keep their phone
+call records easily searchable and accessible for Federal agencies, in return
+for $1.8 million dollars per year.[15] Between 2003 and 2005, the FBI sent out
+more than 140,000 "National Security Letters" ordering phone companies to hand
+over information about their customers' calling and internet histories. About
+half of these letters requested information on U.S. citizens.[16]
+
+Human agents are not required to monitor most calls. Speech-to-text software
+creates machine-readable text from intercepted audio, which is then processed
+by automated call-analysis programs, such as those developed by agencies such
+as the Information Awareness Office, or companies such as Verint, and Narus,
+which search for certain words or phrases, to decide whether to dedicate a
+human agent to the call.[17]
+
+Law enforcement and intelligence services in the U.K. and the United States
+possess technology to remotely activate the microphones in cell phones, by
+accessing the phone's diagnostic/maintenance features, in order to listen to
+conversations that take place nearby the person who holds the
+phone.[18][19][20]
+
+Mobile phones are also commonly used to collect location data. The
+geographical location of a mobile phone (and thus the person carrying it) can
+be determined easily (whether it is being used or not), using a technique
+known multilateration to calculate the differences in time for a signal to
+travel from the cell phone to each of several cell towers near the owner of
+the phone. [21][22] A controversy has emerged in the United States over the
+legality of such techniques, and particularly whether a court warrant is
+required.[23]
+
+### [edit] Surveillance cameras
+
+Main article: Closed-circuit television
+
+<IMG>
+
+<IMG>
+
+Citizens under surveillance in Cairns, Queensland
+
+Surveillance cameras are video cameras used for the purpose of observing an
+area. They are often connected to a recording device, IP network, and/or
+watched by a security guard/law enforcement officer. Cameras and recording
+equipment used to be relatively expensive and required human personnel to
+monitor camera footage. Now with cheaper production techniques, it is simple
+and inexpensive enough to be used in home security systems, and for everyday
+surveillance. Analysis of footage is made easier by automated software that
+organizes digital video footage into a searchable database, and by automated
+video analysis software (such as VIRAT or HumanID . The amount of footage is
+drastically reduced by motion sensors which only record when motion is
+detected.
+
+<IMG>
+
+<IMG>
+
+Surveillance cameras such as these are installed by the millions in many
+countries, and are nowadays monitored by automated computer programs instead
+of humans.
+
+The use of surveillance cameras by governments and businesses has dramatically
+increased over the last 10 years. In the U.K., for example, there are about
+4.2 million surveillance cameras -- 1 camera for every 14 people.[24]
+
+In the United States, the Department of Homeland Security gives billions of
+dollars per year in Homeland Security grants for local, state, and federal
+agencies to install modern video surveillance equipment. For example, the city
+of Chicago, IL recently used a $5.1 million Homeland Security grant to install
+an additional 250 surveillance cameras, and connect them to a centralized
+monitoring center, along with its preexisting network of over 2000 cameras in
+a program known as Operation Virtual Shield. Chicago Mayor Richard Daley
+stated that Chicago will have a surveillance camera on every street corner by
+the year 2016. [25][26]
+
+As part of China's Golden Shield Project, several U.S. corporations such as
+IBM, General Electric, and Honeywell have been working closely with the
+Chinese government to install millions of surveillance cameras throughout
+China, along with advanced video analysis and facial recognition software,
+which will identify and track individuals everywhere they go. They will be
+connected to a centralized database and monitoring station, which will, upon
+completion of the project, contain a picture of the face of every person in
+China: over 1.3 billion people.[27] Lin Jiang Huai, the head of China's
+"Information Security Technology" office (which is in charge of the project),
+credits the surveillance systems in the United States and the U.K. as the
+inspiration for what he is doing with the Golden Shield project.[27]
+
+The Defense Advanced Research Projects Agency (DARPA) is funding a research
+project called Combat Zones That See that will link up cameras across a city
+to a centralized monitoring station, identify and track individuals and
+vehicles as they move through the city, and report "suspicious" activity (such
+as waving arms, looking side-to-side, standing in a group, etc).[28]
+
+At Super Bowl XXXV in January 2001, police in Tampa Bay, Florida, used
+Identixâs facial recognition software, FaceIt, to scan the crowd for
+potential criminals and terrorists in attendance at the event.[29] (it found
+19 people with pending arrest warrants)[30]
+
+Governments often initially claim that cameras are meant to be used for
+traffic control, but many of them end up using them for general surveillance.
+For example, Washington, D.C. had 5000 "traffic" cameras installed under this
+premise, and then after they were all in place, networked them all together
+and then granted access to the Metropolitan Police Department, so that they
+could perform "day-to-day monitoring".[31]
+
+The development of centralized networks of CCTV cameras watching public areas
+-- linked to computer databases of people's pictures and identity (biometric
+data), able to track peoples' movements throughout the city, and identify who
+they have been with -- has been argued by some to present a risk to civil
+liberties.[32]
+
+### [edit] Social Network Analysis
+
+One common form of surveillance is to create maps of social networks based on
+data from social networking sites such as Facebook, MySpace, Twitter as well
+as from traffic analysis information from phone call records such as those in
+the NSA call database[33], and others. These social network "maps" are then
+data mined to extract useful information such as personal interests,
+friendships & affiliations, wants, beliefs, thoughts, and
+activities.[34][35][36]
+
+Many U.S. government agencies such as the Defense Advanced Research Projects
+Agency (DARPA), the National Security Agency (NSA), and the Department of
+Homeland Security (DHS) are currently investing heavily in research involving
+social network analysis.[37][38] The intelligence community believes that the
+biggest threat to U.S. power comes from decentralized, leaderless,
+geographically disbursed groups of terrorists, subversives, and extremists.
+These types of threats are most easily countered by finding important nodes in
+the network, and removing them. To do this requires a detailed map of the
+network.[36][39]
+
+Jason Ethier of Northeastern University, in his study of modern social network
+analysis, said the following of the the Scalable Social Network Analysis
+Program developed by the Information Awareness Office:
+
+> The purpose of the SSNA algorithms program is to extend techniques of social
+network analysis to assist with distinguishing potential terrorist cells from
+legitimate groups of people ... In order to be successful SSNA will require
+information on the social interactions of the majority of people around the
+globe. Since the Defense Department cannot easily distinguish between peaceful
+citizens and terrorists, it will be necessary for them to gather data on
+innocent civilians as well as on potential terrorists.
+
+> âJason Ethier[36]
+
+AT&T developed a programming language called "Hancock" which is able to sift
+through enormous databases of phone call and internet traffic records, such as
+the NSA call database and extract "communities of interest" -- groups of
+people who call each other regularly, or groups that regularly visit certain
+sites on the Internet. AT&T originally built the system to develop "marketing
+leads"[40], but the FBI has regularly requested such information from phone
+companies such as AT&T without a warrant,[40] and after using the data stores
+all information received in its own databases, regardless of whether or not
+the information was ever useful in an investigation.[41]
+
+Some people believe that the use of social networking sites is a form of
+"participatory surveillance", where users of these sites are essentially
+performing surveillance on themselves, putting detailed personal information
+on public websites where it can be viewed by corporations and governments.[34]
+About 20% of employers have reported using social networking sites to collect
+personal data on prospective or current employees.[42]
+
+### [edit] Biometric surveillance
+
+Main article: Biometrics
+
+<IMG>
+
+<IMG>
+
+Swiss European surveillance: facial recognition device and vehicle make,
+model, color and license plate reader. In Germany and Switzerland these are in
+widespread use.
+
+Biometric surveillance refers to technologies that measure and analyze human
+physical and/or behavioral characteristics for authentication, identification,
+or screening purposes.[43] Examples of physical characteristics include
+fingerprints, DNA, and facial patterns. Examples of mostly behavioral
+characteristics include gait (a person's manner of walking) or voice.
+
+<IMG>
+
+<IMG>
+
+Fingerprints being scanned as part of the US-VISIT program
+
+Facial recognition is the use of the unique configuration of a person's facial
+features to accurately identify them, usually from surveillance video. Both
+the Department of Homeland Security and DARPA are heavily funding research
+into facial recognition systems.[44]. The Information Processing Technology
+Office, ran a program known as Human Identification at a Distance which
+developed technologies that are capable of identifying a person at up to 500
+ft by their facial features.
+
+Another form of behavioral biometrics, based on affective computing, involves
+computers recognizing a person's emotional state based on an analysis of their
+facial expressions, how fast they are talking, the tone and pitch of their
+voice, their posture, and other behavioral traits. This might be used for
+instance to see if a person is acting "suspicious" (looking around furtively,
+"tense" or "angry" facial expressions, waving arms, etc.).[45]
+
+A more recent development is DNA fingerprinting, which looks at some of the
+major markers in the body's DNA to produce a match. The FBI is currently
+spending $1 billion to build a new biometric database, which will store DNA,
+facial recognition data, iris/retina (eye) data, fingerprints, palm prints,
+and other biometric data of people living in the United States. The computers
+running the database will be contained in an underground facility is about the
+size of a football field.[46][47]
+
+The Los Angeles Police Department is currently installing automated facial
+recognition and license plate recognition devices in its squad cars, which
+officers will use to identify people while on patrol.[48]
+
+Facial thermographs are currently in development, which allow machines to
+identify certain emotions in people such as fear or stress, by measuring the
+temperature generated by blood flow to different parts of their face.[49] Law
+enforcement officers believe that this has potential for them to identify when
+a suspect is nervous, which might indicate that they are hiding something,
+lying, or worried about something.[49]
+
+### [edit] Aerial surveillance
+
+<IMG>
+
+<IMG>
+
+Micro Air Vehicle with attached surveillance camera
+
+Aerial surveillance is the gathering of surveillance, usually visual imagery
+or video, from an airborne vehicle -- such as a unmanned aerial vehicle,
+helicopter, or spy plane.
+
+Digital imaging technology, miniaturized computers, and numerous other
+technological advances over the past decade have contributed to rapid advances
+in aerial surveillance hardware such as micro-aerial vehicles, forward-looking
+infrared, and high-resolution imagery capabale of identifying objects at
+extremely long distances. For instance, the MQ-9 Reaper[50], a U.S. drone
+plane currently used for domestic operations by the Department of Homeland
+Security, carries cameras that are capable of identifying an object the size
+of a milk carton from altitudes of 60,000 feet, and has forward-looking
+infrared devices that can detect the heat from a human body at distances of up
+to 60 kilometers.[51]
+
+<IMG>
+
+<IMG>
+
+HART program concept drawing from official IPTO (DARPA) official website
+
+The United States Department of Homeland Security is in the process of testing
+UAVs to patrol the skies over the United States for the purposes of critical
+infrastructure protection, border patrol, "transit monitoring", and general
+surveillance of the U.S. population.[52] Miami-Dade police department ran
+tests with a vertical take-off and landing UAV from Honeywell, which is
+planned to be used in SWAT operations.[53] Houston's police department has
+been testing fixed-wing UAVs for use in "traffic control". [53]
+
+The U.K., as well, is currently working on plans to build up a fleet of
+surveillance UAVs ranging from micro-aerial vehicles to full-size drones, to
+be used by police forces throughout the U.K.[54]
+
+In addition to their surveillance capabilities, MAVs are capable of carrying
+tasers for "crowd control", or weapons for killing enemy combatants.[55]
+
+Programs such as the Heterogenous Aerial Reconnaissance Team program developed
+by DARPA have automated much of the aerial surveillance process. They have
+developed systems consisting of large teams drone planes that pilot
+themselves, automatically decide who is "suspicious" and how to go about
+monitoring them, coordinate their activities with other drones nearby, and
+notify human operators if something suspicious is occurring. This greatly
+increases the amount of area that can be continuously monitored, while
+reducing the number of human operators required. Thus a swarm of automated,
+self-directing drones can automatically patrol a city and track suspicious
+individuals, reporting their activities back to a centralized monitoring
+station.[56][57][58]
+
+### [edit] Data mining & profiling
+
+Data mining is the search for hidden patterns in large amounts of data. Data
+profiling in this context is the process of assembling information about a
+particular individual or group in order to generate a profile â that is, a
+picture of their patterns and behavior. Data profiling can be an extremely
+powerful tool for psychological and social network analysis. A skilled analyst
+can discover facts about a person that they might not even be consciously
+aware of themself.[59]
+
+Economic (such as credit card purchases) and social (such as telephone calls
+and emails) transactions in modern society create large amounts of stored data
+and records. In the past this data would be documented in paper records and
+would leave a "paper trail", or simply not be documented at all. Correlation
+of paper-based records was a laborious process -- it require human
+intelligence operators to manually dig through documents, which was time-
+consuming and incomplete, at best.
+
+But today many of these records are electronic, resulting in an "electronic
+trail". Every use of a bank machine, payment by credit card, use of a phone
+card, call from home, checked out library book, rented video, or otherwise
+complete recorded transaction generates an electronic record. Public records
+-- such as birth, court, tax and other records -- are increasily being
+digitized and made available online. In addition, due to laws like CALEA, web
+traffic and online purchases are also available for profiling. Electronic
+record-keeping makes data easily collectable, storable, and accessible -- so
+that high-volume, efficient aggregation and analysis is possible at
+significantly lower costs.
+
+Information relating to many of these individual transactions is often easily
+available because it is not generally not guarded in isolation, since the
+information, such as the title of a movie a person has rented, might not seem
+sensitive. However, when many such transactions are aggregated they can be
+used to assemble a detailed profile revealing the actions, habits, beliefs,
+locations frequented, social connections, and preferences of the individual.
+This profile is then used, by programs such as ADVISE [60] and TALON, to
+determine whether the person is a military, criminal, or political threat.
+
+In addition to its own aggregation and profiling tools, the government is able
+to access information from third parties â for example, banks, credit
+companies or employers, etc. â by requesting access informally, by
+compelling access through the use of subpoenas or other procedures[61], or by
+purchasing data from commercial data aggregators or data brokers. The United
+States has currently spent $370 million on its 43 planned fusion centers,
+which are national network of surveillance centers that are located in over 30
+states. The centers will collect and analyze vast amounts of data on U.S.
+citizens. It will get this data by consolidating personal information from
+sources such as state driver's licensing agencies, hospital records, criminal
+records, school records, credit bureaus, banks, etc. -- and placing this
+information in a centralized database that can be accessed from all of the
+centers, as well as other federal law enforcement and intelligence
+agencies.[62]
+
+Under United States v. Miller (1976), data held by third parties is generally
+not subject to Fourth Amendment warrant requirements.
+
+### [edit] Corporate Surveillance
+
+Corporate surveillance is the monitoring of a person or group's behavior by a
+corporation. The data collected is most often used for marketing purposes or
+sold to other corporations, but is also regularly shared with government
+agencies. It can be used as a form of business intelligence, which enables the
+corporation to better tailor their products and/or services to be desirable by
+their customers. Or it the data can be sold to other corporations, so that
+they can use it for the aforementioned purpose. Or it can be used for direct
+marketing purposes, such as the targeted advertisements on Google and Yahoo,
+where ads are targeted to the user of the search engine by analyzing their
+search history and emails[63] (if they use free webmail services), which is
+kept in a database. [64]
+
+For instance, Google, the world's most popular search engine, stores
+identifying information for each web search. An IP address and the search
+phrase used are stored in a database for up to 18 months.[65] Google also
+scans the content of emails of users of its Gmail webmail service, in order to
+create targeted advertising based on what people are talking about in their
+personal email correspondences.[66] Google is, by far, the largest Internet
+advertising agency -- millions of sites place Google's advertising banners and
+links on their websites, in order to earn money from visitors who click on the
+ads. Each page containing Google ads adds, reads, and modifies "cookies" on
+each visitor's computer.[67] These cookies track the user across all of these
+sites, and gather information about their web surfing habits, keeping track of
+which sites they visit, and what they do when they are on these sites. This
+information, along with the information from their email accounts, and search
+engine histories, is stored by Google to use for build a profile of the user
+to deliver better-targeted advertising.[66]
+
+The United States government often gains access to these databases, either by
+producing a warrant for it, or by simply asking. The Department of Homeland
+Security has openly stated that it uses data collected from consumer credit
+and direct marketing agencies -- such as Google -- for augmenting the profiles
+of individuals that it is monitoring.[64]
+
+The U.S. Federal government has gathered information from grocery store
+"discount card" programs, which track customers' shopping patterns and store
+them in databases, in order to look for "terrorists" by analyzing shoppers'
+buying patterns.[68]
+
+### [edit] Human operatives
+
+Organizations that have enemies who wish to gather information about the
+groups members or activities face the issue of infiltration. [69][70]
+
+In addition to operatives infiltrating an organization, the surveilling party
+may put pressure on certain members of the target organization to act as
+informants (i.e. disclose the information they hold on the organization and
+its members).[71][72]
+
+Fielding operatives is very expensive, and for governments with wide-reaching
+electronic surveillance tools at their disposal the information recovered from
+operatives can often be obtained from less problematic forms of surveillance
+such as those mentioned above. Nevertheless, human infiltrators are still
+common today. For instance, in 2007 documents surfaced showing that the FBI
+was planning to field a total of 15,000 undercover agents and informants in
+response to a anti-terrorism directive sent out by George W. Bush in 2004 that
+ordered intelligence and law enforcement agencies to increase their HUMINT
+capabilities.[73]
+
+### [edit] Satellite Imagery
+
+On May 25, 2007 the U.S. Director of National Intelligence Michael McConnell
+authorized the National Applications Office (NAO) of the Department of
+Homeland Security to allow local, state, and domestic Federal agencies to
+access imagery from military intelligence satellites and aircraft sensors
+which can now be used to observe the activities of U.S. citizens. The
+satellites and aircraft sensors will be able to penetrate cloud cover, detect
+chemical traces, and identify objects in buildings and "underground bunkers",
+and will provide real-time video at much higher resolutions than the still-
+images produced by programs such as Google Earth.[74][75][76][77][78][79]
+
+### [edit] Identification & Credentials
+
+<IMG>
+
+<IMG>
+
+A card containing an identification number
+
+One of the simplest forms of identification is the carrying of credentials.
+Some nations have an identity card system to aid identification, whilst many,
+such as Britain, are considering it but face public opposition. Other
+documents, such as driver's licenses, library cards, bankers or credit cards
+are also used to verify identity.
+
+If the form of the identity card is "machine-readable," usually using an
+encoded magnetic stripe or identification number (such as a social security
+number) that corroborates the subject's identifying data. In this case it may
+create a document trail when it is checked and scanned, which can be used in
+profiling, as mentioned above.
+
+### [edit] RFID & Geolocation Devices
+
+<IMG>
+
+<IMG>
+
+Hand with planned insertion point for Verichip device
+
+<IMG>
+
+<IMG>
+
+RFID chip pulled from new credit card
+
+#### [edit] RFID tagging
+
+Radio Frequency Identification (RFID) tagging is the use of very small
+electronic devices (called 'RFID tags') which are applied to or incorporated
+into a product, animal, or person for the purpose of identification and
+tracking using radio waves. The tags can be read from several meters away.
+
+Many companies are already "tagging" their workers, who are monitored while on
+the job. Workers in U.K. went on general strike in protest of having
+themselves tagged. They felt that it was dehumanizing to have all of their
+movements tracked with RFID chips.[80] Some critics have expressed fears that
+people will soon be tracked and scanned everywhere they go. [81]
+
+Verichip is an RFID device produced by a company called Applied Digital
+Solutions (ADS). Verichip is slightly larger than a grain of rice, and is
+injected under the skin. The injection reportedly feels similar to receiving a
+shot. The chip is encased in glass, and stores a "VeriChip Subscriber Number"
+which the scanner uses to access their personal information, via the internet,
+from Verichip Inc.'s database, the "Global VeriChip Subscriber Registry".
+Thousands of people have already had them inserted.[81] In Mexico, for
+example, required 160 workers at the Attorney General's office to have the
+chip injected for identity verification and access control purposes.[82][83]
+
+Concerns that soon every object that is purchased, and perhaps ID cards, will
+have RFID devices in them, which would broadcast information about people as
+they walk past scanners (what type of phone they have, what type of shoes they
+have on, etc) that can talk to nearby scanners, and be used for
+identification, tracking, or targeted marketing.[84]
+
+<IMG>
+
+<IMG>
+
+Diagram of GPS satellites currently orbiting Earth
+
+#### [edit] Global Positioning Systems (GPS)
+
+The U.S. Federal government has planted hidden GPS tracking devices in
+people's vehicles to monitor their movements, without a warrant. They are
+arguing in court right now that they have the right to do this.[85]
+
+Several cities are running pilot projects to force parolees to wear GPS
+devices to track their movements when they get out of prison.[86]
+
+#### [edit] Mobile phones
+
+Mobile phones are also commonly used to collect geolocation data. The
+geographical location of a mobile phone (and thus the person carrying it) can
+be determined easily (whether it is being used or not), using a technique
+known multilateration to calculate the differences in time for a signal to
+travel from the cell phone to each of several cell towers near the owner of
+the phone. [21][22]
+
+### [edit] Surveillance devices, or "bugs"
+
+Surveillance devices, or "bugs", are hidden electronic devices which are used
+to capture, record, and/or transmit data to a receiving party such as a law
+enforcement agency.
+
+The U.S. has run numerous domestic intelligence, such as COINTELPRO, which
+have bugged the homes, offices, and vehicles of thousands of U.S. citizens,
+usually political activists, subversives, and criminals.[87]
+
+Law enforcement and intelligence services in the U.K. and the United States
+possess technology to remotely activate the microphones in cell phones, by
+accessing the phone's diagnostic/maintenance features, in order to listen to
+conversations that take place nearby the person who holds the
+phone.[18][19][20]
+
+### [edit] Postal services
+
+As more people use faxes and e-mail the significance of surveilling the postal
+system is decreasing, in favor of Internet and telephone surveillance. But
+interception of post is still an available option for law enforcement and
+intelligence agencies, in certain circumstances.
+
+The CIA and FBI have performed twelve separate mail-opening campaigns targeted
+towards U.S. citizens. In one of these programs, more than 215,000
+communications were intercepted, opened, and photographed. [88][89]
+
+## [edit] Controversy surrounding surveillance
+
+<IMG>
+
+<IMG>
+
+Graffiti expressing concern about proliferation of video surveillance
+
+### [edit] Supporting surveillance
+
+Some supporters of surveillance believe that it protects them from terrorists
+and criminals.
+
+Other supporters simply believe that there is nothing that can be done about
+it, and that people must become accustomed to having no privacy. As Sun
+Microsystems CEO Scott McNealy said: "You have zero privacy anyway. Get over
+it."[90][91]
+
+Another common argument[92] is: "If you aren't doing something wrong then you
+don't have anything to fear." Critics point to the fact that most people do
+have things to hide.[92][93] For example, if a person is looking for a new
+job, they might not want their employers to know this.[94] Or if a person is
+part of a political group which opposes the policies of the national
+government, they might not want the government to know their names and what
+they've been reading, so that the government cannot easily subvert their
+organization or arrest them.[93] Critics state that while a person might not
+have anything to hide right now, the government might later implement policies
+that they do wish to oppose, and that opposition might then be impossible due
+to mass surveillance enabling the government to identify and remove political
+threats.[95]
+
+### [edit] Opposing surveillance
+
+#### [edit] Totalitarianism
+
+<IMG>
+
+<IMG>
+
+The People's Republic of China has installed large amounts of surveillance
+equipment, as part of its Golden Shield program, to identify and monitor
+political dissidents, who are often tortured, executed, or imprisoned.
+
+Programs such as the Total Information Awareness program, and laws such as the
+Communications Assistance For Law Enforcement Act have led many groups to fear
+that society is moving towards a state of mass surveillance with severely
+limited personal, social, political freedoms, where dissenting individuals or
+groups will be strategically removed in COINTELPRO-like purges.[3][4][24]
+
+Kate Martin, of the Center For National Security Studies said of the use of
+military spy satellites being used to monitor the activities of U.S. citizens:
+"They are laying the bricks one at a time for a police state."[78]
+
+#### [edit] Privacy
+
+Numerous civil rights groups and privacy groups oppose surveillance as a
+violation of people's right to privacy. Such groups include: Electronic
+Privacy Information Center, Electronic Frontier Foundation, ACLU
+
+There have been several lawsuits such as Hepting v. AT&T and EPIC v.
+Department of Justice by groups or individuals, opposing certain surveillance
+activities.
+
+Legislative proceedings such as those that took place during the Church
+Committee, which investigated domestic intelligence programs such as
+COINTELPRO, have also weighed the pros and cons of surveillance.
+
+## [edit] Countersurveillance, inverse surveillance, sousveillance
+
+Countersurveillance is the practice of avoiding surveillance or making
+surveillance difficult. With recent developments â the Internet, increasing
+prevalence of electronic security systems, armed UAVs flying at 60,000 feet,
+and large corporate/government computer databases â counter surveillance has
+dramatically grown in scope and complexity.
+
+Inverse surveillance is the practice of reversalism on surveillance (e.g.,
+citizens photographing police). Well-known examples are George Holliday's
+recording of the Rodney King beating and the organization Copwatch, which
+attempts to surveill police officers to prevent police brutality.
+
+Sousveillance (a term coined by Steve Mann, a professor at the University of
+Toronto) is inverse surveillance that includes the recording of an activity by
+a participant in the activity.[96]
+
+## [edit] Surveillance in popular culture
+
+  * George Orwell's novel 1984 portrays a fictional totalitarian surveillance society which has a very simple (by today's standards) mass surveillance system consisting of human operatives, informants, and two-way "telescreens" in people's homes. Because of the impact of this book, "Orwellian" is a common term used to describe mass surveillance technologies.
+  * In the movie Minority Report, the police and government intelligence agencies have micro aerial vehicles that are used in SWAT operations and for surveillance purposes.
+  * The movie THX-1138 portrays a society where people are drugged with sedatives and antidepressants, and have surveillance cameras watching them everywhere they go
+  * The movie Gattaca portrays a society where biometric surveillance is used to check to see if people are genetically engineered "superior" humans or genetically natural "inferior" humans.
+  * The book The Handmaid's Tale, as well as a film based on it, portray a totalitarian Christian theocracy where all citizens are kept under constant surveillance.
+  * The Dead Kennedys song "I Am The Owl" is about government surveillance and social engineering of political groups
+  * A song titled "Crazy" by Brett Dennen discusses satellites watching people from outer space.
+
+## [edit] See also
+
+  * Information Awareness Office
+  * Communications Assistance For Law Enforcement Act
+  * Carnivore (FBI)
+  * COINTELPRO
+  * Computer surveillance
+  * NSA warrantless surveillance
+  * ECHELON
+  * Hepting v. AT&T
+  * ADVISE
+  * TALON
+  * VIRAT
+  * Heterogeneous Aerial Reconnaissance Team
+  * Mass surveillance
+  * TEMPEST
+  * GhostNet
+
+## [edit] References
+
+  1. ^ OED
+  2. ^ Merriam-Webster's Online Dictionary
+  3. ^ a b c "Is the U.S. Turning Into a Surveillance Society?" (in English). American Civil Liberties Union. http://www.aclu.org/privacy/gen/index.html. Retrieved on 2009-03-13.
+  4. ^ a b "Bigger Monster, Weaker Chains: The Growth of an American Surveillance Society" (in English). American Civil Liberties Union. January 15, 2003. http://www.aclu.org/FilesPDFs/aclu_report_bigger_monster_weaker_chains.pdf. Retrieved on 2009-03-13.
+  5. ^ Diffie, Whitfield; Susan Landau (August, 2008). "Internet Eavesdropping: A Brave New World of Wiretapping" (in English). Scientific American. http://www.sciam.com/article.cfm?id=internet-eavesdropping. Retrieved on 2009-03-13.
+  6. ^ a b "CALEA Archive -- Electronic Frontier Foundation" (in English). Electronic Frontier Foundation (website). http://w2.eff.org/Privacy/Surveillance/CALEA/?f=archive.html. Retrieved on 2009-03-14.
+  7. ^ a b "CALEA: The Perils of Wiretapping the Internet" (in English). Electronic Frontier Foundation (website). http://www.eff.org/issues/calea. Retrieved on 2009-03-14.
+  8. ^ a b "CALEA: Frequently Asked Questions" (in English). Electronic Frontier Foundation (website). http://www.eff.org/pages/calea-faq. Retrieved on 2009-03-14.
+  9. ^ Hill, Michael (October 11, 2004). "Government funds chat room surveillance research" (in English). Associated Press (USA Today). http://www.usatoday.com/tech/news/surveillance/2004-10-11-chatroom-surv_x.htm. Retrieved on 2009-03-19.
+  10. ^ McCullagh, Declan (January 30, 2007). "FBI turns to broad new wiretap method" (in English). ZDNet News. http://news.zdnet.com/2100-9595_22-151059.html. Retrieved on 2009-03-13.
+  11. ^ "FBI's Secret Spyware Tracks Down Teen Who Made Bomb Threats". Wired Magazine. 2007-07-18. http://www.wired.com/politics/law/news/2007/07/fbi_spyware.
+  12. ^ McNamara, Joel. "Complete, Unofficial Tempest Page" (in English). http://www.eskimo.com/~joelm/tempest.html. Retrieved on 2009-03-12.
+  13. ^ Van Eck, Wim (1985). "Electromagnetic Radiation from Video Display Units: An Eavesdropping Risk?". Computers & Security 4: 269â286. doi:10.1016/0167-4048(85)90046-X. http://jya.com/emr.pdf.
+  14. ^ Kuhn, M.G. (2004). "Electromagnetic Eavesdropping Risks of Flat-Panel Displays". 4th Workshop on Privacy Enhancing Technologies: 23â25. http://www.cl.cam.ac.uk/~mgk25/pet2004-fpd.pdf.
+  15. ^ Singel, Ryan (September 10, 2007). "Rogue FBI Letters Hint at Phone Companies' Own Data Mining Programs - Updated" (in English). Threat Level (Wired). http://blog.wired.com/27bstroke6/2007/09/rogue-fbi-lette.html#previouspost. Retrieved on 2009-03-19.
+  16. ^ Roland, Neil (March 20, 2007). "Mueller Orders Audit of 56 FBI Offices for Secret Subpoenas" (in English). Bloomberg News. http://www.bloomberg.com/apps/news?pid=20601087&sid=aBd9Zzld22w0&refer=home. Retrieved on 2009-03-19.
+  17. ^ Piller, Charles; Eric Lichtblau (July 29, 2002). "FBI Plans to Fight Terror With High-Tech Arsenal" (in English). LA Times. http://articles.latimes.com/2002/jul/29/nation/na-technology29. Retrieved on 2009-03-14.
+  18. ^ a b McCullagh, Declan; Anne Broache (December 1, 2006). "FBI taps cell phone mic as eavesdropping tool" (in English). CNet News. http://news.cnet.com/FBI-taps-cell-phone-mic-as-eavesdropping-tool/2100-1029_3-6140191.html. Retrieved on 2009-03-14.
+  19. ^ a b Odell, Mark (August 1, 2005). "Use of mobile helped police keep tabs on suspect" (in English). Financial Times. http://news.ft.com/cms/s/7166b8a2-02cb-11da-84e5-00000e2511c8.html. Retrieved on 2009-03-14.
+  20. ^ a b "Telephones" (in English). Western Regional Security Office (NOAA official site). 2001. http://www.wrc.noaa.gov/wrso/security_guide/telephon.htm. Retrieved on 2009-03-22.
+  21. ^ a b "Tracking a suspect by mobile phone" (in English). BBC News. August 3, 2005. http://news.bbc.co.uk/1/hi/technology/4738219.stm. Retrieved on 2009-03-14.
+  22. ^ a b Miller, Joshua (March 14, 2009). "Cell Phone Tracking Can Locate Terrorists - But Only Where It's Legal" (in English). FOX News. http://www.foxnews.com/story/0,2933,509211,00.html. Retrieved on 2009-03-14.
+  23. ^ "Warrantless Location Tracking" (in English). N.Y.U. Law Review. 2008. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1092293. Retrieved on 2009-03-24.
+  24. ^ a b "Britain is 'surveillance society'" (in English). BBC News. November 2, 2006. http://news.bbc.co.uk/1/hi/uk/6108496.stm. Retrieved on 2009-03-13.
+  25. ^ Spielman, Fran (February 19, 2009). "Surveillance cams help fight crime, city says" (in English). Chicago Sun Times. http://www.suntimes.com/news/politics/1440402,mayor-daley-emergency-surveillance-cameras.article. Retrieved on 2009-03-13.
+  26. ^ Schorn, Daniel (September 6, 2006). "We're Watching: How Chicago Authorities Keep An Eye On The City" (in English). CBS News. http://www.cbsnews.com/stories/2006/09/05/five_years/main1968121.shtml. Retrieved on 2009-03-13.
+  27. ^ a b Klein, Naomi (May 29, 2008). "China's All-Seeing Eye" (in English). Rolling Stone. http://www.rollingstone.com/politics/story/20797485/chinas_allseeing_eye/print. Retrieved on 2009-03-20.
+  28. ^ "Another Tool for Big Brother?" (in English). Associated Press (Wired News). July 2, 2003. http://www.wired.com/politics/law/news/2003/07/59471. Retrieved on 2009-03-20.
+  29. ^ Bonsor, K.. "How Facial Recognition Systems Work". http://computer.howstuffworks.com/facial-recognition.htm. Retrieved on 2006-06-18.
+  30. ^ McNealy, Scott. "Privacy is (Virtually) Dead". http://www.jrnyquist.com/aug20/privacy.htm. Retrieved on 2006-12-24.
+  31. ^ "Mayor Fenty Launches VIPS Program; New System Will Consolidate Cityâs Closed-Circuit TV Monitoring" (in English). www.dc.gov. April 8, 2008. http://www.dc.gov/mayor/news/release.asp?id=1273&mon=200804. Retrieved on 2009-03-13.
+  32. ^ "EPIC Video Surveillance Information Page" (in English). EPIC. http://epic.org/privacy/surveillance/. Retrieved on 2009-03-13.
+  33. ^ Keefe, Patrick (March 12, 2006). ", Can Network Theory Thwart Terrorists?" (in English). New York Times.
+  34. ^ a b Albrechtslund, Anders (March 3, 2008). "Online Social Networking as Participatory Surveillance" (in English). First Monday 13 (3). http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2142/1949. Retrieved on March 14, 2009.
+  35. ^ Fuchs, Christian (2009) (in English). Social Networking Sites and the Surveillance Society. A Critical Case Study of the Usage of studiVZ, Facebook, and MySpace by Students in Salzburg in the Context of Electronic Surveillance. Salzburg and Vienna: Forschungsgruppe Unified Theory of Information. ISBN 978-3-200-01428-2. http://www.google.com/url?sa=t&source=web&ct=res&cd=3&url=http%3A%2F%2Ffuchs.icts.sbg.ac.at%2FSNS_Surveillance_Fuchs.pdf&ei=2XG7SY6PI4GEsQP2v9VI&usg=AFQjCNGKqGRfx90BvrQgdCZbfLfSLCqE5A&sig2=1THunpIf4nMT4MV79FGufQ. Retrieved on March 14, 2009.
+  36. ^ a b c Ethier, Jason. "Current Research in Social Network Theory" (in English). Northeastern University College of Computer and Infomation Science. http://www.ccs.neu.edu/home/perrolle/archive/Ethier-SocialNetworks.html. Retrieved on 2009-03-15.
+  37. ^ Marks, Paul (June 9, 2006). "Pentagon sets its sights on social networking websites" (in English). New Scientist. http://www.newscientist.com/article/mg19025556.200?DCMP=NLC-nletter&nsref=mg19025556.200. Retrieved on 2009-03-16.
+  38. ^ Kawamoto, Dawn (June 9, 2006). "Is the NSA reading your MySpace profile?" (in English). CNET News. http://news.cnet.com/8301-10784_3-6082047-7.html. Retrieved on 2009-03-16.
+  39. ^ Ressler, Steve (July 2006). "Social Network Analysis as an Approach to Combat Terrorism: Past, Present, and Future Research" (in English). Homeland Security Affairs Volume II (2). http://www.hsaj.org/?fullarticle=2.2.8. Retrieved on March 14, 2009.
+  40. ^ a b Singel, Ryan (October 29, 2007). "AT&T Invents Programming Language for Mass Surveillance" (in English). Threat Level (Wired). http://blog.wired.com/27bstroke6/2007/10/att-invents-pro.html. Retrieved on 2009-03-19.
+  41. ^ Singel, Ryan (October 16, 2007). "Legally Questionable FBI Requests for Calling Circle Info More Widespread than Previously Known" (in English). Threat Level (Wired). http://blog.wired.com/27bstroke6/2007/10/legally-questio.html#previouspost. Retrieved on 2009-03-19.
+  42. ^ Havenstein, Heather (September 12, 2008). "One in five employers uses social networks in hiring process" (in English). Computer World. http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9114560. Retrieved on 2009-03-14.
+  43. ^ Woodward, John; Christopher Horn, Julius Gatune, and Aryn Thomas (2003) (in English). Biometrics: A Look at Facial Recognition. RAND Corporation. ISBN 0-8330-3302-6.
+  44. ^ Frank, Thomas (May 10, 2007). "Face recognition next in terror fight". USA Today. http://www.usatoday.com/news/washington/2007-05-10-facial-recognition-terrorism_N.htm. Retrieved on 2009-03-16.
+  45. ^ Vlahos, James (January 2008). "Surveillance Society: New High-Tech Cameras Are Watching You" (in English). Popular Mechanics. http://www.popularmechanics.com/technology/military_law/4236865.html. Retrieved on 2009-03-14.
+  46. ^ Arena, Kelly; Carol Cratty (February 4, 2008). "FBI wants palm prints, eye scans, tattoo mapping" (in English). CNN. http://www.cnn.com/2008/TECH/02/04/fbi.biometrics/. Retrieved on 2009-03-14.
+  47. ^ Gross, Grant (February 13, 2008). "Lockheed wins $1 billion FBI biometric contract". IDG News Service (InfoWorld). http://www.infoworld.com/article/08/02/13/Lockheed-wins-1B-FBI-biometric-contract_1.html. Retrieved on 2009-03-18.
+  48. ^ "LAPD: We Know That Mug" (in English). Associated Press (Wired Magazine). December 26, 2004. http://www.wired.com/science/discoveries/news/2004/12/66142. Retrieved on 2009-03-18.
+  49. ^ a b Dotinga, Randy (October 14, 2004). "Can't Hide Your Lying ... Face?" (in English). Wired Magazine. http://www.wired.com/science/discoveries/news/2004/10/65322. Retrieved on 2009-03-18.
+  50. ^ Gasparre, Richard (January 25, 2008). "The U.S. and Unmanned Flight: Part 1" (in English). airforce-technology.com. http://www.airforce-technology.com/features/feature1528/. Retrieved on 2009-03-13.
+  51. ^ Fickes, Michael (October 1, 2004). "Automated Eye In The Sky" (in English). GovernmentSecurity.com. http://govtsecurity.com/mag/automated_eye_sky/. Retrieved on 2009-03-13.
+  52. ^ McCullagh, Declan (March 29, 2006). "Drone aircraft may prowl U.S. skies" (in English). CNet News. http://news.cnet.com/2100-11746_3-6055658.html. Retrieved on 2009-03-14.
+  53. ^ a b Warwick, Graham (June 12, 2007). "US police experiment with Insitu, Honeywell UAVs" (in English). FlightGlobal.com. http://www.flightglobal.com/articles/2007/12/06/220084/us-police-experiment-with-insitu-honeywell-uavs.html. Retrieved on 2009-03-13.
+  54. ^ La Franchi, Peter (July 17, 2007). "UK Home Office plans national police UAV fleet" (in English). Flight International. http://www.flightglobal.com/articles/2007/07/17/215507/uk-home-office-plans-national-police-uav-fleet.html. Retrieved on 2009-03-13.
+  55. ^ "No Longer Science Fiction: Less Than Lethal & Directed Energy Weapons" (in English). International Online Defense Magazine. February 22, 2005. http://www.policeone.com/police-products/less-lethal/articles/99337-No-Longer-Science-Fiction-Less-Than-Lethal-Directed-Energy-Weapons/. Retrieved on 2009-03-15.
+  56. ^ "HART Overview" (in English). IPTO (DARPA) -- Official website. August 2008. http://www.darpa.mil/ipto/programs/hart/docs/HART_Overview.pdf. Retrieved on 2009-03-15.
+  57. ^ "BAA 04-05-PIP: Heterogeneous Airborne Reconnaissance Team (HART)" (in English). Information Processing Technology Office (DARPA) -- Official Website. December 5, 2003. http://www.darpa.mil/ipto/solicit/baa/BAA-04-05_PIP.pdf. Retrieved on 2009-03-16.
+  58. ^ Sirak, Michael (Nov 29, 2007). "DARPA, Northrop Grumman Move Into Next Phase of UAV Control Architecture" (in English). Defense Daily. http://findarticles.com/p/articles/mi_6712/is_40_236/ai_n29399227. Retrieved on 2009-03-16.
+  59. ^ Hildebrandt, Mireille; Serge Gutwirth (2008) (in English). Profiling the European Citizen: Cross Disciplinary Perspectives. Dordrecht: Springer. ISBN 978-1-4020-6913-0.
+  60. ^ Clayton, Mark (February 09, 2006). "US Plans Massive Data Sweep" (in English). Christian Science Monitor. http://www.csmonitor.com/2006/0209/p01s02-uspo.html. Retrieved on 2009-03-13.
+  61. ^ Flint, Lara (September 24, 2003). "Administrative Subpoenas for the FBI: A Grab for Unchecked Executive Power" (in English). The Center For Democracy & Technology (official site). http://www.cdt.org/security/usapatriot/030924cdt.shtml. Retrieved on 2009-03-20.
+  62. ^ "âNational Networkâ of Fusion Centers Raises Specter of COINTELPRO" (in English). EPIC Spotlight on Surveillance. June 2007. http://epic.org/privacy/surveillance/spotlight/0607/default.html. Retrieved on 2009-03-14.
+  63. ^ Story, Louise (November 1, 2007). "F.T.C. to Review Online Ads and Privacy" (in English). New York Times. http://www.nytimes.com/2007/11/01/technology/01Privacy.html?_r=1. Retrieved on 2009-03-17.
+  64. ^ a b Butler, Don (February 24, 2009). "Surveillance in society" (in English). The Star Phoenix (CanWest). http://www.thestarphoenix.com/Technology/Surveillance+society/1322333/story.html. Retrieved on 2009-03-17.
+  65. ^ Soghoian, Chris (September 11, 2008). "Debunking Google's log anonymization propaganda" (in English). CNET News. http://news.cnet.com/8301-13739_3-10038963-46.html. Retrieved on 2009-03-21.
+  66. ^ a b Joshi, Priyanki (March 21, 2009). "Every move you make, Google will be watching you" (in English). Business Standard. http://www.business-standard.com/india/news/every-move-you-make-google-will-be-watching-you/57071/on. Retrieved on 2009-03-21.
+  67. ^ "Advertising and Privacy" (in English). Google (company page). 2009. http://www.google.com/privacy_ads.html. Retrieved on 2009-03-21.
+  68. ^ Vlahos, Kelley (August 01, 2002). "Store Customer Cards a Source for FBI?" (in English). FOX News. http://www.foxnews.com/story/0,2933,59262,00.html. Retrieved on 2009-03-17.
+  69. ^ anonymous (26 Jan, 2006). "Information on the Confidential Source in the Auburn Arrests" (in English). Portland Indymedia. http://portland.indymedia.org/en/2006/01/332735.shtml. Retrieved on 2009-03-13.
+  70. ^ Myers, Lisa (December 14, 2005). "Is the Pentagon spying on Americans?" (in English). NBC Nightly News (msnbc.com). http://www.msnbc.msn.com/id/10454316. Retrieved on 2009-03-13.
+  71. ^ "Senate Hearing: The Use Of Informants In FBI Domestic Intelligence Investigations" (in English). SUPPLEMENTARY DETAILED STAFF REPORTS ON INTELLIGENCE ACTIVITIES AND THE RIGHTS OF AMERICANS. U.S. Senate. April 23, 1976. http://www.icdc.com/~paulwolf/cointelpro/churchfinalreportIIId.htm. Retrieved on 2009-03-13.
+  72. ^ Ranalli, Ralph (11/21/2003). "FBI informant system called a failure" (in English). Boston Globe. http://www.truthinjustice.org/corrupt-FBI.htm. Retrieved on 2009-03-13.
+  73. ^ Ross, Brian (July 25, 2007). "FBI Proposes Building Network of U.S. Informants" (in English). Blotter. ABC News. http://blogs.abcnews.com/theblotter/2007/07/fbi-proposes-bu.html. Retrieved on 2009-03-13.
+  74. ^ "U.S. Reconnaissance Satellites: Domestic Targets" (in English). National Security Archive. http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB229/index.htm. Retrieved on 2009-03-16.
+  75. ^ Block, Robert (August 15, 2007). "U.S. to Expand Domestic Use Of Spy Satellites" (in English). Wall Street Journal. http://online.wsj.com/public/article/SB118714764716998275.html. Retrieved on 2009-03-14.
+  76. ^ Gorman, Siobhan (October 1, 2008). "Satellite-Surveillance Program to Begin Despite Privacy Concerns" (in English). The Wall Street Journal. http://online.wsj.com/article/SB122282336428992785.html?mod=googlenews_wsj. Retrieved on 2009-03-16.
+  77. ^ "Fact Sheet: National Applications Office" (in English). Department of Homeland Security (official website). August 15, 2007. http://www.dhs.gov/xnews/releases/pr_1187188414685.shtm. Retrieved on 2009-03-16.
+  78. ^ a b Warrick, Joby (August 16, 2007). "Domestic Use of Spy Satellites To Widen" (in English). Washington Post: pp. A01. http://www.washingtonpost.com/wp-dyn/content/article/2007/08/15/AR2007081502430_pf.html. Retrieved on 2009-03-17.
+  79. ^ Shrader, Katherine (9/26/2004). "Spy imagery agency watching inside U.S." (in English). Associated Press (USA Today). http://www.usatoday.com/tech/news/surveillance/2004-09-26-civilian-spying_x.htm. Retrieved on 2009-03-17.
+  80. ^ "Two Stories Highlight the RFID Debate" (in English). RFID Update. July 19, 2005. http://www.rfidupdate.com/articles/index.php?id=914. Retrieved on 2009-03-17.
+  81. ^ a b Lewan, Todd (July 21, 2007). "Microchips in humans spark privacy debate" (in English). Associated Press (USA Today). http://www.usatoday.com/tech/news/surveillance/2007-07-21-chips_N.htm. Retrieved on 2009-03-17.
+  82. ^ Gardener, W. David (July 15, 2004). "RFID Chips Implanted In Mexican Law-Enforcement Workers" (in English). Information Week. http://www.informationweek.com/news/global-cio/showArticle.jhtml?articleID=23901004. Retrieved on 2009-03-17.
+  83. ^ Campbell, Monica (August 04, 2004). "Law enforcement in Mexico goes a bit bionic" (in English). Christian Science Monitor. http://www.csmonitor.com/2004/0804/p01s04-woam.html. Retrieved on 2009-03-17.
+  84. ^ McCullagh, Declan (January 13, 2003). "RFID Tags: Big Brother in small packages" (in English). CNET News. http://news.cnet.com/2010-1069-980325.html. Retrieved on 2009-03-18.
+  85. ^ Claburn, Thomas (March 4, 2009). "Court Asked To Disallow Warrantless GPS Tracking" (in English). Information Week. http://www.informationweek.com/news/government/federal/showArticle.jhtml?articleID=215800542. Retrieved on 2009-03-18.
+  86. ^ Hilden, Julie (2002). "What legal questions are the new chip implants for humans likely to raise?" (in English). CNN.com (FindLaw). http://archives.cnn.com/2002/LAW/05/columns/fl.hilden.chip/index.html. Retrieved on 2009-03-17.
+  87. ^ Wolf, Paul. "COINTELPRO" (in English). (online collection of historical documents). http://www.icdc.com/~paulwolf/cointelpro/cointel.htm. Retrieved on 2009-03-14.
+  88. ^ "SUPPLEMENTARY DETAILED STAFF REPORTS ON INTELLIGENCE ACTIVITIES AND THE RIGHTS OF AMERICANS: ... DOMESTIC CIA AND FBI MAIL OPENING PROGRAMS" (in English). SELECT COMMITTEE TO STUDY GOVERNMENTAL OPERATIONS WITH RESPECT TO INTELLIGENCE ACTIVITIES UNITED STATES SENATE. April 23, 1976. http://www.icdc.com/~paulwolf/cointelpro/churchfinalreportIIIh.htm. Retrieved on 2009-03-13.
+  89. ^ Goldstein, Robert (April 23, 2001) (in English). Political repression in modern America from 1870 to 1976. University of Illinois Press. pp. 466\. ISBN 978-0252069642.
+  90. ^ Sprenger, Polly (January 26, 1999). "Sun on Privacy: 'Get Over It'" (in English). Wired Magazine. http://www.wired.com/politics/law/news/1999/01/17538. Retrieved on 2009-03-20.
+  91. ^ Baig, Edward; Marcia Stepanek, Neil Gross (April 5, 1999). "Privacy" (in English). Business Week. http://www.businessweek.com/1999/99_14/b3623028.htm. Retrieved on 2009-03-20.
+  92. ^ a b Solove, Daniel (July 12, 2007). "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy" (in English). San Diego Law Review (George Washington University Law School) 44. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565. Retrieved on March 16, 2009.
+  93. ^ a b "Something to Hide: Writers and Artists Against The Surveillance State" (in English). American Civil Liberties Union (official site). http://www.aclu.org/somethingtohide/. Retrieved on 2009-03-20.
+  94. ^ Stevens, Toby (February 25, 2009). "Â« Biometrics and Privacy" (in English). ComputerWeekly. http://www.computerweekly.com/blogs/the-data-trust-blog/2009/02/debunking-a-myth-if-you-have-n.html. Retrieved on 2009-03-20.
+  95. ^ Schneier, Bruce (May 18, 2006). "The Eternal Value of Privacy" (in English). Wired News. http://www.schneier.com/essay-114.html. Retrieved on 2009-03-20.
+  96. ^ Birch, Dave (2005-07-14). "The age of sousveillance". The Guardian. http://www.guardian.co.uk/technology/2005/jul/14/comment.comment. Retrieved on 2007-08-06.
+
+## [edit] Further reading
+
+  * Garfinkel, Simson, Database Nation; The Death of Privacy in the 21st Century. O'Reilly & Associates, Inc. ISBN 0-596-00105-3
+
+  * Jenkins, Peter Advanced Surveillance Training Manual, Intel Publishing, UK ISBN 0-9535378-1-1
+
+  * Jensen, Derrick and Draffan, George (2004) Welcome to the Machine: Science, Surveillance, and the Culture of Control Chelsea Green Publishing Company. ISBN 978-1931498524
+
+## [edit] External links
+
+### [edit] General Information on Surveillance
+
+  * Privacy Information Center
+  * The Surveillance-Industrial Complex: How the American Government Is Conscripting Businesses and Individuals in the Construction of a Surveillance Society
+  * EFF Privacy Resources
+  * EPIC Privacy Resources
+  * A Report on the Surveillance Society for the Information Commissioner by the Surveillance Studies Network, September, 2006
+
+### [edit] Historical Information
+
+  * COINTELPRO \-- FBI counterintelligence programs designed to neutralize political dissidents.
+
+### [edit] Legal Resources
+
+  * EFF Legal Cases
+  * Guide to lawful intercept legislation around the world
+
+v â¢ d â¢ e
+
+Espionage  
+Agent handling Â· Black operation Â· Black bag operation Â· Concealment device
+Â· Cryptography Â· Dead drop Â· Eavesdropping Â· False flag Â· Clandestine
+HUMINT asset recruiting Â· Industrial espionage Â· Interrogation Â· Non-
+official cover Â· Official cover Â· Steganography Â· Surveillance (Computer Â·
+Cyber)  
+v â¢ d â¢ e
+
+Intelligence cycle management  
+Intelligence  
+collection  
+management
+
+HUMINT/  
+Human Intelligence
+
+Clandestine HUMINT (recruiting Â· operational techniques Â· Covert action Â·
+Direct action Â· Clandestine cell system)  
+Special reconnaissance (organizations)  
+Espionage (Agent handling Â· Black bag operation Â· Concealment device Â·
+Cryptography Â· Cut-out Â· Dead drop Â· Eavesdropping Â· False flag operations
+Â· Honeypot Â· Non-official cover Â· Interrogation Â· Numbers messaging Â·
+One-way voice link Â· Steganography Â· Surveillance)  
+SIGINT/  
+Signals Intelligence
+
+SIGINT by Alliances, Nations and Industries Â· SIGINT Operational Platforms by
+Nation Â· SIGINT in Modern History Â· TEMPEST Â· Direction finding Â· Traffic
+analysis  
+MASINT/  
+Measurement and  
+Signature Intelligence
+
+Electro-optical Â· Nuclear Â· Geophysical Â· Radar Â· Radiofrequency Â·
+Materials Â· Casualty estimation  
+Others
+
+OSINT/Open Source Intelligence Â· IMINT/Imagery Intelligence Â·
+FININT/Financial Intelligence Â· TECHINT/Technical intelligence  
+Intelligence  
+analysis  
+management
+
+Intelligence analysis Â· Cognitive traps for intelligence analysis Â· Words of
+Estimative Probability Â· Analysis of Competing Hypotheses Â· Intelligence
+cycle (target-centric approach)  
+Intelligence  
+dissemination  
+management
+
+Intelligence cycle security Â· Counter-intelligence Â· Counter-intelligence
+and counter-terrorism organizations Â· List of counterintelligence
+organizations Â· Counterintelligence failures  
+Retrieved from "http://en.wikipedia.org/wiki/Surveillance"
+
+Categories: French words and phrases | Surveillance | Espionage techniques |
+Law enforcement | Law enforcement techniques | Crime prevention | Security |
+National security | Civil rights and liberties | Privacy
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * ×¢××¨××ª
+  * Bahasa Melayu
+  * æ¥æ¬èª
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 11 April 2009, at 00:55 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

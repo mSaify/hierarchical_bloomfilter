@@ -1,0 +1,382 @@
+
+# Cinema 4D
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Cinema 4D Developed by MAXON Computer GmbH  
+Latest release R11 / September 1, 2008  
+Operating system Mac OS X, Windows, Linux  
+Type 3D computer graphics  
+License Proprietary  
+Website http://www.maxon.net  
+<IMG>
+
+<IMG>
+
+A king (chess) piece rendered in Cinema 4D
+
+CINEMA 4D is a commercial, cross-platform, high-end 3-D graphics application,
+produced by MAXON Computer GmbH of Friedrichsdorf, Germany. Noted for its
+flexible interface and ease of use, it is capable of procedural and
+polygonal/subd modelling, animating, lighting, texturing and rendering.
+
+## Contents
+
+  * 1 Overview
+  * 2 Modules
+  * 3 Additional rendering engines
+  * 4 Program history
+  * 5 Use in industry
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Overview
+
+CINEMA 4D is a 3-D application that is popular amongst matte painters in film
+production, largely due to the BodyPaint 3D functionality. It is equally
+popular amongst motion graphics artists, thanks to its excellent integration
+with compositing application pipelines, and a very artist-friendly,
+customizable workflow and interface. It has been used for films such as We Are
+the Strange[1], Polar Express[2], Open Season[3] and Monster House[4].
+
+The application relies on widely used computer 3-D technology, which works by
+creating groups of "points" (known as vertices) which form surfaces when
+connected. The illusion of three dimensions is created by modeling objects out
+of multiple surfaces. Still pictures, movies and game environments (among
+other things) can be created with this technique.
+
+CINEMA 4D has its own runtime scripting and programming language C.O.F.F.E.E.
+which is rather similar in form to JScript and an advanced modern C++ API,
+with an extensive SDK for developing platform-independent plug-ins.
+
+Beginning with Release 11, Cinema4D for Mac has been written in Cocoa, which
+ensures maximum performance by using the 64-bit architecture of modern Intel-
+powered Macs. For non-Intel-based Macs, a 32-bit mode is available.[5]
+
+Four different packages have been released by MAXON: the core CINEMA 4D
+application, the XL-Bundle (including NET Render [3 licenses], PyroCluster,
+Advanced Render, MOCCA and Thinking Particles), the Studio Bundle, which
+includes all modules, and the Production Bundle, available only upon request,
+which comes with a service contract, Linux version, Renderman support and a
+number of other high-end studio-specific features.
+
+Initially, CINEMA 4D was developed for Amiga computers in the early nineties,
+but has since been released for Mac OS X and Microsoft Windows.
+
+MAXON has created a way for all users to be able to 'get into' 3D with their
+software by pursuing this route. For R10 there is, in addition to the
+installation DVD, a training DVD containing more than 6GB of video tutorials
+in either German or English. MAXON bundles HTML manuals and tutorials/videos
+with its software. New in release 10 are context-sensitive help menus.
+
+CINEMA 4D has been embraced by the Adobe After Effects community because of
+C4D's external compositing tags and object IDs, which make exporting 3-D data
+efficient and simple. Separate alpha and depth information may also be
+exported. Because the export feature also supports Apple's Final Cut Pro and
+other popular software, it fits well into several post-production studio
+configurations.
+
+## [edit] Modules
+
+As well as the core application (for modelling, texturing, lighting and
+rendering), CINEMA 4D also has several available add-on programs (modules)
+that expand its capabilities. These programs include:
+
+  * Advanced Render (global illumination/HDRI, caustics, ambient occlusion and sky simulation)
+  * BodyPaint 3D (direct painting on UVW meshes) 
+    * With CINEMA 4D R10 the module BodyPaint 3D became integrated in the basic package
+  * Dynamics (for simulating soft body and rigid body dynamics)
+  * HAIR (simulates hair, fur, grass, etc.)
+  * MOCCA (character animation and cloth simulation)
+  * MoGraph (Motion Graphics procedural modelling and animation toolset)
+  * NET Render (to render animations over a TCP/IP network in render farms)
+  * PyroCluster (simulation of smoke and fire effects) 
+    * With CINEMA 4D R10, the module PyroCluster became integrated in the Advanced Render module
+  * Sketch & Toon (tools for cel shading, cartoons and technical drawings)
+  * Thinking Particles (enhanced particle system based on nodes)
+
+## [edit] Additional rendering engines
+
+As-of 2007, these alternative rendering engines and connections are currently
+available as plug-ins for CINEMA 4D:
+
+  * finalRender stage 2.0 SP4 from Cebas Computer GmbH
+  * Maxwell Render from Next Limit Technologies
+  * Renderman Connection from MAXON Computer GmbH
+  * Indigo Renderer, unbiased photorealistic renderer
+  * SunFlow
+  * V-ray
+
+## [edit] Program history
+
+1990
+
+  * Christian and Philip Losch enter their ray-tracer into Kickstart magazine's monthly programming contest, and win the competition.
+
+  
+1991
+
+  * FastRay (CINEMA 4D's first name) is released for the Amiga.
+
+  
+1993
+
+  * CINEMA 4D V1 is released for Amiga.
+
+  
+1994
+
+  * Release of CINEMA 4D V2 for Amiga.
+
+  
+1995
+
+  * Release of CINEMA 4D V3 for Amiga.
+  * Plans are made for porting CINEMA 4D to the PC platform.
+  * New programmer team begins development of a completely new, operating-system-independent architecture.
+
+  
+1996
+
+  * CINEMA 4D V4 for Windows, Alpha NT and Macintosh is released.
+  * The first multi-processor version of CINEMA 4D is made available.
+
+  
+1997
+
+  * The development of a production-level version begins, integrating the latest technologies.
+  * The first production-worthy version is released â CINEMA 4D XL V5.
+
+  
+1998
+
+  * CINEMA 4D SE V5 is released.
+
+  
+1999
+
+  * CINEMA 4D GO V5 and CINEMA 4D NET are introduced.
+
+  
+2000
+
+  * CINEMA 4D XL V6 is released.
+  * BodyPaint 3D is made available as an integrated version for CINEMA 4D, and as a standalone version for other 3-D packages.
+
+  
+2001
+
+  * CINEMA 4D ART is introduced.
+  * PyroCluster and Dynamics modules are introduced.
+  * CINEMA 4D XL R7 is shipped worldwide.
+  * MAXON integrates the shader set Smells like Almonds from bhodiNUT.
+
+  
+2002
+
+  * CINEMA 4D R8 is released with a modular system. The new modules are Advanced Render, PyroCluster, MOCCA and Thinking Particles.
+
+  
+2003
+
+  * CINEMA 4D R8.5 is released.
+  * BodyPaint 3D R2 is introduced.
+  * Sketch and Toon module is introduced.
+
+  
+2004
+
+  * CINEMA 4D R9 is released.
+
+  
+2005
+
+  * CINEMA 4D R9.5 is released.
+  * HAIR module is introduced.
+
+  
+2006
+
+  * CINEMA 4D R9.6 is released.
+  * MoGraph module is introduced.
+  * CINEMA 4D R10 with integrated BodyPaint 3D is released.
+
+  
+2007
+
+  * CINEMA 4D becomes the first professional 3-D graphics application released as a Universal Binary for Apple's new Intel-powered Macs (even before Apple Universal Binary versions of its own software are released).
+  * Service update R10.1 is released in March, in response to bug feedback provided to Maxon by users and testers.
+  * Service update R10.111 released to address several reported problems, such as stability.
+  * CINEMA 4D R10.5 is released, and features updates to MOCCA and MoGraph, as well as an optimization of the HAIR module.
+
+  
+2008
+
+  * CINEMA 4D R11 released.
+  * CINEMA 4D now supports 64-bit architecture on Apple G5 and Intel-powered Macs.
+  * A new implementation of Global Illumination (included in the Advanced Render module) offers a higher quality than that of the old version, and much improved animation support.
+  * Non-Linear Animation has been completely reworked.
+  * The Renderman support (CINEMAN) is now included in AR.
+
+  
+## [edit] Use in industry
+
+Several films have been made with the help of Cinema 4D, including[6]:
+
+Beowulf
+
+The Ship-boys of Bontekoe
+
+The Golden Compass
+
+Surf's up
+
+We are the strange
+
+Spiderman 3
+
+Monster House
+
+War of the Worlds
+
+Chronicles of Narnia
+
+Serenity
+
+Doom
+
+Prehistoric Park
+
+Homework
+
+Van Helsing
+
+Bern das Brot
+
+Generation
+
+Polar Express
+
+King Arthur
+
+June 17, 1953, State of Emergency
+
+Open Season[7]
+
+## [edit] References
+
+  1. ^ ""We Are the Strange" Since the start of the movie industry back at the end of the 19th century, the biggest stumbling block has been the cost of production". maxon.net. http://www.maxon.net/pages/dyn_files/dyn_htx/htx/2181/02181_02182.html. Retrieved on 2008-08-14.
+  2. ^ "Polar Express runs on Cinema 4D and Bodypaint 3D". computerarts.co.uk. http://www.computerarts.co.uk/news/polar_express_runs_on_cinema_4d_and_bodypaint_3d. Retrieved on 2007-04-02.
+  3. ^ "Sony Pictures Animationâs âOpen Seasonâ Paves a New Way for Imageworksâ Paint Artists to Work Together". cgfocus.com. http://www.cgfocus.com/article/story/352. Retrieved on 2007-04-02.
+  4. ^ "SIG: MAXON Is In The House - Sony's Imageworks Uses MAXON Software". architosh.com. 2006-08-06. http://www.architosh.com/news/2006-08/2006a0806_sig-maxon-sony.html. Retrieved on 2007-04-02.
+  5. ^ http://www.maxon.net/pages/dyn_files/dyn_htx/htx/2400/02400_02401.html
+  6. ^ http://www.im-innovations.com/index.php?option=com_content&task=view&id=99&Itemid=33
+  7. ^ http://www.cgfocus.com/article/story/352
+
+## [edit] External links
+
+  * MAXON English page
+
+  * Cinema 4D cafe - Cinema 4D users community and tutorials page
+
+v â¢ d â¢ e
+
+Animation editor software  
+Open source
+
+Art of Illusion Â· KToon Â· Blender Â· Geist3D Â· K-3D Â· NodeBox Â· OpenFX Â·
+Seamless3d Â· Synfig Â· Salasaga  
+Closed source/  
+Retail
+
+Adobe Flash Â· Anime Studio Â· Autodesk 3ds Max Â· Autodesk Maya Â· Autodesk
+Softimage Â· Bryce Â· Cinema 4D Â· Dimp Animator Â· Dynamation Â· Elastic
+Reality Â· Express Animator Â· Fantavision Â· Fix8 Â· Gryphon Software Morph
+Â· Liveswif Â· MASSIVE Â· Messiah Â· Mediator Â· Moviestorm Â· Pivot
+Stickfigure Animator Â· SWFTools Â· SWiSH Max Â· Softimage 3D Â· Spider-Man
+Cartoon Maker Â· Strata 3D Â· Swift 3D Â· TISFAT Â· Toufee Â· TVPaint Â· X-Men
+Cartoon Maker  
+Retrieved from "http://en.wikipedia.org/wiki/Cinema_4D"
+
+Categories: 3D graphics software | Animation software | Amiga raytracers
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Galego
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 31 March 2009, at 16:12.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,174 @@
+
+# Internet exchange point
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+An Internet exchange point (IX or IXP) is a physical infrastructure that
+allows different Internet service providers (ISPs) to exchange Internet
+traffic between their networks (autonomous systems) by means of mutual peering
+agreements, which allow traffic to be exchanged without cost. IXPs reduce the
+portion of an ISP's traffic which must be delivered via their upstream transit
+providers, thereby reducing the Average Per-Bit Delivery Cost of their
+service. Furthermore, the increased number of paths learned through the IXP
+improves routing efficiency and fault-tolerance.
+
+<IMG>
+
+<IMG>
+
+The main building of the LINX
+
+The primary purpose of an IXP is to allow networks to interconnect directly,
+via the exchange, rather than through one or more 3rd party networks. The
+advantages of the direct interconnection are numerous, but the primary reasons
+are cost, latency, and bandwidth. Traffic passing through an exchange is
+typically not billed by any party, whereas traffic to an ISP's upstream
+provider is. The direct interconnection, often located in the same city as
+both networks, avoids the need for data to travel to other cities (potentially
+on other continents) to get from one network to another, thus reducing
+latency. The third advantage, speed, is most noticeable in areas that have
+poorly developed long-distance connections. ISPs in these regions might have
+to pay between 10 or 100 times more for data transport than ISPs in North
+America, Europe or Japan. Therefore, these ISPs typically have slower, more
+limited connections to the rest of the internet. However, a connection to a
+local IXP may allow them to transfer data without limit, and without cost,
+vastly improving the bandwidth between customers of the two adjacent ISPs.
+
+<IMG>
+
+<IMG>
+
+An optical fiber photonic switch at the AMS-IX
+
+A typical IXP consists of one or more network switches, to which each of the
+participating ISPs connect. Prior to the existence of switches, IXPs typically
+utilized FOIRL hubs or FDDI rings, migrating to Ethernet and FDDI switches as
+those became available in 1993 and 1994. ATM switches were briefly used at a
+few IXPs in the late 1990s, accounting for approximately 4% of the market at
+their peak, and there was an abortive attempt by the Stockholm IXP, NetNod, to
+use SRP/DPT (an ill-fated conjoinment of FDDI and SONET), but Ethernet has
+prevailed, accounting for more than 95% of all existing Internet exchange
+switch fabrics. All Ethernet port speeds are to be found at modern IXPs,
+ranging from 10 Mbit/s ports in use in small developing-country IXes, to
+ganged 10 Gbit/s ports in major centers like Seoul, New York, London,
+Frankfurt, Amsterdam, and Palo Alto.
+
+When an IXP incurs any operating costs, those costs are typically shared among
+all of its participants. At the more expensive exchanges, participants pay a
+monthly or annual fee, usually determined by the speed of the port or ports
+which they're using, or much less commonly by the volume of traffic which
+they're passing across the exchange (fees based on volume of traffic are
+unpopular because they provide a counterincentive to growth of the exchange).
+Some exchanges also have a setup fee, to offset the costs of the switch port
+and any media adaptors (GBICs, SFPs, XFPs, XENPAKs, et cetera) which the new
+participant requires, and the labor of configuring it to serve them.
+
+## [edit] Interchange of traffic across an Internet Exchange Point
+
+A connection to an IXP does not by itself cause any traffic to be exchanged;
+it is a physical presence on a shared medium, nothing more.
+
+In order to have Internet traffic flow between two participants on an IXP, the
+two participants must initiate BGP peering between themselves, and choose to
+announce routes over the peering relationship - either routes to their own
+addresses, or routes to addresses of other ISPs that they connect to, possibly
+via other mechanisms. The other party to the peering can then apply route
+filtering, where it chooses to accept those routes, and route traffic
+accordingly, or to ignore those routes, and use other routes to reach those
+addresses.
+
+In many cases, an ISP will both have a direct link to another ISP and accept a
+route (normally ignored) to the other ISP through the IXP; if the direct link
+fails, traffic will then start flowing over the IXP. In this way, the IXP acts
+as a backup link.
+
+## [edit] See also
+
+  * List of Internet exchange points
+  * List of Internet exchange points by size
+
+## [edit] External links
+
+  * Packet Clearing House: Directory of Internet Exchange Points
+  * Internet Exchanges at the Open Directory Project
+  * Exchange point information
+  * PeeringDB
+  * Internet exchange points
+  * European Internet Exchange Association
+
+Retrieved from "http://en.wikipedia.org/wiki/Internet_exchange_point"
+
+Categories: Internet exchange points | Routing | Wide area networks
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * Euskara
+  * FranÃ§ais
+  * Italiano
+  * àº¥àº²àº§
+  * æ¥æ¬èª
+  * Polski
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 14 March 2009, at 15:33 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

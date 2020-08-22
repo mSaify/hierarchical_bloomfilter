@@ -1,0 +1,254 @@
+
+# Web content management system
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+A web content management system (WCMS or Web CMS) is content management system
+(CMS) software, usually implemented as a Web application, for creating and
+managing HTML content. It is used to manage and control a large, dynamic
+collection of Web material (HTML documents and their associated images). A
+WCMS facilitates content creation, content control, editing, and many
+essential Web maintenance functions.
+
+Usually the software provides authoring (and other) tools designed to allow
+users with little or no knowledge of programming languages or markup languages
+to create and manage content with relative ease of use.
+
+Most systems use a database to store content, metadata, and/or artifacts that
+might be needed by the system. Content is frequently, but not universally,
+stored as XML, to facilitate reuse and enable flexible presentation
+options.[1][2]
+
+A presentation layer displays the content to regular Web-site visitors based
+on a set of templates. The templates are sometimes XSLT files.[3]
+
+Administration is typically done through browser-based interfaces, but some
+systems require the use of a fat client.
+
+Unlike Web-site builders like Microsoft FrontPage or Adobe Dreamweaver, a WCMS
+allows non-technical users to make changes to an existing website with little
+or no training. A WCMS typically requires an experienced coder to set up and
+add features, but is primarily a Web-site maintenance tool for non-technical
+administrators.
+
+## Contents
+
+  * 1 Capabilities
+  * 2 Types
+    * 2.1 Offline processing
+    * 2.2 Online processing
+    * 2.3 Hybrid Systems
+  * 3 Web Content Management History
+  * 4 See also
+  * 5 References
+
+  
+## [edit] Capabilities
+
+A WCMS is a software system used to manage and control a large, dynamic
+collection of Web material (HTML documents and their associated images). A CMS
+facilitates document control, auditing, editing, and timeline management. A
+WCMS provides the following key features:
+
+Automated templates
+
+    Create standard output templates (usually HTML and XML) that can be automatically applied to new and existing content, allowing the appearance of all content to be changed from one central place.
+Easily editable content
+
+    Once content is separated from the visual presentation of a site, it usually becomes much easier and quicker to edit and manipulate. Most WCMS software includes WYSIWYG editing tools allowing non-technical individuals to create and edit content.
+Scalable feature sets
+
+    Most WCMS software includes plug-ins or modules that can be easily installed to extend an existing site's functionality.
+Web standards upgrades
+
+    Active WCMS software usually receives regular updates that include new feature sets and keep the system up to current web standards.
+Workflow management
+
+    Workflow is the process of creating cycles of sequential and parallel tasks that must be accomplished in the CMS. For example, a content creator can submit a story, but it is not published until the copy editor cleans it up and the editor-in-chief approves it.
+Delegation
+
+    Some CMS software allows for various user groups to have limited privileges over specific content on the website, spreading out the responsibility of content management.[4]
+Document management
+
+    CMS software may provide a means of managing the life cycle of a document from initial creation time, through revisions, publication, archive, and document destruction.
+Content virtualization
+
+    CMS software may provide a means of allowing each user to work within a virtual copy of the entire Web site, document set, and/or code base. This enables changes to multiple interdependent resources to be viewed and/or executed in-context prior to submission.
+## [edit] Types
+
+There are three major types of WCMS: offline processing, online processing,
+and hybrid systems. These terms describe the deployment pattern for the WCMS
+in terms of when presentation templates are applied to render Web pages from
+structured content. Seth Gottlieb has used the terms 'baking', 'frying', and
+'parbaking' to describe the three alternatives.[5]
+
+### [edit] Offline processing
+
+These systems pre-process all content, applying templates before publication
+to generate Web pages. Vignette CMS and Bricolage are examples of this type of
+system. Since pre-processing systems do not require a server to apply the
+templates at request time, they may also exist purely as design-time tools;
+Adobe Contribute is an example of this approach.
+
+### [edit] Online processing
+
+These systems apply templates on-demand. HTML may be generated when a user
+visits the page, or pulled from a cache. Hosted CMSs are provided by such SaaS
+developers as AspireCMS, Bravenet, UcoZ, Freewebs and Crownpeak.
+
+Some of the better known open source systems that produce pages on demand
+include Concrete5, Mambo, Joomla!, Drupal, TYPO3, Zikula and Plone, etc...
+
+DotNetNuke is a partially open source CMS that runs on asp.net and is free to
+download and install. DNN produces pages on demand but levels and types of
+caching can be set. There are also many additional "modules" that can be
+purchased or installed for free to extend the functionality of DNN as needed,
+many of which create data and content dynamically.
+
+Most Web application frameworks perform template processing in this way, but
+they do not necessarily incorporate content management features. Wikis, e.g.
+MediaWiki and TWiki generally follow an online model (with varying degrees of
+caching), but generally do not provide document workflow.
+
+### [edit] Hybrid Systems
+
+Some systems combine the offline and online approaches. Some systems write out
+executable code (e.g. JSP, ASP, PHP,ColdFusion,Perl pages) rather than just
+static HTML, so that the CMS itself does not need to be deployed on every Web
+server. Other hybrids, such as Blosxom, are capable of operating in either an
+online or offline mode.[6]
+
+  
+
+## [edit] Web Content Management History
+
+Web Content Management Systems began to be formally developed as a commercial
+software products in the mid nineties. In the mid 2000s, the web content
+management market became a fragmented market as a plethora of new providers
+emerged to complement the traditional vendors. These Web Content Management
+systems are typically broken down into several groups:  
+Software as a Service: AspireCMS, Clickability, Knivis, Crownpeak, Hot Banana
+and others  
+Enterprise: Sitecore, FatWire, Vignette, Interwoven, Documentum, MySource
+Matrix (Squiz), Alfresco, Oracle, IBM Web Content Management, SDL Tridion and
+others  
+Mid-market: Microsoft SharePoint, Kentico, Goss Interactive, Contrexx, Ektron,
+PaperThin, Ingeniux, Terapad, Cascade Server,Logical CMS and others  
+Open source: Magnolia, Plone, Joomla, Drupal, Alfresco, Sensenet 6.0, MiaCMS,
+MMBase, TYPO3, MySource Matrix (Squiz), WordPress
+
+## [edit] See also
+
+  * Content management systems
+  * Geo targeting
+  * List of content management systems
+
+## [edit] References
+
+  1. ^ Ethier, Kay, and Scott Abel. "Introduction to Structured Content Management with XML". CMS Watch. http://www.managingenterprisecontent.com. Retrieved on 2007-11-12.
+  2. ^ Tivy, Jim, et al.. "The XML Content Management System for Document Centric XML". Bluestream Database Software Corporation. http://www.bluestream.com/xdbres/Content/Business/whitepaper/XmlCms/Outline.html. Retrieved on 2007-11-12.
+  3. ^ Woric Faithfull. "Using XSLT to Make Websites". woric.net. http://woric.net/wsg_presentation/Part1_using_xslt.xf. Retrieved on 2007-11-08.
+  4. ^ Jovia Web Studio (2009). "Is a Content Management System Right for You". Jovia Web Studio Blog. http://www.joviawebstudio.com/index.php/blog/is_a_content_management_system_right_for_you/. Retrieved on 2009-02-13.
+  5. ^ Gottlieb,Seth. "CMS Deployment Patterns". Enter Content Here. http://www.contenthere.net/2007/06/cms-deployment-patterns.html. Retrieved on 2007-06-11.
+  6. ^ "blosxom :: the zen of blogging :: documentation/users/configure/static.txt". 2007-08-28. http://blosxom.sourceforge.net/documentation/users/configure/static.html. Retrieved on 2008-03-20.
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (August 2008)  
+v â¢ d â¢ e
+
+Website management  
+Concepts
+
+Drop registrar Â· Overselling Â· Web document Â· Web content Â· Web hosting
+service Â· Web server Â· Webmaster  
+Web hosting tools
+
+Comparison of control panels Â· cPanel Â· DirectAdmin Â· Domain Technologie
+Control Â· ehcp Â· H-Sphere Â· InterWorx Â· ISPConfig Â· ISPmanager Â· LxAdmin
+Â· Plesk Â· Usermin Â· Webmin  
+Domain name managers and registrars
+
+AusRegistry Â· CZ.NIC Â· CIRA Â· CNNIC Â· DENIC Â· DNS Belgium Â· Domainz Â·
+ENom Â· Go Daddy Â· Melbourne IT Â· Museum Domain Management Association Â·
+Network Solutions Â· NeuStar Â· OLM.net Â· Register.com Â· Tucows Â· Web.com  
+Web content management system
+
+Conference management system Â· Document management system Â· Wiki software Â·
+Weblog software  
+Retrieved from "http://en.wikipedia.org/wiki/Web_content_management_system"
+
+Categories: Content management systems | Website management
+
+Hidden categories: Articles needing additional references from August 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Deutsch
+  * FranÃ§ais
+  * Italiano
+  * à¤¸à¤à¤¸à¥à¤à¥à¤¤
+  * à¹à¸à¸¢
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 17 April 2009, at 05:40 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

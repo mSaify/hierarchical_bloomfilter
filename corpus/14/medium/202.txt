@@ -1,0 +1,245 @@
+
+# Semantic Web Rule Language
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+SWRL (Semantic Web Rule Language) is a proposal for a Semantic Web rules-
+language, combining sublanguages of the OWL Web Ontology Language (OWL DL and
+Lite) with those of the Rule Markup Language (Unary/Binary Datalog).
+
+The specification was submitted in May 2004 to the W3C by the National
+Research Council of Canada, Network Inference (since acquired by webMethods),
+and Stanford University in association with the Joint US/EU ad hoc Agent
+Markup Language Committee.
+
+Compared with DLP (Description Logic Programs), another relatively recent
+proposal in the Semantic Web community for integrating rules and OWL, SWRL
+takes a diametrically opposed integration approach. DLP is the intersection of
+Horn logic and OWL, whereas SWRL is (roughly) the union of them. In DLP, the
+resultant language is a very peculiar looking description logic and rather
+inexpressive language overall. Itâs hard to see the restrictions are either
+natural or satisfying. Contrariwise, SWRL retains the full power of OWL DL,
+but at the price of decidability and practical implementations.[1]
+
+Rules are of the form of an implication between an antecedent (body) and
+consequent (head). The intended meaning can be read as: whenever the
+conditions specified in the antecedent hold, then the conditions specified in
+the consequent must also hold.
+
+## Contents
+
+  * 1 Example
+  * 2 Implementations
+  * 3 See also
+  * 4 References
+  * 5 External links
+
+  
+## [edit] Example
+
+Human Readable Syntax
+
+    
+    hasParent(?x1,?x2) â§ hasBrother(?x2,?x3) â hasUncle(?x1,?x3)
+    
+XML Concrete Syntax
+
+The XML Concrete Syntax is a combination of the OWL Web Ontology Language XML
+Presentation Syntax with the RuleML XML syntax.
+
+    
+    <ruleml:imp> 
+     <ruleml:_rlab ruleml:href="#example1"/>
+     <ruleml:_body> 
+       <swrlx:individualPropertyAtom  swrlx:property="hasParent"> 
+         <ruleml:var>x1</ruleml:var>
+         <ruleml:var>x2</ruleml:var>
+       </swrlx:individualPropertyAtom> 
+       <swrlx:individualPropertyAtom  swrlx:property="hasBrother"> 
+         <ruleml:var>x2</ruleml:var>
+         <ruleml:var>x3</ruleml:var>
+       </swrlx:individualPropertyAtom> 
+     </ruleml:_body> 
+     <ruleml:_head> 
+       <swrlx:individualPropertyAtom  swrlx:property="hasUncle"> 
+         <ruleml:var>x1</ruleml:var>
+         <ruleml:var>x3</ruleml:var>
+       </swrlx:individualPropertyAtom> 
+     </ruleml:_head> 
+    </ruleml:imp> 
+    
+RDF Concrete Syntax
+
+It is straightforward to provide such an RDF concrete syntax for rules, but
+the presence of variables in rules goes beyond the RDF Semantics[2].
+Translation from the XML Concrete Syntax to RDF/XML could be easily
+accomplished by extending the XSLT transformation for the OWL XML Presentation
+syntax.
+
+## [edit] Implementations
+
+Caveat: Reasoners do not support the full specification because the reasoning
+becomes undecidable. There can be three types of approach: translate SWRL into
+First Order Logic (Hoolet) and demonstrate reasoning tasks with a theorem
+prover; translate OWL-DL into rules and give the rules to a forward chaining
+engine (Bossam) (this approach cannot cover the full expressivity of OWL-DL
+due to many incompatibility between Description Logic and Horn Rule
+formalisms); expand an existing OWL-DL reasoner based on the tableaux
+algorithm (Pellet).
+
+<IMG> This section requires expansion.  
+  * SWRLTab is an extension to Protege that supports editing and execution of SWRL rules. [1]
+  * R2ML (REWERSE Rule Markup Language) supports SWRL. [2]
+  * Bossam, a forward chaining rule engine supports SWRL. [3]
+  * Hoolet, an implementation of an OWL-DL reasoner that uses a first order prover supports SWRL. [4]
+  * Pellet, an open-source Java OWL DL reasoner has SWRL-support. [5]
+  * KAON2 is an infrastructure for managing OWL-DL, SWRL, and F-Logic ontologies. [6]
+  * RacerPro, supports processing of rules in a SWRL-based syntax by translating them into nRQL rules [7]
+
+Bossam Hoolet Pellet  
+SWRL/OWLX Parser Yes ? ?  
+SWRL/RDF Parser Yes ? ?  
+Math Built-Ins Partial ? No  
+String Built-Ins Partial ? No  
+Comparison Built-Ins ? ? Yes  
+Boolean Built-Ins ? ? No  
+Date, Time and Duration Built-Ins ? ? No  
+URI Built-Ins ? ? No  
+Lists Built-Ins ? ? No  
+Licencing Free/closed-source Free/open-source Free/open-source  
+## [edit] See also
+
+  * Description Logic
+  * Web Ontology Language \- "OWL"
+  * Datalog (query and rule language)
+  * Semantic Web
+  * Semantic Grid
+  * Ontology (computer science)
+  * Business Intelligence 2.0 (BI 2.0)
+  * Semantic wiki
+
+## [edit] References
+
+  1. ^ Bijan Parsia; et al. (2005) (PDF). Cautiously Approaching SWRL. http://www.mindswap.org/papers/CautiousSWRL.pdf. Retrieved on 2006-07-29.
+  2. ^ Mei, Jing; Harold Boley (2006). "Interpreting SWRL Rules in RDF Graphs". Electronic Notes in Theoretical Computer Science (Elsevier) (151): 53â69. http://www.is.pku.edu.cn/~mayyam/papers/Interpreting%20SWRL%20Rules%20in%20RDF%20Graphs.pdf. Retrieved on 2006-07-29.
+
+## [edit] External links
+
+  * SWRL: A Semantic Web Rule Language Combining OWL and RuleML, W3C Member Submission 21 May 2004
+  * A Proposal for a SWRL Extension towards First-Order Logic, W3C Member Submission 11 April 2005
+  * OWL Web Ontology Language XML Presentation Syntax, W3C Note 11 June 2003
+  * Description Logic Programs: Combining Logic Programs with Description Logic, WWW 2003.
+
+v â¢ d â¢ e
+
+Semantic Web  
+Background
+
+World Wide Web Â· Internet Â· Databases Â· Semantic networks Â· Ontologies  
+Sub-topics
+
+Linked Data Â· Data Web Â· Hyperdata Â· Dereferenceable URIs Â· Ontologies Â·
+Rule bases Â· Data Spaces  
+Applications
+
+Semantic wiki Â· Semantic publishing Â· Semantic search Â· Semantic
+advertising Â· Semantic reasoner Â· Semantic matching Â· Semantic mapper Â·
+Semantic broker Â· Semantic analytics Â· Semantic service oriented
+architecture  
+Related Topics
+
+Folksonomy Â· Web 2.0 Â· Plain Old Semantic HTML Â· Search engine optimization
+Â· Open Database Connectivity Â· References Â· Information architecture Â·
+Knowledge management Â· Collective intelligence Â· Topic Maps Â· XML Â·
+Description logic  
+Standards
+
+Syntax & Supporting Technologies : RDF (Notation 3 Â· Turtle Â· N-Triples) Â·
+SPARQL Â· URI Â· HTTP Â· XML
+
+Schemas, Ontologies & Rules : RDFS Â· OWL Â· Rule Interchange Format Â·
+Semantic Web Rule Language
+
+Semantic Annotation : RDFa Â· eRDF Â· GRDDL Â· Microformats
+
+Common Vocabularies : FOAF Â· SIOC Â· Dublin Core Â· SKOS  
+People
+
+Tim Berners-Lee Â· James Hendler Â· Ora Lassila Â· Nigel Shadbolt Â· Wendy
+Hall  
+Key Semantic  
+Web Organizations
+
+W3C Â· WSRI Â· MIT Â· OpenLink Software Â· Talis Group Â· ClearForest Â·
+University of Southampton Â· DERI  
+Retrieved from "http://en.wikipedia.org/wiki/Semantic_Web_Rule_Language"
+
+Categories: Semantic Web | Knowledge representation
+
+Hidden categories: Articles to be expanded since January 2007 | All articles
+to be expanded
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 5 February 2009, at 07:47 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

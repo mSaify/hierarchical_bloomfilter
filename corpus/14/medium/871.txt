@@ -1,0 +1,335 @@
+
+# List of common resolutions
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Main article: Display resolution
+
+<IMG>
+
+<IMG>
+
+A visual comparison of common TV display resolutions. A PAL image is made out
+of 720x576 non square pixels, NTSC is 720x486. However both have an aspect
+ratio of 4:3, leading to inaccuracies within this image. NTSC DV/DVD have only
+480 active lines in order to accommodate compression pixel blocks.
+
+This is a list of image resolutions sorted by the horizontal pixel dimension
+in ascending numerical order.
+
+It is important to realize that the use of the word "resolution" in this
+context is misleading and inaccurate. The sizes given are pixel dimensions,
+and do not imply anything about the resolution of the display, which would be
+expressed in PPI (pixels per inch) or PPCM (pixels per centimeter). This
+explains why larger pixel dimensions do not necessarily imply that the final
+image will be physically larger; indeed, fitting more pixels onto the same
+display will produce an image the same physical size but with a higher image
+density and hence text and images will appear smaller.
+
+## Contents
+
+  * 1 Tables
+    * 1.1 Computer graphics
+    * 1.2 Television
+    * 1.3 Movies
+    * 1.4 Video Conferencing
+  * 2 Notes
+  * 3 References
+
+  
+## [edit] Tables
+
+### [edit] Computer graphics
+
+For the table below, DAR is the display aspect ratio, based solely on pixel
+count. It does not take into account pixel aspect ratio.[1]
+
+Computer and handheld screens Standard Width Height DAR DAR Pixels  
+Apple II HiRes (6 color) and Apple IIe Double HiRes (16 color), grouping
+subpixels 140 Ã 192 35:48 0.729 26,880  
+Nintendo Game Boy, Game Boy Color 160 Ã 144 10:9 1.111 23,040  
+Palm (PDA) LoRES 160 Ã 160 1:1 1.0 25,600  
+VIC-II multicolor, IBM PCjr 16-color 160 Ã 200 4:5 0.8 32,000  
+Acorn BBC 20 column modes 160 Ã 256 5:8 0.625 40,960  
+Nokia Series 60 smartphones (Nokia 7650, plus First and Second Edition models
+only) 176 Ã 208 11:13 0.846 36,608  
+Older Java MIDP devices like Sony Ericsson K600. 176 Ã 220 4:5 0.8 38,720  
+Nokia 5500 Sport 208 Ã 208 1:1 1.0 43,264  
+UIQ 2.x based smartphones 208 Ã 320 13:20 0.65 66,560  
+Nintendo Game Boy Advance 240 Ã 160 3:2 1.5 38,400  
+TMS9918 Modes 1 (e.g. TI-99/4a) and 2, ZX Spectrum, Nintendo DS (each screen)
+256 Ã 192 4:3 1.333 49,152  
+Elektronika BK 256 Ã 256 1:1 1.0 65,536  
+Apple II HiRes (1 bit per pixel) 280 Ã 192 35:24 1.458 53,760  
+Atari 400/800 320 Ã 192 5:3 1.667 61,440  
+CGA 4-color, Atari ST 16 color, VIC-II Hires, Amiga OCS NTSC Lowres, Apple
+IIGS LoRes, MCGA 320 Ã 200 8:5 1.6 64,000  
+QVGA 320 Ã 240 4:3 1.333 76,800  
+Acorn BBC 40 column modes, Amiga OCS PAL Lowres 320 Ã 256 5:4 1.25 81,920  
+Palm (PDA) HiRES 320 Ã 320 1:1 1.0 102,400  
+Palm (PDA) HiRES+ 320 Ã 480 2:3 0.667 153,600  
+Nokia Series 60 smartphones (E60, E70, N80, N90) 352 Ã 416 11:13 0.846
+146,432  
+WQVGA (common on Windows Mobile 6 handsets) 400 Ã 240 5:3 1.667 96,000  
+Quarter SVGA (no official name, selectable in some PC shooters) 400 Ã 300 4:3
+1.333 120,000  
+WQVGA 432 Ã 240 9:5 1.8 103,680  
+Sony PlayStation Portable 480 Ã 272 30:17 1.765 130,560  
+HVGA, Apple iPhone 480 Ã 320 3:2 1.5 153,600  
+Elektronika BK 512 Ã 256 2:1 2.0 131,072  
+Black & white Macintosh (9") 512 Ã 342 3:2 1.5 175,104  
+Macintosh LC (12")/Color Classic 512 Ã 384 4:3 1.333 196,608  
+Apple IIe Double Hires (1 bit per pixel) 560 Ã 192 35:12 2.917 107,520  
+(unnamed) 600 Ã 480 5:4 1.25 288,000  
+Atari ST 4 color, CGA mono, Amiga OCS NTSC Hires, Apple IIGS HiRes, Nokia
+Series 80 smartphones 640 Ã 200 16:5 3.2 128,000  
+HVGA, Handheld PC 640 Ã 240 8:3 2.667 153,600  
+Acorn BBC 80 column modes, Amiga OCS PAL Hires 640 Ã 256 5:2 2.5 163,840  
+Nokia Series 90 smartphones (7700, 7710) 640 Ã 320 2:1 2.0 204,800  
+EGA 640 Ã 350 64:35 1.829 224,000  
+QHD / nHD [2] [3] 640 Ã 360 16:9 1.778 230,400  
+Atari ST mono, Amiga OCS NTSC Hires interlaced 640 Ã 400 8:5 1.6 256,000  
+VGA, MCGA (in monochome), Sun-1 color 640 Ã 480 4:3 1.333 307,200  
+Amiga OCS PAL Hires interlaced 640 Ã 512 5:4 1.25 327,680  
+HGC 720 Ã 348 60:29 2.069 250,560  
+MDA 720 Ã 350 72:35 2.057 252,000  
+Apple Lisa 720 Ã 364 180:91 1.978 262,080  
+WVGA 768 Ã 480 8:5 1.6 368,640  
+Nokia E90 Communicator 800 Ã 352 25:11 2.273 281,600  
+WGA or WVGA, ASUS Eee PC 700 and 701 series 800 Ã 480 5:3 1.667 384,000  
+SVGA 800 Ã 600 4:3 1.333 480,000  
+Apple Macintosh Half Megapixel 832 Ã 624 4:3 1.333 519,168[4]  
+WVGA 856 Ã 480 ~16:9 1.783 410,880  
+Quarter FHD 960 Ã 540 16:9 1.778 518,400  
+(unnamed, selectable in some first/third-person shooters) 960 Ã 720 4:3 1.333
+691,200  
+WSVGA 1024 Ã 576 16:9 1.778 589,824  
+ASUS Eee PC 900, 901, 1000 series, MSI Wind and the HP 2133 1024 Ã 600 128:75
+1.707 614,400  
+(unnamed) 1024 Ã 640 8:5 1.6 655,360  
+XGA 1024 Ã 768 4:3 1.333 786,432  
+Sun-1 monochrome 1024 Ã 800 32:25 1.28 819,200  
+Network Computing Devices 1024 Ã 1024 1:1 1.0 1,048,576  
+NeXT MegaPixel Display 1120 Ã 832 35:26 1.346 931,840  
+(unnamed) 1152 Ã 720 8:5 1.6 829,440  
+Apple PowerBook G4 (original Titanium version) 1152 Ã 768 3:2 1.5 884,736  
+XGA+ 1152 Ã 864 4:3 1.333 995,328[5]  
+Sun-2 Prime Monochrome or Color Video, also common in Sun-3 and Sun-4
+workstations 1152 Ã 900 32:25 1.28 1,036,800  
+WXGA, min. 1280 Ã 720 16:9 1.778 921,600  
+WXGA, avg., BrightView 1280 Ã 768 5:3 1.667 983,040  
+WXGA, avg. 1280 Ã 800 8:5 1.6 1,024,000  
+Apple PowerBook G4 1280 Ã 854 ~3:2 1.499 1,093,120  
+SXGA- 1280 Ã 960 4:3 1.333 1,228,800  
+SXGA 1280 Ã 1024 5:4 1.25 1,310,720  
+WXGA, max. (standardized HDTV 720p/1080i displays) 1366 Ã 768 ~16:9 1.779
+1,049,088  
+SXGA+ 1400 Ã 1050 4:3 1.333 1,470,000  
+WXGA+ 1440 Ã 900 8:5 1.6 1,296,000  
+Apple PowerBook G4 (final version) 1440 Ã 960 3:2 1.5 1,382,400  
+(unnamed) 1440 Ã 1080 4:3 1.333 1,555,200  
+Sony VAIO Z Series laptops 1600 Ã 900 16:9 1.778 1,440,000  
+WSXGA 1600 Ã 1024 25:16 1.5625 1,638,400  
+UXGA 1600 Ã 1200 4:3 1.333 1,920,000  
+WSXGA+ 1680 Ã 1050 8:5 1.6 1,764,000  
+1080p 1920 Ã 1080 16:9 1.778 2,073,600  
+WUXGA 1920 Ã 1200 8:5 1.6 2,304,000  
+TXGA 1920 Ã 1400 48:35 1.371 2,688,000  
+(unnamed, available on some GPUs/monitors) 1920 Ã 1440 4:3 1.333 2,764,800  
+QWXGA 2048 Ã 1152 16:9 1.778 2,359,296  
+QXGA 2048 Ã 1536 4:3 1.333 3,145,728  
+WQXGA 2560 Ã 1600 8:5 1.6 4,096,000  
+QSXGA 2560 Ã 2048 5:4 1.25 5,242,880  
+QSXGA+ 2800 Ã 2100 4:3 1.333 5,880,000  
+WQSXGA 3200 Ã 2048 25:16 1.5625 6,553,600  
+QUXGA 3200 Ã 2400 4:3 1.333 7,680,000  
+QFHD aka 2160p 3840 Ã 2160 16:9 1.778 8,294,400  
+WQUXGA 3840 Ã 2400 8:5 1.6 9,216,000  
+HXGA 4096 Ã 3072 4:3 1.333 12,582,912  
+WHXGA 5120 Ã 3200 8:5 1.6 16,384,000  
+HSXGA 5120 Ã 4096 5:4 1.25 20,971,520  
+WHSXGA 6400 Ã 4096 25:16 1.5625 26,214,400  
+HUXGA 6400 Ã 4800 4:3 1.333 30,720,000  
+Super Hi-Vision 7680 Ã 4320 16:9 1.778 33,177,600  
+WHUXGA 7680 Ã 4800 8:5 1.6 36,864,000  
+### [edit] Television
+
+Analog broadcast television systems Standard Resolution[6] DAR Pixels  
+PAL, SECAM ~520 Ã 576 lines 4:3 ~300,000  
+PALplus ~520 Ã 576 lines 16:9 ~300,000  
+Undecoded PALplus ~520 Ã 432 lines 16:9 ~220,000  
+NTSC ~440 Ã 486 lines 4:3 ~210,000  
+Laserdisc ~580 Ã 480 (NTSC) 4:3 ~268,800  
+~570 Ã 576 (PAL/SECAM) ~322,560  
+Betamax ~320 Ã 480 (NTSC) 4:3 ~120,000  
+~310 Ã 576 (PAL/SECAM) ~144,000  
+Betamax Superbeta ~380 Ã 480 (NTSC) 4:3 ~136,800  
+~370 Ã 576 (PAL/SECAM) ~164,160  
+VHS ~320 Ã 480 (NTSC) 4:3 ~115,200  
+~310 Ã 576 (PAL/SECAM) ~138,240  
+S-VHS ~530 Ã 480 (NTSC) 4:3 ~192,000  
+~520 Ã 576 (PAL/SECAM) ~230,400  
+Digital television standards Standard Resolution DAR Pixels  
+Video CD 352 Ã 240 (NTSC) 4:3 (non-square pixels) 84,480  
+352 Ã 288 (PAL) 101,376  
+UMD 480 Ã 272 ~16:9 130,560  
+China Video Disc 352 Ã 480 (NTSC) 4:3 (non-square pixels) 168,960  
+352 Ã 576 (PAL) 202,725  
+SVCD 480 Ã 480 (NTSC) 4:3 (non-square pixels) 230,400  
+480 Ã 576 (PAL) 276,480  
+SDTV 480i, EDTV 480p 640 Ã 480 4:3 or 16:9 307,200  
+704 Ã 480 337,920  
+852 Ã 480 408,960  
+DVD 720 Ã 480 (NTSC) 4:3 or 16:9 (non-square pixels) 345,600  
+720 Ã 576 (PAL) 414,720  
+720p (HDTV, Blu-ray) 1280 Ã 720 16:9 921,600  
+1080p, 1080i (HDTV, Blu-ray) 1920 Ã 1080 16:9 2,073,600  
+### [edit] Movies
+
+Digital film standards Standard Resolution DAR Pixels  
+Full Aperture 4K 4096 x 3112 1.32:1 12,746,752  
+Academy 4K 3656 Ã 2664 1.37:1 9,739,584  
+Digital cinema 4K 4096 Ã 1714 2.39:1 7,020,544  
+3996 Ã 2160 1.85:1 8,631,360  
+Full Aperture Native 2K 2048 Ã 1556 1.32:1 3,145,728  
+Academy 2K 1828 Ã 1332 1.37:1 2,434,896  
+Digital Cinema 2K 2048 Ã 858 2.39:1 1,757,184  
+1998 Ã 1080 1.85:1 2,157,840  
+Post-production digital working resolutions Standard Resolution DAR PAR Pixels  
+Full Aperture 4K 4096 Ã 3112 4:3 1:1 12,746,752  
+Academy 4K 3656 Ã 2664 1.37:1 1:1 9,739,584  
+Full Aperture Native 2K 2048 Ã 1556 4:3 1:1 3,186,688  
+Academy 2K 1828 Ã 1332 1.37:1 1:1 2,434,896  
+Sony HDCAM SR (1080) 1920 Ã 1080 16:9 3:2 2,073,600  
+Sony HDCAM (1080) 1440 Ã 1080 16:9 3:2 1,555,200  
+HDV 1080i/p 1440 Ã 1080 16:9 4:3 1,555,200  
+Panasonic DVCPRO HD 1080, 50i 1440 Ã 1080 16:9 3:2 1,555,200  
+Panasonic DVCPRO HD 1080, 59.94i 1280 Ã 1080 16:9 3:2 1,382,400  
+Panasonic DVCPRO HD 720p 960 Ã 720 16:9 4:3 691,200  
+D1 PAL 720 Ã 576 4:3 32:30 414,720  
+D1 NTSC 720 Ã 486 4:3 9:10 349,920  
+DV PAL 720 Ã 576 4:3 32:30 414,720  
+DV NTSC 720 Ã 480 4:3 10:11 345,600  
+Web 720x 720 Ã 540 4:3 1:1 388,800  
+Web 720x HD 720 Ã 405 16:9 1:1 291,600  
+Web 640x 640 Ã 480 4:3 1:1 307,200  
+Web 640x HD 640 Ã 360 16:9 1:1 230,400  
+Web 480x 480 Ã 360 4:3 1:1 172,800  
+Web 480x HD 480 Ã 270 16:9 1:1 129,600  
+Web 360x 360 Ã 270 4:3 1:1 97,200  
+Web 360x HD 360 Ã 203 16:9 1:1 73,080  
+### [edit] Video Conferencing
+
+Video Conferencing standards Standard Resolution DAR Pixels  
+SQCIF (Sub Quarter CIF) 128 x 96 1.33:1 12,288  
+QCIF (Quarter CIF) 176 x 144 1.22:1 25,344  
+CIF (or FCIF) 352 x 288 1.22:1 101,376  
+4CIF (4 * CIF) 704 x 576 1.22:1 405,504  
+16CIF (16 * CIF) 1408 x 1152 1.22:1 1,622,016  
+v â¢ d â¢ e
+
+Digital Video Resolutions  
+Designation
+
+Usage Examples Definition (lines) Rate (Hz)  
+Interlaced (fields) Progressive (frames)  
+Visual comparison of common video/TV display resolutions  
+Low; MP@LL
+
+LDTV, VCD 240; 288 (SIF) 24, 30; 25  
+Standard; MP@ML
+
+SDTV, SVCD, DVD, DV 480 (NTSC, PAL-M) 60 24, 30  
+576 (PAL, SECAM) 50 25  
+Enhanced
+
+EDTV 480; 576 60; 50  
+High; MP@HL
+
+HDTV, BD, HD DVD, HDV 720 24, 30, 60; 25, 50  
+1080 50, 60 24, 30; 25  
+This table illustrates total horizontal and vertical pixel resolution via box
+size. It does not accurately reflect the screen or pixel shape (aspect ratio)
+of these formats, which is either 4:3, or 16:9.  
+## [edit] Notes
+
+  1. ^ LCD panelsâ resolutions are often quoted in terms of raw subpixels misnamed âpixelsâ in manufacturerâs specifications. Each real pixel includes one subpixel for each of three colors, so calling subpixels âpixelsâ inflates the claimed resolution by a factor of three. This bit of marketing obfuscation is calculated as horizontal resolution Ã vertical resolution Ã 3. For example: 640Ã480 VGA is 921600 subpixels, or 307200 pixels, 800Ã600 SVGA is 1440000 subpixels, or 480000 pixels, and 1024Ã768 XGA is 2359296 subpixels, but only 786432 full-color pixels.
+  2. ^ Device Details -- Nokia 5800 XpressMusic
+  3. ^ QHD - The Free Online Dictionary
+  4. ^ Apple Computer Â½ Megapixel standard
+  5. ^ Apple Computer 1 megapixel standard
+  6. ^ ~ = horizontal resolution is an approximation based on the sampling theorem
+
+## [edit] References
+
+  * Myers, Robert L. (4 October 2002). "Format and Timing Standards". Display Interfaces: Fundamentals and Standards. Chichester: John Wiley and Sons. p. 132\. ISBN 0-471-49946-3.
+
+  * Rosch, Winn L. (21 February 2003). "Display Systems". Winn L. Rosch Hardware Bible (6th edition ed.). Que Publishing. p. 827\. ISBN 0-7897-2859-1.
+
+Retrieved from "http://en.wikipedia.org/wiki/List_of_common_resolutions"
+
+Categories: Display technology
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 May 2009, at 22:59 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

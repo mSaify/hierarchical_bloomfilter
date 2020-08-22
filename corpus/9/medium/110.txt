@@ -1,0 +1,221 @@
+
+# Graphic notation
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Musical graphic notation is a form of music notation which refers to the use
+of non-traditional symbols and text to convey information about the
+performance of a piece of music. It is used for experimental music, which in
+many cases is difficult to notate using standard notation.
+
+Graphic notation can come in various forms:
+
+  * Graphic scores, in which the music is represented using symbols and illustrations: 
+<IMG>
+
+<IMG>
+
+Hans-Christoph Steiner's score for Solitude, created using Pure data's data
+structures.
+
+This notation may be, like music on traditional staves, a time-pitch graph
+system. In the above example, time is still represented by reading left-to-
+right.
+
+  * Prose scores, in which the music and its directions are written as ordinary text, and the interpretation is down to the performer.  
+
+One example of prose scores is John Cage's 4'33" where Cage writes his
+composition in prose describing at what dynamic the musician should play.
+
+  * Line staves showing relative pitch, with the actual pitches being decided upon performance.
+
+<IMG>
+
+  * Piano Roll Notation, borrowed in the early 1950's and 1960's from piano rolls used for player pianos in the turn of the 20th century, this notation is now popular in computer MIDI sequencers to create music.
+
+<IMG>
+
+## Contents
+
+  * 1 Graphic symbols
+  * 2 Composers who have used graphic notation
+  * 3 See also
+  * 4 Further reading
+  * 5 External links
+
+  
+## [edit] Graphic symbols
+
+A more common aspect of graphic notation is the use of symbols to convey
+information to the performer about the way the piece is to be performed. These
+symbols first began to appear in the works of avant-garde composers such as
+Karlheinz Stockhausen and Krzysztof Penderecki as well as the works of
+experimental composers such as John Cage and Earle Brown during the 1950s and
+60s. Although this concept was closely related to the development of fully
+graphical notation, it is essentially different in that the symbols are
+intended to convey a concrete sonic result, whereas true graphic scores are
+often intentionally ambiguous, leading to many possible interpretations of the
+score. The following symbols are staples of contemporary scores:
+
+  
+
+<IMG> Line indicating relative duration  
+<IMG> Relative spacing between notes (as beams)  
+<IMG> Relative spacing between notes (as note heads )  
+<IMG> "feathered beam," getting faster  
+<IMG> "feathered beam," getting slower  
+<IMG> highest possible pitch / lowest possible pitch  
+<IMG> tone cluster / tone cluster glissando  
+<IMG> long fermata  
+## [edit] Composers who have used graphic notation
+
+Practitioners of graphic notation include:
+
+  * Anthony Braxton
+  * Earle Brown
+  * Herbert Brun
+  * John Bergamo
+  * John Cage
+  * Cornelius Cardew
+  * George Crumb
+  * Brian Eno
+  * Morton Feldman
+  * Barry Guy
+  * Alfred Harth
+  * Roman Haubenstock-Ramati
+  * Mauricio Kagel
+  * Panayiotis Kokoras
+  * GyÃ¶rgy Ligeti
+  * Robert Moran
+  * Krzysztof Penderecki
+  * Nick Petrella
+  * Roger Reynolds
+  * Wadada Leo Smith
+  * Juan Maria Solare
+  * Jennifer Walshe
+  * Karlheinz Stockhausen
+  * Christian Wolff
+  * John Zorn
+  * Linda O Keeffe[1]
+  * Eric Ewazen
+  * R. Murray Shafer
+  * Nahneen Kula
+
+## [edit] See also
+
+  * Eye music
+
+## [edit] Further reading
+
+  * Cage, J. and Knowles, A. (1973). Notations. Reprint Services Corp. ISBN 0-685-14864-5.
+  * Tisano, Theresa Sauer (2008). Notations21. New York: Mark Batty Publisher.
+
+## [edit] External links
+
+  * Pictures of Music at Northwestern University
+  * Bergstroem-Nielsen, Carl: Experimental improvisation and notation practise 1945-1999; Experimental improvisation and notation practise, addenda 2000-. Online bibliographies.
+  * Real-time interpretation of Rainer Wehinger visualization of Ligeti's electronic work Artikulation
+  * An online collection of graphic scores curated by the New York Miniaturist Ensemble
+  * Notations21, an anthology of innovative musical notation
+
+v â¢ d â¢ e
+
+Musical notation and development  
+Staff
+
+Bar & Bar line Â· Clef Â· Coda Â· Da Capo Â· Dal Segno Â· Key signature Â·
+Ledger line Â· Musical mode Â· Musical scale Â· Rehearsal letter Â· Repeat
+sign Â· Time signature Â· Transposition Â· Transposing instrument
+
+G \(treble\) clef symbol  
+Notes
+
+Accidental (Flat Â· Natural Â· Sharp) Â· Dotted note Â· Grace note Â· Note
+value (Beam Â· Note head Â· Stem) Â· Pitch Â· Rest Â· Letter notation  
+Articulation
+
+Dynamics Â· Ornament Â· Ossia Â· Portato Â· Accent Â· Legato Â· Tenuto Â·
+Marcato Â· Staccato Â· Staccatissimo Â· Tie Â· Slur Â· Fermata  
+Development
+
+Exposition Â· Harmony Â· Melody Â· Motif Â· Recapitulation Â· Rhythm (Beat Â·
+Meter Â· Tempo) Â· Theme Â· Tonality Â· Atonality  
+Related
+
+Chord chart Â· Figured bass Â· Graphic notation Â· Lead sheet Â· Eye music Â·
+Modern musical symbols Â· Neume Â· Tablature  
+  
+
+<IMG> This music theory article is a stub. You can help Wikipedia by expanding
+it.  
+Retrieved from "http://en.wikipedia.org/wiki/Graphic_notation"
+
+Categories: Musical notation | Post-tonal music theory | Music theory stubs
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * Esperanto
+  * FranÃ§ais
+  * íêµ­ì´
+  * æ¥æ¬èª
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 12:05.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

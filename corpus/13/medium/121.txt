@@ -1,0 +1,599 @@
+
+# Debt
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+For other uses, see Debt (disambiguation).
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (January 2009)  
+Personal finance  
+<IMG>  
+Credit and Debt  
+Credit card  
+Credit union  
+Debit card  
+Debt consolidation  
+Loan  
+Moneylender  
+Mortgage  
+Pawnbroker  
+  
+Employment contract  
+Salary  
+Wage  
+Paycheck  
+Employee stock options  
+Employee benefit  
+Direct deposit  
+Retirement  
+Retirement plan  
+Pension  
+Social security  
+Business plan  
+Corporate action  
+  
+Personal budget  
+Financial planner  
+Financial adviser  
+Estate planning  
+
+* * *  
+Finance series  
+Financial markets  
+Financial market participants  
+Corporate finance  
+Personal finance  
+Public finance  
+Banks and Banking  
+Financial regulation  
+  
+edit this box  
+Debt is that which is owed; usually referencing assets owed, but the term can
+also cover moral obligations and other interactions not requiring money. In
+the case of assets, debt is a means of using future purchasing power in the
+present before a summation has been earned. Some companies and corporations
+use debt as a part of their overall corporate finance strategy.[citation
+needed]
+
+A debt is created when a creditor agrees to lend a sum of assets to a debtor.
+In modern society, debt is usually granted with expected repayment; in many
+cases, plus interest. Historically, debt was responsible for the creation of
+indentured servants.
+
+## Contents
+
+  * 1 Etymology
+  * 2 Payment
+  * 3 Types of debt
+  * 4 Accounting debt
+    * 4.1 Securitization
+  * 5 Debt, inflation and the exchange rate
+    * 5.1 Inflation indexed debt
+  * 6 Debt ratings, risk and cancellation
+    * 6.1 Risk free interest rate
+    * 6.2 Ratings and creditworthiness
+    * 6.3 Cancellation
+  * 7 Effects of debt
+  * 8 Arguments against debt
+  * 9 Levels and flows
+  * 10 See also
+  * 11 References
+
+  
+## [edit] Etymology
+
+The word comes from the Old French dette and ultimately Latin debere to owe,
+from de habere to have. The B was reintroduced in the 17th century, possibly
+by Samuel Johnson in his Dictionary of 1755â several other words that had
+existed without a B had them reinserted at around that time.
+
+## [edit] Payment
+
+Before a debt can be made, both the debtor and the creditor must agree on the
+manner in which the debt will be repaid, known as the standard of deferred
+payment. This payment is usually denominated as a sum of money in units of
+currency, but can sometimes be denominated in terms of goods. Payment can be
+made in increments over a period of time, or all at once at the end of the
+loan agreement.
+
+## [edit] Types of debt
+
+A company uses various kinds of debt to finance its operations. The various
+types of debt can generally be categorized into: 1) secured and unsecured
+debt, 2) private and public debt, 3) syndicated and bilateral debt, and 4)
+other types of debt that display one or more of the characteristics noted
+above.[1]
+
+A debt obligation is considered secured if creditors have recourse to the
+assets of the company on a proprietary basis or otherwise ahead of general
+claims against the company. Unsecured debt comprises financial obligations,
+where creditors do not have recourse to the assets of the borrower to satisfy
+their claims.
+
+Private debt comprises bank-loan type obligations, whether senior or
+mezzanine. Public debt is a general definition covering all financial
+instruments that are freely tradeable on a public exchange or over the
+counter, with few if any restrictions.
+
+Loan syndication is a risk management tool that allows the lead banks
+underwriting the debt to reduce their risk and free up lending capacity.
+
+A basic loan is the simplest form of debt. It consists of an agreement to lend
+a principal sum for a fixed period of time, to be repaid by a certain date. In
+commercial loans interest, calculated as a percentage of the principal sum per
+year, will also have to be paid by that date.
+
+In some loans, the amount actually loaned to the debtor is less than the
+principal sum to be repaid; the additional principal has the same economic
+effect as a higher interest rate (see point (mortgage)).
+
+A syndicated loan is a loan that is granted to companies that wish to borrow
+more money than any single lender is prepared to risk in a single loan,
+usually many millions of dollars. In such a case, a syndicate of banks can
+each agree to put forward a portion of the principal sum.
+
+A bond is a debt security issued by certain institutions such as companies and
+governments. A bond entitles the holder to repayment of the principal sum,
+plus interest. Bonds are issued to investors in a marketplace when an
+institution wishes to borrow money. Bonds have a fixed lifetime, usually a
+number of years; with long-term bonds, lasting over 30 years, being less
+common. At the end of the bond's life the money should be repaid in full.
+Interest may be added to the end payment, or can be paid in regular
+installments (known as coupons) during the life of the bond. Bonds may be
+traded in the bond markets, and are widely used as relatively safe investments
+in comparison to equity.
+
+Corporate finance
+
+<IMG>
+
+* * *  
+Working capital management  
+
+Cash conversion cycle  
+Return on capital  
+Economic value added  
+Just In Time  
+Economic order quantity  
+Discounts and allowances  
+Factoring (finance)
+
+* * *  
+Capital budgeting  
+
+Capital investment decisions  
+The investment decision  
+The financing decision  
+
+* * *  
+Sections  
+
+Managerial finance  
+Financial accounting  
+Management accounting  
+Mergers and acquisitions  
+Balance sheet analysis  
+Business plan  
+Corporate action
+
+* * *  
+Finance series  
+
+Financial market  
+Financial market participants  
+Corporate finance  
+Personal finance  
+Public finance  
+Banks and Banking  
+Financial regulation
+
+* * *  
+This box: view â¢ talk â¢ edit  
+## [edit] Accounting debt
+
+In national accounting, debts are added according to those who are indebted.
+Household debt is the debt held by households. "National" or Public debt is
+the debt held by the various governmental institutions (federal government,
+states, cities ...). Business debt is the debt held by businesses. Financial
+debt is the debt held by the financial sector (from one financial institution
+to another). Total debt is the sum of all those debts, excluding financial
+debt to prevent double accounting. These various types of debt can be computed
+in debt/GDP ratios. Those ratios help to assess the speed of variations in the
+indebtness and the size of the debt due. For example the USA have a high
+consumer debt and a low public debt, while in eastern European countries, for
+example, the opposite tends to be true.
+
+There are differences in the accounting of debt for private and public agents.
+If a private agent promises to pay something later, it has a debt, and this
+debt is enforceable by public agents. If a public body passes a law stating
+that it'll pay something later (a kind of promise), it keeps the right to
+change the law later (and not to pay). This is why, for instance, the money
+governments promised to pay for retirements does not show up in the public
+debt assessment, whereas the money private companies promised to pay for
+retirements do.
+
+### [edit] Securitization
+
+Main article: Securitization
+
+Securitization occurs when a company groups together assets or receivables and
+sells them in units to the market through a trust. Any asset with a cashflow
+can be securitized. The cash flows from these receivables are used to pay the
+holders of these units. Companies often do this in order to remove these
+assets from their balance sheets and monetize an asset. Although these assets
+are "removed" from the balance sheet and are supposed to be the responsibility
+of the trust, that does not end the company's involvement. Often the company
+maintains a special interest in the trust which is called an "interest only
+strip" or "first loss piece". Any payments from the trust must be made to
+regular investors in precedence to this interest. This protects investors from
+a degree of risk, making the securitization more attractive. The
+aforementioned brings into question whether the assets are truly off-balance-
+sheet given the company's exposure to losses on this interest.
+
+## [edit] Debt, inflation and the exchange rate
+
+As noted above, debt is normally denominated in a particular monetary
+currency, and so changes in the valuation of that currency can change the
+effective size of the debt. This can happen due to inflation or deflation, so
+it can happen even though the borrower and the lender are using the same
+currency. Thus it is important to agree on standards of deferred payment in
+advance, so that a degree of fluctuation will also be agreed as acceptable. It
+is for instance common[citation needed] to agree to "US dollar denominated"
+debt.
+
+The form of debt involved in banking accounts for a large proportion of the
+money in most industrialised nations (see money and credit money for a
+discussion of this). There is therefore a relationship between inflation,
+deflation, the money supply, and debt. The store of value represented by the
+entire economy of the industrialized nation, and the state's ability to levy
+tax on it, acts to the foreign holder of debt as a guarantee of repayment,
+since industrial goods are in high demand in many places worldwide.
+
+### [edit] Inflation indexed debt
+
+Borrowing and repayment arrangements linked to inflation-indexed units of
+account are possible and are used in some countries. For example, the US
+government issues two types of inflation-indexed bonds, Treasury Inflation-
+Protected Securities (TIPS) and I-bonds. These are one of the safest forms of
+investment available, since the only major source of risk â that of
+inflation â is eliminated. A number of other governments issue similar
+bonds, and some did so for many years before the US government.
+
+In countries with consistently high inflation, ordinary borrowings at banks
+may also be inflation indexed.
+
+## [edit] Debt ratings, risk and cancellation
+
+### [edit] Risk free interest rate
+
+Main article: risk-free interest rate
+
+Finance
+
+<IMG>
+
+* * *  
+Financial markets  
+
+Bond market  
+Stock (Equities) Market  
+Forex market  
+Derivatives market  
+Commodity market  
+Money market  
+Spot (cash) Market  
+OTC market  
+Real Estate market  
+Private equity
+
+* * *  
+Market participants  
+
+Investors  
+Speculators  
+Institutional Investors
+
+* * *  
+Corporate finance  
+
+Structured finance  
+Capital budgeting  
+Financial risk management  
+Mergers and Acquisitions  
+Accounting  
+Financial Statements  
+Auditing  
+Credit rating agency  
+Leveraged buyout  
+Venture capital
+
+* * *  
+Personal finance  
+
+Credit and Debt  
+Employment contract  
+Retirement  
+Financial planning
+
+* * *  
+Public finance  
+
+Tax
+
+* * *  
+Banks and banking  
+
+Fractional-reserve banking  
+Central Bank  
+List of banks  
+Deposits  
+Loan  
+Money supply
+
+* * *  
+Financial regulation  
+
+Finance designations  
+Accounting scandals
+
+* * *  
+History of finance  
+
+Stock market bubble  
+Recession  
+Stock market crash  
+History of private equity
+
+* * *  
+This box: view â¢ talk â¢ edit  
+Lendings to stable financial entities such as large companies or governments
+are often termed "risk free" or "low risk" and made at a so-called "risk-free
+interest rate". This is because the debt and interest are highly unlikely to
+be defaulted. A good example of such risk-free interest is a US Treasury
+security \- it yields the minimum return available in economics, but investors
+have the comfort of the (almost) certain expectation that the US Treasury will
+not default on its debt instruments. A risk-free rate is also commonly used in
+setting floating interest rates, which are usually calculated as the risk-free
+interest rate plus a bonus to the creditor based on the creditworthiness of
+the debtor (in other words, the risk of him defaulting and the creditor losing
+the debt). In reality, no lending is truly risk free, but borrowers at the
+"risk free" rate are considered the least likely to default.
+
+However, if the real value of a currency changes during the term of the debt,
+the purchasing power of the money repaid may vary considerably from that which
+was expected at the commencement of the loan. So from a practical investment
+point of view, there is still considerable risk attached to "risk free" or
+"low risk" lendings. The real value of the money may have changed due to
+inflation, or, in the case of a foreign investment, due to exchange rate
+fluctuations.
+
+The Bank for International Settlements is an organisation of central banks
+that sets rules to define how much capital banks have to hold against the
+loans they give out.
+
+### [edit] Ratings and creditworthiness
+
+Specific bond debts owed by both governments and private corporations is rated
+by rating agencies, such as Moody's, Fitch Ratings Inc., A. M. Best and
+Standard & Poor's. The government or company itself will also be given its own
+separate rating. These agencies assess the ability of the debtor to honor his
+obligations and accordingly give him a credit rating. Moody's uses the letters
+Aaa Aa A Baa Ba B Caa Ca C, where ratings Aa-Caa are qualified by numbers 1-3.
+Munich Re, for example, currently is rated Aa3 (as of 2004[update]). S&P and
+other rating agencies have slightly different systems using capital letters
+and +/- qualifiers.
+
+A change in ratings can strongly affect a company, since its cost of
+refinancing depends on its creditworthiness. Bonds below Baa/BBB (Moody's/S&P)
+are considered junk- or high risk bonds. Their high risk of default
+(approximately 1.6% for Ba) is compensated by higher interest payments. Bad
+Debt is a loan that can not (partially or fully) be repaid by the debtor. The
+debtor is said to default on his debt. These types of debt are frequently
+repackaged and sold below face value. Buying junk bonds is seen as a risky but
+potentially profitable form of investment.
+
+### [edit] Cancellation
+
+Short of bankruptcy, it is rare that debts are wholly or partially forgiven.
+Traditions in some cultures demand that this be done on a regular (often
+annual) basis, in order to prevent systemic inequities between groups in
+society, or anyone becoming a specialist in holding debt and coercing
+repayment. Under English law, when the creditor is deceived into forgoing
+payment, this is a crime: see Theft Act 1978.
+
+International Third World debt has reached the scale that many economists are
+convinced that debt cancellation is the only way to restore global equity in
+relations with the developing nations.
+
+## [edit] Effects of debt
+
+Debt allows people and organizations to do things that they would otherwise
+not be able, or allowed, to do. Commonly, people in industrialised nations use
+it to purchase houses, cars and many other things too expensive to buy with
+cash on hand. Companies also use debt in many ways to leverage the investment
+made in their assets, "leveraging" the return on their equity. This leverage,
+the proportion of debt to equity, is considered important in determining the
+riskiness of an investment; the more debt per equity, the riskier. For both
+companies and individuals, this increased risk can lead to poor results, as
+the cost of servicing the debt can grow beyond the ability to pay due to
+either external events (income loss) or internal difficulties (poor management
+of resources).
+
+Excesses in debt accumulation have been blamed for exacerbating economic
+problems.[2] For example, prior to the beginning of the Great Depression
+debt/GDP ratio was very high. Economic agents were heavily indebted. This
+excess of debt, equivalent to excessive expectations on future returns,
+accompanied asset bubbles on the stock markets. When expectations corrected,
+deflation and a credit crunch followed. Deflation effectively made debt more
+expensive and, as Fisher explained, this reinforced deflation again, because,
+in order to reduce their debt level, economic agents reduced their consumption
+and investment. The reduction in demand reduced business activity and caused
+further unemployment. In a more direct sense, more bankruptcies also occurred
+due both to increased debt cost caused by deflation and the reduced demand.
+
+It is possible for some organizations to enter into alternative types of
+borrowing and repayment arrangements which will not result in bankruptcy. For
+example, companies can sometimes convert debt that they owe into equity in
+themselves. In this case, the creditor hopes to regain something equivalent to
+the debt and interest in the form of dividends and capital gains of the
+borrower. The "repayments" are therefore proportional to what the borrower
+earns and so can not in themselves cause bankruptcy. Once debt is converted in
+this way, it is no longer known as debt.
+
+## [edit] Arguments against debt
+
+Main article: Criticism of debt
+
+Some argue against debt as an instrument and institution, on a personal,
+family, social, corporate and governmental level. Islam forbids lending with
+interest even today, while the Catholic church allowed it from 1822 onwards,
+and the Torah states that all debts should be erased every 7 years and every
+50 years.
+
+Debt will increase through time if it is not repaid faster than it grows
+through interest. This effect may be termed usury, while the term "usury" in
+other contexts refers only to an excessive rate of interest, in excess of a
+reasonable profit for the risk accepted.
+
+In international legal thought, Odious debt is debt that is incurred by a
+regime for purposes that do not serve the interest of the state. Such debts
+are thus considered by this doctrine to be personal debts of the regime that
+incurred them and not debts of the state.
+
+In an economy with high interest rates, debt will be more costly to a business
+than more flexible dividends on equity investment. It may be easier for a
+struggling business to be financed through equity investment as it may be
+possible to avoid paying a dividend if times are hard.
+
+## [edit] Levels and flows
+
+Main article: Debt levels and flows
+
+Global debt underwriting grew 4.3% year-over-year to $5.19 trillion during
+2004. It is expected to rise in the coming years if the spending habits of
+millions of people worldwide continue the way they do.
+
+## [edit] See also
+
+  * Derivative (finance)
+  * Financial markets
+  * List of finance topics
+  * Saving
+  * Equity
+  * Time value of money
+  * Thomson Financial League Tables
+
+## [edit] References
+
+  1. ^ Joseph Swanson and Peter Marshall, Houlihan Lokey and Lyndon Norley, Kirkland & Ellis International LLP (2008). A Practitioner's Guide to Corporate Restructuring page 5. City & Financial Publishing, 1st edition ISBN: 9781905121311
+  2. ^ 5 Ways to Get Out of Debt Faster. Kiplinger.
+
+v â¢ d â¢ e
+
+Debt  
+Bankruptcy Â· Bond (finance) Â· Collection agency Â· Consumer debt Â· Credit
+Â· Debt consolidation Â· Debt evasion Â· Debt bondage Â· Debt-snowball method
+Â· Debtors' prison Â· Default (finance) Â· External debt Â· Foreign debt Â·
+Global debt Â· Government debt Â· Interest Â· Insolvency Â· List of countries
+by external debt Â· List of countries by public debt Â· Loan Â· Loan shark Â·
+Payday loan Â· Settlement (finance) Â· Third World debt Â· Usury  
+Retrieved from "http://en.wikipedia.org/wiki/Debt"
+
+Categories: Credit | Debt | Core issues in ethics | Personal financial
+problems
+
+Hidden categories: Articles needing additional references from January 2009 |
+All articles with unsourced statements | Articles with unsourced statements
+since September 2008 | Articles with unsourced statements since August 2008 |
+Articles containing potentially dated statements from 2004 | All articles
+containing potentially dated statements
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * FranÃ§ais
+  * Bahasa Indonesia
+  * æ¥æ¬èª
+  * Latina
+  * LÃ«tzebuergesch
+  * Nederlands
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * SlovenÄina
+  * Suomi
+  * Svenska
+  * Tiáº¿ng Viá»t
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 1 April 2009, at 19:56.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,465 @@
+
+# DVD-Audio
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+DVD-Audio <IMG>  
+<IMG>  
+The Flaming Lips' CD and DVD release of Yoshimi Battles the Pink Robots, one
+of the first major albums to employ the DVD-Audio format.  
+Media type Optical disc  
+Encoding Meridian Lossless Packing or uncompressed LPCM  
+Capacity up to 8.5 GB  
+Read mechanism 640 nm wavelength semiconductor laser  
+Developed by DVD Forum  
+Usage Audio storage  
+Extended from DVD  
+DVD-Audio (commonly abbreviated as DVD-A) is a digital format for delivering
+very high-fidelity audio content on a DVD. DVD-Audio is not intended to be a
+video delivery format and should not be confused with video DVDs containing
+concerts and music videos. The first discs entered the marketplace in 2000.
+Future occasional DVD-Audio releases are expected and/or have been announced.
+DVD-Audio is in a format war with Super Audio CD (SACD), another format for
+delivering high-fidelity audio content. Neither has gained a strong position
+in the marketplace. As media players that can play both DVD-Audio and SACD
+(and many other formats) are available, both are likely to co-exist.
+
+## Contents
+
+  * 1 Audio specifications
+  * 2 Player compatibility
+  * 3 Preamplifier/Surround Processor interface
+  * 4 Sound quality
+  * 5 Copy protection
+  * 6 DVD-Audio authoring software
+    * 6.1 Macintosh
+    * 6.2 Windows
+    * 6.3 Linux
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] Audio specifications
+
+DVD-Audio offers many possible configurations of audio channels, ranging from
+single-channel mono to 5.1-channel surround sound, at various sampling
+frequencies and sample rates.[1] (The ".1" denotes a Low-frequency effects
+channel (LFE) for bass and/or special audio effects.)
+
+Compared to the compact disc, the much higher capacity DVD format enables the
+inclusion of either:
+
+  * Considerably more music (with respect to total running time and quantity of songs) or
+  * Far higher audio quality, reflected by higher linear sampling rates and higher bit-per-sample resolution, and/or
+  * Additional channels for spatial sound reproduction.
+
+Audio on a DVD-Audio disc can be stored in many different bit-rate/sampling
+rate/channel combinations:
+
+16-, 20- or 24-bit  
+44.1 kHz 48 kHz 88.2 kHz 96 kHz 176.4 kHz 192 kHz  
+Mono (1.0) Yes Yes Yes Yes Yes Yes  
+Stereo (2.0) Yes Yes Yes Yes Yes Yes  
+Stereo (2.1) Yes Yes Yes Yes No No  
+Stereo + mono surround (3.0 or 3.1) Yes Yes Yes Yes No No  
+Quad (4.0 or 4.1) Yes Yes Yes Yes No No  
+3-stereo (3.0 or 3.1) Yes Yes Yes Yes No No  
+3-stereo + mono surround (4.0 or 4.1) Yes Yes Yes Yes No No  
+Full surround (5.0 or 5.1) Yes Yes Yes Yes No No  
+Optical disc authoring
+
+  * Optical disc
+  * Optical disc drive
+  * Optical disc authoring
+  * Authoring software
+  * Recording technologies
+    * Recording modes
+    * Packet writing
+
+  
+Optical media types  
+  * Blu-ray Disc (BD): BD-R, BD-RE
+  * DVD: DVD-R, DVD+R, DVD-R DL, DVD+R DL, DVD-RW, DVD+RW, DVD-RW DL, DVD+RW DL, DVD-RW2, DVD-RAM, DVD-D
+  * Compact Disc (CD): Red Book, CD-ROM, CD-R, CD-RW, 5.1 Music Disc, SACD, PhotoCD, CD Video (CDV), Video CD (VCD), SVCD, CD+G, CD-Text, CD-ROM XA, CD-i
+  * VCDHD
+  * GD-ROM
+  * MiniDisc (MD) (Hi-MD)
+  * Laserdisc (LD)
+  * Video Single Disc (VSD)
+  * Ultra Density Optical (UDO)
+  * Universal Media Disc (UMD)
+
+  
+Discontinued Optical Disc Formats
+
+  * HD DVD: HD DVD-R, HD DVD-RW, HD DVD-RAM
+  * High-Definition Versatile Disc (HDVD)
+  * High definition Versatile Multilayer Disc (HD VMD)
+  * Holographic Versatile Disc (HVD)
+
+  
+Standards  
+  * Rainbow Books
+  * File systems
+    * ISO 9660
+      * Joliet
+      * Rock Ridge
+      * El Torito
+      * Apple ISO 9660 Extensions
+    * Universal Disk Format (UDF)
+      * Mount Rainier
+
+  
+Further reading  
+  * History of optical storage media
+  * High definition optical disc format war
+
+  
+This box: view â¢ talk â¢ edit  
+Different bit-rate/sampling rate/channel combinations can be used on a single
+disc. For instance, a DVD-Audio disc may contain a 96 kHz/24-bit 5.1-channel
+audio track as well as a 192 kHz/24-bit stereo audio track. Also, the channels
+of a track can be split into two groups stored at different resolutions. For
+example, the front speakers could be 96/24, while the surrounds are 48/20.
+
+Audio is stored on the disc in Linear PCM format, which is either uncompressed
+or losslessly compressed with Meridian Lossless Packing. The maximum
+permissible total bitrate is 9.6 Megabits per second. Channel/resolution
+combinations that would exceed this need to be compressed. In uncompressed
+modes, it is possible to get up to 96/16 or 48/24 in 5.1, and 192/24 in
+stereo. To store 5.1 tracks in 88.2/20, 88.2/24, 96/20 or 96/24 MLP encoding
+is mandatory.
+
+The LFE channel is actually full range, and can be recorded at the same
+resolution as the other channels. This permits it to be used instead as an
+extra main channel, for example as a "height" speaker above the listening
+position; this has been done on some releases. Such usage is non-standard, and
+will often require special set-up by the end user.
+
+If no native stereo audio exists on the disc, the DVD-Audio player may be able
+to downmix the 5.1-channel audio to two-channel stereo audio if the listener
+does not have a surround sound setup (provided that the coefficients were set
+in the stream at authoring). Downmixing can only be done to two-channel
+stereo, not to other configurations, such as 4.0 quad. DVD-Audio may also
+feature menus, text subtitles, still images and video, plus in high end
+authoring systems it is also possible to link directly into a Video_TS folder
+that might contain video tracks, as well as PCM stereo and other "bonus"
+features..
+
+## [edit] Player compatibility
+
+With the introduction of the DVD-Audio format, some kind of backward
+compatibility with existing DVD-Video players was desired, although not
+required. To address this, most DVD-Audio discs also contain DVD-Video
+compatible data that allows the standard DVD-Video Dolby Digital 5.1-channel
+audio track on the disc[2] (which can be downmixed to two channels for
+listeners with no surround sound setup). Some discs also include a native
+Dolby Digital 2.0 stereo, and even a DTS 96/24 5.1-channel, audio track.[3]
+
+Because the DVD-Audio format is a member of the DVD family, a single disc can
+have multiple layers and even two sides that contain media. A common
+configuration includes a "DVD-Video" zone on a DVD-Audio formatted single
+sided disc. The high-resolution, multichannel audio losslessly encoded using
+MLP is only playable on DVD-Audio hardware but the DVD-Video zone, which can
+contain Dolby or DTS 5.1 mixes and even video makes the disc compatible with
+all DVD players. Other configurations include double layer DVDs (DVD-9) and
+two-sided discs (DVD-10, DVD-14 or DVD-18). Some labels are releasing DVD
+titles that are formatted as DVD-Audio on one side and DVD-Video on the other,
+the DualDisc being one such example.
+
+[4]ELS Surround is one of the few vehicle audio systems which can play DVD-A.
+
+## [edit] Preamplifier/Surround Processor interface
+
+In order to play DVD-Audio, a preamplifier or surround controller with six
+analog inputs was originally required.[5] Whereas DVD-Video audio formats such
+as Dolby Digital and DTS can be sent via the player's digital output to a
+receiver for conversion to analog form and distribution to speakers, DVD-Audio
+is not allowed to be delivered via unencrypted digital audio link at sample
+rates higher than 48 kHz (i.e., ordinary DVD-Video quality) due to concerns
+about digital copying.[5]
+
+However encrypted digital formats have now been approved by the DVD Forum, the
+first of which was Meridian Audio's MHR (Meridian High Resolution). The High
+Definition Multimedia Interface (HDMI 1.1) also allows encrypted digital audio
+to be carried up to DVD-Audio specification (6 Ã 24-bit/96 kHz channels or 2
+Ã 24-bit/192 kHz channels). The six channels of audio information can thus be
+sent to the amplifier by several different methods:
+
+  1. The 6 audio channels can be decrypted and extracted in the player and sent to the amplifier along 6 standard analog cables.
+  2. The 6 audio channels can be decrypted and then re-encrypted into an HDMI or IEEE-1394 (Firewire) signal and sent to the amplifier, which will then decrypt the digital signal and then extract the 6 channels of audio. HDMI and IEEE-1394 encryption are different from the DVD-A encryption and were designed as a general standard for a high quality digital interface. The amplifier has to be equipped with a valid decryption key or it won't play the disk.
+  3. The third option is via the S/PDIF (or TOSLINK) digital interface. However, because of concerns over unauthorized copying, DVD-A players are required to handle this digital interface in one of the following ways: 
+    * Turn such an interface off completely. This option is preferred by the music publishers.
+    * Downconvert the audio to a 2-channel 16-bit/48 kHz PCM signal. The music publishers are not enthusiastic about this because it permits the production of a CD-quality copy, something they still expect to sell, besides DVD-A.
+    * Downconvert the audio to 2 channels, but keeping the original sample size and bit rate if the producer sets a flag on the DVD-A disc telling the player to do so.
+  4. A final option is to modify the player, capturing the high resolution digital signals before they are fed to internal D/A converters and convert it to S/PDIF, giving full range digital (but only stereo) sound. There exist already do-it-yourself solutions for some players. There also exists an option to equip a DVD-A player with multiple S/PDIF outputs, for full resolution multichannel digital output. See: Six channel S/P-DIF output board.
+
+## [edit] Sound quality
+
+From a purely technical standpoint, the audio resolution of a DVD-Audio disc
+can be substantially higher than standard red book CD audio. DVD-Audio
+supports bit depths up to 24-bit and sample rates up to 192 kHz, while CD
+audio is 16-bit, 44.1 kHz. In both cases, the source recording may have been
+made at a much higher bit and sample rate, and down-converted for commercial
+release.
+
+It is uncertain whether average listeners can hear the difference between DVD-
+Audio and CD-Audio, and many consumers do not regard any supposed quality
+improvements offered as sufficient reason to justify purchasing new playback
+equipment and repurchasing albums in higher-resolution formats. Many DVD-Audio
+releases are older, standard definition audio recordings that have been
+remixed in 5.1 and upsampled to DVD-Audio's higher resolution. However, the
+fidelity of the upsampled audio will be limited by the source material quality
+and may not exceed the quality of existing CD releases of the same albums.
+When new recordings are made using high-resolution PCM encoding, a substantial
+difference in fidelity can be achieved.[citation needed]
+
+Three of the major music labels, Universal Music, EMI and Warner Bros. Records
+and several smaller audiophile labels (such as AIX Records and DTS
+Entertainment) have released or are continuing to release albums on DVD-Audio,
+but the number is minimal compared to standard CDs. New high-definition titles
+have been released in standard DVD-Video format (which can contain 2-channel
+Linear PCM audio data ranging from 48 kHz/16-bit to 96 kHz/24-bit), "HDAD",
+which includes a DVD-Video format recording on one side and DVD-Audio on the
+other, CD/DVD packages, which can include the album on both CD and DVD-Audio,
+or DualDisc, which can contain DVD-Audio content on the DVD side. In addition,
+some titles that were initially released as a standalone DVD-Audio disc, such
+as The Grateful Dead's American Beauty and R.E.M.'s Automatic for the People,
+were re-released as a CD/DVD package or as a DualDisc.
+
+## [edit] Copy protection
+
+DVD-Audio discs may optionally employ a copy protection mechanism called
+Content Protection for Prerecorded Media (CPPM).[6] CPPM, managed by the 4C
+Entity, prevents users from extracting audio to computers and portable media
+players.
+
+Because DVD-Video's content-scrambling system (CSS) was quickly broken, DVD-
+Audio's developers sought a better method of blocking unauthorized
+duplications. They developed CPPM, which uses a media key block (MKB) to
+authenticate DVD-Audio players. In order to decrypt the audio, players must
+obtain a media key from the MKB, which also is encrypted. The player must use
+its own unique key to decrypt the MKB. If a DVD-Audio player's decryption key
+is compromised, that key can be rendered useless for decrypting future DVD-
+Audio discs. DVD-Audio discs can also utilize digital watermarking technology
+developed by the Verance Corporation, typically embedded into the audio once
+every thirty seconds. If a DVD-Audio player encounters a watermark on a disc
+without a valid MKB, it will halt playback.[7] The 4C Entity also developed a
+similar specification, Content Protection for Recordable Media (CPRM), which
+is used on Secure Digital cards.
+
+DVD-Audio's copy protection was overcome in 2005[7] by tools which allow data
+to be decrypted or converted to 6 channel .WAV files without going through
+lossy digital-to-analog conversion. Previously that conversion had required
+expensive equipment to retain all 6 channels of audio rather than having it
+downmixed to stereo. In the digital method, the decryption is done by a
+commercial software player which has been patched to allow access to the
+unprotected audio.
+
+In 2007 the encryption scheme was overcome with a tool called dvdcpxm. In 12
+February 2008 a program called DVD-Audio Explorer 2008 was released,
+containing aforementioned libdvdcpxm coupled with an open source MLP
+decoder.[8]
+
+Like DVD-Video decryption, such tools may be illegal to use in the United
+States under the controversial Digital Millennium Copyright Act. While the
+Recording Industry Association of America has been successful in keeping these
+tools off websites, they are still distributed on P2P file sharing networks
+and newsgroups,[9] Additionally, in 2007 the widely-used commercial software
+DVDFab Platinum added DVD-Audio decryption, allowing users to backup a full
+DVD-A image to ISO.[10]
+
+## [edit] DVD-Audio authoring software
+
+Normal DVD(Video) authoring software usually does not support DVD-Audio
+creation, so there is some special software:
+
+### [edit] Macintosh
+
+  * Sonic Solutions DVD Creator AV â The first DVD-Audio authoring solution available. A spin off of the popular high end DVD Video authoring package. It allows DVD-Audio authoring at the command line level only. Still widely used but no longer sold or supported by Sonic Solutions.
+  * Sonic Studio SonicStudio HD â Macintosh based tool used for High Density audio mastering and to prepare audio for DVD-A authoring in One Click DVD.
+  * Sonic Studio[11]
+  * Sonic OneClick DVD â Converts prepared Sonic Studio EDLs into binary MLP files to be used in the authoring tool. Also generates scriptFile information to be added to DVD Creator AV projects.
+  * DVD audio Tools: console application dvda-author (version 08.07), see below.
+  * Apple Logic Pro 8 - When bouncing, choose "CDDA" under destination, and then choose DVD-A from the popup menu.
+
+### [edit] Windows
+
+  * Sonic Solutions DVD-Audio Creator
+  * Cirlinca DVD-AUDIO Solo
+  * Minnetonka Audio DiscWelder Bronze, Steel and Chrome II (with SurCode MLP)
+  * Steinberg WaveLab Steinberg
+  * DigiOn Audio 2 DigiOn
+  * Gear Pro Mastering Edition Gear Pro Mastering Edition
+  * DVD audio tools package (see below).
+  * Samplitude
+
+### [edit] Linux
+
+  * A project called DVD audio Tools provides free/open source DVD-Audio authoring tools for Linux and other *nix platforms (FreeBSD, OpenSolaris,...).  
+Windows (console application) binaries are also available. DVD-Audio/Video
+discs (aka Hybrid or Universal DVDs) are also supported.
+
+<IMG> This section requires expansion.  
+## [edit] See also
+
+  * Meridian Lossless Packing
+  * DualDisc
+  * Media packs
+
+## [edit] References
+
+  1. ^ "Understanding DVD-Audio" (PDF). Sonic Solutions. http://patches.sonic.com/pdf/white-papers/wp_dvd_audio.pdf. Retrieved on 2007-07-12.
+  2. ^ "SACD & DVD-Audio: Ultra-High-Resolution Music". Crutchfield Advisor. http://www.crutchfieldadvisor.com/ISEO-rgbtcspd/learningcenter/home/cd_dvdsacd.html. Retrieved on 2007-07-12.
+  3. ^ "What is DVD-Audio?". 5dot1.com. http://www.5dot1.com/articles/dvd_audio.html. Retrieved on 2007-07-12.
+  4. ^ www.elssurround.com
+  5. ^ a b "DVD-Audio Tutorial". TimeForDVD.com. 2002-06-05. http://www.timefordvd.com/tutorial/DVD-AudioTutorial.shtml. Retrieved on 2007-07-12.
+  6. ^ Labriola, Don (2003-08-25). "Digital Content Protection, Part II". ExtremeTech. http://www.extremetech.com/article2/0,1558,1231582,00.asp. Retrieved on 2007-07-12.
+  7. ^ a b Robinson, Stuart M (2005-06-07). "DVD-Audio Copy Protection Defeated via WinDVD Software Hack". HighFidelityReview.com. http://www.highfidelityreview.com/news/news.asp?newsnumber=14550899. Retrieved on 2007-07-12.
+  8. ^ "DVD-Audio ripper". http://forum.doom9.org/showthread.php?p=1099342#post1099342. Retrieved on 2008-04-09.
+  9. ^ "DVD-Audio's CPPM Circumvented". Slashdot.org. 2005-07-06. http://it.slashdot.org/article.pl?sid=05/07/06/1740206. Retrieved on 2007-07-12.
+  10. ^ "DVDFab updated to support DVD-Audio/CPPM". http://forum.doom9.org/showthread.php?t=127870. Retrieved on 2008-04-15.
+  11. ^ http://www.sonicstudio.com
+
+## [edit] External links
+
+  * The 4C Entity LLC â Licensors of the Content Protection for Prerecorded Media (CPPM) specification.
+  * "DVD-Audio versus SACD: Perceptual Discrimination of Digital Audio Coding Formats" (PDF) Audio Engineering Society Convention Paper 6086.
+
+v â¢ d â¢ e
+
+Audio recording formats  
+Analog
+
+Phonautogram (1857) Â· Phonograph cylinder (1877) Â· Gramophone record (1895)
+Â· Wire recording (1898) Â· Reel-to-reel tape (1940s) Â· SoundScriber (1945)
+Â· Gray Audograph (1945) Â· Dictabelt (1947) Â· LP record (1948) Â· 45 rpm
+record (1949) Â· RCA tape cartridge (1958) Â· Fidelipac (1959) Â· Stereo-Pak
+(1962) Â· Compact Cassette (1963) Â· Stereo 8 (1964) Â· PlayTape (1966) Â·
+Mini Cassette (1967) Â· Microcassette (1969) Â· Steno-Cassette (1971) Â·
+Elcaset (1976) Â· Cassette single (1982) Â· Picocassette (1985)  
+Digital
+
+Soundstream (1976) Â· 3M (1979) Â· X80/ProDigi (1980) Â· DASH (1982) Â·
+Compact Disc (1982) Â· Digital Audio Tape (1987) Â· ADAT (1991) Â· MiniDisc
+(1991) Â· NT (1992) Â· Digital Compact Cassette (1992) Â· Extended Resolution
+Compact Disc (1995) Â· High Definition Compatible Digital (1995) Â· 5.1 Music
+Disc (1997) Â· Super Audio CD (1999) Â· DVD-Audio (2000) Â· USB flash drive
+(as audio format, 2004) Â· Hi-MD (2004) Â· K2 High Definition (2007) Â· Blu-
+spec CD (2008) Â· slotMusic (2008)  
+v â¢ d â¢ e
+
+High-definition (HD)  
+Concepts
+
+High-definition video â¢ High-definition television â¢ High-definition audio  
+Analog broadcast (defunct)
+
+819 line system â¢ HD MAC â¢ MUSE (Hi-Vision)  
+Digital broadcast
+
+ATSC â¢ DVB â¢ ISDB â¢ SBTVD â¢ DMB-T/H  
+Audio
+
+Dolby Digital (5.1) â¢ MPEG-1 Layer II â¢ PCM â¢ LPCM â¢ DXD â¢ DSD â¢
+AAC  
+Filming and storage
+
+HDV â¢ DCI  
+High-definition media and compression
+
+Blu-ray Disc â¢ HD DVD â¢ HD VMD â¢ D-VHS â¢ Super Audio CD â¢ DVD-Audio
+â¢ MPEG-2 â¢ H.264 â¢ VC-1  
+Connectors
+
+Component â¢ HDMI â¢ DVI â¢ DisplayPort â¢ VGA  
+Deployments
+
+List of digital television deployments by country  
+Retrieved from "http://en.wikipedia.org/wiki/DVD-Audio"
+
+Categories: Optical disc authoring | Audio storage | DVD | High end audio |
+2000 introductions
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since February 2008 | Articles to be expanded since June
+2008 | All articles to be expanded
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * Italiano
+  * ×¢××¨××ª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Svenska
+  * Tiáº¿ng Viá»t
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 19 March 2009, at 15:05.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

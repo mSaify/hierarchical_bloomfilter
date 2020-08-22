@@ -1,0 +1,637 @@
+
+# Company of Heroes
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article or section has multiple issues. Please help improve the article
+or discuss these issues on the talk page.
+
+  * It needs to be updated. Tagged since August 2008.  
+
+  * It is written like a game guide and may require cleanup to meet video game article guidelines. Tagged since May 2008.  
+
+  * It may need copy editing for grammar, style, cohesion, tone or spelling. Tagged since August 2008.  
+
+  
+Company of Heroes  
+Company of Heroes Windows Box cover
+
+  
+  
+Developer(s) Relic Entertainment  
+Publisher(s) THQ  
+Designer(s) Josh Mosqueira  
+Engine Essence Engine  
+Havok (Physics Engine)  
+Version 2.400  
+Platform(s) Microsoft Windows  
+Release date(s) NA September 12, 2006  
+PAL September 29, 2006  
+  
+Genre(s) Real-time strategy  
+Mode(s) Single player, Multiplayer  
+Rating(s) BBFC: 15  
+ESRB: M  
+OFLC: MA15+  
+PEGI: 18+  
+  
+Media DVD, Steam  
+System requirements * CD-ROM: 8X CD-ROM
+
+  * CPU: 2.0 GHz Intel Pentium IV or AMD Athlon XP or equivalent
+  * Hard Drive Space: 6.5 GB
+  * DVD-ROM: 8X DVD-ROM
+  * RAM: 512 MB RAM
+  * Video Card: DirectX 9.0c 64 MB VRAM with Pixel Shader 1.1
+
+  
+<IMG>
+
+<IMG>
+
+Gameplay screenshot
+
+Company of Heroes is a real-time strategy computer game developed by Relic
+Entertainment. It was released on September 12, 2006, and was the first title
+to make use of the Games for Windows label. A standalone expansion, Opposing
+Fronts, was released on September 25, 2007. A second standalone expansion,
+Tales of Valor is set to be released in April 2009.
+
+Company of Heroes is set during World War II where the player commands two
+U.S. military units during the Battle of Normandy and the Allied capture of
+France. Depending on the mission, the player controls either the Able Company
+or Fox Company, the latter being from the 101st Airborne, and the former being
+part of the 29th Infantry Division.
+
+## Contents
+
+  * 1 Gameplay
+    * 1.1 Resources
+    * 1.2 Buildings
+    * 1.3 Factions
+      * 1.3.1 Allies
+      * 1.3.2 Axis
+    * 1.4 Multiplayer
+    * 1.5 Game modes
+      * 1.5.1 Victory Point Control
+      * 1.5.2 Annihilation
+  * 2 Story
+    * 2.1 Single player campaign
+      * 2.1.1 D-Day
+      * 2.1.2 Battle of Carentan
+      * 2.1.3 Battle of Cherbourg
+      * 2.1.4 Operation Cobra
+      * 2.1.5 Operation LÃ¼ttich
+      * 2.1.6 Falaise Pocket
+    * 2.2 Distinguished characters
+  * 3 Development
+    * 3.1 Game engine
+  * 4 Reception
+    * 4.1 Reviews
+    * 4.2 Awards
+  * 5 Expansions
+    * 5.1 Company of Heroes: Opposing Fronts
+    * 5.2 Company of Heroes: Tales of Valor
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Gameplay
+
+### [edit] Resources
+
+The resource management in Company of Heroes retains micromanagement details
+such as reinforcing troops, which has the effect of creating a more tactical
+RTS experience.
+
+Players must take control of certain points on the map. The more of these
+points a player controls, the more resources they acquire. This concept
+demands constant expansion of a player's territory. These points are connected
+like supply lines, and so, during the course of a battle a player can capture
+one point in the supply line, isolating the rest which had been connected to
+the base through it, therefore severely reducing the enemy's resource intake.
+
+Players collect three resources: manpower, munitions, and fuel. Manpower is
+necessary to produce all units. Munitions allows players to upgrade individual
+squads or vehicles and use special abilities. Fuel allows players to purchase
+tanks and other vehicles, as well as global upgrades. The player can decide,
+at a manpower cost, to place observation posts on his resource points in order
+to increase his production and make them more durable against enemy takeovers,
+which means sacrificing resources in the short-term for a greater long-term
+intake. Resource points must also be connected as any unconnected captured
+points can not produce resources.
+
+Game units generally require a sizable amount of resources to produce. This
+separates Company of Heroes from other games in the RTS genre, where large
+amounts of massed units are a common sight.
+
+### [edit] Buildings
+
+Units can occupy a building and convert it into field barracks, allowing
+certain units or squads to be created by that building.
+
+Medic stations can also be built on the field that house medics, who can
+recover fallen soldiers from the battlefield and return them to the medic
+station. When enough soldiers are recovered by medics (4 for Germans and 6 for
+American), the medic station will provide a free squad at no expense of
+manpower.
+
+Infantry units can also occupy buildings and use them as cover or a garrison
+to protect against attack, but this limits their firing range because the
+infantry are a stationary, immobile target, rendering them vulnerable to
+sniper fire and easy to surround. Also, while garrisoned, infantry units can
+only shoot out of windows or holes blown into a building. Certain weapons are
+immensely effective against units holed up in a building; satchel charges or
+infantry-carried rocket launchers can demolish a building, tank fire can blast
+the building, and infantry or tanks armed with flamethrowers can literally set
+the building on fire and burn out the occupants. However, there are
+advantages; infantry are well protected from small arms and most buildings are
+sturdy enough to stand up to limited tank fire before collapsing. Also, mildly
+related to the subject of buildings collapsing, Company of Heroes was one of
+the first WWII strategy games which introduced dynamic building destruction
+which took advantage of the physics engine used to make the game, for example,
+if a tank was concentrating it's fire on one position of a building near the
+bottom, then the whole building (once its "health" was completely depleted)
+would collapse in that specific area first and then the rest of the building
+would follow.
+
+Occupied buildings can be destroyed after taking fire from enemy units or any
+other attack, like artillery fire or demolition charges. Civilian buildings
+cannot be repaired or rebuilt. However, both the Allied and German forces can
+construct garrisonable buildings (the Allies can build a .30 caliber machine
+gun nest, while the Germans can construct bunkers).
+
+The Americans can build a barracks and weapons support center to deploy
+infantry (foot soldiers), a motor pool and tank depot for tanks, vehicles and
+anti-tank guns. The triage center can heal nearby units that have been wounded
+from enemy fire. A supply yard is also required to be built before building a
+motor pool or tank depot which enables upgrades to reduce costs of infantry
+and tanks.
+
+The Germans can build a variety of structures. The Wehrmacht quarters, Krieg
+barracks and Sturm armory lets players create infantry. Krieg Barracks and
+Sturm Armory can build light vehicles and other infantry, while the Sturm
+Armory and the Panzer Command deploys German tanks at the player's disposal.
+
+The Germans can also build Kampkraft Centre(s) in order to increase veterancy
+levels.
+
+### [edit] Factions
+
+#### [edit] Allies
+
+Represented by the Americans, this faction boasts cheap, versatile units.
+Veterancy is earned through the act of combat; units gain veterancy as they
+kill more and more enemy units and buildings. American infantry units are more
+numerous than their Wehrmacht counterparts, but are generally less effective
+in a straight fight, and rely on upgrades and abilities to gain the edge in a
+fight. American vehicles and tanks, while lacking in raw power, are generally
+faster and capable of various support tasks, such as clearing mines or
+providing a smoke screen.
+
+Doctrines:
+
+  * Infantry Company: Centered around defence and infantry support, this doctrine allows players to train infantry and build defences faster, employ heavy artillery, and call in reinforcements such as the powerful US Army Rangers.
+  * Airborne Company: Centered around paratroopers and air support, this doctrine allows players to deploy paratroopers, call in recon planes, and enjoy the destructive capabilities of the P47 Thunderbolt fighter-bomber.
+  * Armor Company: Centered around vehicles and armour support, this doctrine is slow to gain, but boast powerful abilities, such as improved vehicle production, and the mighty M26 Pershing heavy tank.
+
+#### [edit] Axis
+
+Represented by the German Wehrmacht, this faction employs a wider range of
+units than the Americans. Wehrmacht units are generally more expensive and
+powerful, but also more rigid and ill-equipped beyond their intended roles.
+For the Wehrmacht, veterancy is not earned, but "bought" at their Kampfkraft
+Centre. Wehrmacht infantry range from simple Volksgrenadier militia to elite
+Knight's Cross Holders. Their armour, likewise, also gives players the choice
+between inexpensive Panzer IVs or powerful Panthers. Their force is rounded
+out by a few more specialised tanks and powerful support units such as
+Officers and Nebelwerfer rocket batteries.
+
+Doctrines:
+
+  * Defensive Doctrine: Centered around artillery and defence, this doctrine allows base structures to defend themselves, offers bonuses for defending infantry, and allows players to call in rocket barrages and deploy powerful Flak 88 cannons.
+  * Blitzkrieg Doctrine: Centered around speed and offensive operations, this doctrine allows players to speed up their military and economy, and allows players to deploy powerful assault units such as rugged Stormtroopers and the famous Tiger I.
+  * Terror Doctrine: Centered around psychological warfare and destructive power, this unusual doctrine provides players with die-hard infantry and the ability to rout the enemy, be it with propaganda, devastating V1 rockets, or a single, powerful Tiger II.
+
+### [edit] Multiplayer
+
+For Company of Heroes, Relic began using a new online gaming system called
+Relic Online. Previous Relic games used GameSpy Arcade or World Opponent
+Network services. This new system includes many features that the previous
+systems did not have, including a built in automatch and ranking system.
+
+This game allows multiplayer matches of 2-8 players via LAN or the Internet.
+
+Company of Heroes allows players to fight as both the Allied and Axis forces
+in multiplayer matches.
+
+### [edit] Game modes
+
+#### [edit] Victory Point Control
+
+Victory Point Control games have several victory points around the middle of
+the map. These victory points can be captured similarly to strategic points.
+When one side has more victory points under their control than another, the
+other side's "points" start to decrease. When one side runs out of points,
+they lose. Alternatively, the player can simply destroy all enemy structures
+to win the game. Before the start of the game, the host can choose between
+250, 500, or 1000 points. The point function in Company of Heroes works much
+like the ticket feature in the Battlefield (series).
+
+#### [edit] Annihilation
+
+Annihilation games lack the victory points of the Victory Point Control game
+mode. To win, the player needs to destroy all enemy buildings excluding
+Observation Posts.
+
+Also, infantry and vehicles do not need to be destroyed in order to win
+Annihilation.
+
+## [edit] Story
+
+### [edit] Single player campaign
+
+The single player campaign puts the player directly in some of the major
+American operations during the Battle of Normandy.
+
+#### [edit] D-Day
+
+The game begins with Able Company's assault at Omaha Beach during the D-Day of
+Operation Overlord. Able must first breach the seawall, then take out German
+bunkers overlooking the beach, and finally disable the four 88 mm Flak 36
+anti-air guns. The game also introduces two of the gameâs major characters:
+Captain Mackay and Sergeant Conti. This mission seems to very closely relate
+to the way Steven Spielberg directed his interpretation of the D-Day landings
+in Saving Private Ryan,[original research?] for example, the over-the-shoulder
+shots of the MG42 gunners on top of the cliffs near the bunkers and the scenes
+where they use the Bangalore torpedoes to great effect, and additionally some
+scenes of Sergeant Conti and Captain McKay clearing the bunkers.
+
+#### [edit] Battle of Carentan
+
+The next three missions are about Fox Company and their actions during the
+capture and defense of Carentan. On the night before D-Day, Fox Company must
+first regroup after the chaotic airdrops at Vierville, then disrupt enemy
+operations in rear areas by opening new drop zones and preventing the Germans
+from reinforcing the beaches.
+
+After D-Day, Fox Company is then tasked to capture the city of Carentan to
+secure a link between Utah Beach and Omaha beach and to defend it against
+ferocious German counterattack. Though constantly bombarded by artillery, Fox
+Company is eventually relieved when 2nd Armored arrives at the city and the
+link between Utah and Omaha beach is finally secure.
+
+#### [edit] Battle of Cherbourg
+
+Able and Dog Company form the spearhead of the Allied advance to secure
+Cherbourg and its deep water port. En route to Cherbourg, Allied supply route
+is threatened by elements of the Panzer Lehr division commanded by Hauptmann
+Schultz, and Dog Company is ambushed in the process. Able Company manages to
+drive the Germans back and defend the supply route for the "Red Ball Express"
+to pass through, but by doing so Able Company also becomes the nemesis of the
+Panzer Lehr division and Captain Schultz for the rest of the campaign.
+
+With the flank secure, the Allies continue to advance onto Cherbourg. Able and
+Dog Company, supported by the 4th Cavalry and the USS Texas, are tasked with
+capture of the port facilities. Although Able Company successfully subdues the
+German defenders and captures thousands of prisoners, the port has been badly
+damaged and is unusable to the Allies.
+
+However, after the battle, Able Company found documents from an Axis bunker
+which shows a V-2 Rocket launch site near Sottevast. Fox Company has been
+called in to conduct an airborne assault on the V2 facility, while elements of
+Able Company rush to the site with armor support.
+
+#### [edit] Operation Cobra
+
+American forces begin to approach the city of St. Lo and Able Company is
+arriving from the north. German defenders at St. Fromond hope to stop Able
+Companyâs advance by blowing up the only bridge leading into the town. Able
+Company repaired the bridge under fire from across the river, and drove the
+Germans out of the town. German defenders regroup and organized several
+counterattacks with rocket battery support, but all assaults against Able
+Company are thrown back with heavy casualties.
+
+Charlie Company is destroyed by the defending Panzer Lehr division under the
+command of Captain Shultz, while attempting to secure Hill 192 at the outskirt
+of St. Lo. Able Company is assigned to take the hill. Hedgerows around the
+hill and hidden flak 88 batteries provided formidable defensive position
+against the Allies, but Able Company managed to break through by employing
+bulldozer equipped Sherman tanks to plow through the hedgerows and flank the
+Germans.
+
+German defenders at St. Lo decide to hold out against American forces by
+heavily fortifying the city center, but Able Company planned to surround and
+trap the German defenders at the city center rather than a head-on assault.
+Although the operation is successful, some German units, including the Panzer
+Lehr division, manage to escape destruction. Able Company call in the 8th Air
+Force in response and the escaping Germans units suffered heavily due to
+carpet bombing.
+
+Badly reduced and under constant air attack, the shattered Panzer Lehr
+division is being chased by American forces, and Able Company managed to
+intercept what is left of the division at HÃ©bÃ©crevon. A raid is conducted
+with fast moving M10 tank destroyers against the Panzer Lehr division's
+positions, and almost all of Panzer Lehr division's armor strength, including
+the last 7 surviving Panther tanks, are completely wiped out. However, during
+the course of the mission, Captain MacKay is killed by the Tiger I under the
+personal command of Captain Schultz.
+
+#### [edit] Operation LÃ¼ttich
+
+After losing their commander, newly promoted Lieutenant Conti is taking
+command of Able Company. Able Company is taking a break from the war, and has
+been reassigned to Mortain to relieve Dog Company at Hill 317. Unfortunately,
+on that night, Mortain becomes the focal point of a German counterattack
+against recent American successes. Surprised and outnumbered, Able Company is
+forced to hold the hill until reinforcements can arrive in the morning.
+
+Dog Company arrives the following morning with armor support and Able Company
+begin to dig in and consolidate their positions. German forces renew the
+counterattack in force after their surprise night attack has failed to take
+the hill, but all attempts are beaten back. Able Company successfully force
+the Germans to retreat after inflicting heavy losses, including the
+destruction of a Flak 88 battery.
+
+#### [edit] Falaise Pocket
+
+The last section of the single player campaign deals with the destruction of
+German forces in France. After suffering a string of defeats, the German army
+is forced to retreat in order to avoid encirclement. Allied forces are racing
+to trap the German army before it can escape. Baker Company is assigned to
+shut down one of the escape routes at Autry, but Captain Schultz's
+Panzergruppe, which escaped the destruction of the Panzer Lehr division,
+annihilates them. Able Company rushes to the scene with M26 Pershing support
+and destroys Captain Schultz's Panzer Gruppe in return. Captain Schultz's
+Tiger is among those tanks destroyed in the battle, and Captain MacKay's death
+has been avenged.
+
+Chambois becomes the German Seventh Army's last hope for escaping the Falaise
+Pocket. With heavy air cover, Canadian, Polish and American forces, led by
+Able Company, secure all bridges around Chambois and close the Falaise Pocket.
+The German Seventh Army attempts to break free, but they are met with heavy
+aerial bombardment and are forced to surrender.
+
+The campaign ends with the caption that Able Company had suffered 80%
+casualties at the end of World War II.
+
+### [edit] Distinguished characters
+
+  * Captain Sam MacKay
+
+    The commander of Able Company. He appears to be an Army Ranger by his character model, although he commands a regular infantry company. He is killed by Hauptmann Schultz as revenge, when Able Company successfully obliterated his unit after the battle of St. Lo. He seems to be based on the Tom Hanks character in the film Saving Private Ryan, Captain Miller.
+  * Lieutenant Joe Conti
+
+    Served as the of Able Company under Captain MacKay, and is a close friend to MacKay ever since boot camp. He is revealed to be the game's narrator. He is almost killed alongside Captain MacKay. Lieutenant Conti commands Able Company for the rest of the game. Joe Conti lives through the war.
+  * Joseph Gunter "Ace" Schultz
+
+    A German tank captain commanding the Tiger Ace from the Panzer Lehr division. He serves as the personal antagonist of Able company. He commands the Panzer-Gruppen (tank groups) that attack the Red Ball Express, where his unit first met Able Company and are badly beaten. Suffering from heavy losses, he watches Captain MacKay from afar while his unit is busy retreating. He later crosses path with Able Company while commanding the forces defending St. Lo, but managed to escape encirclement by Able Company. He kills Captain MacKay when his unit is destroyed while retreating from HÃ¨bÃ¨crevon, and Able Company later conducts their revenge on Schultz while his 152nd Tigergruppe (a group of German Tiger tanks) is being destroyed at Autry.
+## [edit] Development
+
+### [edit] Game engine
+
+<IMG>
+
+<IMG>
+
+An M10 Wolverine and American troops in the Essence Engine.
+
+Company of Heroes is Relic's first title to make use of the "Essence Engine".
+This engine was designed and coded from scratch by Relic in order to make use
+of special graphical effects, including high dynamic range lighting, dynamic
+lighting & shadows, advanced shader effects and normal mapping.
+
+COH is rendered in 3D with intricate detailing on the infantry, vehicles and
+structures while still retaining a solid frame-rate, without, Relic claims,
+the need for a high-end gaming system. It claims that there are nearly 2,000
+different animations for a basic infantry unit alone.
+
+Company of Heroes also utilizes the Havok physics engine, giving it a more
+realistic physics system than previous RTS games. Parts of buildings can be
+destroyed by grenades, satchels or mortars, and tanks can drive through
+sections of walls or other barriers. Smoke created from explosions is
+programmed to behave as realistically as possible and can even be influenced
+by wind. Debris is also influenced by explosions; a blast can send barrels
+flying and shower troops in dirt, whilst leaving behind a large crater. When
+infantry are bombarded by artillery, body parts sometimes detach and are
+dispersed over, and some units are thrown about in the immediate area. Bridges
+and buildings can be destroyed by engineers using demolitions.
+
+On May 29, 2007 Relic released a patch for Company of Heroes that included a
+new DirectX 10 rendering mode with enhanced terrain, additional world objects,
+and improved shadows and lighting. This patch made Company of Heroes the first
+commercial video game to support Direct3D 10.
+
+## [edit] Reception
+
+Reception  
+Aggregate scores  
+Aggregator Score  
+GameRankings 94%[2]  
+Metacritic 93%[1]  
+Review scores  
+Publication Score  
+1UP.com A+[3]  
+ActionTrip 9.3/10[4]  
+Eurogamer 10/10[5]  
+GameSpot 9.0/10[6]  
+GameSpy 5/5 stars<IMG><IMG><IMG><IMG>[7]  
+GamesRadar 10/10[8]  
+IGN 9.4/10[9]  
+Awards  
+Entity Award  
+IGN (2006)PC Game of the Year[10]  
+GameSpy (2006)PC Game of the Year[11]  
+### [edit] Reviews
+
+The game received highly positive reviews from critics. On the review
+aggregator Game Rankings, the game had an average score of 94% based on 61
+reviews[12] â making it the third highest rated game of 2006 and highest
+rated PC game of 2006. On Metacritic, the game had an average score of 93 out
+of 100, based on 55 reviews â considered "universal acclaim" by the
+site.[13] Currently, it is one of the highest-rated real-time strategy games.
+
+### [edit] Awards
+
+  * PC Gamer: Game of the Year 2006
+  * Computer Games Magazine: Game of the Year 2006
+  * GameSpy: PC Game of 2006, Best Sound, Best PC Strategy Game, Best PC Multiplayer
+  * GameSpot: Best PC Game 2006[14], Best Strategy Game[15]
+  * IGN: PC Game of 2006[16], Best PC Strategy Game[17], Best Use of Sound on PC[18], Best Online PC game[19]
+  * Game Critics Awards: Best Strategy Game
+  * GameSpot: 2005 Best PC Game of Show; Best Strategy Game of Show; Best Overall Game of Show[20]
+  * IGN: Runner-up, Best Strategy Game (PC), Runner-up, Technological Excellence (PC)
+  * GameSpy: Best of E3
+  * Interactive Achievement Awards: Strategy Game of the Year
+
+## [edit] Expansions
+
+### [edit] Company of Heroes: Opposing Fronts
+
+Main article: Company of Heroes: Opposing Fronts
+
+Company of Heroes: Opposing Fronts is a standalone expansion pack. It contains
+two factions; the British and the German Panzer Elite. Owners of Opposing
+Fronts will be able to play against owners of Company of Heroes and vice
+versa, although only using the armies from the game they own. Owners of both
+games will be able to play all four armies in multiplayer. Opposing Fronts was
+officially announced on April 5, 2007[21][22] and was released on September
+24, 2007[23].
+
+### [edit] Company of Heroes: Tales of Valor
+
+Main article: Company of Heroes: Tales of Valor
+
+Company of Heroes: Tales of Valor is a standalone expansion pack. Company of
+Heroes: Tales of Valor was officially announced on November 3, 2008 and is
+scheduled to be released April 8, 2009. Steam release date is set for April 9,
+2009.[24][25]
+
+## [edit] References
+
+  1. ^ "Company of Heroes Review - MetaCritic". Metacritic. http://www.metacritic.com/games/platforms/pc/companyofheroes. Retrieved on 2008-07-09.
+  2. ^ "Company of Heroes Review - GameRankings". http://www.gamerankings.com/htmlpages2/927618.asp. Retrieved on 2008-07-09.
+  3. ^ Peckham, Matt (September 19, 2006). "Company of Heroes Review - 1UP" (in English). 1UP. 1. http://www.1up.com/do/reviewPage?cId=3153681&did=1. Retrieved on 2008-07-09.
+  4. ^ Jojic, Uros (September 19, 2006). "Company of Heroes Review" (in English). ActionTrip. 1. http://www.actiontrip.com/reviews/companyofheroes.phtml. Retrieved on 2008-07-09.
+  5. ^ Gillen, Kieron (September 25, 2006). "Company of Heroes Review - EuroGamer" (in English). EuroGamer. 2. http://www.eurogamer.net/article.php?article_id=67931. Retrieved on 2008-07-09.
+  6. ^ Kasavin, Greg (September 11, 2006). "Company of Heroes Review - GameSpot" (in English). GameSpot. 2. http://www.gamespot.com/pc/strategy/companyofheroes/review.html. Retrieved on 2008-07-09.
+  7. ^ Raush, Allen (September 14, 2006). "Company of Heroes Review - GameSpy" (in English). GameSpy. 3. http://pc.gamespy.com/pc/company-of-heroes/732881p1.html. Retrieved on 2008-07-09.
+  8. ^ Stapleton, Dan. "Company of Heroes Review - GamesRadar" (in English). GamesRadar. 3. http://www.gamesradar.com/pc/review/company-of-heroes/a-20060919154059812037. Retrieved on 2008-07-09.
+  9. ^ Adams, Dan (September 11, 2006). "Company of Heroes Review - IGN" (in English). IGN. 3. http://pc.ign.com/articles/732/732059p1.html. Retrieved on 2008-07-09.
+  10. ^ "Company of Heroes - Game of the Year (2006)" (in English). IGN. http://bestof.ign.com/2006/pc/39.html. Retrieved on 2008-09-15.
+  11. ^ "Company of Heroes - Game of the Year (2006)" (in English). GameSpy. http://goty.gamespy.com/2006/pc/index11.html. Retrieved on 2008-09-15.
+  12. ^ "Company of Heroes Reviews". Game Rankings. http://www.gamerankings.com/htmlpages2/927618.asp. Retrieved on 2008-03-19.
+  13. ^ "Company of Heroes (pc: 2006): Reviews". Metacritic. http://www.metacritic.com/games/platforms/pc/companyofheroes. Retrieved on 2008-03-19.
+  14. ^ "Best PC Game 2006". Gamespot. http://www.gamespot.com/special_features/bestof2006/platform/index.html?page=11.
+  15. ^ "Best Strategy Game 2006". GameSpot. http://www.gamespot.com/special_features/bestof2006/genre/index.html?page=11.
+  16. ^ "PC Game of 2006". IGN. http://bestof.ign.com/2006/pc/39.html.
+  17. ^ "Best PC Strategy Game". IGN. http://bestof.ign.com/2006/pc/17.html.
+  18. ^ "Best Use of Sound on PC". IGN. http://bestof.ign.com/2006/pc/25.html.
+  19. ^ "Best Online PC Game". IGN. http://bestof.ign.com/2006/pc/28.html.
+  20. ^ "2005 Winners". GameSpot. http://www.gamespot.com/pc/strategy/companyofheroes/news.html?sid=6127234.
+  21. ^ Adams, Dan (April 5, 2007). "Company of Heroes: Opposing Fronts Announced" (in English). IGN. http://pc.ign.com/articles/778/778892p1.html. Retrieved on 2008-09-15.
+  22. ^ "THQ Announces Company of Heroes: Opposing Fronts" (in English). GameSpot. April 5, 2007. http://www.gamespot.com/pc/strategy/companyofheroesopposingfronts/news.html?sid=6168639&mode=all. Retrieved on 2008-09-15.
+  23. ^ "Shipping Out September 24-28: Halo 3, Opposing Fronts" (in English). GameSpot. September 24, 2007. http://www.gamespot.com/pc/strategy/companyofheroesopposingfronts/news.html?sid=6179816&mode=all. Retrieved on 2008-09-15.
+  24. ^ "THQ Announces Company of HeroesÂ®: Tales of Valorâ¢ for Windows PC" (in English). Business Wire. November 3, 2008. http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&newsId=20081103005317&newsLang=en. Retrieved on 2008-11-03.
+  25. ^ Faylor, Chris (November 3, 2008). "Company of Heroes: Tales of Valor Announced" (in English). ShackNews. http://www.shacknews.com/onearticle.x/55695. Retrieved on 2008-11-03.
+
+## [edit] External links
+
+<IMG> Video games portal  
+  * Company of Heroes Official Site
+
+v â¢ d â¢ e
+
+Video games developed by Relic Entertainment  
+Company of Heroes series
+
+Company of Heroes â¢ Opposing Fronts â¢ Tales of Valor â¢ Online  
+Homeworld series
+
+Homeworld â¢ Cataclysm â¢ Homeworld 2  
+Warhammer 40,000 series
+
+Dawn of War (Winter Assault â¢ Dark Crusade â¢ Soulstorm)  â¢ Dawn of War
+II  
+Other titles
+
+The Outfit â¢ Impossible Creatures  
+Miscellaneous
+
+Relic Online â¢ Essence Engine  
+Retrieved from "http://en.wikipedia.org/wiki/Company_of_Heroes"
+
+Categories: Company of Heroes | Real-time strategy video games | World War II
+video games | 2006 video games | Windows games | Games for Windows certified
+games | Mobile phone games | THQ games | Video games developed in Canada |
+Lua-scripted games
+
+Hidden categories: Wikipedia articles in need of updating | Cleanup from May
+2008 | Video games game guide cleanup | Wikipedia articles needing copy edit
+from August 2008 | All articles needing copy edit | All articles that may
+contain original research | Articles that may contain original research since
+April 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * ×¢××¨××ª
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * SlovenÄina
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 4 April 2009, at 15:34.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

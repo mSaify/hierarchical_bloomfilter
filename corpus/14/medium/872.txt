@@ -1,0 +1,220 @@
+
+# CE mark
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+The constructional details of the CE mark
+
+For other uses, see CE.
+
+The CE marking (also known as CE mark) is a mandatory conformity mark on many
+products placed on the single market in the European Economic Area (EEA). The
+CE marking certifies that a product has met EU consumer safety, health or
+environmental requirements.
+
+## Contents
+
+  * 1 Significance
+  * 2 Declaration of conformity
+  * 3 Origin of mark
+  * 4 Mutual recognition of conformity assessment
+  * 5 The e mark
+  * 6 Fake CE marks
+  * 7 References
+  * 8 Further reading
+
+  
+## [edit] Significance
+
+By affixing the CE marking, the manufacturer or person placing the product on
+the market or putting it into service asserts that the item meets all the
+essential requirements of the relevant European Directive(s). Examples of
+European Directives requiring CE marking include toy safety, machinery, low-
+voltage equipment, terminal equipment and electromagnetic compatibility. There
+are about 25 directives requiring CE marking.[1]
+
+Officially, CE has no meaning as an abbreviation, but may have originally
+stood for European accordance (European Community) or ConformitÃ© EuropÃ©enne
+("European Conformity").
+
+## [edit] Declaration of conformity
+
+The CE marking is a mandatory European marking for certain product groups to
+indicate conformity with the essential health and safety requirements set out
+in European Directives. To permit the use of a CE mark on a product, proof
+that the item meets the relevant requirements must be documented. Sometimes
+this is achieved using an external test house which evaluates the product and
+its documentation. Often it is achieved by a company-internal self-
+certification process. In any case the responsible organization (manufacturer,
+representative, importer) has to issue a EC-Declaration of Conformity (EC-DoC)
+indicating his identity (location, etc.), the list of European Directives he
+declares compliance with, a list of standards the product complies with, and a
+legally binding signature on behalf of the organization. The EC-DoC underlines
+the sole responsibility of the manufacturer. When parts of the certification
+process for the CE marking are performed by 3rd party test houses or
+certification bodies then it is mandatory that the CE symbol also includes a
+number identifying the 'Notified Body'.
+
+To be strictly accurate, there are two forms of Declaration, either a
+"Declaration of Conformity" or a "Declaration of Incorporation". Generally
+speaking this is only the case under the Machinery Directive. For example, a
+stand-alone machine that requires only a power source to operate would be
+issued with a Declaration of Conformity; whereas a machine that requires
+additional systems, attachments, feed conveyors etc, before it can provide its
+intended function must be issued with a Declaration of Incorporation. In this
+latter case it is illegal to CE Mark such a machine. This can only be achieved
+once the machine has been finally installed and all other elements
+incorporated into the system. A final risk assessment is performed to verify
+compliance of the system and a final Declaration of Conformity is then issued.
+
+Furthermore, these directives are based upon what the European Commission
+calls a New Approach, whereby if any of the Article 100A Directives apply to a
+product, then they must be followed. There are multiple classes of CE marking.
+A CE mark of 1 is easily attainable and does not require toxicology studies,
+while a class 3 CE mark is the most difficult to obtain and which comes with
+well documented toxicology studies
+
+Directives providing the requirements for the CE marking are created by the
+European Union (EU), but the markings are required throughout the European
+Economic Area (EEA). According to information provided by the Swiss Government
+for Swiss Exporters the CE Mark is not compulsory in Switzerland except for
+products for export to the European Union.)
+
+## [edit] Origin of mark
+
+According to an article in The Guardian on 2001-12-23, the mark was designed
+by Arthur Eisenmenger. The various components of the CE marking must have
+substantially the same vertical dimension, which may not be less than 5 mm.[2]
+
+## [edit] Mutual recognition of conformity assessment
+
+There are numerous 'Agreements on Mutual Recognition of Conformity Assessment'
+between the European Union and other countries such as the USA, Japan, Canada,
+Australia, New Zealand and Israel. Consequently the CE mark is now found on
+many products from these countries.
+
+Turkey (which is not a member of the EEA) also requires products to show CE
+marking as affirmations of conformity.
+
+## [edit] The e mark
+
+The similar "e mark", rather than the CE logo, is used on motor vehicles and
+components for motor vehicles.[3] (The "e mark" for motor vehicles is not to
+be confused with the estimated sign on food labels[4]).
+
+## [edit] Fake CE marks
+
+Some products have a fake CE mark that stands for China Export. The two
+letters are close together, not spaced as in the original mark. Products
+carrying the China Export CE mark are not confirming conformance to European
+specifications. It is probable that the Chinese CE mark has been intentionally
+designed to be confused with the European CE mark. [5]
+
+<IMG>
+
+Real CE mark
+
+<IMG>
+
+Fake CE mark  
+## [edit] References
+
+  1. ^ "New Approach Standardisation in the Internal Market - Directives & Standards". CEN, CENELEC, ETSI, European Commission and EFTA.. http://www.newapproach.org/Directives/DirectiveList.asp. Retrieved on 2007-06-05.
+  2. ^ Connolly, Kate (2001-12-23). "Inventor who coined euro sign fights for recognition". The Observer. http://observer.guardian.co.uk/euro/story/0,10818,624284,00.html. Retrieved on 2007-06-05. "Arthur Eisenmenger, now 86, created the euro symbol - which is being presented as a 'brand new' sign - more than a quarter of a century ago. It was one of his last assignments before retiring as chief graphic designer for the European Economic Community [...] Eisenmenger was also responsible for creating the European Union flag and for designing the 'CE' European consumer goods quality control symbol."
+  3. ^ Jarvis, Tim. ""e" is for Automobile Electronics". Compliance Engineering. http://www.ce-mag.com/archive/03/ARG/jarvis.html. Retrieved on 2008-12-28.
+  4. ^ [1]
+  5. ^ [2]
+
+## [edit] Further reading
+
+  * Learn how to get CE marking
+  * Forum on CE marking
+  * The United Kingdom official CE site
+
+Retrieved from "http://en.wikipedia.org/wiki/CE_mark"
+
+Categories: European Economic Area | Consumer organizations | Certification
+marks
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Bahasa Indonesia
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * Basa Sunda
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 08:39.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,234 @@
+
+# Learning object
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+A learning object is a resource, usually digital and web-based, that can be
+used and re-used to support learning.
+
+Learning objects offer a new conceptualization of the learning process: rather
+than the traditional "several hour chunk", they provide smaller, self-
+contained, re-usable units of learning.[1]
+
+They will typically have a number of different components, that range from
+descriptive data to information about rights and educational level. At their
+core, however, will be instructional content, and probably assessment tools. A
+key issue is the use of metadata.
+
+Learning object design raises issues of portability, and of the object's
+relation to a broader learning management system.
+
+## Contents
+
+  * 1 Definitions
+  * 2 Components
+  * 3 Metadata
+  * 4 Mutability
+  * 5 Portability
+  * 6 Learning object projects
+  * 7 See also
+  * 8 Notes
+  * 9 References
+
+  
+## [edit] Definitions
+
+There are various definitions of the term. As David Wiley observes, "the
+proliferation of definitions for the term 'learning object' makes
+communication confusing and difficult".[2]
+
+Most generally, the Institute of Electrical and Electronics Engineers (IEEE)
+defines a learning object as "any entity, digital or non-digital, that may be
+used for learning, education or training".[3] More specifically, and pointing
+out the extreme breadth of the IEEE's definition, Wiley describes a learning
+object as "any digital resource that can be reused to support learning".[4]
+(Emphasis added.)
+
+Chiappe defined Learning Objects as: "A digital self-contained and reusable
+entity, with a clear educational purpose, with at least three internal and
+editable components: content, learning activities and elements of context. The
+learning objects must have an external structure of information to facilitate
+their identification, storage and retrieval: the metadata. " (Chiappe,
+Segovia, & Rincon, 2007).[5]
+
+The following definitions focus on the relation between learning object and
+digital media. RLO-CETL, a British inter-university Learning Objects Center,
+defines "reusable learning objects" as "web-based interactive chunks of
+e-learning designed to explain a stand-alone learning objective".[6] Daniel
+Rehak and Robin Mason define it as "a digitized entity which can be used,
+reused or referenced during technology supported learning".[7]
+
+Adapting a definition from the Wisconsin Online Resource Center, Robert J.
+Beck suggests that learning objects have the following key characteristics:
+
+  * Learning objects are a new way of thinking about learning content. Traditionally, content comes in a several hour chunk. Learning objects are much smaller units of learning, typically ranging from 2 minutes to 15 minutes.
+  * Are self-contained â each learning object can be taken independently
+  * Are reusable â a single learning object may be used in multiple contexts for multiple purposes
+  * Can be aggregated â learning objects can be grouped into larger collections of content, including traditional course structures
+  * Are tagged with metadata â every learning object has descriptive information allowing it to be easily found by a search[1]
+
+## [edit] Components
+
+The following is a list of some of the types of information that may be
+included in a learning object and its metadata:
+
+  * General Course Descriptive Data, including: course identifiers, language of content (English, Spanish, etc.), subject area (Maths, Reading, etc.), descriptive text, descriptive keywords
+  * Life Cycle, including: version, status
+  * Instructional Content, including: text, web pages, images, sound, video
+  * Glossary of Terms, including: terms, definition, acronyms
+  * Quizzes and Assessments, including: questions, answers
+  * Rights, including: cost, copyrights, restrictions on Use
+  * Relationships to Other Courses, including prerequisite courses
+  * Educational Level, including: grade level, age range, typical learning time, and difficulty. [IEEE 1484.12.1:2002]
+
+## [edit] Metadata
+
+One of the key issues in using learning objects is their identification by
+search engines.[citation needed] This is usually facilitated by assigning
+descriptive learning object metadata. Just as a book in a library has a record
+in the card catalog, learning objects must also be tagged with metadata.
+
+## [edit] Mutability
+
+A mutated learning object is, according to Michael Shaw, a learning object
+that has been "re-purposed and/or re-engineered, changed or simply re-used in
+some way different from its original intended design". Shaw also introduces
+the term "contextual learning object", to describe a learning object that has
+been "designed to have specific meaning and purpose to an intended
+learner".[8]
+
+## [edit] Portability
+
+Before any institution invests a great deal of time and energy into building
+high-quality e-learning content (which can cost over $10,000 per classroom
+hour),[citation needed] it needs to consider how this content can be easily
+loaded into a Learning Management System. It is possible for example, to
+package learning objects with SCORM specification and load it at Moodle
+Learning Management System.
+
+If all of the properties of a course can be precisely defined in a common
+format, the content can be serialized into a standard format such as XML and
+loaded into other systems. When you consider that some e-learning courses need
+to include video, mathematical equations using MathML, chemistry equations
+using CML and other complex structures the issues become very complex,
+especially if the systems needs to understand and validate each structure and
+then place it correctly in a database.[citation needed]
+
+## [edit] Learning object projects
+
+Some examples of learning object projects include:
+
+  * AGORA, a publicly accessible online learning environment at the Virtual Museum of Canada. Content is created and produced by Canadian museum educators.[9]
+
+  * eduSource, a Canada-wide project to create the infrastructure for a network of inter-operable learning object repositories. The eduSource project is based on national and international standards; it is bilingual (French and English) and designed to be fully accessible.[10]
+
+  * MERLOT (Multimedia Educational Resource for Learning and Online Teaching), a free and open resource designed primarily for faculty and students of higher education.
+
+  * IQity Reactor is a learning object repository that allows educators to create and share custom curriculum, organized by state educational standards. Reactor is integrated with a learning management system.
+
+## [edit] See also
+
+  * Digital Audio Learning Objects
+  * Intelligent tutoring system
+
+## [edit] Notes
+
+  1. ^ a b Beck, Robert J., "What Are Learning Objects?", Learning Objects, Center for International Education, University of Wisconsin-Milwaukee, http://www.uwm.edu/Dept/CIE/AOP/LO_what.html, retrieved on 2008-04-29
+  2. ^ Wiley 2000, p. 5
+  3. ^ Learning Technology Standards Committee 2002, p. 45
+  4. ^ Wiley 2000, p. 7.
+  5. ^ Chiappe 2007, p. 8.
+  6. ^ "Learning Objects", RLO-CETL: Reusable Learning Objects, http://www.rlo-cetl.ac.uk/joomla/index.php?option=com_content&task=view&id=235&Itemid=28, retrieved on 2008-04-29 .
+  7. ^ Rehak & Mason 2003, p. ??
+  8. ^ Shaw 2003
+  9. ^ Learning Centre | Online Classroom | Free Lesson | Virtual Museum of Canada
+  10. ^ eduSource Canada: Canadian Network of Learning Object Repositories
+
+## [edit] References
+
+  * Learning Technology Standards Committee (2002) (PDF), Draft Standard for Learning Object Metadata. IEEE Standard 1484.12.1, New York: Institute of Electrical and Electronics Engineers, http://ltsc.ieee.org/wg12/files/LOM_1484_12_1_v1_Final_Draft.pdf, retrieved on 2008-04-29 .
+  * Rehak, Daniel R.; Mason, Robin (2003), "Engaging with the Learning Object Economy", in Littlejohn, Allison, Reusing Online Resources: A Sustainable Approach to E-Learning, London: Kogan Page, pp. 22-30, ISBN 9780749439491 .
+  * Shaw, Michael (October, 2003), "(Contextual and Mutated) Learning Objects in the Context of Design, Learning and (Re)Use", Teaching and Learning with Technology, http://www.shawmultimedia.com/edtech_oct_03.html, retrieved on 2008-04-29
+  * Wiley, David A. (2000), "Connecting Learning Objects to Instructional Design Theory: A Definition, A Metaphor, and A Taxonomy", in Wiley, David A. (DOC), The Instructional Use of Learning Objects: Online Version, http://reusability.org/read/chapters/wiley.doc, retrieved on 2008-04-29 .
+  * Chiappe, Andres.; Segovia, Yasbley; Rincon, Yadira (2007), "Toward an instructional design model based on learning objects", in Boston, Springer (html), Educational Technology Research and Development, Boston: Springer, pp. 671-681, ISBN 1042-1629(Print)1556-6501(Online)Spanish Draft available in Blog de AndrÃ©s Chiappe - Objetos de Aprendizaje(http://andreschiappe.blogspot.com/2007/09/que-es-un-objeto-de-aprendizaje-what-is.html), http://www.springerlink.com/content/u84w63873vq77h2h/?p=41be7fbeef9648ee9b554f1835112005&pi=6, retrieved on 2008-08-21 .
+  * Northrup, Pamela (2007) (Book), Learning Objects for Instruction: Design and Evaluation, USA: Information Science Publishing .
+
+Retrieved from "http://en.wikipedia.org/wiki/Learning_object"
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since April 2008 | Articles with unsourced statements
+since February 2007
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * íêµ­ì´
+  * Italiano
+  * PortuguÃªs
+  * SlovenÅ¡Äina
+  * Suomi
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 12 March 2009, at 08:06.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

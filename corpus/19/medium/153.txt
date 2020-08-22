@@ -1,0 +1,144 @@
+
+# FCKeditor
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+FCKeditor Image:FCKeditor Logo.gif  
+Developed by The FCKeditor Team  
+Latest release 2.6.4 / 2009-01-31; 70 days ago  
+Operating system Cross-platform  
+Type HTML editor, text editor  
+License GPL, LGPL and MPL  
+Website http://www.fckeditor.net/  
+FCKeditor is an open source WYSIWYG text editor that can be used in web pages.
+It aims to be lightweight and requires no client-side installation.
+
+Its core code is written in JavaScript, having server side interfaces with
+Active-FoxPro, ASP, ASP.NET, ColdFusion, Java, JavaScript, Lasso, Perl, PHP
+and Python.
+
+FCKeditor is compatible with most Internet browsers, including: Internet
+Explorer 5.5+ (Windows), Firefox 1.0+, Safari 3.0+, Google Chrome, Opera
+9.50+, Mozilla 1.3+ and Netscape 7+.
+
+## Contents
+
+  * 1 MediaWiki+FCKeditor
+  * 2 Program Name
+  * 3 See also
+  * 4 References
+  * 5 External links
+
+  
+## [edit] MediaWiki+FCKeditor
+
+MediaWiki+FCKeditor is a branch of FCKeditor being developed for WYSIWYG wiki
+editing.[1] For more info see mw:WYSIWYG editor#FCKeditor.
+
+## [edit] Program Name
+
+The FCK in FCKeditor stands for Frederico Caldeira Knabben, the original
+creator of the editor and the project's Benevolent Dictator for Life.
+Unfortunately those letters resemble a well-known vulgarity in the English
+language (something that Frederico, a native Brazilian, was unaware of when he
+first released the program). He has decided to change the program's name to
+CKEditor beginning with v3.0 [2]
+
+## [edit] See also
+
+  * Free HTML editors
+
+## [edit] References
+
+  1. ^ Main Page - MediaWiki+FCKeditor
+  2. ^ FCKeditor Docs - Rebranding
+
+## [edit] External links
+
+<IMG> Free software portal  
+Official Resources:
+
+  * FCKeditor web site
+  * FCKeditor development dedicated web site
+  * Forums
+  * Documentation
+  * SourceForge page
+  * mw:Extension:FCKeditor (by FCKeditor and Wikia)
+  * mw:WYSIWYG editor \- WYSIWYG editing and software for MediaWiki and some wiki farms. It has an FCKeditor section.
+
+Retrieved from "http://en.wikipedia.org/wiki/FCKeditor"
+
+Categories: Free text editors | Free HTML editors | SourceForge projects |
+JavaScript-based HTML editors
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 14:44 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

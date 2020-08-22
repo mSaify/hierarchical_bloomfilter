@@ -1,0 +1,484 @@
+
+# Darwin (operating system)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article's citation style may be unclear. The references used may be
+clearer with a different or consistent style of citation, footnoting, or
+external linking. (October 2008)  
+<IMG>
+
+This article needs references that appear in reliable third-party
+publications. Primary sources or sources affiliated with the subject are
+generally not sufficient for a Wikipedia article. Please add more appropriate
+citations from reliable sources. (October 2008)  
+Darwin Company / developer Apple Inc.  
+OS family NEXTSTEP, UNIX-like  
+Working state Current  
+Source model Free and open source software  
+Latest stable release 9.6.0 (Dec 15, 2008) [+/â]  
+Latest unstable release none (n/a) [+/â]  
+Supported platforms PowerPC, Intel x86, ARM  
+Kernel type Hybrid kernel  
+License Apple Public Source License  
+Website Apple - Open Source  
+Darwin is an open source POSIX-compliant computer operating system released by
+Apple Inc. in 2000. It is composed of code developed by Apple, as well as code
+derived from NEXTSTEP, FreeBSD, and other free software projects.
+
+Darwin forms the core set of components upon which Mac OS X and iPhone OS are
+based. It is compatible with the Single UNIX Specification version 3 (SUSv3)
+and POSIX UNIX applications and utilities.[citation needed]
+
+## Contents
+
+  * 1 History
+  * 2 Design
+    * 2.1 Kernel
+    * 2.2 Hardware and software support
+  * 3 License
+  * 4 Mascot
+  * 5 Releases
+  * 6 Derived projects
+    * 6.1 OpenDarwin
+    * 6.2 PureDarwin
+    * 6.3 Other
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] History
+
+Darwin's heritage began with NeXT's NEXTSTEP operating system (later known as
+OPENSTEP), first released in 1989. After Apple bought NeXT in 1997, it
+announced it would base its next operating system on OPENSTEP. This was
+developed into Rhapsody in 1997 and the Rhapsody-based Mac OS X Server 1.0 in
+1999. In 2000, Rhapsody was forked into Darwin and released as open-source
+software under the Apple Public Source License (APSL), and components from
+Darwin are present in Mac OS X today.
+
+Up to Darwin 8.0, Apple released a binary installer (as an ISO image) after
+each major Mac OS X release that allowed one to install Darwin on PowerPC and
+Intel x86 computers as a standalone operating system. Minor updates were
+released as packages that were installed separately. Darwin is now only
+available as source code,[1] except for the ARM variant, which has not been
+released in any form separately from iPhone OS. However, the older versions of
+Darwin are still available in Binary form.
+
+## [edit] Design
+
+### [edit] Kernel
+
+Darwin is built around XNU, a hybrid kernel that combines the Mach 3
+microkernel, various elements of BSD (including the process model, network
+stack, and virtual file system),[2] and an object-oriented device driver API
+called I/O Kit.[3]
+
+Some of the benefits of this choice of kernel are the Mach-O binary format,
+which allows a single executable file (including the kernel itself) to support
+multiple CPU architectures, and the mature support for symmetric
+multiprocessing in Mach. The hybrid kernel design compromises between the
+flexibility of a microkernel and the performance of a monolithic kernel.
+
+### [edit] Hardware and software support
+
+Darwin currently includes support for both 32-bit and 64-bit variants of the
+PowerPC and Intel x86 processors used in the Mac and Apple TV as well as the
+32-bit ARM processor used in the iPhone and iPod Touch. An open-source port of
+the XNU kernel exists which supports Darwin on Intel and AMD x86 platforms not
+officially supported by Apple.[4]
+
+It supports the POSIX API by way of its BSD lineage and a large number of
+programs written for various other UNIX-like systems can be compiled on Darwin
+with no changes to the source code[citation needed].
+
+Darwin and Mac OS X both use I/O Kit for their drivers and therefore support
+the same hardware, file systems, and so forth. Apple's distribution of Darwin
+included proprietary (binary-only) drivers for their AirPort wireless cards.
+
+Darwin does not include many of the defining elements of Mac OS X, such as the
+Carbon and Cocoa APIs or the Quartz Compositor and Aqua user interface, and
+thus cannot run Mac applications. It does, however, support a number of lesser
+known features of Mac OS X, such as mDNSResponder, which is the multicast DNS
+responder and a core component of the Bonjour networking technology, and
+launchd, an advanced service management framework.
+
+## [edit] License
+
+In July 2003, Apple released Darwin under version 2.0 of the Apple Public
+Source License (APSL), which the Free Software Foundation (FSF) approved as a
+free software license. Previous releases had taken place under an earlier
+version of the APSL that did not meet the FSF's definition of free software,
+although it met the requirements of the Open Source Definition.
+
+## [edit] Mascot
+
+The Darwin developers decided to adopt a mascot in 2000, and chose Hexley the
+Platypus, over other contenders, such as an Aqua Darwin fish, Clarus the
+Dogcow, and an orca. Hexley is a cartoon platypus who usually wears a cap
+resembling a demon's horns. He carries a trident, similar to the BSD Daemon,
+to symbolize the daemon's forking of processes. Hexley was designed and
+copyrighted by Jon Hooper; Apple does not sanction Hexley as a logo for
+Darwin.[5]
+
+The name was a mistake: it was originally supposed to be named after Thomas
+Henry Huxley, a 19th century English biologist who was a well-known champion
+of Charles Darwin's theory of evolution (nick-named "Darwin's bulldog");
+however, ignorance led not only to a mistake in Huxley's name but who he was
+(the developers apparently thought he was simply Darwin's assistant, when in
+fact he was a prominent biologist in his own right). By the time the mistake
+had been discovered, however, it was deemed too late to change and the
+incorrect name "Hexley" was kept.[6]
+
+## [edit] Releases
+
+This is a table of major Darwin releases with their dates of release and their
+corresponding Mac OS X releases.[7] Note that the corresponding Mac OS X
+release may have been released on a different date; refer to the Mac OS X
+pages for those dates.
+
+Version number Release date Corresponding releases Features and changes  
+0.1 March 16, 1999 Mac OS X Server 1.0  
+1.0 April 5, 2000 Mac OS X DP4 (Darwin 1.0.2)  
+1.2.1 November 15, 2000 Mac OS X Public Beta  
+1.3.1 April 13, 2001 Mac OS X v10.0  
+1.4.1 October 2, 2001 Mac OS X v10.1 Performance improvements to "boot time,
+real-time threads, thread management, cache flushing, and preemption
+handling," support for SMB network file system, Wget replaced with cURL.[8]  
+6.0.1 September 23, 2002 Mac OS X v10.2 (Darwin 6.0.2) GCC upgraded from 2 to
+3.1, IPv6 and IPSec support, mDNSResponder service discovery daemon
+(Rendezvous), addition of CUPS, Ruby, and Python, journaling support in HFS+
+(Darwin 6.2), application profiles ("pre-heat files") for faster program
+launching.[9]  
+7.0 October 24, 2003 Mac OS X v10.3 BSD layer synchronized with FreeBSD 5,
+automatic file defragmentation, hot-file clustering, and optional case
+sensitivity in HFS+, bash instead of tcsh as default shell, read-only NTFS
+support (Darwin 7.9).[10]  
+8.0 April 29, 2005 Mac OS X v10.4  
+Mac OS X for Apple TV (Darwin 8.8.2) Stable kernel programming interface,
+finer-grained kernel locking, 64-bit BSD layer, launchd service management
+framework, extended file attributes, access control lists, commands such as cp
+and mv updated to preserve extended attributes and resource forks.[11]  
+9.0 October 26, 2007 iPhone OS 1.0 (Darwin 9.0.0d1)  
+Mac OS X v10.5 Full POSIX compliance, improved hierarchical process scheduling
+model, dynamically allocated swap files, dynamic resource limits (for files
+and processes), process sandboxing, address space layout randomization, DTrace
+tracing framework, file system events daemon, directory hard links, Apache 1.3
+and PHP 4 updated to Apache 2.2 and PHP 5, read-only ZFS support.[12]  
+The jump in version numbers from Darwin 1.4.1 to 5.1 with the release of Mac
+OS X v10.1.1 was designed to tie Darwin to the Mac OS X version and build
+numbering system. In the build numbering system of Mac OS X, every version has
+a unique beginning build number, which identifies what whole version of Mac OS
+X it is part of. Mac OS X v10.0 had build numbers starting with 4, 10.1 had
+build numbers starting with 5, and so forth (earlier build numbers represented
+developer releases). The point release number in the Darwin version is always
+the same as the second point number in the Mac OS X version. In the case of
+Mac OS X v10.1.1 (the version where the jump in version numbers was made),
+this was build 5M28 and the 10.1.1 release, from which a version number of 5.1
+was derived.[13]
+
+The command `uname -r` in Terminal will show the Darwin version number, and
+the command `uname -v` will show the XNU build version string, which includes
+the Darwin version number.
+
+## [edit] Derived projects
+
+Due to the free software nature of Darwin, there are many projects that aim to
+modify or enhance the operating system.
+
+### [edit] OpenDarwin
+
+<IMG>
+
+<IMG>
+
+GNOME running on OpenDarwin.
+
+OpenDarwin was a community-led operating system based on the Darwin system. It
+was founded in April 2002 by Apple Inc. and Internet Systems Consortium. Its
+goal was to increase collaboration between Apple developers and the free
+software community. Apple theoretically benefited from the project because
+improvements to OpenDarwin would be incorporated into Darwin releases; and the
+free/open source community supposedly benefited from being given complete
+control over its own operating system, which could then be used in free
+software distributions such as GNU-Darwin.[14]
+
+On July 25, 2006, the OpenDarwin team announced that the project was shutting
+down, as they felt OpenDarwin had "become a mere hosting facility for Mac OS X
+related projects," and that the efforts to create a standalone Darwin
+operating system had failed. They also state: "Availability of sources,
+interaction with Apple representatives, difficulty building and tracking
+sources, and a lack of interest from the community have all contributed to
+this."[15] The last stable release was version 7.2.1, released on July 16,
+2004.[16]
+
+### [edit] PureDarwin
+
+In 2007, the PureDarwin project was launched to continue where OpenDarwin left
+off, and is currently working to produce a release based on Darwin 9. There is
+a developer preview available, called "PureDarwin XMas", based on Darwin 9.
+This release has X11, DTrace, and ZFS[17]. PureDarwin nano is a another
+release of PureDarwin that is supposed to be minimalistic.
+
+### [edit] Other
+
+  * MacPorts (formerly DarwinPorts) and Fink are both well known projects to port UNIX programs to the Darwin operating system and provide package management. In addition, several standard UNIX package managersâsuch as RPM, pkgsrc, and Portageâhave Darwin ports. Some of these operate in their own namespace so as not to interfere with the base system.
+  * GNU-Darwin is a project that ports packages of free software to Darwin.
+  * The Darwine project is a port of Wine that allows one to run Microsoft Windows software on Darwin.[18]
+  * SEDarwin is a port of TrustedBSD mandatory access control framework and portions of the SELinux framework to Darwin.[19]
+  * The Darbat project is an experimental port of Darwin to the L4 microkernel family. It aims to be binary compatible with existing Darwin binaries.[20]
+  * There are various projects that focus on driver support: e.g., wireless drivers,[21][22] wired NIC drivers[23],[24][25] modem drivers,[26] card readers,[27] and the ext2 and ext3 file systems.[28]
+
+## [edit] See also
+
+  * A/UX
+  * Mac OS Forge
+  * mkLinux
+
+## [edit] References
+
+  1. ^ Hubbard, Jordan (October 31, 2007). "Re: Darwin 9.0 Source Code Available." Apple Mailing Lists. Retrieved on November 27, 2007.
+  2. ^ "Darwin." Apple Developer Connection. Retrieved on June 2, 2008.
+  3. ^ Singh, Amit (January 7, 2004). "XNU: The Kernel." Kernel Thread. Retrieved on May 4, 2008.
+  4. ^ Voodoo XNU Kernel
+  5. ^ Hooper, Jon. "Homepage of Hexley the DarwinOS mascot." The Home of Hexley the Platypus. Retrieved on November 30, 2008.
+  6. ^ Hooper, Jon. "Hexley Darwin Mascot History." The Home of Hexley the Platypus. Retrieved on November 30, 2008.
+  7. ^ "Darwin Releases." Apple Developer Connection. Retrieved on October 24, 2007.
+  8. ^ "Technical Note TN2029: Mac OS X v10.1." Apple Developer Connection. Retrieved June 2, 2008.
+  9. ^ Siracusa, John (September 5, 2002). "Mac OS X 10.2 Jaguar." Ars Technica. Retrieved on May 31, 2008.
+  10. ^ Siracusa, John (November 9, 2003). "Mac OS X 10.3 Panther." Ars Technica. Retrieved on May 31, 2008.
+  11. ^ Siracusa, John (April 28, 2005). "Mac OS X 10.4 Tiger." Ars Technica. Retrieved on May 30, 2008.
+  12. ^ Siracusa, John (October 28, 2007). "Mac OS X 10.5 Leopard: the Ars Technica review." Ars Technica. Retrieved on May 30, 2008.
+  13. ^ Prabhakar, Ernie (November 9, 2001). "Darwin Version - New Scheme in Software Update 1." Apple Mailing Lists. Retrieved on June 2, 2008.
+  14. ^ "OpenDarwin." OpenDarwin Project. Retrieved on May 30, 2006.
+  15. ^ OpenDarwin Core Team and Administrators (July 25, 2006). "OpenDarwin Shutting Down." OpenDarwin Project. Retrieved on April 16, 2007.
+  16. ^ http://www.cs.sunyit.edu/network/downloads/OperatingSystems/OpenDarwin-7.2.1%20x86%20or%20ppc/
+  17. ^ PureDarwin Download Page. [1]
+  18. ^ http://darwine.opendarwin.org/
+  19. ^ http://www.sedarwin.org/
+  20. ^ http://www.ertos.nicta.com.au/software/darbat/
+  21. ^ http://wirelessdriver.sourceforge.net/
+  22. ^ http://sourceforge.net/projects/iwi2200
+  23. ^ http://sourceforge.net/projects/darwin-tulip/
+  24. ^ http://sourceforge.net/projects/darwin-rtl8139
+  25. ^ http://sourceforge.net/projects/rtl8150lm
+  26. ^ http://sourceforge.net/projects/darwinmodems
+  27. ^ http://pccardata.sourceforge.net/
+  28. ^ http://sourceforge.net/projects/ext2fsx/
+
+## [edit] External links
+
+<IMG> Free software portal  
+  * Darwin Releases at Apple Developer Connection
+  * Darwin Build Number List
+  * Darwin Source Repository at SourceForge
+  * Hexley, the Darwin mascot
+  * PureDarwin.org
+  * OpenDarwin.org web site mirror
+
+v â¢ d â¢ e
+
+Macintosh operating systems  
+Classic Mac OS (history)
+
+System 1, 2, 3, 4, 5 Â· System 6 Â· System 7 Â· Mac OS 7.6 Â· Mac OS 8 Â· Mac
+OS 9  
+Mac OS X (history)
+
+Nextstep Â· Public Beta Â· v10.0 Â· v10.1 Â· v10.2 Â· v10.3 Â· v10.4 Â· v10.5
+Â· v10.6  
+Server
+
+Rhapsody Â· Mac OS X Server (Mac OS X Server 1.0)  
+Other OS projects
+
+A/UX Â· Taligent Â· Newton OS Â· Copland Â· MkLinux Â· Darwin Â· iPhone OS  
+v â¢ d â¢ e
+
+Mac OS X  
+Applications
+
+Address Book Â· Automator Â· Calculator Â· Chess Â· Dashboard Â· Dictionary Â·
+DVD Player Â· Finder Â· Front Row Â· Grapher Â· iCal Â· iChat Â· iSync Â·
+iTunes Â· Mail Â· Photo Booth Â· Preview Â· QuickTime Â· Safari Â· Stickies Â·
+TextEdit  
+Utilities
+
+Activity Monitor Â· AirPort Utility Â· Archive Utility Â· Audio MIDI Setup Â·
+Bluetooth File Exchange Â· ColorSync Â· Console Â· Crash Reporter Â·
+DigitalColor Meter Â· Directory Utility Â· DiskImageMounter Â· Disk Utility Â·
+Font Book Â· Grab Â· Help Viewer Â· Image Capture Â· Installer Â· Keychain
+Access Â· Migration Assistant Â· Network Utility Â· ODBC Administrator Â·
+Remote Install Mac OS X Â· Screen Sharing Â· Software Update Â· System
+Preferences Â· System Profiler Â· Terminal Â· Universal Access Â· VoiceOver Â·
+X11  
+Technology and  
+user interface
+
+Command key Â· Option key Â· Apple menu Â· AppleScript Â· Aqua Â· Audio Units
+Â· Bonjour Â· Boot Camp Â· BootX Â· Carbon Â· Cocoa Â· ColorSync Â· Core
+Animation Â· Core Audio Â· Core Data Â· Core Foundation Â· Core Image Â· Core
+OpenGL Â· Core Text Â· Core Video Â· CUPS Â· Darwin Â· Dock Â· ExposÃ© Â·
+FileVault Â· Grand Central Â· icns Â· Inkwell Â· I/O Kit Â· Kernel panic Â·
+Keychain Â· Mach-O Â· MacRuby Â· Menu extra Â· OpenCL Â· Preference Pane Â·
+Property list Â· Quartz Â· QuickTime Â· Quick Look Â· Rosetta Â· Smart Folders
+Â· Spaces Â· Speakable items Â· Spotlight Â· Stacks Â· Time Machine Â· Uniform
+Type Identifier Â· Universal binary Â· WebKit Â· Xgrid Â· XNU Â· ZFS  
+v â¢ d â¢ e
+
+Operating systems by Apple Inc.  
+A/ROSE Â· A/UX Â· Apple DOS Â· Copland Â· Darwin Â· GS/OS Â· iPhone OS Â· Lisa
+OS Â· Mac OS Â· Mac OS X Â· Mac OS X Server Â· MkLinux Â· Newton OS Â· ProDOS
+Â· Rhapsody Â· SOS Â· Taligent  
+v â¢ d â¢ e
+
+Unix and Unix-like operating systems  
+AIX Â· BSD Â· DragonFly BSD Â· FreeBSD Â· GNU Â· HP-UX Â· IRIX Â· Linux Â·
+LynxOS Â· Mac OS X Â· MINIX Â· NetBSD Â· OpenBSD Â· Plan 9 Â· QNX Â· Research
+Unix Â· SCO OpenServer Â· Solaris Â· System V Â· Tru64 Â· VxWorks Â· more  
+v â¢ d â¢ e
+
+Free and open source software  
+General
+
+Copyleft Â· Events and Awards Â· Free software Â· Free Software Definition Â·
+Gratis versus Libre Â· Open source software
+
+<IMG>
+
+<IMG> Free software  
+portal  
+Notable packages
+
+Apache Â· CUPS Â· Firefox Â· GNOME Â· KDE Â· OpenOffice.org Â· Thunderbird Â·
+X Window System  
+Operating systems
+
+AROS Â· BSD Â· Darwin Â· FreeDOS Â· GNU Â· Haiku Â· Inferno Â· Linux Â· Mach
+Â· MINIX Â· OpenSolaris Â· Plan 9 Â· ReactOS Â· Syllable  
+Development
+
+GCC Â· LLVM Â· Java Â· Open64 Â· Perl Â· PHP Â· Python Â· Lua Â· Ruby Â· Tcl
+Â· libJIT  
+History
+
+GNU Â· Linux Â· Mozilla (Application Suite Â· Firefox Â· Thunderbird)  
+Organizations
+
+Apache Software Foundation Â· Blender Foundation Â· Eclipse Foundation Â·
+FLOSS Manuals Â· freedesktop.org Â· Free Software Foundation Â· GNOME
+Foundation Â· GNU Project Â· Google Code Â· Linux Foundation Â· Mozilla
+Foundation Â· Open Source Geospatial Foundation Â· Open Source Initiative Â·
+SourceForge Â· Xiph.Org Foundation Â· X.Org Foundation  
+Licences
+
+Apache Â· BSD Â· GNU GPL Â· LGPL Â· MIT Â· MPL Â· Permissive Â· Microsoft
+Public License Â· Microsoft Reciprocal License Â· FSF approved licenses  
+Challenges
+
+Binary blob Â· Digital rights management Â· License proliferation Â· Mozilla
+software rebranding Â· Proprietary software Â· SCO-Linux controversies Â·
+Security Â· Software patents Â· Tivoization Â· Trusted Computing  
+Other topics
+
+Alternative terms Â· Community Â· Linux distribution Â· Forking Â· Movement Â·
+Microsoft Open Specification Promise Â· Revolution OS Â· Comparison with
+closed source  
+List of open source software packages  
+Retrieved from "http://en.wikipedia.org/wiki/Darwin_(operating_system)"
+
+Categories: Apple Inc. operating systems | BSD | Free software operating
+systems | Mac OS X | Mach
+
+Hidden categories: Wikipedia references cleanup | Articles lacking reliable
+references from October 2008 | All articles lacking sources | All articles
+with unsourced statements | Articles with unsourced statements since October
+2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Bosanski
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * LÃ«tzebuergesch
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * Suomi
+  * Svenska
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 2 April 2009, at 19:24.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

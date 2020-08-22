@@ -1,0 +1,123 @@
+
+# Penguin diagram
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+In quantum field theory, penguin diagrams are a class of Feynman diagrams
+which are important for understanding CP violating processes in the standard
+model.
+
+They were first isolated and studied by Arkady Vainshtein, and the processes
+which they describe were first observed in 1991 and 1994 by the CLEO
+collaboration.
+
+## [edit] Origin of the name
+
+<IMG>
+
+<IMG>
+
+Example of a penguin diagram
+
+John Ellis was the first to refer to a certain class of Feynman diagrams as
+penguin diagrams, due in part to their shape, and in part to a legendary bar-
+room bet with Melissa Franklin. According to John Ellis:[1]
+
+â
+
+Mary K. [Gaillard], Dimitri [Nanopoulos] and I first got interested in what
+are now called penguin diagrams while we were studying CP violation in the
+Standard Model in 1976... The penguin name came in 1977, as follows.
+
+In the spring of 1977, Mike Chanowitz, Mary K and I wrote a paper on GUTs
+predicting the b quark mass before it was found. When it was found a few weeks
+later, Mary K, Dimitri, Serge Rudaz and I immediately started working on its
+phenomenology. That summer, there was a student at CERN, Melissa Franklin who
+is now an experimentalist at Harvard. One evening, she, I, and Serge went to a
+pub, and she and I started a game of darts. We made a bet that if I lost I had
+to put the word penguin into my next paper. She actually left the darts game
+before the end, and was replaced by Serge, who beat me. Nevertheless, I felt
+obligated to carry out the conditions of the bet.
+
+For some time, it was not clear to me how to get the word into this b quark
+paper that we were writing at the time. Then, one evening, after working at
+CERN, I stopped on my way back to my apartment to visit some friends living in
+Meyrin where I smoked some illegal substance. Later, when I got back to my
+apartment and continued working on our paper, I had a sudden flash that the
+famous diagrams look like penguins. So we put the name into our paper, and the
+rest, as they say, is history.
+
+â  
+## [edit] References
+
+  1. ^ [hep-ph/9510397] ITEP Lectures in Particle Physics
+
+<IMG> This physics-related article is a stub. You can help Wikipedia by
+expanding it.  
+Retrieved from "http://en.wikipedia.org/wiki/Penguin_diagram"
+
+Categories: Quantum field theory | Physics stubs
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 28 April 2009, at 11:57 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

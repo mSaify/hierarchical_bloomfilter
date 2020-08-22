@@ -1,0 +1,146 @@
+
+# Mealy machine
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+The state diagram of a simple Mealy machine
+
+In the theory of computation, a Mealy machine is a finite state transducer
+that generates an output based on its current state and input. This means that
+the state diagram will include both an input and output signal for each
+transition edge. In contrast, the output of a Moore finite state machine
+depends only on the machine's current state; transitions are not directly
+dependent upon input. However, for each Mealy machine there is an equivalent
+Moore machine.
+
+The name Mealy machine comes from that of the concept's promoter, George H.
+Mealy, a state-machine pioneer who wrote "A Method for Synthesizing Sequential
+Circuits" in 1955.[1]
+
+Mealy machines provide a rudimentary mathematical model for cipher machines.
+Considering the input and output alphabet the Latin alphabet, for example,
+then a Mealy machine can be designed that given a string of letters (a
+sequence of inputs) can process it into a ciphered string (a sequence of
+outputs). However, although you could use a Mealy model to describe the
+Enigma, the state diagram would be too complex to provide feasible means of
+designing complex ciphering machines.
+
+## Contents
+
+  * 1 Formal definition
+  * 2 See also
+  * 3 Footnotes
+  * 4 References
+
+  
+## [edit] Formal definition
+
+A Mealy machine is a 6-tuple, (S, S0, Î£, Î, T, G), consisting of the
+following:
+
+  * a finite set of states (S)
+  * a start state (also called initial state) S0 which is an element of (S)
+  * a finite set called the input alphabet (Î£)
+  * a finite set called the output alphabet (Î)
+  * a transition function (T : S Ã Î£ â S) mapping a state and the input alphabet to the next state
+  * an output function (G : S Ã Î£ â Î) mapping each state and the input alphabet to the output alphabet
+
+## [edit] See also
+
+  * Synchronous circuit
+  * Moore machine
+  * MIT 6.111 Introductory Digital Systems Laboratory - Slide 6
+
+## [edit] Footnotes
+
+  1. ^ Mealy, George H. (September 1955). "A Method for Synthesizing Sequential Circuits". Bell Systems Technical Journal 34: 1045â1079.
+
+## [edit] References
+
+  * Mealy, George H. (1955). A Method to Synthesizing Sequential Circuits. Bell Systems Technical Journal. pp. 1045â1079.
+
+  * Roth, Charles H., Jr. (2004). Fundamentals of Logic Design. Thomson-Engineering. pp. 364â367. ISBN 0534378048.
+
+Retrieved from "http://en.wikipedia.org/wiki/Mealy_machine"
+
+Categories: Computational models
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Bosanski
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Hrvatski
+  * Bahasa Indonesia
+  * Italiano
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * à¹à¸à¸¢
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 31 March 2009, at 19:04.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,213 @@
+
+# Uniform Resource Name
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+A Uniform Resource Name (URN) is a Uniform Resource Identifier (URI) that uses
+the urn scheme, and does not imply availability of the identified resource.
+Both URNs (names) and URLs (locators) are URIs, and a particular URI may be a
+name and a locator at the same time.
+
+The Functional Requirements for Uniform Resource Names are described in RFC
+1737. The URNs are part of a larger Internet information architecture which is
+composed of URNs, Uniform Resource Characteristics (URCs), and Uniform
+Resource Locators (URLs). Each plays a specific role:
+
+  * URNs are used for identification,
+  * URCs for including meta-information.
+  * URLs for locating or finding resources.
+
+RFC 2141 ("URN Syntax") says:
+
+    Uniform Resource Names (URNs) are intended to serve as persistent, location-independent resource identifiers and are designed to make it easy to map other namespaces (that share the properties of URNs) into URN-space. Therefore, the URN syntax provides a means to encode character data in a form that can be sent in existing protocols, transcribed on most keyboards, etc.
+It is worth noting that, as stated in RFC 3986 ("Uniform Resource Identifier
+Generic Syntax"),
+
+    The term "Uniform Resource Name" (URN) has been used historically to refer to both URIs under the "urn" scheme (RFC 2141), which are required to remain globally unique and persistent even when the resource ceases to exist or becomes unavailable, and to any other URI with the properties of a name.
+## Contents
+
+  * 1 URN Syntax
+  * 2 Comparison with URLs
+  * 3 Examples
+    * 3.1 Non-standard usage
+  * 4 See also
+  * 5 External links
+
+  
+## [edit] URN Syntax
+
+RFC 2141 (dated May 1997 and still classified as needing requests discussion
+and suggestions for improvements) describe in BNF the syntax of URNs as:
+
+    `<URN> ::= "urn:" <NID> ":" <NSS>`
+    where <NID> is the Namespace Identifier, and <NSS> is the Namespace Specific String. Phrases enclosed in quotes are REQUIRED. The leading "urn:" sequence is case-insensitive. The Namespace ID determines the syntactic interpretation of the Namespace Specific String.
+## [edit] Comparison with URLs
+
+A URN is like a person's name, while a URL is like their street address. The
+URN defines something's identity, while the URL provides a method for finding
+something. Essentially, "what" vs. "where".
+
+URNs are often compared to the ISBN system for uniquely identifying books (and
+in fact you can encode an ISBN as a URN). Having a book's unique identifier
+lets you discuss the book, such as whether you've read it, enjoyed it, etc. To
+actually read the book, however, you need its location (e.g., "on the bedside
+table"). So URNs and URLs are often complementary; for example, you might
+discuss an RFC using both concepts: "you can find urn:ietf:rfc:3187 (URN) over
+at http://tools.ietf.org/html/rfc3187.html (URL)."
+
+## [edit] Examples
+
+urn:isbn:0451450523
+
+    The URN for "The Last Unicorn", identified by its book number.
+urn:isan:0000-0000-9E59-0000-O-0000-0000-2
+
+    The URN for "Spider-Man (film)", identified by its audiovisual number.
+urn:issn:0167-6423
+
+    The URN for the "Science of Computer Programming" journal, identified by its serial number.
+urn:ietf:rfc:2648
+
+    The URN for the IETF's RFC 2648.
+urn:mpeg:mpeg7:schema:2001
+
+    Default Namespace Rules for MPEG-7 video metadata.
+urn:oid:2.16.840
+
+    The URN corresponding to the OID for the United States.
+urn:uuid:6e8bc430-9c3a-11d9-9669-0800200c9a66
+
+    A URN using a version 1 UUID.
+urn:uci:I001+SBSi-B10000083052
+
+    The Universal Content Identifier ID issued to a drama Snow Flower supplied by SBS broadcasting company (RFC 4179)
+    
+### [edit] Non-standard usage
+
+The following are examples for "non-standard" URNs, i.e. identifiers that
+don't use officially registered namespaces and thus are invalid URNs in terms
+of RFC 2141 (URN Syntax) and RFC 3406 (Uniform Resource Names (URN) Namespace
+Definition Mechanisms).
+
+urn:www.agxml.org:schemas:all:2:0
+
+    A non-standard URN representing a namespace for Schema "Agricultural Markup Language 2.0 for Grain and Oilseed Business".
+urn:sha1:YNCKHTQCWBTRNJIV4WNAE52SJUQCZO5C
+
+    A non-standard URN representing a specific MP3 file of the I have a dream speech by Martin Luther King by its SHA-1 hash Base32 encoded.
+urn:tree:tiger:BL5OM7M75DWHAXMFZFJ23MU3LVMRXKFO6HTGUTY
+
+    A non-standard URN representing the same MP3 file this time using its Tiger Tree hash. Both these schemes can be used to look up data about specific files, for example using Bitzi.
+urn:sici:1046-8188(199501)13:1%3C69:FTTHBI%3E2.0.TX;2-4
+
+    A specific article in the journal "ACM Transactions on Information Systems", identified by its percent-encoded SICI code.[1]
+## [edit] See also
+
+  * .arpa â urn.arpa is for dynamic discovery
+  * Digital object identifier (DOI)
+  * Persistent Uniform Resource Locator (PURL)
+  * Extensible Resource Identifier (XRI)
+  * Internet Assigned Numbers Authority (IANA)
+  * Life Science Identifiers (LSID)
+
+## [edit] External links
+
+  * Uniform Resource Names Charter â The IETF's Uniform Resource Names working group
+  * URN namespace assignments, by IANA.
+  * URN Information Center
+  * W3C URI Clarification
+  * Architecture of the World Wide Web, Volume One, Â§2: Identification â by W3C
+  * W3C materials related to Addressing
+
+v â¢ d â¢ e
+
+URI scheme  
+Official
+
+aaa: Â· aaas: Â· acap: Â· cap: Â· cid: Â· crid: Â· data: Â· dav: Â· dict: Â·
+dns: Â· fax: Â· file: Â· ftp: Â· go: Â· gopher: Â· h323: Â· http: Â· https: Â·
+im: Â· imap: Â· Info: Â· ldap: Â· mailto: Â· mid: Â· news: Â· nfs: Â· nntp: Â·
+pop: Â· pres: Â· rtsp: Â· sip: Â· sips: Â· snmp: Â· tel: Â· telnet: Â· urn: Â·
+wais: Â· xmpp:  
+Unofficial
+
+about: Â· afp: Â· aim: Â· apt: Â· bolo: Â· bzr: Â· callto: Â· cel: Â· cvs: Â·
+daap: Â· ed2k: Â· feed: Â· fish: Â· gg: Â· git: Â· gizmoproject: Â· iax2: Â·
+irc: Â· ircs: Â· itms: Â· lastfm: Â· ldaps: Â· magnet: Â· mms: Â· msnim: Â·
+psyc: Â· rsync: Â· secondlife: Â· skype: Â· ssh: Â· svn: Â· sftp: Â· smb: Â·
+sms: Â· soldat: Â· steam: Â· unreal: Â· ut2004: Â· view-source: Â· vzochat: Â·
+webcal: Â· wyciwyg: Â· xfire: Â· ymsgr:  
+Retrieved from "http://en.wikipedia.org/wiki/Uniform_Resource_Name"
+
+Categories: URI scheme
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * Ripoarisch
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 8 April 2009, at 20:59 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,324 @@
+
+# Anonymous remailer
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article needs additional citations for verification. Please help improve
+this article by adding reliable references (ideally, using inline citations).
+Unsourced material may be challenged and removed. (March 2008)  
+An anonymous remailer is a server computer which receives messages with
+embedded instructions on where to send them next, and which forwards them
+without revealing where they originally came from. There are Cypherpunk
+anonymous remailers, Mixmaster anonymous remailers, and nym servers, among
+others which differ in how they work, in the policies they adopt, and in the
+type of attack on anonymity of email they can (or are intended to) resist.
+Remailing as discussed in this article applies to emails intended for
+particular recipients, not the general public. Anonymity in the latter case is
+more easily addressed by using any of several methods of anonymous
+publication.
+
+## Contents
+
+  * 1 Types of remailers
+  * 2 Traceable remailers
+  * 3 Untraceable remailers
+  * 4 Web based mailer
+  * 5 Using a remailer
+  * 6 Choosing a remailer
+  * 7 Remailer statistics
+  * 8 See also
+  * 9 References
+
+  
+## [edit] Types of remailers
+
+There are several strategies which contribute to making the e-mail so handled
+(more, or less) anonymous. In general, different classes of anonymous
+remailers differ with regard to the choices their designers/operators have
+made. These choices can be influenced by the legal ramifications of operating
+specific types of remailers.[1]
+
+It must be understood that every data packet traveling on the Internet
+contains the node addresses (as raw IP bit strings) of both the sending and
+intended recipient nodes, and so no data packet can ever actually be anonymous
+at this level. However, if the IP source address is false, there will be no
+easy way to trace the originating node (and so the originating entity for the
+packet). In addition, all standards-based email messages contain defined
+fields in their headers in which the source and transmitting entities (and
+Internet nodes as well) are required to be included. However, since most users
+of email do not have very much technical expertise, the full headers are
+usually suppressed by mail reading software. Thus, many users have never seen
+one.
+
+Some remailers change both types of address in messages they forward, and the
+list of forwarding nodes in email messages as well, as the message passes
+through; in effect, they substitute 'fake source addresses' for the originals.
+The 'IP source address' for that packet may become that of the remailer server
+itself, and within an email message (which is usually several packets), a
+nominal 'user' on that server. Some remailers forward their anonymized email
+to still other remailers, and only after several such hops is the email
+actually delivered to the intended address.
+
+There are, more or less, four types of remailers:
+
+  * Pseudonymous remailers
+
+A Pseudonymous remailer, simply takes away the email address of the sender,
+gives a pseudonym to the sender and sends the message to the intended
+recipient (that can be answered via that remailer).
+
+  * Cypherpunk remailers, also called type I
+
+A Cypherpunk remailer sends the message to the recipient stripping away the
+sender address on it. You can not answer a message sent via a Cypherpunk
+remailer. You can usually encrypt the message sent to the remailer, and the
+remailer will decrypt it and send it to the recipient address hidden inside
+the encrypted message. In addition, you can chain 2 or 3 remailers, so each
+remailer can't know who is sending a message to whom. Cypherpunk remailers do
+not keep logs of transactions.
+
+  * Mixmaster remailers, also called type II
+
+Mixmaster remailers require use of a program on your computer to write your
+messages. Such programs are not supplied as a standard part of most operating
+systems or mail management systems.
+
+  * Mixminion remailers, also called type III
+
+A Mixminion remailer attempts to address the following challenges in Mixmaster
+remailers: replies, forward anonymity, replay prevention and key rotation,
+exit policies, integrated directory servers, dummy traffic. They have been
+implemented for the Linux and Windows platforms and are currently available.
+Some implementations are open source.
+
+## [edit] Traceable remailers
+
+Some remailers establish an internal list of actual senders and invented names
+such that a recipient can send mail to invented name AT some_remailer.net.
+When receiving traffic addressed to this user, the server software consults
+that list, and forwards the mail to the original sender, thus permitting
+anonymous -- though traceable with access to the list -- two way
+communication. The famous "penet.fi" remailer in Finland did just that for
+several years. Unfortunately, because of the existence of such lists in this
+type of remailing server, it is possible to break the anonymity by gaining
+access to the list(s), by breaking into the computer, asking a court (or
+merely the police in some places) to order that the anonymity be broken,
+and/or bribing an attendant. This happened to penet.fi as a result of some
+traffic passed through it about Scientology. The Church claimed copyright
+infringement and sued penet.fi's operator. A court ordered the list be made
+available. Penet's operator shut it down after destroying its records
+(including the list) to retain identity confidentiality for its users; though
+not before being forced to supply the court with the real email addresses of
+two of its users.
+
+More recent remailer designs use cryptography in an attempt to provide more or
+less the same service, but without so much risk of loss of user
+confidentiality. These are generally termed nym servers or pseudonymous
+remailers. The degree to which they remain vulnerable to forced disclosure (by
+courts or police) is and will remain unclear, since new statutes/regulations
+and new cryptanalytic developments proceed apace. Multiple anonymous
+forwarding among cooperating remailers in different jurisdictions may retain,
+but cannot guarantee, anonymity against a determined attempt by one or more
+governments, or civil litigators.
+
+## [edit] Untraceable remailers
+
+If users accept the loss of two-way interaction, identity anonymity can be
+made more secure.
+
+By not keeping any list of users and corresponding anonymizing labels for
+them, a remailer can ensure that any message which has been forwarded leaves
+no internal information behind which can later be used to break identity
+confidentiality. However, while being handled, messages remain vulnerable
+within the server (e.g., to Trojan software in a compromised server, to a
+compromised server operator, or to mis-administration of the server), and
+traffic analysis comparison of traffic into and out of such a server can
+suggest quite a lot -- far more than almost any would credit.
+
+The Mixmaster strategy is designed to defeat such attacks, or at least to
+increase their cost (i.e., to 'attackers') beyond feasibility. If every
+message is passed through several servers (ideally in different legal and
+political jurisdictions), then attacks based in legal systems become
+considerably more difficult, if only because of 'Clausewitzian' friction
+amongst lawyers, courts, different statutes, organizational rivalries, legal
+systems, etc. And, since many different servers and server operators are
+involved, subversion of any (i.e., of either system or operator) becomes less
+effective also since no one (most likely) will be able to subvert the entire
+chain of remailers.
+
+Random padding of messages, random delays before forwarding, and encryption of
+forwarding information between forwarding remailers, increases the degree of
+difficulty for attackers still further as message size and timing can be
+largely eliminated as traffic analysis clues, and lack of easily readable
+forwarding information renders ineffective simple automated traffic analysis
+algorithms.
+
+## [edit] Web based mailer
+
+There are also web services that will let you send anonymous email messages.
+These services do not provide the anonymity of real remailers, but they are
+easier to use. When using a web based anonymous email or anonymous remailer
+service you should first analyze the reputation of this service, since the
+service stands in the middle between you and the email recipient.
+
+## [edit] Using a remailer
+
+If the object is identity anonymity, nothing sent via a remailer can ever
+include identifying information in content available to an outside observer.
+Thus, "From: anon(At)remailer.net Hey dude, send me that new comic to 123
+Maple Street, Wherever, Country, Postal Code. Thanx" is evidently entirely
+unsecure. Encrypting such a message with an adequately secure cryptosystem
+would help, and some remailers are set up to do so. In general cleartext
+messages are likely to include such information even if inadvertently, and
+user anonymity when sending cleartext messages is accordingly likely to be
+lost.
+
+Less obviously, some software (eg, recent versions of Microsoft Office
+components -- Microsoft Word, Microsoft Excel, etc) includes (ordinarily
+invisible) identifying information in each formatted file it saves. The
+information might be name / organization / email address (collected at
+'product registration' and retained internally), or product copy serial
+number, or computer ID (eg, CPU serial number, or interface hardware address
+(eg, Ethernet MAC address, a unique in the world ID), or ... One software
+program which claims to remove such information from files notes that there
+are about 30 different kinds in Word format files. Those interested in
+anonymity should limit themselves to plain text messages (ASCII text only)
+produced by plain text editors (eg, vi, emacs, Notepad, ...) as they don't
+include such hidden information. Alternatively, users should take great care
+to inspect files (eg, text, images, sound files, ...) to ensure they contain
+no identifying information. Note however, that even byte-by-byte inspection
+will not necessarily uncover such information since it can be easily concealed
+by encryption, steganography, or simple unfamiliarity.
+
+Anonymity, once lost, can almost never be regained as those interested in
+breaching it will often keep (and have often kept) records of such
+discoveries. Such records have typically had very long lives, particularly if
+those keeping them have long planning horizons (eg, governments, or groups
+with social or political interests). For some opinions or speech, this may
+have, or come to have, serious consequences.
+
+## [edit] Choosing a remailer
+
+Not all anonymous remailers are identical, even when all works as intended.
+Close attention to operational standards and intent, locations, and
+reliability records is needed before choosing one. Among the criteria which
+should be considered are:
+
+  * class (eg, two way vs one way, encrypted message content vs cleartext only, mixmaster style or one hop forwarding, ...)
+  * location (eg, some offshore jurisdictions allow easier seizure of equipment, data, or operating records than do others) Geographical Mapping
+  * history (eg, some operators maintain/administer their hardware and software in better condition than others; in particular, attention to security configuration issues)
+  * security (eg, some operating systems have much worse security histories (and so likely futures) than others, even when properly configured, maintained, and administered)
+  * operator (at worst, a remailer run by some infamous Secret Police Department will be less than desirable; less ominously, an operator may simply be consistently inattentive)
+  * privacy and operating policies (eg, if stated, better than not; if stated, sensible, and observed, better still; however, recourse (legal or otherwise) has been almost never available against operators, software developers, operating system suppliers, ... in case of loss of anonymity and/or consequent damages regardless of operating policies, stated or observed)
+  * software used (eg, some remailer software is widely used (and live tested), some is not)
+  * record and reputation (eg, consult remailer statistics sites, and check around (Google search, news group postings, blogs, ...)
+
+There is no way to ensure that any particular remailer server will never cause
+problems for its users (eg, loss of identity confidentiality). A remailer
+system not under one's own (expert level) control will always remain, to some
+extent, unknown.
+
+## [edit] Remailer statistics
+
+In most cases, remailers are owned and operated by individuals, and are not as
+stable as they might ideally be. In fact, remailers can, and have, gone down
+without warning. It is therefore important to use up-to-date statistics when
+choosing remailers.
+
+## [edit] See also
+
+  * Anonymity
+  * Anonymous P2P
+  * Data privacy
+  * Identity theft
+  * Mixminion
+  * Onion routing
+  * Penet remailer
+  * Pseudonymous remailer
+  * Traffic analysis
+  * Winston Smith Project
+
+## [edit] References
+
+  1. ^ du Pont, George F. (2001) The Time Has Come for Limited Liability for Operators of True Anonymity Remailers in Cyberspace: An Examination of the Possibilities and Perils"Journal of Technology Law & Policy"
+
+  * Remailer Vulnerabilities
+  * Email Security, Bruce Schneier (ISBN 0-471-05318-X)
+  * Computer Privacy Handbook, Andre Bacard (ISBN 1-56609-171-3)
+
+Retrieved from "http://en.wikipedia.org/wiki/Anonymous_remailer"
+
+Categories: Anonymous file sharing networks | Network-related software
+
+Hidden categories: Articles needing additional references from March 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 1 April 2009, at 02:50.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

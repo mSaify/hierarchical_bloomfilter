@@ -1,0 +1,270 @@
+
+# Media Player Classic
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Media Player Classic <IMG>  
+<IMG>  
+Developed by Gabest  
+Initial release May 29, 2003 (2003-05-29)  
+Latest release 6.4.9.0 / 2006-03-20; 1119 days ago  
+Written in C++  
+Operating system Microsoft Windows  
+Available in Multilingual  
+Type Media player  
+License GNU General Public License  
+Website Guliverkli project  
+Media Player Classic (MPC) is a compact media player for Microsoft Windows.
+The application mimics the look and feel of the old, light-weight Windows
+Media Player 6.4 but integrates most options and features found in modern
+media players. It and its heirs are standard media players in K-Lite Codec
+Pack.
+
+Media Player Classic was originally created and maintained by a programmer
+named "Gabest". It was developed as a closed-source application, but later
+relicensed as free software under the terms of the GNU General Public License.
+MPC is hosted under the `guliverkli` project at SourceForge.net. The project
+itself is something of an umbrella organization for works by Gabest.
+
+## Contents
+
+  * 1 Features
+    * 1.1 MPEG-1, MPEG-2 and MPEG-4 playback
+    * 1.2 DirectShow, QuickTime and RealPlayer architectures
+    * 1.3 Matroska and Ogg containers
+    * 1.4 TV tuners
+  * 2 Forks
+  * 3 GPL violations of MPC code
+  * 4 See also
+  * 5 References
+  * 6 External links
+
+  
+## [edit] Features
+
+### [edit] MPEG-1, MPEG-2 and MPEG-4 playback
+
+Media Player Classic is capable of VCD, SVCD and DVD playback, without the
+need to install any additional software or codecs. It has built-in codecs for
+MPEG-2 video with support for subtitles and codecs for LPCM, MP2, AC3 and DTS
+audio, and also contains an improved MPEG splitter that supports playback of
+VCDs and SVCDs using its VCD/SVCD/XCD Reader. On October 30, 2005 Gabest added
+*.mp4 and MPEG-4 Timed Text support.[1] An AAC decoding filter has been
+present in MPC for a while, which makes MPC suitable for AAC playback in MP4,
+and an alternative to Winamp and iTunes.
+
+### [edit] DirectShow, QuickTime and RealPlayer architectures
+
+Media Player Classic is primarily based on the DirectShow architecture, and
+therefore automatically uses installed DirectShow decoding filters. For
+instance, after the open source DirectShow decoding filter ffdshow has been
+installed, fast and high quality decoding and postprocessing of the DivX,
+Xvid, H.264 and Flash Video formats is available in MPC.
+
+MPC provides DXVA beta support, for newer nVidia and ATI video cards when
+using an H.264 or VC-1. This provides hardware-acceleration for playback.
+
+In addition to DirectShow, MPC can also use the QuickTime and the RealPlayer
+architectures (if installed on the computer) to play their native files.
+
+### [edit] Matroska and Ogg containers
+
+Media Player Classic supports native playback of OGM and Matroska container
+formats. However, OGM audio playback is limited by a lack of support for the
+CoreVorbis DirectShow filter, which mainly affects newer OGM files (c. 2006).
+The crux of this problem is that MPC is hard-coded to use an older Vorbis
+filter, so even if one installs newer filters, MPC is unable to use them.[2]
+
+### [edit] TV tuners
+
+MPC supports playback and recording of television if a supported TV tuner is
+installed.
+
+## [edit] Forks
+
+<IMG>
+
+Please help improve this article or section by expanding it. Further
+information might be found on the talk page. (October 2008)  
+Media Player Classic  
+Homecinema Initial release March 29, 2006 (2006-03-29)  
+Latest release 1.2.908.0 / 2008-11-29  
+Website MPC Homecinema project  
+Due to a stall in development of Media Player Classic in May 2006 many bugs
+were left unfixed. The community at the Doom9 forum has since maintained their
+own builds; one build is meant for fixing bugs and updating outdated libraries
+with the release labeled as 6.4.9.1;[3] while the other one, Media Player
+Classic Homecinema, is for adding new features while fixing bugs and updating
+libraries.[4] Gabest, the main developer, stated that development of Media
+Player Classic is not dead in March 2007, but has made no progress in updating
+the source code.[5]
+
+## [edit] GPL violations of MPC code
+
+In April 2005, Gabest claimed that two media players, namely VX30 and The
+KMPlayer, have violated the General Public License (GPL) by using portions of
+Media Player Classic source code.[6] Maui X-Stream, the distributor of VX30,
+which was previously accused of GPL violations with its CherryOS software,
+have made no comment on the matter. However, the The KMPlayer authors have
+published an official comment on their own forum that denies the alleged GPL
+violation.[7]
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * VSFilter
+  * List of media players
+  * Comparison of media players
+  * K-Lite Codec Pack
+
+## [edit] References
+
+  1. ^ Doom9 - Media Player Classic supports Matroska v2, *.mp4, *.mov, and MPEG-4 Timed Text
+  2. ^ "Directshow Filters for Ogg Vorbis, Speex, Theora and FLAC". illiminable.com. 2006-02-24. http://www.illiminable.com/ogg/. Retrieved on 2007-12-29.
+  3. ^ "Doom9's topic on Media Player Classic patched build". http://forum.doom9.org/showthread.php?t=128616. Retrieved on 2007-11-11.
+  4. ^ "Doom9's topic on Media Player Classic Homecinema patched build". http://forum.doom9.org/showthread.php?t=123537. Retrieved on 2007-11-11.
+  5. ^ "SourceForge's discussion about project status". http://sourceforge.net/forum/forum.php?thread_id=1690818&forum_id=281014. Retrieved on 2007-11-11.
+  6. ^ SourceForge.net: GPL violation
+  7. ^ Do not believe bad rumors spread in networks. - The KMPlayer's Forums
+
+## [edit] External links
+
+  * Guliverkli \- The SourceForge.net project page of Media Player Classic.
+  * Guliverkli2 \- The SourceForge.net project page of patched build.
+  * MPC-HC \- The SourceForge.net project page of Media Player Classic Homecinema.
+
+v â¢ d â¢ e
+
+Media players  
+Windows
+
+1by1 Â· ATunes Â· Adobe Media Player Â· Aqualung Â· Audio Overload Â·
+BS.Player Â· Billy Â· Boxee Â· Connect Player Â· CD Player Â· The Core Pocket
+Media Player Â· Crystal Player Â· DBpoweramp Â· DVBViewer Â· Dell MediaDirect
+Â· DivX Player Â· DVD Player Â· Dziobas Rar Player Â· Adobe Flash Player Â·
+foobar2000 Â· GOM Player Â· High Definition Compatible Digital Â· ITunes Â·
+InterActual Player Â· Iriver plus 3 Â· jetAudio Â· Kantaris Â· Ladybug Player
+Vista Â· MPlayer Â· MadCat Media Browser Â· Media Center Â· Media Player Â·
+Media Player Classic Â· MediaMonkey Â· Miro Â· Mod4Win Â· MusicForMasses Â·
+Musicmatch Jukebox Â· MusikCube Â· Passion audio player Â· Pocket Player Â·
+PocketMusic Â· PocketOgg Â· PowerDVD Â· QuickPlayer Â· QuickTime Â·
+Quintessential Player Â· QuuxPlayer Â· RadLight Â· RealPlayer Â· Realtek Media
+Player Â· SNESAmp Â· SUPER Â· Adobe Shockwave Â· SimpleCenter Â· Softsled Â·
+Songbird Â· SonicStage Â· Sonique Â· Spider Player Â· The Core Media Player Â·
+The KMPlayer Â· Tuniac Â· VLC media player Â· Vidlizard Â· VisiTunes Â·
+Visonair Â· WinDVD Â· WinPlay3 Â· Winamp Â· Windows Media Center Â· Windows
+Media Player Â· XBMC Â· Xiph QuickTime Components Â· Yahoo! Music Jukebox Â·
+Zinf Â· Zoom Player  
+Mac OS X
+
+Audio Overload Â· Audion Â· Boxee Â· Centerstage Â· Chroma Â· Cog Â· DVD
+Player Â· DivX Player Â· Adobe Flash Player Â· Front Row Â· ITheater Â· ITunes
+Â· MPlayer Â· Miro Â· Peel Â· Perian Â· Plexapp Â· QuickTime Â· RealPlayer Â·
+SWF & FLV Player Â· Adobe Shockwave Â· Songbird Â· VLC media player Â· Windows
+Media Components for QuickTime Â· Windows Media Player Â· XBMC Â· Xiph
+QuickTime Components  
+Linux
+
+Amarok Â· Aqualung Â· Ario Â· Audacious Media Player Â· Audio Overload Â· BMPx
+Â· Banshee Â· Baudline Â· Beep Media Player Â· Boxee Â· Cactus Jukebox Â·
+Canola Â· Cmus Â· Decibel Audio Player Â· FALF Â· Adobe Flash Player Â·
+Extended Module Player Â· Freevo Â· Gnome Music Player Client Â· Helix Â· JuK
+Â· Kaffeine Â· LinuxMCE Â· Lsongs Â· MPlayer Â· Miro Â· Mpg123 Â· Muine Â·
+Music Player Daemon Â· Music on Console Â· Noatun Â· Ogle DVD Player Â· Open
+Cubic Player Â· Quod Libet Â· RealPlayer Â· Rhythmbox Â· Songbird Â· Totem Â·
+Unix Amiga Delitracker Emulator Â· VLC media player Â· Winamp Â· XBMC Â· XMMS
+Â· XMMS2 Â· Xine Â· Zinf  
+Technologies
+
+Playlist Â· Media resource locator Â· Music visualization Â· Internet radio Â·
+Internet television Â· Podcast Â· Codec Â· Container format  
+Related articles
+
+Comparison of media players Â· Video player Â· HD media player Â· Media center
+Â· Portable media player  
+Retrieved from "http://en.wikipedia.org/wiki/Media_Player_Classic"
+
+Categories: Windows media players | Free video software | Free media players |
+Free software programmed in C++ | Windows-only free software
+
+Hidden categories: Articles to be expanded since October 2008 | All articles
+to be expanded
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * LietuviÅ³
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 25 March 2009, at 17:26 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,831 @@
+
+# MPEG-2
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Not to be confused with MPEG-1 Audio Layer II (MP2).
+
+<IMG>
+
+<IMG>
+
+MPEG-2 is used in Digital Video Broadcast and Digital Versatile Discs. The
+transport stream, TS, and program stream, PS, are container formats.
+
+MPEG-2 is a standard for "the generic coding of moving pictures and associated
+audio information".[1] It describes a combination of lossy video compression
+and lossy audio data compression methods which permit storage and transmission
+of movies using currently available storage media and transmission bandwidth.
+
+## Contents
+
+  * 1 Main characteristics
+  * 2 History
+  * 3 Video coding (simplified)
+    * 3.1 Macroblocks
+  * 4 Audio encoding
+  * 5 Video profiles and levels
+  * 6 Applications
+    * 6.1 DVD
+    * 6.2 DVB
+    * 6.3 ATSC and ISDB-T
+  * 7 ISO/IEC 13818
+  * 8 Patent holders
+    * 8.1 MPEG-LA Patents
+    * 8.2 Non-MPEG-LA Patents
+  * 9 See also
+  * 10 References
+  * 11 External links
+
+  
+## [edit] Main characteristics
+
+MPEG-2 is widely used as the format of digital television signals that are
+broadcast by terrestrial (over-the-air), cable, and direct broadcast satellite
+TV systems. It also specifies the format of movies and other programs that are
+distributed on DVD and similar discs. As such, TV stations, TV receivers, DVD
+players, and other equipment are often designed to this standard. MPEG-2 was
+the second of several standards developed by the Moving Pictures Expert Group
+(MPEG) and is an international standard (ISO/IEC 13818). Parts 1 and 2 of
+MPEG-2 were developed in a joint collaborative team with ITU-T, and they have
+a respective catalog number in the ITU-T Recommendation Series.
+
+While MPEG-2 is the core of most digital television and DVD formats, it does
+not completely specify them. Regional institutions can adapt it to their needs
+by restricting and augmenting aspects of the standard. See Profiles and
+Levels.
+
+MPEG-2 includes a Systems section, part 1, that defines two distinct, but
+related, container formats. One is the Transport Stream, designed to carry
+digital video and audio over possibly lossy media, such as broadcasting,
+examples of which include ATSC, DVB and SBTVD. MPEG-2 Systems also defines
+Program Stream, a container format designed for reasonably reliable media such
+as optical discs, DVDs and SVCDs. MPEG-2/System is formally known as ISO/IEC
+13818-1 and as ITU-T Rec. H.222.0.[2]
+
+The Video section, part 2 of MPEG-2, is similar to the previous MPEG-1
+standard, but also provides support for interlaced video, the format used by
+analog broadcast TV systems. MPEG-2 video is not optimized for low bit-rates,
+especially less than 1 Mbit/s at standard definition resolutions. However, it
+outperforms MPEG-1 at 3 Mbit/s and above. All standards-compliant MPEG-2 Video
+decoders are fully capable of playing back MPEG-1 Video streams. MPEG-2/Video
+is formally known as ISO/IEC 13818-2 and as ITU-T Rec. H.262.[3]
+
+With some enhancements, MPEG-2 Video and Systems are also used in some HDTV
+transmission systems.
+
+The MPEG-2 Audio section, defined in part 3 of the standard, enhances MPEG-1's
+audio by allowing the coding of audio programs with more than two channels.
+This method is backwards-compatible, allowing MPEG-1 audio decoders to decode
+the two main stereo components of the presentation.
+
+Part 7 of the MPEG-2 standard specifies a rather different, non-backwards-
+compatible audio format. Part 7 is referred to as MPEG-2 AAC. AAC is more
+efficient than the previous MPEG audio standards, and is in some ways less
+complicated than the its predecessor, MPEG-1 Audio, Layer 3, in that it does
+not have the hybrid filter bank. Advanced Audio is also defined in Part 3 of
+the MPEG-4 standard.
+
+## [edit] History
+
+MPEG-2 evolved out of the shortcomings of MPEG-1.
+
+MPEG-1's known weaknesses:
+
+  * a less efficient audio compression system
+  * lack of flexibility (fewer variations of acceptable packet types)
+  * does not support interlaced footage
+
+<IMG> This section requires expansion.  
+## [edit] Video coding (simplified)
+
+Main article: Video compression
+
+An HDTV camera generates a raw video stream of up to 233,280,000 bytes per
+second. This stream must be compressed if digital TV is to fit in the
+bandwidth of available TV channels and if movies are to fit on DVDs.
+Fortunately, video compression is practical because the data in pictures is
+often redundant in space and time. For example, the sky can be blue across the
+top of a picture and that blue sky can persist for frame after frame. Also,
+because of the way the eye works, it is possible to delete some data from
+video pictures with almost no noticeable degradation in image quality.
+
+TV cameras used in broadcasting usually generate 25 pictures a second (in
+Europe) or 29.97 pictures a second (in North America). Digital television
+requires that these pictures be digitized so that they can be processed by
+computer hardware. Each picture element (a pixel) is then represented by one
+luma number and two chrominance numbers. These describe the brightness and the
+color of the pixel (see YCbCr). Thus, each digitized picture is initially
+represented by three rectangular arrays of numbers.
+
+A common (and old) trick to reduce the amount of data is to separate the
+picture into two fields: the "top field," which is the odd numbered rows, and
+the "bottom field," which is the even numbered rows. The two fields are
+displayed alternately. This format is called interlaced video; two successive
+fields are called a frame. The typical frame rate is then 25 or 29.97 frames
+per second. If the video is not interlaced, then it is called progressive
+video and each picture is a frame. MPEG-2 supports both options.
+
+Another common practice to reduce the data rate is to "thin out" or subsample
+the two chrominance planes. In effect, the remaining chrominance values
+represent the nearby values that are deleted. Thinning works because the eye
+better resolves brightness details than chrominance details. The 4:2:2
+chrominance format indicates that half the chrominance values have been
+deleted. The 4:2:0 chrominance format indicates that three quarters of the
+chrominance values have been deleted. If no chrominance values have been
+deleted, the chrominance format is 4:4:4. MPEG-2 allows all three options.
+
+MPEG-2 specifies that the raw frames be compressed into three kinds of frames:
+intra-coded frames (I-frame), predictive-coded frames (P-frames), and
+bidirectionally-predictive-coded frames (B-frames).
+
+An I-frame is a compressed version of a single uncompressed (raw) frame. It
+takes advantage of spatial redundancy and of the inability of the eye to
+detect certain changes in the image. Unlike P-frames and B-frames, I-frames do
+not depend on data in the preceding or the following frames. Briefly, the raw
+frame is divided into 8 pixel by 8 pixel blocks. The data in each block is
+transformed by a discrete cosine transform. The result is an 8 by 8 matrix of
+coefficients. The transform converts spatial variations into frequency
+variations, but it does not change the information in the block; the original
+block can be recreated exactly by applying the inverse cosine transform. The
+advantage of doing this is that the image can now be simplified by quantizing
+the coefficients. Many of the coefficients, usually the higher frequency
+components, will then be zero. The penalty of this step is the loss of some
+subtle distinctions in brightness and color. If one applies the inverse
+transform to the matrix after it is quantized, one gets an image that looks
+very similar to the original image but that is not quite as nuanced. Next, the
+quantized coefficient matrix is itself compressed. Typically, one corner of
+the quantized matrix is filled with zeros. By starting in the opposite corner
+of the matrix, then zigzagging through the matrix to combine the coefficients
+into a string, then substituting run-length codes for consecutive zeros in
+that string, and then applying Huffman coding to that result, one reduces the
+matrix to a smaller array of numbers. It is this array that is broadcast or
+that is put on DVDs. In the receiver or the player, the whole process is
+reversed, enabling the receiver to reconstruct, to a close approximation, the
+original frame.
+
+Typically, every 15th frame or so is made into an I-frame. P-frames and
+B-frames might follow an I-frame like this, IBBPBBPBBPBB(I), to form a Group
+Of Pictures (GOP); however, the standard is flexible about this.
+
+### [edit] Macroblocks
+
+P-frames provide more compression than I-frames because they take advantage of
+the data in the previous I-frame or P-frame. I-frames and P-frames are called
+reference frames. To generate a P-frame, the previous reference frame is
+reconstructed, just as it would be in a TV receiver or DVD player. The frame
+being compressed is divided into 16 pixel by 16 pixel macroblocks. Then, for
+each of those macroblocks, the reconstructed reference frame is searched to
+find that 16 by 16 macroblock that best matches the macroblock being
+compressed. The offset is encoded as a "motion vector." Frequently, the offset
+is zero. But, if something in the picture is moving, the offset might be
+something like 23 pixels to the right and 4 pixels up. The match between the
+two macroblocks will often not be perfect. To correct for this, the encoder
+computes the strings of coefficient values as described above for both
+macroblocks and, then, subtracts one from the other. This "residual" is
+appended to the motion vector and the result sent to the receiver or stored on
+the DVD for each macroblock being compressed. Sometimes no suitable match is
+found. Then, the macroblock is treated like an I-frame macroblock.
+
+The processing of B-frames is similar to that of P-frames except that B-frames
+use the picture in the following reference frame as well as the picture in the
+preceding reference frame. As a result, B-frames usually provide more
+compression than P-frames. B-frames are never reference frames.
+
+While the above generally describes MPEG-2 video compression, there are many
+details that are not discussed including details involving fields, chrominance
+formats, responses to scene changes, special codes that label the parts of the
+bitstream, and other pieces of information.
+
+## [edit] Audio encoding
+
+MPEG-2 also introduces new audio encoding methods. These are
+
+  * low bitrate encoding with halved sampling rate (MPEG-1 Layer 1/2/3 LSF)
+  * multichannel encoding with up to 5.1 channels
+  * MPEG-2 AAC
+
+## [edit] Video profiles and levels
+
+MPEG-2 video supports a wide range of applications from mobile to high quality
+HD editing. For many applications, it's unrealistic and too expensive to
+support the entire standard. To allow such applications to support only
+subsets of it, the standard defines profile and level.
+
+The profile defines the subset of features such as compression algorithm,
+chroma format, etc. The level defines the subset of quantitative capabilities
+such as maximum bit rate, maximum frame size, etc.
+
+A MPEG application then specifies the capabilities in terms of profile and
+level. For example, a DVD player may say it supports up to main profile and
+main level (often written as MP@ML). It means the player can play back any
+MPEG stream encoded as MP@ML or less.
+
+The tables below summarizes the limitations of each profile and level. There
+are many other constraints not listed here.
+
+MPEG-2 Profiles Abbr. Name Picture Coding Types Chroma Format Aspect Ratios
+Scalable modes  
+SP Simple profile I, P 4:2:0 square pixels, 4:3, or 16:9 none  
+MP Main profile I, P, B 4:2:0 square pixels, 4:3, or 16:9 none  
+SNR SNR Scalable profile I, P, B 4:2:0 square pixels, 4:3, or 16:9 SNR
+(signal-to-noise ratio) scalable  
+Spatial Spatially Scalable profile I, P, B 4:2:0 square pixels, 4:3, or 16:9
+SNR- or spatial-scalable  
+HP High profile I, P, B 4:2:2 or 4:2:0 square pixels, 4:3, or 16:9 SNR- or
+spatial-scalable  
+Exempting scalability (a rarely used feature where one MPEG-2 stream augments
+another), the following are some of the constraints on levels:
+
+MPEG-2 Levels Abbr. Name Frame rates (Hz) Max horizontal resolution Max
+vertical resolution Max luminance samples per second (approximately height x
+width x framerate) Max bit rate in Main profile (Mbit/s)  
+LL Low Level 23.976, 24, 25, 29.97, 30 352 288 3,041,280 4  
+ML Main Level 23.976, 24, 25, 29.97, 30 720 576 10,368,000, except in High
+profile, where constraint is 14,475,600 for 4:2:0 and 11,059,200 for 4:2:2 15  
+H-14 High 1440 23.976, 24, 25, 29.97, 30, 50, 59.94, 60 1440 1152 47,001,600,
+except that in High profile with 4:2:0, constraint is 62,668,800 60  
+HL High Level 23.976, 24, 25, 29.97, 30, 50, 59.94, 60 1920 1152 62,668,800,
+except that in High profile with 4:2:0, constraint is 83,558,400 80  
+## [edit] Applications
+
+### [edit] DVD
+
+The DVD standard uses MPEG-2 video, but imposes some restrictions:
+
+  * Allowed Resolutions 
+    * 720 Ã 480, 704 Ã 480, 352 Ã 480, 352 Ã 240 pixel (NTSC)
+    * 720 Ã 576, 704 Ã 576, 352 Ã 576, 352 Ã 288 pixel (PAL)
+  * Allowed Aspect ratios (Display AR) 
+    * 4:3
+    * 16:9 (1.85:1 and 2.35:1, among others, are often listed as valid DVD aspect ratios, but are actually just a 16:9 image with the top and bottom of the frame masked in black)
+  * Allowed Frame rates 
+    * 29.97 frame/s (NTSC)
+    * 25 frame/s (PAL)
+
+    Note: By using a pattern of REPEAT_FIRST_FIELD flags on the headers of encoded pictures, pictures can be displayed for either two or three fields and almost any picture display rate (minimum â  of the frame rate) can be achieved. This is most often used to display 23.976 (approximately film rate) video on NTSC.
+  * Audio+video bitrate 
+    * Video peak 9.8 Mbit/s
+    * Total peak 10.08 Mbit/s
+    * Minimum 300 kbit/s
+  * YUV 4:2:0
+  * Additional subtitles possible
+  * Closed captioning (NTSC only)
+  * Audio 
+    * Linear Pulse Code Modulation (LPCM): 48 kHz or 96 kHz; 16- or 24-bit; up to six channels (not all combinations possible due to bitrate constraints)
+    * MPEG Layer 2 (MP2): 48 kHz, up to 5.1 channels (required in PAL players only)
+    * Dolby Digital (DD, also known as AC-3): 48 kHz, 32â448 kbit/s, up to 5.1 channels
+    * Digital Theater Systems (DTS): 754 kbit/s or 1510 kbit/s (not required for DVD player compliance)
+    * NTSC DVDs must contain at least one LPCM or Dolby Digital audio track.
+    * PAL DVDs must contain at least one MPEG Layer 2, LPCM, or Dolby Digital audio track.
+    * Players are not required to play back audio with more than two channels, but must be able to downmix multichannel audio to two channels.
+  * GOP structure (Group Of Pictures) 
+    * Sequence header must be present at the beginning of every GOP
+    * Maximum frames per GOP: 18 (NTSC) / 15 (PAL), i.e. 0.6 seconds both
+    * Closed GOP required for multi-angle DVDs
+
+### [edit] DVB
+
+Application-specific restrictions on MPEG-2 video in the DVB standard:
+
+Allowed resolutions for SDTV:
+
+  * 720, 640, 544, 480 or 352 Ã 480 pixel, 24/1.001, 24, 30/1.001 or 30 frame/s
+  * 352 Ã 240 pixel, 24/1.001, 24, 30/1.001 or 30 frame/s
+  * 720, 704, 544, 480 or 352 Ã 576 pixel, 25 frame/s
+  * 352 Ã 288 pixel, 25 frame/s
+
+For HDTV:
+
+  * 720 x 576 x 50 frame/s progressive (576p50)
+  * 1280 x 720 x 25 or 50 frame/s progressive (720p50)
+  * 1440 or 1920 x 1080 x 25 frame/s progressive (1080p25 â film mode)
+  * 1440 or 1920 x 1080 x 25 frame/s interlace (1080i25)
+  * 1920 x 1080 x 50 frame/s progressive (1080p50) possible future H.264/AVC format
+
+### [edit] ATSC and ISDB-T
+
+Main article: ATSC Standards
+
+The ATSC A/53 standard, used in the United States, uses MPEG-2 video at the
+Main Profile @ High Level, with additional restrictions:
+
+  * The maximum bitrate of the MPEG-2 video stream is exactly 19.4 Mbit/s for broadcast television, and exactly 38.8 Mbit/s for the "high-data-rate" mode (e.g., cable television). (The practical limit is somewhat lower, since the MPEG-2 video stream must fit inside a transport stream, with overhead, sent out at 19.3927... Mbit/s for broadcast.)
+
+  * The amount of MPEG-2 stream buffer required at the decoder (the vbv_buffer_size_value) must be less than or equal to 999,424 bytes.
+
+  * In most cases, the transmitter can't start sending a coded image until within a half-second of when it's to be decoded (vbv_delay less than or equal to 45000 90-kHz clock increments).
+
+  * The stream must include colorimetry information (gamma curve, the precise RGB colors used, and the relationship between RGB and the coded YCbCr).
+
+  * The video must be 4:2:0 (chrominance resolution must be 1/2 of luma horizontal resolution and 1/2 of luma vertical resolution).
+
+Allowed video resolutions, aspect ratios, and frame/field rates:
+
+  * 1920 Ã 1080 pixel (16:9, with square pixels), at 30p, 29.97p, 24p, 23.98p, 30i, or 29.97i
+  * 1280 Ã 720 pixel (16:9, with square pixels), at 60p, 59.94p, 30p, 29.97p, 24p, or 23.98p
+  * 704 Ã 480 pixel (either 4:3 or 16:9 â either way, with non-square pixels), at 60p, 59.94p, 30p, 29.97p, 24p, 23.98p, 30i, or 29.97i
+  * 640 Ã 480 pixel (4:3, with square pixels), at 60p, 59.94p, 30p, 29.97p, 24p, 23.98p, 30i, or 29.97i
+
+Note that although the ATSC A/53 standard limits transmission to these 18
+formats (and their 1000/1001-rate slowed-down versions), the U.S. Federal
+Communications Commission declined to mandate that television stations obey
+this part of the ATSC's standard. In theory, television stations in the U.S.
+are free to choose any resolution, aspect ratio, and frame/field rate, within
+the limits of Main Profile @ High Level. Many stations do go outside the
+bounds of the ATSC specification by using other resolutions â for example,
+720 Ã 480.
+
+Also note that the ATSC specification and MPEG-2 allow the use of progressive
+frames, even within an interlaced video sequence. For example, NBC stations
+transmit a 1080i30 video sequence â meaning the formal output of the MPEG-2
+decoding process is sixty 540-line fields per second. But for prime-time
+television shows, those 60 fields can be coded with 24 progressive frames.
+Some NBC stations do this, meaning they actually transmit an 1080p24 video
+stream (a sequence of 24 progressive frames per second) with metadata
+instructing the decoder to interlace them (and repeat them in 3:2 pulldown)
+before display.
+
+Thus, it would be incorrect to say that the ATSC standard doesn't contain
+1080p video, or that broadcast HDTV doesn't use 1080p video. The ATSC
+specification allows 1080p30 and 1080p24 sequences â just not 1080p60
+sequences. They aren't used in practice, because broadcasters want to be able
+to switch between 60 Hz (news, soap operas) and 24 Hz (prime-time) content
+without ending the MPEG-2 sequence. However, the ATSC specification also
+allows broadcasters to transmit progressive frames within an interlaced
+sequence, and some broadcasters actually do this in practice. Their
+transmissions could fairly be described as 1080p24, since they contain 24
+progressively-coded frames per second. (This is the same mechanism used by HD-
+DVD to code 1080p24 content â progressive frames within an interlaced
+sequence.)
+
+Note: The 1080-line formats are encoded with 1920 Ã 1088 pixel luma matrices
+and 960 Ã 540 chroma matrices, but the last 8 lines are discarded by the
+MPEG-2 decoding and display process.
+
+MPEG-2 audio was a contender for the ATSC standard during the DTV "Grand
+Alliance" shootout, but lost out to Dolby AC-3. The Grand Alliance issued a
+statement finding the MP2 system to be "essentially equivalent" to Dolby, but
+only after the Dolby selection had been made. Later, a story emerged that MIT
+had entered into an agreement with Dolby whereupon the university would be
+awarded a large sum if the MP2 system was rejected. Dolby also offered an
+incentive for Zenith to switch their vote (which they did), however it is
+unknown whether they accepted the offer. [4]
+
+Note: All the text about MPEG-2 in ATSC is also valid for ISDB-T, except that
+in the main TS is aggregated a second program for mobile devices compressed in
+MPEG-4 H.264 AVC for video and AAC-LC for audio, mainly known as 1Seg.
+
+## [edit] ISO/IEC 13818
+
+Part 1
+
+    Systems â describes synchronization and multiplexing of video and audio. Also known as ITU-T Rec. H.222.0.[2] See MPEG transport stream.
+Part 2
+
+    Video â compression codec for interlaced and non-interlaced video signals. Also known as ITU-T Rec. H.262.
+Part 3
+
+    Audio â compression codec for perceptual coding of audio signals. A multichannel-enabled extension of MPEG-1 audio.
+Part 4
+
+    Describes procedures for testing compliance.
+Part 5
+
+    Describes systems for Software simulation.
+Part 6
+
+    Describes extensions for DSM-CC (Digital Storage Media Command and Control).
+Part 7
+
+    Advanced Audio Coding (AAC).
+Part 9
+
+    Extension for real time interfaces.
+Part 10
+
+    Conformance extensions for DSM-CC.
+Part 11
+
+    Intellectual property management (IPMP)
+(Part 8: 10-bit video extension. Primary application was studio video. Part 8
+has been withdrawn due to lack of interest by industry.)
+
+## [edit] Patent holders
+
+<IMG> This section may require cleanup to meet Wikipedia's quality standards.  
+Approximately 640 patents worldwide make up the "essential" patents
+surrounding MPEG-2.[5][6] These are held by over 20 corporations and one
+university. Where software patentability is upheld, the use of MPEG-2 requires
+the payment of licensing fees to the patent holders via the MPEG Licensing
+Association. The patent pool is managed and administered by MPEG Licensing
+Authority, a private organization. Other patents are licensed by Audio MPEG,
+Inc.[7] The development of the standard itself took less time than the patent
+negotiations.[8][9]
+
+### [edit] MPEG-LA Patents
+
+  * Alcatel-Lucent
+    * US 4,833,543 -- Image processing system and phaselocked loop used therein (Expired) -- Filed: December 24, 1986 Granted: May 23, 1989 [2]
+    * US 4,970,590 -- System and device for package multiplexing in transmission of many data flows generated by a sole algorithm -- Filed: December 21, 1989 Granted: November 13, 1990 [3]
+    * US 5,453,790 -- Video decoder having asynchronous operation with respect to a video display -- Filed: March 26, 1993 Granted: September 26, 1995 [4]
+  * British Telecommunications plc
+    * US 5,291,284 -- Predictive coding and decoding with error drift reduction -- Filed: July 23, 1991 Granted: March 1, 1994 [5]
+  * Canon Inc.
+    * US 4,982,270 -- Video data transmitting system -- Filed: February 3, 1989 Granted: January 1, 1991 [6]
+  * CIF LICENSING, LLC
+    * US 5,068,724 -- Adaptive motion compensation for digital television -- Filed: June 15, 1990 Granted: November 26, 1991 [7]
+    * US 5,091,782 -- Apparatus and method for adaptively compressing successive blocks of digital video -- Filed: April 9, 1990 Granted: February 25, 1992 [8]
+    * US 5,093,720 -- Motion compensation for interlaced digital television signals -- Filed: August 20, 1990 Granted: March 3, 1992 [9]
+  * Columbia University
+    * US Re 35,093 -- Systems and methods for coding even fields of interlaced video sequences -- Filed: December 9, 1994 Granted: November 21, 1995 [10] Reissue of 05193004 Filed: Dec., 1990 Granted: Mar., 1993
+  * France Telecom (CNET) 
+    * US 4,796,087 Expired [11]
+  * Fujitsu
+    * US 5,235,618 -- Video signal coding apparatus, coding method used in the video signal coding apparatus and video signal coding transmission system having the video signal coding apparatus -- Filed: November 6, 1990 Granted: August 10, 1993 [12]
+  * General Electric Capital Corporation 
+    * US 4,706,260 Expired [13]
+    * US 4,813,056 Expired [14]
+  * General Instrument Corp. (now the broadband division of Motorola) 
+    * US 4,394,774 Expired [15]
+    * US 4,698,672 Expired [16]
+  * GE Technology Development, Inc. 
+    * US 5,426,464 -- Field elimination apparatus for a video compression/decompression system -- Filed: October 18, 1994 Granted: June 20, 1995 [17]
+    * US 5,486,864 -- Differential time code method and apparatus as for a compressed video signal -- Filed: May 13, 1993 Granted: January 23, 1996 [18]
+    * US 5,491,516 -- Field elimination apparatus for a video compression/decompression system -- Filed: January 14, 1993 Granted: February 13, 1996 [19]
+    * US 5,600,376 -- Field elimination apparatus for a video compression/decompression system -- Filed: March 20, 1995 Granted: February 4, 1997 [20]
+    * US 5,796,743 -- Data word indicator in a system for assembling transport data packets -- Filed: November 30, 1993 Granted: August 18, 1998 [21]
+  * Hitachi, Ltd.
+  * KDDI Corporation (KDDI)
+  * LG Electronics Inc. 
+    * US Re 37,057 -- Apparatus and method for converting an HDTV signal to a non-HDTV signal -- Filed: May 18, 1998 Granted: February 20, 2001 [22] Reissue of 05519446 Filed: Nov., 1994 Granted: May., 1996
+    * US Re 37,568 -- Inverse Quantizer -- Filed: March 31, 1999 Granted: March 5, 2002 [23] Reissue of 05617094 Filed: Nov., 1993 Granted: Apr., 1997
+  * Matsushita / Panasonic
+    * US Re 35,910 -- Moving image signal encoding apparatus and decoding apparatus -- Filed: May 12, 1994 Granted: September 29, 1998 [24] Reissue of 05113255 Filed: May., 1990 Granted: May., 1992
+    * US Re 36,015 -- Apparatus and method for processing groups of fields in a video data compression system -- Filed: October 2, 1995 Granted: December 29, 1998 [25] Reissue of 05293229 Filed: Mar., 1992 Granted: Mar., 1994
+    * US Re 36,507 -- Apparatus and method for processing groups of fields in a video data compression system to encode a single frame as an I-field and a P-field -- Filed: October 21, 1997 Granted: January 18, 2000 [26] Reissue of 05293229 Filed: Mar., 1992 Granted: Mar., 1994
+    * US Re 39,276 -- Method for determining motion compensation -- Filed: April 27, 2000 Granted: September 12, 2006 [27] Reissue of 05745182 Filed: Jul., 1994 Granted: Apr., 1998
+    * US Re 39,278 -- Method for determining motion compensation -- Filed: April 13, 2001 Granted: September 12, 2006 [28] Reissue of 05745182 Filed: Jul., 1994 Granted: Apr., 1998
+    * US Re 39,280 -- Method for determining motion compensation -- Filed: May 30, 2001 Granted: September 12, 2006 [29] Reissue of 05745182 Filed: Jul., 1994 Granted: Apr., 1998
+    * US 5,223,949 -- Coding means for a signal processing system -- Filed: April 17, 1992 Granted: June 29, 1993 [30]
+    * US 5,412,430 -- Image coding method and image coding apparatus -- Filed: May 4, 1994 Granted: May 2, 1995 [31]
+    * US 5,784,107 -- Method and apparatus for picture coding and method and apparatus for picture decoding -- Filed: January 23, 1996 Granted: July 21, 1998 [32]
+  * Mitsubishi
+    * US 4,954,892 -- Buffer controlled picture signal encoding and decoding system -- Filed: October 4, 1989 Granted: September 4, 1990 [33]
+    * US 5,072,295 -- Adaptive quantization coder/decoder with limiter circuitry -- Filed: August 20, 1990 Granted: December 10, 1991 [34]
+    * US 5,268,846 -- Method and apparatus for nonsequential multimedia data interchange in a data processing system -- Filed: April 10, 1991 Granted: December 7, 1993 [35]
+    * US 5,949,489 -- Image signal coding system -- Filed: July 31, 1998 Granted: September 7, 1999 [36]
+    * US 5,963,258 -- Image signal coding system -- Filed: July 31, 1998 Granted: October 5, 1999 [37]
+    * US 5,970,175 -- Image signal coding system -- Filed: October 26, 1998 Granted: October 19, 1999 [38]
+    * US 5,990,960 -- Image signal coding system -- Filed: December 9, 1998 Granted: November 23, 1999 [39]
+    * US 6,002,439 -- Image signal coding system -- Filed: May 27, 1999 Granted: December 14, 1999 [40]
+    * US 6,097,759 -- Image signal coding system -- Filed: November 22, 1999 Granted: August 1, 2000 [41]
+    * US 6,188,794 -- Image signal coding system -- Filed: May 20, 1999 Granted: February 13, 2001 [42]
+    * US 6,307,973 -- Image signal coding system -- Filed: December 4, 2000 Granted: October 23, 2001 [43]
+  * Nippon Telegraph and Telephone Corporation (NTT)
+  * NXP
+  * Philips
+    * US 4,849,812 Expired [44]
+    * US 4,901,075 Expired [45]
+    * US 5,021,879 -- System for transmitting video pictures -- Filed: September 24, 1990 Granted: June 4, 1991 [46]
+    * US 5,027,206 -- High-definition television systems -- Filed: September 13, 1989 Granted: June 25, 1991 [47]
+    * US 5,128,758 -- Method and apparatus for digitally processing a high definition television augmentation signal -- Filed: June 2, 1989 Granted: July 7, 1992 [48]
+    * US 5,179,442 -- Method and apparatus for digitally processing a high definition television augmentation signal -- Filed: November 26, 1990 Granted: January 12, 1993 [49]
+    * US 5,333,135 -- Identification of a data stream transmitted as a sequence of packets -- Filed: February 1, 1993 Granted: July 26, 1994 [50]
+    * US 5,606,539 -- Method and apparatus for encoding and decoding an audio and/or video signal, and a record carrier for use with such apparatus -- Filed: August 31, 1994 Granted: February 25, 1997 [51]
+    * US 5,608,697 -- Record carrier containing an audio and/or video signal which has been encoded and includes a decoder delay time parameter indicating a time delay for one or more portions of the signal -- Filed: March 18, 1996 Granted: March 4, 1997 [52]
+    * US 5,740,310 -- Method of maintaining display continuity from a CD with slow-motion or freeze capability -- Filed: June 28, 1994 Granted: April 14, 1998 [53]
+    * US 5,844,867 -- Methods and apparatus for encoding and decoding an audio and/or video signal, and a record carrier used therewith or produced therefrom -- Filed: September 9, 1996 Granted: December 1, 1998 [54]
+  * Robert Bosch GmbH
+  * Samsung
+    * US 5,461,421 -- Encoding and decoding method and apparatus thereof -- Filed: November 29, 1993 Granted: October 24, 1995 [55]
+    * US 5,467,086 -- Apparatus and method of coding/decoding video data -- Filed: June 18, 1993 Granted: November 14, 1995 [56]
+    * US 5,654,706 -- System for variable length decoding digital transmission data which has been compressed by selecting a scanning pattern -- Filed: December 18, 1996 Granted: August 5, 1997 [57]
+    * US 6,680,975 -- Signal encoding and decoding system and method -- Filed: November 2, 2000 Granted: January 20, 2004 [58]
+    * US 7,292,657 -- Signal compressing signal -- Filed: July 3, 2003 Granted: November 6, 2007 [59]
+  * Sanyo Electric Co., Ltd.
+  * Scientific Atlanta
+    * US 5,418,782 -- Methods and apparatus for providing virtual service selection in a multi-service communications system -- Filed: January 6, 1994 Granted: May 23, 1995 [60]
+    * US 5,420,866 -- Methods for providing conditional access information to decoders in a packet-based multiplexed communications system -- Filed: March 29, 1994 Granted: May 30, 1995 [61]
+    * US 5,457,701 -- Method for indicating packet errors in a packet-based multi-hop communications system -- Filed: January 6, 1994 Granted: October 10, 1995 [62]
+  * Sharp
+  * Sony
+    * US 4,864,393 -- Motion vector estimation in television images -- Filed: May 31, 1988 Granted: September 5, 1989 [63] Expired
+    * US Re 37,222 -- Video signal transmitting system -- Filed: July 19, 1994 Granted: June 12, 2001 [64] Reissue of 05132792 Filed: Oct., 1990 Granted: Jul., 1992
+    * US 5,191,436 -- Method for recording coded motion picture data -- Filed: April 30, 1991 Granted: March 2, 1993 [65]
+    * US 5,291,486 -- Data multiplexing apparatus and multiplexed data demultiplexing apparatus -- Filed: August 7, 1992 Granted: March 1, 1994 [66]
+    * US 5,298,991 -- Variable length coding apparatus and method for motion vector -- Filed: July 24, 1992 Granted: March 29, 1994 [67]
+    * US 5,343,248 -- Moving image compressing and recording medium and moving image data encoder and decoder -- Filed: July 16, 1992 Granted: August 30, 1994 [68]
+    * US 5,428,396 -- Variable length coding/decoding method for motion vectors -- Filed: December 27, 1993 Granted: June 27, 1995 [69]
+    * US 5,461,420 -- Apparatus for coding and decoding a digital video signal derived from a motion picture film source -- Filed: September 17, 1993 Granted: October 24, 1995 [70]
+    * US 5,481,553 -- Methods and apparatus for preventing rounding errors when transform coefficients representing a motion picture signal are inversely transformed -- Filed: February 28, 1994 Granted: January 2, 1996 [71]
+    * US 5,510,840 -- Methods and devices for encoding and decoding frame signals and recording medium therefor -- Filed: May 15, 1995 Granted: April 23, 1996 [72]
+    * US 5,539,466 -- Efficient coding apparatus for picture signal and decoding apparatus therefor -- Filed: September 26, 1994 Granted: July 23, 1996 [73]
+    * US 5,543,847 -- Picture coding and decoding method for random accessing -- Filed: December 13, 1993 Granted: August 6, 1996 [74]
+    * US 5,559,557 -- Motion video coding with adaptive precision for DC component coefficient quantization and variable length coding -- Filed: September 28, 1993 Granted: September 24, 1996 [75]
+    * US 5,663,763 -- Picture signal encoding method and apparatus and picture signal decoding method and apparatus -- Filed: October 18, 1993 Granted: September 2, 1997 [76]
+    * US 5,666,461 -- High efficiency encoding and decoding of picture signals and recording medium containing same -- Filed: May 30, 1995 Granted: September 9, 1997 [77]
+    * US 5,701,164 -- Macroblock coding including difference between motion vectors -- Filed: December 19, 1996 Granted: December 23, 1997 [78]
+    * US 5,946,042 -- Macroblock coding including difference between motion vectors -- Filed: July 2, 1997 Granted: August 31, 1999 [79]
+    * US 5,982,437 -- Coding method and system, and decoding method and system -- Filed: October 15, 1993 Granted: November 9, 1999 [80]
+    * US 6,040,863 -- Method of coding and decoding motion vector and apparatus therefor, and method of coding and decoding picture signal and apparatus therefor -- Filed: December 18, 1998 Granted: March 21, 2000 [81]
+    * US 6,160,849 -- Selectable field and frame based predictive video coding -- Filed: May 30, 1995 Granted: December 12, 2000 [82]
+  * Thomson Licensing S.A. 
+    * US 4,800,432 Expired [83]
+    * US 4,969,055 Expired [84]
+    * US 5,289,276 -- Method and apparatus for conveying compressed video data over a noisy communication channel -- Filed: June 19, 1992 Granted: February 22, 1994 [85]
+    * US 5,365,272 -- Method for formatting compressed video data into transport cells -- Filed: July 2, 1993 Granted: November 15, 1994 [86]
+    * US 5,381,181 -- Clock recovery apparatus as for a compressed video signal -- Filed: May 13, 1993 Granted: January 10, 1995 [87]
+    * US 5,422,676 -- System for coding an image representative signal -- Filed: October 22, 1993 Granted: June 6, 1995 [88]
+    * US 5,442,400 -- Error concealment apparatus for MPEG-like video data -- Filed: April 29, 1993 Granted: August 15, 1995 [89]
+    * US 5,459,789 -- Packet TV program component detector -- Filed: April 22, 1994 Granted: October 17, 1995 [90]
+    * US 5,483,287 -- Method for forming transport cells for conveying compressed video data -- Filed: August 3, 1994 Granted: January 9, 1996 [91]
+    * US 5,565,923 -- Apparatus for formatting a digital signal to include multiple time stamps for system synchronization -- Filed: August 22, 1995 Granted: October 15, 1996 [92]
+    * US 5,784,110 -- Data processor for assembling transport data packets -- Filed: May 23, 1996 Granted: July 21, 1998 [93]
+    * US 7,020,204 -- Adaptive method of encoding and decoding a series of pictures by transformation, and devices for implementing this method -- Filed: February 8, 2002 Granted: March 28, 2006 [94]
+  * Toshiba
+    * US 5,317,397 -- Predictive coding using spatial-temporal filtering and plural motion vectors -- Filed: May 29, 1992 Granted: May 31, 1994 [95]
+    * US 5,424,779 -- Video coding apparatus -- Filed: November 24, 1993 Granted: June 13, 1995 [96]
+    * US 5,467,136 -- Video decoder for determining a motion vector from a scaled vector and a difference vector -- Filed: February 17, 1994 Granted: November 14, 1995 [97]
+    * US 5,742,344 -- Motion compensated video decoding method and system for decoding a coded video signal using spatial and temporal filtering -- Filed: April 3, 1996 Granted: April 21, 1998 [98]
+    * US 5,986,713 -- Video coding apparatus using inter-field prediction -- Filed: June 11, 1998 Granted: November 16, 1999 [99]
+  * Victor Company of Japan, Limited (JVC). 
+    * US Re 34,965 -- Inter-frame predictive encoding system with encoded and transmitted prediction error -- Filed: January 14, 1993 Granted: June 13, 1995 [100] Reissue of 04985768 Filed: Jan., 1990 Granted: Jan., 1991
+    * US Re 35,158 -- Apparatus for adaptive inter-frame predictive encoding of video signal -- Filed: December 28, 1992 Granted: February 20, 1996 [101] Reissue of 04982285 Filed: Apr., 1990 Granted: Jan., 1991
+    * US Re 36,822 -- Moving image signal coding apparatus and coded signal decoding apparatus -- Filed: October 2, 1998 Granted: August 15, 2000 [102] Reissue of 05748784 Filed: Jan., 1996 Granted: May., 1998
+    * US 5,103,307 -- Interframe predictive coding/decoding system for varying interval between independent frames -- Filed: January 18, 1991 Granted: April 7, 1992 [103]
+    * US 5,175,618 -- Compression method for interlace moving image signals -- Filed: October 30, 1991 Granted: December 29, 1992 [104]
+
+### [edit] Non-MPEG-LA Patents
+
+  * Alcatel-Lucent [105]
+    * US 5,341,457 -- Perceptual coding of audio signals -- Filed: August 20, 1993 Granted: August 23, 1994 [106]
+    * US RE39,080 -- Rate loop processor for perceptual encoder/decoder -- Filed: August 13, 2002 Granted: April 25, 2006 [107] Reissue of 05627938 Filed: Sep., 1994 Granted: May., 1997
+  * Audio MPEG, Inc [108]
+    * US 4,972,484 -- Method of transmitting or storing masked sub-band coded audio signals -- Filed: July 21, 1988 Granted: November 20, 1990 [109]
+    * US 5,214,678 -- Digital transmission system using subband coding of a digital signal -- Filed: May 31, 1990 Granted: May 25, 1993 [110]
+    * US 5,323,396 -- Digital transmission system, transmitter and receiver for use in the transmission system -- Filed: December 21, 1992 Granted: June 21, 1994 [111]
+    * US 5,539,829 -- Subband coded digital transmission system using some composite signals -- Filed: June 7, 1995 Granted: July 23, 1996 [112]
+    * US 5,606,618 -- Subband coded digital transmission system using some composite signals -- Filed: December 27, 1993 Granted: February 25, 1997 [113]
+    * US 5,530,655 -- Digital sub-band transmission system with transmission of an additional signal -- Filed: June 6, 1995 Granted: June 25, 1996 [114]
+    * US 5,777,992 -- Decoder for decoding and encoded digital signal and a receiver comprising the decoder -- Filed: June 7, 1995 Granted: July 7, 1998 [115]
+    * US 6,289,308 -- Encoded wideband digital transmission signal and record carrier recorded with such a signal -- Filed: March 8, 2000 Granted: September 11, 2001 [116]
+    * US 5,481,643 -- Transmitter, receiver and record carrier for transmitting/receiving at least a first and a second signal component -- Filed: April 24, 1995 Granted: January 2, 1996 [117]
+    * US 5,544,247 -- Transmission and reception of a first and a second main signal component -- Filed: October 25, 1994 Granted: August 6, 1996 [118]
+    * US 5,610,985 -- Digital 3-channel transmission of left and right stereo signals and a center signal -- Filed: January 21, 1994 Granted: March 11, 1997 [119]
+    * US 5,740,317 -- Process for finding the overall monitoring threshold during a bit-rate-reducing source coding -- Filed: August 30, 1995 Granted: April 14, 1998 [120]
+    * US 5,878,080 -- N-channel transmission, compatible with 2-channel transmission and 1-channel transmission -- Filed: February 7, 1997 Granted: March 2, 1999 [121]
+    * US 5,960,037 -- Encoding of a plurality of information signals -- Filed: April 9, 1997 Granted: September 28, 1999 [122]
+    * US 5,991,715 -- Perceptual audio signal subband coding using value classes for successive scale factor differences -- Filed: August 31, 1995 Granted: November 23, 1999 [123]
+    * US 6,023,490 -- Encoding apparatus for encoding a plurality of information signals -- Filed: April 9, 1997 Granted: February 8, 2000 [124]
+  * Thomson [125]
+    * US 4,821,260 Expired [126]
+    * US 4,942,607 Expired [127]
+    * US 5,214,742 -- Method for transmitting a signal -- Filed: October 1, 1990 Granted: May 25, 1993 [128]
+    * US 5,227,990 -- Process for transmitting and receiving a signal -- Filed: January 17, 1992 Granted: July 13, 1993 [129]
+    * US 5,384,811 -- Method for the transmission of a signal -- Filed: August 24, 1992 Granted: January 24, 1995 [130]
+    * US 5,736,943 -- Method for determining the type of coding to be selected for coding at least two signals -- Filed: May 31, 1996 Granted: April 7, 1998 [131]
+    * US 5,455,833 -- Process for the detecting of errors in the transmission of frequency-coded digital signals -- Filed: April 26, 1993 Granted: October 3, 1995 [132]
+    * US 5,559,834 -- Method of reducing crosstalk in processing of acoustic or optical signals -- Filed: April 15, 1994 Granted: September 24, 1996 [133]
+    * US 5,321,729 -- Method for transmitting a signal -- Filed: April 26, 1993 Granted: June 14, 1994 [134]
+    * US 5,706,309 -- Process for transmitting and/or storing digital signals of multiple channels -- Filed: May 2, 1995 Granted: January 6, 1998 [135]
+    * US 5,701,346 -- Method of coding a plurality of audio signals -- Filed: September 12, 1996 Granted: December 23, 1997 [136]
+    * US 5,742,735 -- Digital adaptive transformation coding method -- Filed: August 25, 1994 Granted: April 21, 1998 [137]
+    * US 5,812,672 -- Method for reducing data in the transmission and/or storage of digital signals of several dependent channels -- Filed: December 15, 1994 Granted: September 22, 1998 [138]
+    * US 5,579,430 -- Digital encoding process -- Filed: January 26, 1995 Granted: November 26, 1996 [139]
+    * US 6,185,539 -- Process of low sampling rate digital encoding of audio signals -- Filed: May 26, 1998 Granted: February 6, 2001 [140]
+    * US 6,009,399 -- Method and apparatus for encoding digital signals employing bit allocation using combinations of different threshold models to achieve desired bit rates -- Filed: April 16, 1997 Granted: December 28, 1999 [141]
+    * US 5,924,060 -- Digital coding process for transmission or storage of acoustical signals by transforming of scanning values into spectral coefficients -- Filed: March 20, 1997 Granted: July 13, 1999 [142]
+    * US 5,703,999 -- Process for reducing data in the transmission and/or storage of digital signals from several interdependent channels -- Filed: November 18, 1996 Granted: December 30, 1997 [143]
+
+According to the MPEG-LA Licensing Agreement MPEG-LA, any use of MPEG-2
+technology is subject to royalties.
+
+  * Encoders are subject to a royalty of $2.50 per unit.
+  * Decoders are subject to a royalty of $2.50 per unit.[10]
+  * Royalty-based sales of encoders and decoders are subject to different rules and $2.50 per unit.[10]
+  * Also, any packaged medium (DVDs/Data Streams) is subject to licence fees according to length of recording/broadcast.
+
+In the case of free software such as VLC media player (which uses the ffmpeg
+library) and in which the software is not sold, the end-user bears the
+royalty.
+
+## [edit] See also
+
+  * MPEG encoding
+  * MPEG transport stream
+  * MPEG-1 Audio Layer II
+  * MPEG-4
+  * MP2, MP3
+  * AAC
+  * DVD
+  * Theora
+
+## [edit] References
+
+  1. ^ ISO/IEC 13818 MPEG-2 at the ISO Store.
+  2. ^ a b ITU-T Rec. H.222.0
+  3. ^ ITU-T Rec. H.262
+  4. ^ MIT Getting Millions For Digital TV Deal, Keith J. Winsteln, The Tech (Massachusetts Institute of Technology), November 8, 2002
+  5. ^ Mpeg La
+  6. ^ audioMPEG.com - - - US Patents
+  7. ^ audioMPEG.com - - - patent management and licensing company specializing in the licensing of audio technology
+  8. ^ Richard M Stallman, Patents - Barriers to development Theora Video and Vorbis Audio
+  9. ^ [1]
+  10. ^ a b MPEG-2 PATENT PORTFOLIO LICENSE
+
+## [edit] External links
+
+  * A Beginners Guide for MPEG-2 Standard
+  * MPEG-2 Overview
+  * MPEG-2 video compression
+  * MIT 6.344 â Slides from lectures on video compression at MIT.
+  * A Discrete Cosine Transform tutorial
+  * IPTV MPEG and Quality of Experience Testing
+  * OpenIPMP: Open Source DRM Project for MPEG-2
+  * ISO/IEC 13818 â MPEG-2 at the ISO Store.
+  * MPEG Books \- A list of MPEG reference books.
+
+  * TSAFT \- Transport Stream Analysis & Fixing Tool
+
+v â¢ d â¢ e
+
+MPEG (Moving Picture Experts Group)  
+MPEG-1 â¢ 2 â¢ 3 â¢ 4 â¢ 7 â¢ 21 â¢ A â¢ B â¢ C â¢ D â¢ E  
+v â¢ d â¢ e
+
+Multimedia compression formats  
+Video compression
+
+ISO/IEC
+
+MJPEG Â· Motion JPEG 2000 Â· MPEG-1 Â· MPEG-2 Â· MPEG-4 ASP Â· MPEG-4/AVC  
+ITU-T
+
+H.120 Â· H.261 Â· H.262 Â· H.263 Â· H.264  
+Others
+
+AMV Â· AVS Â· Bink Â· Dirac Â· Indeo Â· Pixlet Â· RealVideo Â· RTVideo Â·
+SheerVideo Â· Smacker Â· Theora Â· VC-1 Â· VP6 Â· VP7 Â· VP8 Â· WMV Â· XVD  
+Audio compression
+
+ISO/IEC
+
+MPEG-1 Layer III (MP3) Â· MPEG-1 Layer II Â· MPEG-1 Layer I Â· AAC Â· HE-AAC  
+ITU-T
+
+G.711 Â· G.718 Â· G.719 Â· G.722 Â· G.722.1 Â· G.722.2 Â· G.723 Â· G.723.1 Â·
+G.726 Â· G.728 Â· G.729 Â· G.729.1 Â· G.729a  
+Others
+
+AC3 Â· AMR Â· Apple Lossless Â· ATRAC Â· FLAC Â· iLBC Â· Monkey's Audio Â· Î¼-
+law Â· Musepack Â· Nellymoser Â· OptimFROG Â· RealAudio Â· RTAudio Â· SHN Â·
+Siren Â· Speex Â· Vorbis Â· WavPack Â· WMA Â· TAK Â· True Audio  
+Image compression
+
+ISO/IEC/ITU-T
+
+JPEG Â· JPEG 2000 Â· lossless JPEG Â· JBIG Â· JBIG2 Â· PNG Â· WBMP  
+Others
+
+APNG Â· BMP Â· EXR Â· GIF Â· ICER Â· ILBM Â· MNG Â· PCX Â· PGF Â· TGA Â· TIFF
+Â· JPEG XR / HD Photo  
+Media containers
+
+General
+
+3GP Â· ASF Â· AVI Â· Bink Â· BXF Â· DMF Â· DPX Â· EVO Â· FLV Â· VVF Â·
+Matroska Â· MPEG-PS Â· MPEG-TS Â· MP4 Â· MXF Â· Ogg Â· Ogg Media Â· QuickTime
+Â· RealMedia Â· Smacker Â· RIFF Â· VOB  
+Audio only
+
+AIFF Â· AU Â· WAV  
+See Compression Methods for methods and Compression Software Implementations
+for codecs  
+v â¢ d â¢ e
+
+High-definition (HD)  
+Concepts
+
+High-definition video â¢ High-definition television â¢ High-definition audio  
+Analog broadcast (defunct)
+
+819 line system â¢ HD MAC â¢ MUSE (Hi-Vision)  
+Digital broadcast
+
+ATSC â¢ DVB â¢ ISDB â¢ SBTVD â¢ DMB-T/H  
+Audio
+
+Dolby Digital (5.1) â¢ MPEG-1 Layer II â¢ PCM â¢ LPCM â¢ DXD â¢ DSD â¢
+AAC  
+Filming and storage
+
+HDV â¢ DCI  
+High-definition media and compression
+
+Blu-ray Disc â¢ HD DVD â¢ HD VMD â¢ D-VHS â¢ Super Audio CD â¢ DVD-Audio
+â¢ MPEG-2 â¢ H.264 â¢ VC-1  
+Connectors
+
+Component â¢ HDMI â¢ DVI â¢ DisplayPort â¢ VGA  
+Deployments
+
+List of digital television deployments by country  
+Retrieved from "http://en.wikipedia.org/wiki/MPEG-2"
+
+Categories: Audio codecs | Video codecs | Interactive television | MPEG |
+Video compression | Open formats closed by software patents
+
+Hidden categories: Articles to be expanded since June 2008 | All articles to
+be expanded | Cleanup from February 2007 | All pages needing cleanup
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * à¦¬à¦¾à¦à¦²à¦¾
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * Eesti
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * Kapampangan
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 25 March 2009, at 02:41 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,110 @@
+
+# Waka (protocol)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article is an orphan, as few or no other articles link to it. Please
+introduce links to this page from other articles related to it. (October 2007)  
+Waka is a new application protocol intended as "a binary, token-based
+replacement for HTTP."[1] It is "designed to match the efficiency of the REST
+architectural style."[2]
+
+## [edit] History
+
+Waka was conceived by Roy Fielding of REST fame, and described in a 2002
+ApacheCon presentation. It is still under development. As of August 2006, waka
+was "all done in my head, it's not on paper though. ... I'm almost to the
+point where I can make it an open project."[3]
+
+## [edit] Distinctives
+
+Some of waka's features include:[4]
+
+  * New request semantics (new methods for monitoring and authoring resources)
+  * Self-descriptive (explicit type, scope, binding of response to request)
+  * Allow unsolicited responses
+  * Uniform syntax regardless of type and direction
+  * Extensible via URIs
+  * Client-side macros
+
+The waka protocol is named after a type of Maori canoe.
+
+## [edit] External links
+
+  * ApacheCon presentation on waka
+  * A conversation with Roy Fielding about HTTP, REST, WebDAV, JSR 170, and waka
+  * WS-Transfer, WAKA and the Web
+
+<IMG> This World Wide Web-related article is a stub. You can help Wikipedia by
+expanding it.  
+Retrieved from "http://en.wikipedia.org/wiki/Waka_(protocol)"
+
+Categories: World Wide Web stubs
+
+Hidden categories: Orphaned articles from October 2007 | All orphaned articles
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 12 January 2009, at 16:08 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

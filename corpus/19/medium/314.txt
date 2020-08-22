@@ -1,0 +1,154 @@
+
+# ratpoison
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Ratpoison The ratpoison logo  
+<IMG>  
+Ratpoison with a number of applications open  
+Developed by Shawn Betts  
+Latest release 1.4.3 / February 19, 2008  
+Written in C  
+Operating system Unix-like  
+Type Window Manager  
+License GPL  
+Website http://www.nongnu.org/ratpoison/  
+This article is about the computer program. For the chemical rodent killer,
+see rat poison.
+
+In Unix computing, ratpoison is a free window manager for the X Window System
+primarily written by Shawn Betts. Its user interface and much of its
+functionality are inspired by the GNU Screen terminal multiplexer. Its name
+comes from the fact that it lets the user manage windows without using the
+mouse (or "rat"[1]). Ratpoison is free software licensed under the GNU General
+Public License.
+
+Its intended successor is Stumpwm; ratpoison was growing increasingly large,
+and Betts decided to largely reimplement its functionality in Common Lisp.[2]
+
+## [edit] See also
+
+  * Stumpwm
+
+## [edit] References
+
+  1. ^ SCWM, Pot and the GPLFrom: Craig Brozefsky - Newsgroups: comp.os.linux.advocacy,gnu.misc.discuss - Date: 1999/06/27
+  2. ^ "StumpWM grew out of the authors' frustration with writing ratpoison in C. Very quickly we realized we were building into ratpoison lispy-emacs style paradigms. We had a REPL hanging off 'C-t :', hooks, and a growing subset of Common Lisp in the implementation ... It was clear what we really wanted was a window manager written in Lisp from the ground up with lots of room for customizing and real-time hacking." "Background" from the Stumpwm wiki
+
+## [edit] External links
+
+Sister project Wikibooks has more on the topic of
+
+Ratpoison  
+<IMG> Free software portal  
+  * Official website
+
+  
+
+v â¢ d â¢ e
+
+Window management topics  
+Techniques
+
+Tiling Â· Stacking Â· Compositing Â· Re-parenting  
+Tiling Examples
+
+Awesome Â· dwm Â· echinus Â· bug.n Â· Ion Â· Wmii Â· Ratpoison Â· stumpwm Â·
+xmonad Â· Xerox Star Â· Windows 1.0 Â· GEM (2.0 and Later)  
+Stacking Examples
+
+twm Â· mwm Â· FVWM Â· Enlightenment Â· Blackbox Â· Presentation Manager Â·
+Windows 2.0 Â· Windows 95 Â· Windows 98 Â· Windows Me Â· Windows NT \- Windows
+XP Â· Mac OS 9 and earlier Â· GEM 1.1 Â· Xerox Alto  
+Compositing Examples
+
+Beryl Â· Compiz Â· Desktop Window Manager (with Windows Aero) Â· Metacity Â·
+KWin Â· Aqua (with the Quartz Compositor)  
+Systems with WMs
+
+Amiga OS Â· Mac OS Â· OS/2 Â· Xerox PARC (Xerox Alto, Xerox Star) Â· Microsoft
+Windows Â· MS-DOS with GEM Â· Atari TOS Â· RISC OS  
+Components
+
+Window manager Â· Window decorator Â· Dock (computing) Â· Title bar Â· Task
+bar Â· System tray Â· Pager (GUI)  
+Related Reading
+
+Windowing system Â· Desktop environment Â· GUI widget Â· X window system Â· X
+window manager Â· OpenGL Â· DirectX Â· GPU Â· Mouse (computing) Â· Keyboard Â·
+WIMP Â· GUI Â· Widget toolkit Â· Qt Â· GTK Â· AIGLX Â· XGL Â· Shell
+(computing) Â· Painter's algorithm Â· Resolution independence  
+<IMG> This Unix-related article is a stub. You can help by expanding it.  
+  
+Retrieved from "http://en.wikipedia.org/wiki/Ratpoison"
+
+Categories: Free X window managers | Tiling window managers | Unix stubs
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Dansk
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 4 March 2009, at 17:09 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

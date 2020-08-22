@@ -1,0 +1,222 @@
+
+# umask
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+umask (abbreviated from user mask) is a command and a function in POSIX
+environments which sets the default permission modes for newly created files
+and directories of the current process.
+
+Modern Unix systems allow umasks to be specified in two ways:
+
+  * A default permission, also called a Symbolic Umask. E.g. u=rwx,g=rwx,o=
+  * An octal number that controls which permissions will be masked (not set) for any newly created file, e.g. 007.
+
+In both cases bear in mind that most Unix systems do not allow new files to be
+created with execute permission turned on, regardless of the umask.
+
+## Contents
+
+  * 1 Symbolic umasks
+    * 1.1 Symbolic Umask example
+  * 2 Octal Umasks
+    * 2.1 Octal Umask examples
+  * 3 Tips
+  * 4 See also
+  * 5 References
+  * 6 External links
+
+  
+## [edit] Symbolic umasks
+
+A umask set to u=rwx,g=rwx,o= will result in new files having the modes rw-
+rw----, and new directories having the modes rwxrwx---.
+
+### [edit] Symbolic Umask example
+
+In bash:
+
+    
+     $ umask u=rwx,g=rwx,o=
+     $ mkdir foo
+     $ touch bar
+     $ ls -l
+     drwxrwx--- 2 dave dave 512 Sep  1 20:59 foo
+     -rw-rw---- 1 dave dave   0 Sep  1 20:59 bar
+    
+## [edit] Octal Umasks
+
+Octal umasks are calculated via the bitwise AND of the unary complement of the
+argument (using bitwise NOT) and the full access mode.
+
+The changes will take effect during the current session only.
+
+The full access mode is 666 in the case of files, and 777 in the case of
+directories. Most Unix shells provide a umask command that affects all child
+processes executed in this shell. umask uses 777 for both files and folders,
+if one wants different masks then fmask and dmask should be used.
+
+A common umask value is 022 (masking out the write permission for the group
+and others), which ensures that new files are only writable for the owner
+(i.e. the user who created them). Another common value is 002, which leaves
+the write permission for the file's group enabled. This can be used for files
+in shared workspaces, where several users work with the same files.
+
+### [edit] Octal Umask examples
+
+Assuming the umask has the value 174, any new file will be created with the
+permissions 602 and any new directory will have permissions 603 because:
+
+    
+    6668 AND NOT(1748) = 6028
+    
+while
+
+    
+    7778 AND NOT(1748) = 6038
+    
+    
+    7778 = (111 111 111)2
+    1748 = (001 111 100)2
+    NOT(001 111 100)2 = (110 000 011)2
+    (111 111 111)2 AND (110 000 011)2 = (110 000 011)2
+         7778           NOT (174)8          (603)8
+    
+In bash:
+
+    
+     $ umask 0174
+     $ mkdir foo
+     $ touch bar
+     $ ls -l
+     drw-----wx 2 dave dave 512 Sep  1 20:59 foo
+     -rw-----w- 1 dave dave   0 Sep  1 20:59 bar
+    
+Using the above mask, octal 1 prevents user execute bit being set, octal 7
+prevents all group bits being set, and octal 4 prevents the read bit being set
+for others.
+
+## [edit] Tips
+
+  * When using umask be aware that it applies only to the current process and any future child processes that it may create.
+  * If you're using (S)FTP you must restart the (S)FTP daemon after you have set a umask. Additionally, you must re-connect to the server in order for the umask to take effect.
+
+## [edit] See also
+
+  * chmod
+
+v â¢ d â¢ e
+
+Unix command line programs and builtins (more)  
+File system
+
+cat Â· cd Â· chmod Â· chown Â· chgrp Â· cksum Â· cmp Â· cp Â· du Â· df Â· file
+Â· fsck Â· fuser Â· ln Â· ls Â· lsattr Â· lsof Â· mkdir Â· mount Â· mv Â· pwd
+Â· rm Â· rmdir Â· split Â· touch  
+Processes
+
+at Â· chroot Â· cron Â· exit Â· kill Â· killall Â· nice Â· pgrep Â· pidof Â·
+pkill Â· ps Â· pstree Â· sleep Â· time Â· top Â· wait  
+User environment
+
+env Â· finger Â· id Â· logname Â· mesg Â· passwd Â· su Â· sudo Â· uname Â·
+uptime Â· w Â· wall Â· who Â· whoami Â· write  
+Text processing
+
+awk Â· comm Â· cut Â· ed Â· ex Â· fmt Â· head Â· iconv Â· join Â· less Â· more
+Â· paste Â· sed Â· sort Â· tac Â· tail Â· tr Â· uniq Â· vi Â· wc Â· xargs  
+Shell programming
+
+alias Â· basename Â· dirname Â· echo Â· expr Â· false Â· printf Â· test Â·
+true Â· unset  
+Networking
+
+inetd Â· netstat Â· ping Â· rlogin Â· netcat Â· traceroute  
+Searching
+
+find Â· grep Â· strings  
+Miscellaneous
+
+banner Â· bc Â· cal Â· clear Â· date Â· dd Â· lp Â· man Â· size Â· tee Â· tput
+Â· yes Â· umask  
+## [edit] References
+
+## [edit] External links
+
+  * Manpage of umask(2) from OpenBSD
+  * "Setting Permissions" from "The GNU C Library Reference Manual"
+  * "UMask details"
+
+<IMG> This Unix-related article is a stub. You can help by expanding it.  
+  
+Retrieved from "http://en.wikipedia.org/wiki/Umask"
+
+Categories: Unix stubs | Unix software
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Ð ÑÑÑÐºÐ¸Ð¹
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 4 April 2009, at 18:56 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

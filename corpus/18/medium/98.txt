@@ -1,0 +1,484 @@
+
+# Nissan GT-R
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Nissan GT-R[1] <IMG>  
+Manufacturer Nissan  
+Production Q4 2007-present  
+Assembly Tochigi, Tochigi, Japan  
+Predecessor Nissan Skyline GT-R  
+Class sports car  
+Body style(s) 2-door coupÃ©  
+Layout Front engine, four-wheel drive  
+Platform Premium Midship  
+Engine(s) 3.8L VR38DETT twin-turbo V6  
+Transmission(s) 6-speed dual clutch automated manual[2]  
+Wheelbase 2780 mm (109.4 in)  
+Length 4655 mm (183.3 in)  
+Width 1895 mm (74.6 in)  
+Height 1370 mm (53.9 in)  
+Curb weight 1730 kg (3814 lb)  
+Designer ShirÅ Nakamura  
+The Nissan GT-R is a sports car created by Nissan, released in Japan on 6
+December 2007, United States July 7, 2008, and expected to be released in the
+rest of the world by March 2009.[3][4][5]
+
+## Contents
+
+  * 1 History
+    * 1.1 Nissan Skyline GT-R
+    * 1.2 Concepts
+  * 2 Production
+    * 2.1 Base model
+      * 2.1.1 Specifications
+      * 2.1.2 Performance
+      * 2.1.3 Design
+    * 2.2 SpecV
+  * 3 Motorsport
+    * 3.1 Super GT
+    * 3.2 FIA GT
+    * 3.3 Other categories
+  * 4 Aftermarket tuning
+  * 5 Awards
+  * 6 References
+  * 7 External links
+
+  
+## [edit] History
+
+### [edit] Nissan Skyline GT-R
+
+See also: Nissan Skyline GT-R
+
+Between 1969 and 1974, and again between 1989 and 2002, Nissan produced a high
+performance version of its Skyline range called the Nissan Skyline GT-R. This
+car proved to be iconic for Nissan[6][7] and achieved much fame and success on
+road and track. The Nissan GT-R, although no longer carrying the "Skyline"
+badge, has heritage in the Nissan Skyline GT-R. Like the Skyline GT-Rs R32
+through R34, the Nissan GT-R is all-wheel drive with a twin-turbo 6 cylinder
+engine; however, the evolutionary, incremental changes between Skyline models
+R32 through R34 have been done away with. The four-wheel-steering HICAS system
+has been removed, and the traditional straight-6 RB26DETT engine has been
+replaced with a new V6 VR38DETT.[8] Because of the GT-R's heritage, the
+chassis code for the all-new version has been called CBA-R35,[9] or 'R35' for
+short, carrying on the naming trend from previous Skyline GT-R generations.
+The GT-R has also retained its Skyline predecessor's nickname
+Godzilla.[10][11]
+
+### [edit] Concepts
+
+<IMG>
+
+<IMG>
+
+GT-R Proto at the 2005 Tokyo Motor Show
+
+Two concept vehicles were displayed at motor shows prior to the unveiling of
+the production model. The first concept was shown at the Tokyo Motor Show in
+2001 to preview what a 21st century GT-R would look like.[12] At the 2005
+Tokyo Motor Show, Nissan unveiled a redesigned concept, the GT-R Proto,
+stating that the production GT-R would be 80-90% based on this concept.[13]
+
+## [edit] Production
+
+### [edit] Base model
+
+The production version of the GT-R debuted at the 2007 Tokyo Motor Show,
+launching in the Japanese market on December 6, 2007. The U.S. official launch
+was 7 months later on July 07, 2008. Universal Nissan in Los Angeles provided
+a customer with the delivery of a new GT-R, fresh from the production line at
+12:01 AM, on July 7, 2008. The Canadian launch was also in July 2008. Europe
+became the third consumer market, where it launched late in the year. The
+large disparity in initial marketing between these regional releases is due to
+Nissan having to build GT-R performance centers where the car is serviced.
+Also the engine and rear-mounted dual-clutch gearbox are built by hand, thus
+limiting production to around 1000 cars a month.[14]
+
+#### [edit] Specifications
+
+<IMG>
+
+<IMG>
+
+The VR38DETT engine
+
+The Nissan GT-R is powered by the VR38DETT engine, a 3,799 cc (3.8 L; 231.8 cu
+in) DOHC V6. Two parallel Ishikawajima-Harima Heavy Industries (IHI)
+turbochargers provide forced induction.[15] Production vehicles produce a
+manufacturer-claimed engine output of 480 bhp (360 kW) at 6400 rpm and 434
+lbÂ·ft (588 NÂ·m) at 3200-5200 rpm.[16] According to independent dynamometer
+tests, the GT-R produces 416 hp (310 kW) to 475 hp (354 kW) and 414 lbÂ·ft
+(561 NÂ·m) to 457 lbÂ·ft (620 NÂ·m) at the wheels.[17][18] The engine also
+meets California Ultra Low Emissions Vehicle (ULEV) standards.[19] A curb
+weight of 1,730 kg (3,800 lb) or 1,736 kg (3,830 lb) with side curtain airbags
+is achieved using a jig welded steel chassis with aluminum used for the hood,
+trunk, and doors.[20] A rear mounted 6 speed dual clutch semi-automatic
+transmission is used in conjunction with the ATTESA E-TS system to provide
+power to all four wheels and along with Nissan's Vehicle Dynamics Control
+(VDC-R) aids in handling and stability. Three shift modes can also be selected
+for various conditions. The drag coefficient is 0.27.[21]
+
+  * Displacement: V6 3,799 cc (3.8 L; 231.8 cu in)
+  * Horsepower: 480 bhp (360 kW) at 6400 rpm*
+  * Torque: 430 lbÂ·ft (580 NÂ·m)*
+  * Twin Turbo maximum boost: 17.8 psi (123 kPa)*
+  * Red line: 7000 rpm
+  * Drivetrain: Front Midship AWD
+  * Curb weight: estimated 3,800 lb (1,700 kg)*
+  * Production: 2500 units per year (US)
+  * Price: US$76,840 to US$79,090[22]
+  * Top Speed: 193 mph (311 km/h)*
+
+    * manufacturer claimed
+#### [edit] Performance
+
+<IMG>
+
+<IMG>
+
+Cutaway model showing rear mounted transmission
+
+Nissan claims the GT-R can reach a top speed of 192 mph (309 km/h),[23] Motor
+Trend recorded a top speed of 195.0 mph (313.8 km/h).[24] It has been tested
+to achieve 0-60 mph (97 km/h) times as low as 3.2 seconds with launch
+control[25] and 3.9 seconds without[26] (improved to 3.5 seconds in models
+produced since March 2009[27]). Edmunds.com achieved a standing quarter-mile
+time of 11.6 s at 190 km/h (120 mph) using the GT-R's launch control
+system.[28] Car and Driver achieved a standing quarter-mile time of 11.5 s at
+200 km/h (120 mph).[29] Evo magazine achieved a 0-100-0 mph time of 13.9
+seconds.[30] Autocar achieved a 0-100 mph (160 km/h) time of 8.5 seconds.[31]
+
+With a manufacturer claimed lap time of 7:29 min on standard Japanese market
+tires, the GT-R is currently one of the fastest production cars to lap the
+NÃ¼rburgring circuit,[32][33] although Porsche accused Nissan of falsifying
+those claims in September 2008.[34][35] Porsche claims to have conducted their
+own test of the GT-R using no modifications and stock tires and achieved a
+best time of 7:54. Nissan officially disputed Porsche's claim in October
+2008.[36][37] Independent testing has provided times of around 7:50 - 7:55 for
+the Nissan GT-R and 7:49 for the Porsche GT2[38][39] on the NÃ¼rburgring,
+though both tests were conducted with the track partially damp and with the
+use of automotive journalists as opposed to professional drivers.[39]
+
+The GT-R currently holds a lap time of 1:19.7 around the Top Gear Test Track,
+equalling that of the Ferrari 430 Scuderia.[40] Road & Track were able to
+achieve quick lap times with the car on Buttonwillow Raceway, clocking in
+approximately 5 seconds faster than the Chevrolet Corvette Z06 and Porsche 911
+Turbo.[41] On Willow Springs International Motorsports Park, Edmunds were able
+to achieve lap times that were approximately 1 second slower than a Chevrolet
+Corvette ZR1 with the GT-R.[42] On the Las Vegas Motor Speedway infield road
+course, Motor Trend were able to achieve lap times with the GT-R that were
+approximately equivalent to the Ferrari 599 GTB Fiorano and Porsche 911 GT2
+and 3 seconds slower than a Chevrolet Corvette ZR1.[43]
+
+Several automotive journalists, including Chris Harris of Autocar,[44] Jethro
+Bovingdon of Evo,[45] and Jason Barlow of Top Gear (magazine)[46] have
+compared the GT-R to the Bugatti Veyron. Harris and Bovingdon both labeled the
+GT-R a "baby Veyron" in their respective comparison tests of the car.[44][45]
+
+#### [edit] Design
+
+<IMG>
+
+<IMG>
+
+The customizable multifunction display integrated into the dash of the GT-R
+
+Nissan chief creative officer, ShirÅ Nakamura, has likened the new GT-R to
+the eponymous giant robots of the Gundam series. Nakamura states: "The GT-R is
+unique because it is not simply a copy of a European-designed supercar, it had
+to really reflect Japanese culture."
+
+Nakamura noted that the GT-R's square lines and vents were influenced by
+Gundam robots. Nissan's American designers sculpted the rear three quarters of
+the vehicle, while their European designers sculpted the roofline.[47]
+
+Polyphony Digital, creators of the Gran Turismo series of racing video games,
+were themselves involved in the development of the GT-R, having been
+contracted to design the GT-R's multifunction display.[48]
+
+### [edit] SpecV
+
+Nissan introduced the GT-R SpecV on January 7, 2009 at the 2009 Tokyo Auto
+Salon.[49] Exterior changes from the base GT-R consist of a carbon fiber rear
+spoiler, grille, and brake ducts, along with an exclusive Ultimate Black Opal
+paint job. Interior changes include a set of carbon fiber Recaro front seats
+with the rear seats being completely removed. Carbon fiber covers the center
+storage box, instrument panel, and replaces the majority of the interior trim.
+
+The GT-R SpecV is powered by the standard twin-turbo 3,799 cc (3.8 L; 231.8 cu
+in) V6 with no increase in (peak) horsepower, but a new high gear boost
+controller that temporarily increases boost pressure should deliver more
+torque in mid to high-range revs. Other mechanical changes include a titanium
+exhaust, reworked suspension, carbon ceramic brakes, and 20-inch (510 mm)
+NISMO wheels. Overall weight is decreased by 132 lb (60 kg) over the standard
+GT-R.[50]
+
+Japan sales begin on February 2, 2009 at seven pre-selected dealers who are
+staffed by mechanics with special GT-R SpecV training and are knowledgeable of
+racing circuit driving. Pricing is set at Â¥15,750,000 (over US$160,000).
+Nissan has not announced any plans to sell the SpecV outside of Japan.
+
+## [edit] Motorsport
+
+### [edit] Super GT
+
+<IMG>
+
+<IMG>
+
+Nismo GT-R for 2008 season of Super GT
+
+Nismo, the motorsport arm of Nissan will be entering the Nissan GT-R in the
+Super GT race series in the GT500 class for the 2008 season, replacing the
+Nissan 350Z.[51]
+
+Unlike the production car, the GT500 version has a completely different
+drivetrain. The race car has a 4.5 litre naturally-aspirated V8 with 6 speed
+sequential manual gearbox and a RWD layout from its predecessor, the 350Z race
+car.[52]
+
+A prototype was spotted testing around the Suzuka Circuit as well as Fuji
+Speedway in Japan.[53][54] The car itself went on to win the opening race of
+the 2008 Super GT season at Suzuka scoring a one-two finish for Nissan.[55]
+The dominant performances in the opening race has led to all GT-Rs being
+applied a 50 kg weight penalty in addition to the race weight penalty under
+the Special Adjustment of Performance under the Super GT regulations.[56] In
+race two, the GT-R repeated their 1-2 result in Suzuka despite the race
+winning car of team Nismo carrying a 100 kg weight penalty making it only the
+3rd team in JGTC/Super GT history to do so. The last time this feat was
+achieved was 10 years ago by Nismo Skyline GT-R racing under the same number
+23.[57] Despite the weight handicap, it did in fact become the champion in
+this 2008 season through the Xanavi Nismo GT-R driven by Satoshi Motoyama and
+Benoit Treluyer, as well as winning 7 out of 9 races driven by 4 different
+teams using GT-Rs.
+
+### [edit] FIA GT
+
+On 27 February 2009, Nismo announced a partnership with British racing team
+Gigawave Motorsports to enter a GT-R in four races in the 2009 FIA GT
+Championship season. The entry will not be competing for championship points,
+but will be used by Nismo to refine the performance of the GT-R for future
+customer teams in the GT1 category. Nismo driver Michael Krumm and Gigawave
+driver Darren Turner will co-drive the GT1 GT-R.[58]
+
+### [edit] Other categories
+
+A production-based Nissan GT-R made its world motorsport debut in Australia's
+Targa Tasmania tarmac rally in April 2008,[59] however it sustained damage
+early in the event and did not complete the rally.[60] The Nissan GT-R did win
+the Competition Modern class in the 2008 Targa West.[61] The Nissan GT-R is
+also the official safety car of Japan's SuperGT 2008 series. The Nissan GT-R
+is the new official safety car of the V8 Supercars in Australia.[62]
+
+## [edit] Aftermarket tuning
+
+Despite early concerns about the difficulty of modification of the Nissan
+GT-R, a number of modifications have been released. The previously reported
+"untuneable" ECU has since been hacked by several tuning houses.
+
+MINE'S has decoded its ECU, and others (MCR,[63] HKS, and Top Secret) have
+bypassed the unit. They have been seen testing modified GT-Rs with the former
+two having conducted tests at the Tsukuba Circuit.[64][65]
+
+In a review by Motor Trend editor Scott Kanemura, it was revealed that the GPS
+system fitted to the GT-R would remove the 180-kilometer per hour (112 mph)
+speed limiter when the car arrives at a race track, but only on tracks
+approved by Nissan. Aftermarket ECUs have been developed to bypass the speed
+limiter, in addition to stand-alone speed-limiter defeaters. However, Nissan
+confirmed that the GPS check will not be implemented in American models.[66]
+
+In August 2008, Nissan's official motorsport and tuning arm Nismo announced
+the "Club Sport" tuning package for the GT-R . The package, which will also be
+fitted to the upcoming V-Spec GT-R,[67] includes Bilstein Damptronic
+compatible dampers, 20" forged aluminum wheels from Rays Engineering,
+Bridgestone run-flat tires, Recaro carbon fiber-shelled bucket seats, a
+titanium exhaust, and a revised rear diffuser with an added cooling duct.[68]
+The package is supported by a warranty and saves over 20 kg of mass.
+
+Hennessey Performance Engineering has recently released two packages for the
+GT-R, called the GODZILLA 600 & GODZILLA 700. The upgrades push the GT-R's
+maximum output to 600 and 700 horsepower (520 kW), respectively.[69]
+
+## [edit] Awards
+
+  * Top Gear Awards 2007 - Supercar of the Year 2007[70]
+  * Automobile Magazine \- 2009 Automobile of the Year[71]
+  * Evo Magazine Car of the Year 2008[72]
+  * Edmunds \- 2009 Edmunds' Inside Line Editors' Most Wanted Awards: Instant Classic[73]
+  * Motor Trend \- 2009 Motor Trend Car of the Year [74]
+  * 2008 Japan's Most Advanced Technology Award[75]
+  * Popular Mechanics \- Automotive Excellence Awards 2008 (Design)[76]
+  * 2009 International Car of the Year[77]
+
+## [edit] References
+
+  1. ^ All data according to: http://www2.nissan.co.jp/GT-R/R35/0710/index.html
+  2. ^ "2009 Nissan GT-R Specs and Standard Features". http://www.gtrnissan.com/specs.en.au.html. Retrieved on 2007-10-24.
+  3. ^ "Car and Driver - First Look Nissan GT-R". http://www.caranddriver.com/previews/14221/first-look-2009-nissan-gt-r.html.
+  4. ^ "2009 Nissan Skyline GT-R". Inside Line. http://www.edmunds.com/il/nissan/skyline/index.html.
+  5. ^ "First Look: 2008 Nissan GT-R". MotorTrend. http://www.motortrend.com/roadtests/coupes/112_0712_2008_nissan_gt_r/.
+  6. ^ "Nissan Skyline GT-R". evo.co.uk. p. 1. http://www.evo.co.uk/features/features/223512/nissan_skyline_gtr.html. Retrieved on 2008-10-09.
+  7. ^ "Nissan Skyline GT-R". Zimbio. p. 1. http://www.zimbio.com/Nissan+Skyline+GT-R. Retrieved on 2008-10-09.
+  8. ^ "Under the hood of the Nissan GT-R". Autoblog. 2007-09-11. http://www.autoblog.com/2007/09/11/under-the-hood-of-the-nissan-gt-r/. Retrieved on 2007-09-11.
+  9. ^ "Nissan GT-R Press Information - Specifications". Nissan. http://press.nissan-global.com/PRESSKIT/NISSANGTR/0710/ENGLISH/LINEUP_SPECIFICATIONS/index2.html. Retrieved on 2007-11-01.
+  10. ^ Ryan, Colin. "2008 Nissan GT-R" (in English). compactcarweb. 2. http://www.sportcompactcarweb.com/features/0608sccp_2008_nissan_gtr/index.html. Retrieved on 2008-08-26.
+  11. ^ Blackburn, Richard (February 29, 2008). "Nissan GT-R: 'Godzilla' returns..." (in english). drive.com.au. 1. http://www.drive.com.au/Editorial/ArticleDetail.aspx?ArticleID=49286. Retrieved on 2008-08-26.
+  12. ^ "2001 Nissan GT-R Concept". JB car pages. http://www.jbskyline.net/V35/GTRConcept/. Retrieved on 2008-06-22.
+  13. ^ "TOKYO NEWS: Nissan Reveals Juicy Tidbits About 2007 GT-R Supercar" (in English). edmunds.com. 2005-10-18. 1. http://www.edmunds.com/insideline/do/News/articleId=107616. Retrieved on 2008-08-26.
+  14. ^ 2009 "Nissan GT-R - AutoWeek". 2007-10-17. http://www.autoweek.com/apps/pbcs.dll/article?AID=/20071017/FREE/71017001 2009. Retrieved on 2007-10-24.
+  15. ^ "Nissan Press Release - Nissan Announces New Nissan GT-R". 2007-10-24. http://www.nissan-global.com/EN/NEWS/2007/_STORY/071024-01-e.html. Retrieved on 2007-10-24.
+  16. ^ "Nissan GT-R Specification". Nissan. http://www.gtrnissan.com/. Retrieved on 2008-09-25.
+  17. ^ "2009 Nissan GT-R: True Power From the Dyno". Edmunds. http://www.edmunds.com/insideline/do/Features/articleId=125172.
+  18. ^ "2009 Nissan GT-R - Dyno Test - Results and Analysis". Motor Trend. http://www.motortrend.com/roadtests/coupes/112_0803_2009_nissan_gt_r_dyno_test/results_analysis.html.
+  19. ^ "Nissan GT-R Features". JB car pages. http://www.jbcarpages.com/nissan/gtr/2009/features/. Retrieved on 2008-06-22.
+  20. ^ "2009 Nissan GT-R Specs and Standard Features". http://www.gtrnissan.com/.
+  21. ^ "Fast Times: Nissan GT-R Sets New Nurburgring Record". Edmunds. http://www.edmunds.com/insideline/do/News/articleId=126032.
+  22. ^ Nissan raises GT-R MSRP by nearly $7,000
+  23. ^ "Breaking News: Undisguised 2009 Nissan GT-R". edmunds.com. http://www.edmunds.com/insideline/do/News/articleId=123047#3. Retrieved on 2008-01-16.
+  24. ^ Comparison: ZR1 vs GT-R vs GT2 vs 599 Top Speed Run Video
+  25. ^ "Motortrend Nissan R35 GT-R (USDM) Exclusive Track Test". http://www.motortrend.com/roadtests/coupes/112_0803_2009_nissan_gtr_acceleration_test/acceleration_runs.html.
+  26. ^ http://blogs.motortrend.com/6356422/technology/so-just-how-slow-is-a-nissan-gt-r-without-launch-control-engaged/index.html
+  27. ^ http://www.roadandtrack.com/article.asp?section_id=10&article_id=7901
+  28. ^ Jacquot, Josh (2007-12-18). "Full Test: 2009 Nissan GT-R". Edmunds' Inside Line. http://www.edmunds.com/insideline/do/Drives/FullTests/articleId=124017. Retrieved on 2007-12-19.
+  29. ^ AARON ROBINSON, PHOTOGRAPHY BY MORGAN SEGAL May 2008. "2009 Nissan GT-R - Road Test/Japanese Performance/High Performance/Hot Lists/Reviews/Car and Driver - Car And Driver". Caranddriver.com. http://www.caranddriver.com/reviews/hot_lists/high_performance/japanese_performance/2009_nissan_gt_r_road_test. Retrieved on 2008-10-27.
+  30. ^ Evo issue 116
+  31. ^ "YouTube - Nissan GT-R | Porsche 911 GT3 | BMW M3 [Autocar] - Part 2". Youtube.com. http://www.youtube.com/watch?v=XzEivL1Kruo. Retrieved on 2008-10-27.
+  32. ^ "Fast Times: Nissan GT-R Set New NÃ¼rburgring Record". Edmunds. http://www.edmunds.com/insideline/do/News/articleId=126032.
+  33. ^ [1] GT-R Achieves Under 7:30 at Nurburgring
+  34. ^ Gover, Paul (2008-09-30). "Porsche accuses Nissan of cheating at Nurburgring" (in English) (HTML). Carsguide.com.au. News Limited. http://carsguide.news.com.au/site/motoring-news/story/porsche_accuses_nissan_of_cheating_at_nurburgring/. Retrieved on 2008-09-30.
+  35. ^ "Autocar - Porsche says Nissan cheating". Autocar.co.uk. http://www.autocar.co.uk/News/NewsArticle.aspx?AR=235197. Retrieved on 2008-10-27.
+  36. ^ Korzeniewski, Jeremy (2008-10-03). "Nissan defends GT-R 'Ring time" (in English) (HTML). Autoblog. http://www.autoblog.com/2008/10/03/nissan-defends-gt-r-ring-time/. Retrieved on 2008-10-03.
+  37. ^ Roth, Dan (2008-10-09). "Nissan defends GT-R 'Ring time" (in English) (HTML). Autoblog. http://www.autoblog.com/2008/10/09/nissan-to-porsche-put-the-gt-r-down-before-you-hurt-yourself/. Retrieved on 2008-10-03.
+  38. ^ "Nissan GT-R: Ost-Erweiterung" (in German) (HTML). sportauto. http://www.sportauto-online.de/test_U_technik/fahrberichte/hxcms_article_508540_14469.hbs. Retrieved on 2008-10-02.
+  39. ^ a b Harris, Chris (2008-11-24). "The Truth" (in English) (HTML). Driver's Republic. 23. http://magazines.drivers-republic.com/driversrepublic/thetruth030/. Retrieved on 2008-11-27.
+  40. ^ "BBC - Top Gear - Power Laps". 2008-10-02. http://www.bbc.co.uk/topgear/show/powerlaps.shtml. Retrieved on 2008-10-18.
+  41. ^ Sam Mitani (2008-05-01). "Comparison Test: Nissan GT-R vs. Chevrolet Corvette Z06 vs. Porsche 911 Turbo". Hachette Filipacchi Media, U.S., Inc.. http://www.roadandtrack.com/article.asp?section_id=31&article_id=6594. Retrieved on 2008-10-13.
+  42. ^ Hellwig, Ed (2008-10-27). "Comparison Test: 2009 Chevrolet Corvette ZR1 vs. 2009 Nissan GT-R" (in English) (HTML). Inside Line. Edmunds Inc.. http://www.edmunds.com/insideline/do/Drives/Comparos/articleId=134467. Retrieved on 2008-10-28.
+  43. ^ St. Antoine, Arthur (2008-10-27). "War of the Worlds: ZR1 vs GT2 vs 599 vs GT-R" (in English) (HTML). Motor Trend. Source Interlink Media. http://www.motortrend.com/roadtests/coupes/112_0810_2009_corvette_zr1_vs_porsche_gt2_vs_ferrari_599_vs_nissan_gtr/index.html. Retrieved on 2008-10-28.
+  44. ^ a b "Autocar Videos - Autocar.co.uk". Autocar.co.uk. http://www.autocar.co.uk/VideosWallpapers/Videos.aspx?AR=231443&CT=V. Retrieved on 2008-10-27.
+  45. ^ a b "EVO: GT-R vs Z06 vs R8 vs GT3 - NAGTROC - The Nissan GT-R Owners Club". Nagtroc.org. http://www.nagtroc.org/forums/index.php?showtopic=22031. Retrieved on 2008-10-27.
+  46. ^ "Audi R8 vs Nissan GT-R feature - Banzai! - 2008 - Top Gear". Topgear.com. http://www.topgear.com/content/features/stories/2008/02/stories/07/3.html. Retrieved on 2008-10-27.
+  47. ^ Matt Vella (November 26, 2007). "Nissan Redesigns a Japanese Icon". Businessweek.com. http://www.businessweek.com/innovate/content/nov2007/id20071119_902449.htm. Retrieved on 2008-10-27.
+  48. ^ "Edmunds Inside Line: A Day in Germany With the GT-R Engineers". http://www.edmunds.com/insideline/do/Features/articleId=123066.
+  49. ^ Nissan GT-R SpecV unveiled!
+  50. ^ Nissan GT-R SpecV: Super-Godzilla Caught On Tape
+  51. ^ "ãNISSAN GT-Rãã SUPER GT ã«åæ¦" (in Japanese). Nissan Motorsports. http://www.nismo.co.jp/M_SPORTS/news/070009.html.
+  52. ^ Autocar - Meet the V8 Nissan GT-R
+  53. ^ "NAGTROC gallery - Super GT GT-R". http://www.nagtroc.org/gallery/thumbnails.php?album=56.
+  54. ^ http://www.gtr-world.net/photogallery/racecars/gtr-production-race-car.html (Japanese) Google translation
+  55. ^ "Super GT 2008 Round 1 Suzuka Race Review". http://supergt.net/supergt/2008/0801/0801racv_e.htm.
+  56. ^ "Super GT 2008 Fuji Official Test". http://supergt.net/supergt/2008/0803/0803test_e.htm?1v.
+  57. ^ "Super GT 2008 Round 2 Okayama Race Review". http://supergt.net/supergt/2008/0802/0802racv_e.htm.
+  58. ^ "2009 Nismo - Gigawave Motorsport announcement". FIA GT Championship. 2009-02-27. http://www.fiagt.com/newsitem.php?key=1914. Retrieved on 2009-02-27.
+  59. ^ "Nissan GT-R confirms Targa Appearance 2008". http://www.targa.com.au/Media/Releases/GTR.html.
+  60. ^ "2008 Targa Tasmania Modern Competition results" (PDF). http://www.rallyresults.com.au/targa2008/Modern.pdf.
+  61. ^ "2008 Targa West Modern Competition results". http://www.targawest.com.au/Portals/0/docs/CMM08_RESULTSFORLEG_QUITTARGAWEST.PDF.
+  62. ^ "GT-R confirmed as new Safety Car". http://www.v8supercars.com.au/content/hero_news/february09/gt-r_confirmed_as_new_safety_car/#relatedPhotos.
+  63. ^ "ã»ã³ãã©ã«:ï¼®ï½ ï½ãæ¥ç£ãï¼§ï¼´ï¼ï¼²" (in Japanese). http://www.mcr-ltd.com/demo.html.
+  64. ^ "Option Fans Magazine". Unity Media Communications. February 2008. p. pp. 12, 56.
+  65. ^ "Option Fans Magazine". July 2008. p. pp. 12, 56.
+  66. ^ "Nissan GT-R can't take aftermarket wheels, unapproved race tracks are out". Auto Blog. http://www.autoblog.com/2008/02/07/nissan-gt-r-cant-take-aftermarket-wheels-unapproved-race-track/2.
+  67. ^ "NISMO NEWS RELEASE" (in Japanese). http://www.nismo.co.jp/news_list/2008/news_flash/080005.html.
+  68. ^ "NISMO NEWS RELEASE" (in Japanese). http://www.nismo.co.jp/news_list/2008/news_flash/080005_1.html.
+  69. ^ http://wot.motortrend.com/6388470/tuners/hennessey-performance-rolls-out-700-hp-performance-boost-for-2009-nissan-gt-r/index.html
+  70. ^ Jason Barlow. "TopGear Galleries - TG Awards '07". http://www.topgear.com/content/timetoburn/sections/galleries/other/awards07/12/. Retrieved on 2008-01-17.
+  71. ^ 2009 Automobile of the Year: 2009 Nissan GT-R.automobilemag.com.
+  72. ^ http://www.evo.co.uk/news/evonews/232662/updated_gtr.html
+  73. ^ http://www.edmunds.com/insideline/do/Features/articleId=135586
+  74. ^ http://www.motortrend.com/oftheyear/car/112_0901_2009_motor_trend_car_of_the_year_winner_nissan_gt_r/index.html
+  75. ^ http://www.jcoty.org/year_this/index.html
+  76. ^ http://www.popularmechanics.com/automotive/new_cars/4230153.html
+  77. ^ http://www.roadandtravel.com/awards/2009/winners/2009-icoty.htm
+
+## [edit] External links
+
+Sister project Wikimedia Commons has media related to: Nissan GT-R  
+  * Nissan GT-R official global site
+  * Nissan GT-R press information
+  * Nissan GT-R information and videos
+  * Motor Trend Magazine: Nissan GT-R Dyno Test
+  * Car and Driver: 2009 Nissan GT-R - Road Test
+  * AUSmotive.com - GT-R image gallery
+  * AUSmotive.com - GT-R Spec V image gallery
+
+Retrieved from "http://en.wikipedia.org/wiki/Nissan_GT-R"
+
+Categories: Nissan vehicles | Nissan concept vehicles | Nissan Blue Stage |
+All wheel drive vehicles | Coupes | Sports cars | 2000s automobiles | Vehicles
+introduced in 2007
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * FranÃ§ais
+  * Italiano
+  * NÄhuatl
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Suomi
+  * Svenska
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 9 April 2009, at 07:11 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

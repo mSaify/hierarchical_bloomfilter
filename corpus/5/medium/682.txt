@@ -1,0 +1,272 @@
+
+# ext2
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+ext2 Developer RÃ©my Card  
+Full name Second extended file system  
+Introduced January 1993 (Linux)  
+Partition identifier `Apple_UNIX_SVR2` (Apple Partition Map)  
+`0x83` (Master Boot Record)  
+`EBD0A0A2-B9E5-4433-87C0-68B6B72699C7` (GPT)  
+Structures  
+File allocation bitmap (free space), table (metadata)  
+Bad blocks Table  
+Limits  
+Max file size 2-64 TiB  
+Max number of files 1018  
+Max filename length 255 characters  
+Max volume size 16-32 TiB  
+Allowed characters in filenames Any byte except NUL and '/'  
+Features  
+Dates recorded modification (mtime), attribute modification (ctime), access
+(atime)  
+Date range December 14, 1901 \- January 18, 2038  
+Date resolution 1s  
+File system permissions POSIX  
+Transparent compression No (Available through patches)  
+Transparent encryption No  
+Supported operating systems Linux, BSD, Windows (through an IFS), Mac OS X  
+The ext2 or second extended filesystem is a file system for the Linux kernel.
+It was initially designed by RÃ©my Card as a replacement for the extended file
+system (ext). Although ext2 is not a journaling file system, its successor,
+ext3, provides journaling and is almost completely compatible with ext2.
+
+The canonical implementation of ext2 is the ext2fs filesystem driver in the
+Linux kernel. Other implementations (of varying quality and completeness)
+exist in GNU Hurd, Mac OS X (third-party), Darwin (same third-party as Mac OS
+X but untested), some BSD kernels, in Atari MiNT, and as third-party Microsoft
+Windows drivers. ext2 was the default filesystem in several Linux
+distributions, including Debian and Red Hat Linux, until supplanted more
+recently by ext3.
+
+## Contents
+
+  * 1 History
+  * 2 ext2 data structures
+  * 3 File system limits
+  * 4 See also
+  * 5 References
+  * 6 Further reading
+  * 7 External links
+
+  
+## [edit] History
+
+The early development of the Linux kernel was made as a cross-development
+under the Minix operating system. Naturally, it was obvious that the Minix
+file system would be used as Linux's first file system. The Minix file system
+was mostly free of bugs, but used 16-bit offsets internally and thus only had
+a maximum size limit of 64 megabytes. There was also a filename length limit
+of 14 characters. Because of these limitations, work began on a replacement
+native file system for Linux.
+
+To ease the addition of new file systems and provide a generic file API, VFS,
+a virtual file system layer was added to the Linux kernel. The extended file
+system (ext), was released in April 1992 as the first file system using the
+VFS API and was included in Linux version 0.96c. The ext file system solved
+the two major problems in the Minix file system (maximum partition size and
+filename length limitation to 14 characters), and allowed 2 gigabytes of data
+and filenames of up to 255 characters. But it still had problems: there was no
+support for separate access, inode modification and data modification
+timestamps.
+
+As a solution for these problems, two new filesystems were developed in
+January 1993: xiafs and the second extended file system (ext2), which was an
+overhaul of the extended file system incorporating many ideas from the
+Berkeley Fast File System. ext2 was also designed with extensibility in mind,
+with space left in many of its on-disk data structures for use by future
+versions.
+
+Since then, ext2 has been a testbed for many of the new extensions to the VFS
+API. Features such as POSIX ACLs and extended attributes were generally
+implemented first on ext2 because it was relatively simple to extend and its
+internals were well-understood.
+
+On Linux kernels prior to 2.6, restrictions in the block driver mean that ext2
+filesystems have a maximum file size of 2TiB. Later Linux kernels allow for
+larger file sizes, however 32-bit systems are still restricted to 2 TiB file
+sizes.
+
+ext2 is still recommended over journaling file systems on bootable USB flash
+drives and other solid-state drives. ext2 performs fewer writes than ext3
+since it does not need to write to the journal. As the major aging factor of a
+flash chip is the number of erase cycles, and as those happen frequently on
+writes, this increases the life span of the solid-state device.[1] Another
+good practice for filesystems on flash devices is the use of the noatime mount
+option, for the same reason.
+
+## [edit] ext2 data structures
+
+The space in ext2 is split up in blocks, and organized into block groups,
+analogous to cylinder groups in the Unix File System. This is done to reduce
+external fragmentation and minimize the number of disk seeks when reading a
+large amount of consecutive data.
+
+Each block group may contain a copy of the superblock and block group
+descriptor table, and all block groups contain a block bitmap, an inode
+bitmap, an inode table and followed by the actual data blocks.
+
+The superblock contains important information that is crucial to the booting
+of the operating system, thus backup copies are made in multiple block groups
+in the file system. However, typically only the first copy of it, which is
+found at the first block of the file system, is used in the booting.
+
+The group descriptor stores the location of the block bitmap, inode bitmap and
+the start of the inode table for every block group and these, in turn are
+stored in a group descriptor table.
+
+  
+Example of ext2 inode structure:
+
+Estructure
+
+## [edit] File system limits
+
+Theoretical ext2 filesystem limits under Linux[2] Block size: 1 KiB 2 KiB 4
+KiB 8 KiB  
+max. file size: 16 GiB 256 GiB 4 TiB 64 TiB  
+max. filesystem size: 4* TiB 8 TiB 16 TiB 32 TiB  
+The reason for some limits of the ext2-file system are the file format of the
+data and the operating system's kernel. Mostly these factors will be
+determined once when the file system is built. They depend on the block size
+and the ratio of the number of blocks and inodes. In Linux the block size is
+limited by the architecture page size.
+
+There are also many userspace programs that can't handle files larger than 2
+GB.
+
+The limit of sublevel-directories is about 32768. If the number of files in a
+directory exceeds 10000 to 15000 files, the user will normally be warned that
+operations can last for a long time unless directory indexing is enabled. The
+theoretical limit on the number of files in a directory is 1.3 Ã 1020,
+although this is not relevant for practical situations.
+
+Note: In Linux kernel 2.4 and earlier block devices were limited to 2TiB,
+limiting the maximum size of a partition regardless of block size.
+
+## [edit] See also
+
+  * e2fsprogs
+  * ext : ancestor of ext2
+  * ext3 : extended version of ext2
+  * ext4 : fourth extended file system
+  * StegFS : a steganographic file system based on ext2
+  * List of file systems
+  * Comparison of file systems
+  * Filesystem in Userspace (FUSE)
+
+## [edit] References
+
+  * Card, RÃ©my. & Tsâo, Theodore. & Tweedie, Stephen (1994). "Design and implementation of the second extended filesystem". Proceedings of the First Dutch International Symposium on Linux.. ISBN 90-367-0385-9. http://web.mit.edu/tytso/www/linux/ext2intro.html.
+
+  1. ^ "Solid State Disk Drives". Super Talent Technology. http://www.supertalent.com/tools/ssd.php.
+  2. ^ "File system guide". Linux Reviews. http://linuxreviews.org/sysadmin/filesystems/.
+
+## [edit] Further reading
+
+  * John Newbigin. John's spec of the second extended filesystem. http://uranus.it.swin.edu.au/~jn/explore2fs/es2fs.htm.
+  * Dave Poirier (2009). The Second Extended File System: Internal Layout. http://www.nongnu.org./ext2-doc/index.html.
+  * Theodore Ts'o and Stephen Tweedie (June, 2002). "Planned Extensions to the Linux Ext2/Ext3 Filesystem". USENIX 2002 Annual Technical Conference.
+
+## [edit] External links
+
+  * ext2fs user-space tools
+  * ext2 driver for Mac OS X
+  * ext2fsd open source ext2/ext3 file system driver for win2k/xp/server 2003/vista (x86/amd64), supports read/write and various codepages including utf8.
+  * Win2fs An open source ext2 File-system driver for Windows. Lets you mount and access (read,write) ext2 file-systems under Windows (NT/2000/XP).
+  * Ext2 Installable File System For Windows ext2/ext3 file system driver for MS Windows NT/2000/XP/2003/Vista (x86/amd64, supports read & write). Freeware.
+  * WinExt2Fsd ext2 file system driver for MS Windows NT ONLY (x86, supports read & write)
+  * EXT2 IFS ext2/ext3 file system driver for MS Windows NT/2000/XP (GPL, readonly).
+  * Explore2fs An explorer-like GUI tool for accessing ext2/ext3 filesystems under MS Windows. Free software (GNU License).
+  * e2compr transparent compression for the ext2 filesystem
+  * File System Specifications Collection of various types of file system formats
+
+Retrieved from "http://en.wikipedia.org/wiki/Ext2"
+
+Categories: Disk file systems | Linux file systems
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * FranÃ§ais
+  * Galego
+  * Italiano
+  * ×¢××¨××ª
+  * LietuviÅ³
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Svenska
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 31 March 2009, at 22:35.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,390 @@
+# Advergaming
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it lacks inline citations. Please improve this article
+by introducing more precise citations where appropriate. (June 2008)  
+Merge arrows
+
+It has been suggested that this article or section be merged with In-game
+advertising. (Discuss)  
+<IMG>  
+Part of a series on:  
+Video game industry  
+Activities/Jobs
+
+  * Game art / Game artist
+  * Game design / Game designer
+  * Game development / Game developer
+  * Game modification
+  * Game producer
+  * Game programming / Game programmer
+  * Game publisher
+  * Game studies
+  * Game testing / Game tester
+  * Game journalism
+  * Level design / Level designer
+
+  
+Types
+
+  * Adult game
+  * Casual game
+  * Non-game
+    * Interactive art
+    * Interactive movie
+  * Nonviolent video game
+  * Serious game
+    * Advergame
+    * Art game
+    * Edugame
+    * Exergame
+    * Militainment
+  * Traditional game
+
+  
+Topics
+
+  * DRM
+  * EULA
+  * Outsourcing
+  * Software license
+
+  
+Lists
+
+  * List of indie game developers
+  * List of video game companies
+  * List of video game industry people
+  * List of video game publishers
+
+  
+v â¢ d â¢ e  
+Advergaming is the practice of using video games to advertise a product,
+organization or viewpoint. The term "advergames" was coined in January 2000 by
+Anthony Giallourakis, and later mentioned by Wired's "Jargon Watch" column in
+2001. It has been applied to various free online games commissioned by major
+companies.
+
+With the growth of the internet, advergames have proliferated, often becoming
+the most visited aspect of brand websites and becoming an integrated part of
+brand media planning in an increasingly fractured media environment.
+Advergames theoretically promote repeated traffic to websites and reinforce
+brands. Users choosing to register to be eligible for prizes can help
+marketers collect customer data. Gamers may also invite their friends to
+participate, which could assist promotion by word of mouth, or "viral
+marketing".
+
+## Contents
+
+  * 1 Categories
+    * 1.1 ATL (Above the Line) Advergaming
+    * 1.2 BTL (Below the Line) Advergaming
+    * 1.3 TTL (Through the Line) Advergaming
+  * 2 Future of advergaming
+  * 3 Advergame industry statistics
+  * 4 Notable Examples
+  * 5 See also
+  * 6 References
+  * 7 External links
+
+  
+## [edit] Categories
+
+Advergaming normally falls into one of three categories:
+
+### [edit] ATL (Above the Line) Advergaming
+
+<IMG>
+
+<IMG>
+
+Chex Quest was the first CD-ROM advergame bundled for free with boxes of Chex
+cereal in 1996.
+
+Examples of ATL advergames include promotional software.
+
+In employing ATL advergaming, a company typically provides interactive games
+on its website in the hope that potential customers will be drawn to the game
+and spend more time on the website, or simply become more product aware. The
+games themselves usually feature the company's products prominently. These
+games may consist of reworked arcade classics or original programming, and
+they are usually designed for Adobe Flash or similar multimedia software.
+
+The earliest custom video games featuring integrated brand messages where
+developed in the era before substantial penetration of the World Wide Web and
+were distributed on floppy disk. These games were typically of a higher
+quality than the modern flash games and were distributed for free, often
+bundled with other products from the company advertised for. The first floppy
+disk advergames were developed to serve dual purposes â as promotional
+incentives that drive response and as media that deliver awareness. American
+Home Foods Chef Boyardee, Coca-Cola, and Samsung brands issued the first-ever
+floppy-disk advergames[1]. Other early brands to use the format were Reebok,
+General Mills, GAP and Taco Bell which distributed games as "kids'
+premiums"[1]. The first in-box CD-ROM cereal box advergames were General
+Mills' Chex Quest (promoting the Chex brand) and General Mills' All-Star
+baseball (starring Trix Rabbit and his friends playing baseball against Major
+League teams and stars).
+
+With the spread of broadband internet, ATL advergames have become more in-
+depth than the simple arcade style flash games and larger games that were
+confined to being distributed on disc only. A number of technologically
+advanced advergames have been released online for free through the sponsorship
+of companies such as Schick. Kuma Reality Games, for instance, has developed
+the advergame, The DinoHunters, as a full first person shooter based on the
+Source Engine. The DinoHunters is released for free through Schick's
+sponsorship and consequently Schick's products feature prominently in game.
+Accompanying machinima episodes have also been created alongside The
+DinoHunters to help advertise the products.
+
+### [edit] BTL (Below the Line) Advergaming
+
+<IMG>
+
+<IMG>
+
+An Adidas billboard is displayed in the foreground of the 1994 computer game
+FIFA International Soccer (also, the electronic board that appears with every
+goal scored sometimes reads "Panasonic").
+
+Examples of BTL advergames include militainment, recruitment tools,
+edutainment, and traditional in-game advertising.
+
+In utilizing BTL advergaming, games are published in the usual way and cause
+players to investigate further. The subjects advertised for may be commercial,
+political, or educational in nature. Commercial examples are numerous and
+include advergames funded by Pepsi, 7 Up, NFL, Formula One, and most recently
+Burger King. Political/Military examples of BTL advergames include recruitment
+tools like America's Army, intended to boost recruitment for the United States
+Army, and Special Force, intended to promote Muslim resistance to the state of
+Israel. Educational advergaming is closely related to the Serious games
+initiative and falls under either Edumarket gaming or edutainment. Examples
+include Food Force (made by the United Nations' World Food Program) and Urban
+Jungle, an educational traffic simulation.
+
+Another BTL advergame technique consists of advertising within a game itself.
+Since the intent of in-game advertising is typically commercial rather than
+political, some consider such advertisements to make up a category of their
+own. However as with the above-mentioned BTL advergame forms, it is the
+technique by which the propaganda is purveyed rather than the nature of its
+intended audience which defines in-game advertising as a subset of BTL
+advergaming and not its own category. In-game advertising is similar to subtle
+advertising in films, where the advertising content is within the "world" of
+the movie. Thus billboards, fliers, sponsored product placement, and the
+interplay between the player and these elements in the game allow for a great
+degree of virtual advertisement. Examples include billboards advertising for
+(and product placement of) Bawls energy drink in Fallout: Brotherhood of
+Steel, and billboards for Adidas sportswear in FIFA International Soccer.
+
+In-game BTL advertisement can be a way to combat costs that the game makers
+encounter and reduce the cost of the game to the consumer (especially games
+with monthly fees) while providing an outlet to advertise products. It also
+currently helps many people sustain free online games. This method of
+advertising in offline games is somewhat controversial, however, as players
+may feel the advertisements cast an unsavory commercial/avaricious pall over
+gameplay without substantial reduction in game price.
+
+### [edit] TTL (Through the Line) Advergaming
+
+<IMG>
+
+<IMG>
+
+I Love Bees makes use of "link-chasing" and is designed to foster viral
+marketing.
+
+Examples of TTL advergames include "link-chases", ARGs, and viral marketing.
+
+A rare form of advergaming, TTL advergames involve the use of URL hyperlinks
+within the game designed to induce the player to visit a webpage which then
+contains BTL advertisements. The technique used to tempt the player into
+visiting the intended URL varies from game to game. In games like Pikmin 2 the
+player is given a cryptic message with an accompanying URL designed to pique
+the curiosity of the player. In games such as Enter the Matrix, Year Zero, I
+Love Bees, and Lost Experience, URLs make up a part of the background of the
+game such that certain plot details can only be learned by following the link
+given in the game. The knowledge of such plot details are typically not
+required to complete the game, but make for a fuller story for fans. Websites
+of this nature often lead players on to other links which again lead to
+further links, thus earning these games the label "link-chases." The tradeoff
+for TTL advertisers is that though use of the internet to find out extra
+things about a game might be enjoyable, gamers will not enjoy being given too
+much of a run-around with too obtrusive advertising to obtain important
+details about the game.
+
+## [edit] Future of advergaming
+
+As long as the game delivers a fun pay off, consumers consider it a relevant
+and valid cultural experience. In recent brand-impact studies, associating a
+brand with the fun of gaming is known to lift brand metrics such as brand
+awareness, message association and purchase intent. After playing a game,
+consumers are more likely to remember not just the brand or product itself,
+but to associate specific brand attributes with it.
+
+The advergame industry is expected to generate $312.2 million by 2009, up from
+$83.6 million in 2004, according to Boston research firm Yankee Group.
+
+## [edit] Advergame industry statistics
+
+  * 50% of recipients play the advergame, for an average of 25 minutes.[citation needed]
+  * 90% of players who receive a challenge from a friend play the game and respond back with their score or statistics.[citation needed]
+  * According to the Entertainment Software Assn., 42% of gamers say they play online games one or more hours per week. [2]
+
+## [edit] Notable Examples
+
+  * Atari released the game Pepsi Invaders as commissioned by Coca-Cola in 1983 for that years sales convention. This was one of the earliest advergames. (Atari 2600, 1983).
+  * The Domino's Pizza chain shipped a game called Yo! Noid (NES, 1990).
+  * The McDonald's characters (Ronald, Grimace, etc.) starred in M.C. Kids (NES, 1991), programmed by Virgin Games. The same game featured a Virgin Atlantic Airways tail at the beginning.
+  * Cheetos snacks had two advergames starring Chester Cheetah: Chester Cheetah: Too Cool to Fool (SNES, 1992) and Chester Cheetah: Wild Wild Quest (Sega Genesis, 1992).
+  * 7 Up's Cool Spot (Sega Genesis, 1993) was created to advertise for the 7 Up softdrink.
+  * Life Savers launched the web's first major advergaming portal, Candystand.com[3], in March 1997. The website was acquired from the Wm. Wrigley Jr. Company by Funtank in August 2008 and hosts advergames for a broad range of brands.
+  * Pepsi's Pepsiman (PlayStation, 1999) was created to advertise for Pepsi Cola.
+  * Rockstar Games' Grand Theft Auto III (PlayStation 2, 2001) contained in-game radio advertisements for "sleepofflard.com," a redirect to the Rockstar website.
+  * General Mills' Millsberry (online, 2004) targets Middle school and Elementary school children and may be played at any age. It endorses General Mills cereal by featuring products such as cereal and clothing that players can buy on the website.
+  * In November 2006, Burger King began selling three advergaming Xbox and Xbox 360 titles for an additional $3.99 ($4.99 in Canada) each with any value meal. Known as the King Games series, these games include Sneak King (Xbox, 2006), Pocketbike Racer (Xbox, 2006), and Big Bumpin' (Xbox 360, 2006). They were all developed by Blitz Games' Blitz Arcade Division and were the best selling games of the 2006 holiday season[4]. More than 3.2 million copies are believed to have been sold in the US and Canada alone.
+  * Universal Studios gained advergaming exposure in Tom Clancy's Ghost Recon Advanced Warfighter 2 (Xbox 360, 2007) where one may see billboards of films such as The Bourne Ultimatum.
+  * BMW' BMW M3 Challenge (online, 2008) includes both ATL- and BTL-form advergaming. BMW worked with 10tacle Studios[5] to repurpose the GT Legends game, a race simulation game, to showcase the 2008 BMW M3.
+  * In October 2008, in-game ad firm, GameJacket, launched a Flash demo version of THQ's Nintendo DS title Lock's Quest via gaming sites. The notable difference in this version was the use of GameJacket's purportedly brand new dynamic geo-targeting technology to deliver territory specific ad spots in the game for the retail version.
+  * In the guitar hero on multiplayer, certain parts of the stage may advertise something. This was seen mainly while online where advertisements for Coca-Cola and even a campaign poster for Barack Obama were seen.
+
+## [edit] See also
+
+  * In-game advertising
+  * Recruitment tool
+  * Edutainment
+  * Militainment
+
+## [edit] References
+
+  1. ^ a b http://www.gamedaily.com/articles/features/dunkin-for-advergames/68443/?biz=1
+  2. ^ "Advergames, Viral games, and online flash games design" Front Network
+  3. ^ http://www.candystand.com
+  4. ^ http://www.gamingnexus.com/Default.aspx?Section=FullNews&I=3321/
+  5. ^ http://www.10tacle.com
+
+## [edit] External links
+
+v â¢ d â¢ e
+
+Video game genres  
+Action
+
+Beat 'em up Â· Fighting game Â· Platform game Â· Shooter game (First-person
+shooter Â· Light gun shooter Â· Shoot 'em up Â· Tactical shooter Â· Third-
+person shooter)  
+Action-adventure
+
+Stealth game Â· Survival horror  
+Adventure
+
+Dating sim Â· Graphic adventure game (Escape the room) Â· Interactive fiction
+Â· Interactive movie Â· Visual novel  
+Role-playing
+
+Action role-playing game Â· Computer role-playing game Â· Console role-playing
+game Â· MMORPG Â· MUD Â· Roguelike Â· Tactical role-playing game  
+Simulation
+
+Construction and management simulation (Business Â· City Â· God Â· Government)
+Â· Life simulation (Pet Â· Social)  
+Strategy
+
+4X game Â· Artillery game Â· Real-time strategy (Tower defense) Â· Real-time
+tactics Â· Turn-based strategy Â· Turn-based tactics Â· Wargame  
+Vehicle simulation
+
+Flight simulator (Combat flight simulator) Â· Racing game (Sim racing) Â·
+Space flight simulator Â· Submarine simulator Â· Train simulator Â· Vehicular
+combat game  
+Other genres
+
+Adult game/Eroge Â· Advergame Â· Art game Â· Christian game Â· Edugame Â·
+Exergame Â· Music game Â· Non-game Â· Party game Â· Programming game Â· Puzzle
+game (Hidden object game) Â· Serious game Â· Sports game Â· Traditional game  
+Related concepts
+
+Audio game Â· Casual game Â· Minigame Â· Online game (Browser game Â· MMOG)  
+Retrieved from "http://en.wikipedia.org/wiki/Advergaming"
+
+Categories: Advergaming | Advergames | Advergaming companies | Video game
+types | Advertising by medium | Advertising techniques | Propaganda techniques
+by medium
+
+Hidden categories: Articles lacking in-text citations | All articles to be
+merged | Articles to be merged since October 2008 | All articles with
+unsourced statements | Articles with unsourced statements since January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * CatalÃ 
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+  * Polski
+  * PortuguÃªs
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 4 April 2009, at 22:36.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

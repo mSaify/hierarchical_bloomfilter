@@ -1,0 +1,261 @@
+
+# OGame
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+OGame  
+<IMG>  
+  
+Developer(s) Gameforge AG  
+Engine PHP  
+Version 0.84  
+Platform(s) Web browser  
+Release date(s) 2002  
+Genre(s) Real-time text-based MMO  
+Rating(s) 7.8/10 on GameOgre[1]  
+Media Internet  
+System requirements Web browser, Internet access  
+Input methods Keyboard, mouse  
+OGame is a text-based, resource-management and space-war themed massively
+multiplayer online browser game with over two million accounts.[2] OGame was
+created in 2000 and is produced and maintained by Gameforge AG.[3][4][dead
+link]. OGame is available in multiple different languages, while different
+nationalities have their own communities. The game does not differ between the
+nationality communities except in rare cases. Players are generally informed
+of news and other things such as changes in rules or new versions through the
+official forums [5].
+
+As of February 11, 2009, OGame.org has a total of 43 universes and one Beta
+testing universe that is testing the new redesign. More are being added
+periodically. OGame also hosts the "pr0game" universe, with different rules,
+currently listed on OGame.org as Universe 35.
+
+## Contents
+
+  * 1 Gameplay
+    * 1.1 Alliances
+    * 1.2 Purchased effects
+      * 1.2.1 Commander
+      * 1.2.2 Officers
+      * 1.2.3 Merchants
+  * 2 Rules
+  * 3 Awards
+  * 4 References
+  * 5 External links
+
+  
+## [edit] Gameplay
+
+All OGame universes consist of three classifications: galaxies, systems, and
+planet slots. All universes have 9 galaxies, each with 499 systems, which have
+15 planet slots. Sending fleets between different galaxies takes the longest
+time, whereas sending a fleet within the same system takes the least time.
+
+Each player starts with one planet at a randomly assigned coordinate between
+slots 4 and 12, in a random system and galaxy. The first planet always
+consists of 163 fields, which determine how many building upgrades can be
+built on the planet, regardless of the slot in the player's system. The
+player's empire can consist of up to 9 planets in any unoccupied planet slot.
+All construction, research, and missions are performed and launched from a
+planet or moon. Development is done through using three resources: metal,
+crystal, and deuterium, and also energy and dark matter. There are different
+ways to obtain these resources, including mining and trading. Players are
+ranked according to their points, one point is awarded for every one thousand
+resource units invested in a construction, research, or defence. No points are
+given for unspent resources.
+
+Unlike many other real-time strategy games, OGame does not give the player
+constant control of his or her spacecraft. Instead, the player sends the
+ship(s) to a location (using the game's coordinate system) and what to do when
+the fleet arrives. In OGame, combat is resolved when fleets and/or defenses
+meet. The combat takes place instantly and consists of 1 to 6 rounds. Fleet
+attacks are usually aimed to obtain other player's resources, although fleet
+attacks can also be done to destroy an opponent's fleet and collect the debris
+field created from the battle. Defenses are built to defend a planet against
+an attacking enemy fleet.
+
+### [edit] Alliances
+
+An alliance is a group of players who have banded together and is mostly used
+for solidarity purposes. Alliances are created for players to protect each
+other from attacks, join together to raid other planets, or to promote free
+trade amongst members. Members of an alliance can use the ACS (Alliance Combat
+System), available in some universes, to synchronize fleet movements and
+missions with members of the same alliance and temporarily deploy a fleet on
+an ally's planet.
+
+### [edit] Purchased effects
+
+All purchased effects are paid with Dark Matter, which can be purchased from
+Gameforge with real currency. Dark Matter can also be obtained in much lower
+quantities, through in-game expedition missions.
+
+#### [edit] Commander
+
+The Commander provides improved functionality and user interface to the
+player. Features include a building queue which allows the player the ability
+to order the construction of up to 5 buildings at a time. The player also gets
+an âEmpire Viewâ that shows all details on every planet including ships,
+defenses, resources, and energy. Other benefits include message filters,
+shortcuts, an improved galaxy view and commands, and no advertisements.
+Commander was the original officer, giving no direct benefits to the game,
+only improved versions of currently existing processes.
+
+#### [edit] Officers
+
+On February 16, 2007, Officers were introduced to the game. The officer
+feature gives players a real advantage in the game, for a price, while those
+who cannot afford it, or do not have a method of paying for it, go without it.
+It is worth noting that GameForge had previously promised its users it would
+never introduce pay-to-play options that provided direct benefits, and the
+change thus caused a large scale of conflict in the community.
+
+The 5 officers types are:
+
+  * OGame Commander: Allows a building queue, shows a complete empire view, improves galaxy view, allows message filtering, adds shortcuts, removes advertisements. This was a feature offered before February 16th. It gave no direct benefits to gameplay, only an improved user interface.
+  * Fleet Admiral: Increases amount of open fleet slots by 2.
+  * Engineer: Reduces the losses of defensive structure during an attack by half and gives 10% more energy.
+  * Geologist: Increases metal mine, crystal mine and deuterium synthesizer production by 10%.
+  * Technocrat: Increases the espionage level for espionage probes by 2 and decreases research time by 25%.
+
+#### [edit] Merchants
+
+Players can hire a merchant using dark matter to trade one resource type for
+another. The amount of resources traded is limited to the amount of free space
+in one's storage buildings and the amount of dark matter the player has.
+
+## [edit] Rules
+
+OGame is monitored by Game Operators, also known as GOs, Super Game Operators
+and Game Administrators each of whom have the rights to ban any player
+suspected of misconduct and violation of the rules. The rules can be different
+for each OGame universe.[6] Players who have been banned are put into the
+pillory [7] of their universe. The pillory shows the reason of banning and the
+administrator who made the decision. It also shows the unbanning of a player
+when they have clarified the fault. The planets of players that have received
+lifelong bans are subject to the one month account deletion due to inactivity.
+However, if the banned player has purchased Dark Matter, their accounts will
+not be deleted. Deleting these accounts would be, as claimed by GameForge
+staff, a violation of German law.
+
+## [edit] Awards
+
+OGame won the bronze Superbrowsergame Award in 2006.[8]
+
+## [edit] References
+
+  1. ^ OGame : Online Games Review Directory 20 February 2009
+  2. ^ OGame
+  3. ^ www.heise.de article (German)
+  4. ^ www.br-online.de article (German)
+  5. ^ Official OGame forum
+  6. ^ Game rules
+  7. ^ Pillory
+  8. ^ "Special: Die Wahl zum Superbrowsergame 2006 hat gewonnen ... - Druckversion" (in German). Gamesdynamite. 2006-10-04. http://bgs.gdynamite.de/print_special_853.html. Retrieved on 2008-12-23. (German)
+
+## [edit] External links
+
+  * Official English OGame website
+  * Gameforge
+  * OGame US website
+  * OGame, an external wiki
+  * OGame at GameFAQs
+
+Retrieved from "http://en.wikipedia.org/wiki/OGame"
+
+Categories: Browser-based games | German games | Online games | Massively
+multiplayer online real-time strategy games | MMORPGs in space | Multiplayer
+browser-based games
+
+Hidden categories: All articles with dead external links | Articles with dead
+external links since January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Bosanski
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Galego
+  * íêµ­ì´
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * SlovenÄina
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * Tiáº¿ng Viá»t
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 7 April 2009, at 13:13 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

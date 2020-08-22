@@ -1,0 +1,191 @@
+
+# Dictionary attack
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+In cryptanalysis and computer security, a dictionary attack is a technique for
+defeating a cipher or authentication mechanism by trying to determine its
+decryption key or passphrase by searching likely possibilities.
+
+A dictionary attack uses a brute-force technique of successively trying all
+the words in an exhaustive list (from a pre-arranged list of values). In
+contrast with a normal brute force attack, where a large proportion key space
+is searched systematically, a dictionary attack tries only those possibilities
+which are most likely to succeed, typically derived from a list of words in a
+dictionary. Generally, dictionary attacks succeed because many people have a
+tendency to choose passwords which are short (7 characters or fewer), single
+words found in dictionaries or simple, easily-predicted variations on words,
+such as appending a digit.
+
+## Contents
+
+  * 1 Use
+  * 2 Pre-computed dictionary attack
+  * 3 See also
+  * 4 Examples
+  * 5 External links
+
+  
+## [edit] Use
+
+Dictionary attacks may be applied in two main situations:
+
+  * in cryptanalysis, in trying to determine the decryption key for a given piece of ciphertext;
+  * in computer security, in trying to circumvent an authentication mechanism for accessing a computer system by guessing passwords.
+
+In the latter case, the effect of a dictionary attack can be greatly reduced
+by limiting the number of authentication attempts that can be performed each
+minute, and even blocking further attempts after a threshold of failed
+authentication attempts is reached. Generally, six attempts is considered
+sufficient to cope with mistakes made by legitimate users; beyond that, one
+can safely assume that the user is a malicious attacker.
+
+However many systems store a hashed version of the password and make it
+available under certain circumstances, such as a challenge-response
+authentication exchange between two parties. If an attacker can obtain the
+hashed password, they can test guessed passwords rapidly, often at a rate of
+tens or hundreds of millions of guesses per second. [1] The rate of guessing
+can be sharply reduced by using a key derivation function that is
+computationally intensive, such as PBKDF2. Since users often choose easily
+guessed passwords, this has historically succeeded more than two times out of
+ten when a reasonably large list is used. Lists of commonly selected passwords
+are widely available on the Internet as are dictionaries for most human
+languages (even those no longer used), meaning even the use of foreign words
+has limited value in preventing dictionary attacks.
+
+Spammers often use a form of dictionary attack, sometimes known as a Directory
+Harvest Attack, for e-mail address harvesting. For example, a spammer may try
+sending messages to adam@example.com, barbara@example.com, carl@example.com,
+etc. Any addresses to which messages are delivered, as opposed to being
+bounced back, can be added to the spammer's list of known-valid addresses.
+
+Clifford Stoll's book, The Cuckoo's Egg, contains an account of a dictionary
+attack against the encrypted passwords kept in the passwd file on Unix
+systems, and of the reaction to the successful attack by the man (Robert
+Morris) who invented the one-way encryption system used for login
+passwords.[clarification needed]
+
+## [edit] Pre-computed dictionary attack
+
+It is possible to achieve a time-space tradeoff through precomputation by
+encrypting and storing a list of encrypted dictionary words, sorted by the
+encrypted value. This requires a considerable amount of preparation time, but
+makes the actual attack almost instantaneous. The storage requirements for the
+pre-computed tables were once a major cost, but are less of an issue today due
+to the rapid improvements in hard drive technology. Pre-computed dictionary
+attacks are particularly effective when a large number of passwords are to be
+cracked at once. A more refined approach involves the use of rainbow tables.
+Salting is a technique that forces the encrypted dictionary to be recomputed
+for each password sought, potentially making precomputation infeasable,
+provided the salt value is large enough.
+
+## [edit] See also
+
+  * Brute force attack
+  * Password cracking
+  * Password strength
+  * Rainbow table
+  * Key derivation function
+  * Key strengthening
+  * E-mail address harvesting
+
+## [edit] Examples
+
+Well known examples of dictionary attack software tools:
+
+  * Crack by Alec Muffett
+  * John the Ripper
+  * L0phtCrack
+  * Cain
+  * Brutus
+  * TCH Hydra
+
+## [edit] External links
+
+  * RFC 2828 \- Internet Security Glossary
+  * RFC 4949 \- Internet Security Glossary, Version 2
+  * RSA BSAFE Crypto-C Glossary
+  * US Secret Service use a distributed dictionary attack on suspect's password protecting encryption keys
+  * Library with several Dictionaries
+  * Testing for Brute Force (OWASP-AT-004)
+
+Retrieved from "http://en.wikipedia.org/wiki/Dictionary_attack"
+
+Categories: Cryptographic attacks
+
+Hidden categories: All pages needing cleanup | Wikipedia articles needing
+clarification from January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 3 April 2009, at 19:41.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

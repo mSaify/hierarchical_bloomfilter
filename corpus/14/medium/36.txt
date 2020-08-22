@@ -1,0 +1,132 @@
+
+# Ubuntu Live USB creator
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+usb-creator <IMG>  
+usb-creator on Ubuntu  
+Developed by Evan Dandrea and Colin Watson  
+Latest release 0.1.10  
+Written in python  
+Operating system Ubuntu  
+Development status current  
+Type Live USB creator  
+License GNU GPL v3  
+Website https://launchpad.net/usb-creator  
+Ubuntu Live USB Creator (usb-creator) is an official tool to create Live USBs
+of Ubuntu from the Live CD or from an iso image. The tool is already included
+in Ubuntu 8.10, but can also be installed on Ubuntu 8.04.
+
+## Contents
+
+  * 1 Features
+  * 2 Future development
+  * 3 References
+  * 4 See also
+  * 5 External links
+
+  
+## [edit] Features
+
+  * Install bootloader to USB device
+  * Optional persistence (all changes made to the system are saved, unlike a Live CD)
+  * Progress indicator
+  * Does not format the device
+
+## [edit] Future development
+
+Currently the tool is only available for Ubuntu, but Windows and KDE versions
+are planned. [1]
+
+However, you can still install this utility through Kubuntu (or other official
+derivataves, depending on what disc or ISO you select) with the command: `sudo
+apt-get install usb-creator`
+
+## [edit] References
+
+  1. ^ "There will eventually be KDE and Windows frontends" - Evan Dandrea
+
+## [edit] See also
+
+  * List of tools to create Live USB systems
+
+## [edit] External links
+
+  * Project page at Launchpad
+  * Man Page (since Ubuntu 8.10)
+  * Further information at the Ubuntu wiki
+  * Blue prints at launchpad
+
+<IMG> This computer software article is a stub. You can help by expanding it.  
+  
+Retrieved from "http://en.wikipedia.org/wiki/Ubuntu_Live_USB_creator"
+
+Categories: Software stubs
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * EspaÃ±ol
+  * PortuguÃªs
+  * FranÃ§ais
+  * Italiano
+  * Simple English
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 6 April 2009, at 02:59.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

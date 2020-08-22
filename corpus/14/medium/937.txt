@@ -1,0 +1,128 @@
+
+# GeeXboX
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+GeeXboX Image:GeeXboX Logo.png  
+Company / developer Aurelien Jacobs and Benjamin Zores (Core Maintainers)  
+OS family Linux  
+Latest stable release 1.2 / 31 January 2009  
+Latest unstable release 1.2-beta3 / 28 December 2008  
+Kernel type Monolithic  
+License Various  
+Website www.geexbox.org  
+GeeXboX is a free Linux distribution providing a media center software suite
+for personal computers. GeeXboX uses MPlayer for media playback and is
+implemented as a Live CD. As such, the system does not need to be permanently
+installed to a hard drive, as most modern operating systems would. Instead,
+the computer can be booted with the GeeXboX CD when media playback is desired.
+This is a reasonable approach for those who do not need media playback
+services while performing other tasks with the same computer, for users who
+wish to repurpose older computers as media centers, and for those seeking a
+free alternative to Windows XP Media Center Edition. An unofficial port of
+GeeXboX also runs on the Wii.
+
+GeeXboX comes with a utility called generator, which allows the user to
+customize the GeeXboX discs. The following options are configurable:
+
+  * Include your movie(s).
+  * Add non-free extra codecs.
+  * Add non-free firmwares for your drivers.
+  * Add extra fonts for Asian users.
+  * Add extra themes.
+  * Configure the network settings.
+  * Configure audio related options.
+  * Configure video related options.
+  * Configure the remote control and receiver to be used.
+  * Configure an LCD display.
+  * Change theme, fonts and charset encoding.
+  * Choose the services to be started with GeeXboX (like UPnP and SHOUTcast).
+  * Modify MPlayer's startup options.
+
+## [edit] External links
+
+  * GeeXboX Homepage
+  * GeeXboX Review
+
+v â¢ d â¢ e
+
+Linux distributions  
+Arch Linux Â· CentOS Â· Debian Â· Fedora Â· Gentoo Â· Knoppix Â· Mandriva
+Linux Â· Red Hat Enterprise Linux Â· Slackware Â· SUSE Â· Ubuntu Â· moreâ¦  
+Retrieved from "http://en.wikipedia.org/wiki/GeeXboX"
+
+Categories: Linux distributions | Mini Linux distributions | Free television
+software | Free media players | Television technology | Television time
+shifting technology
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * Nederlands
+  * æ¥æ¬èª
+  * Polski
+  * Suomi
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 10 March 2009, at 01:36 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

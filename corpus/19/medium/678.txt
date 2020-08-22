@@ -1,0 +1,257 @@
+
+# List of GNU packages
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This list of GNU packages lists notable software packages developed for or
+maintained by the Free Software Foundation for GNU, a Unix-like computer
+operating system composed entirely of free software. Many of these software
+packages are used together with the Linux kernel to build complete computer
+operating systems.
+
+## Contents
+
+  * 1 Base system
+    * 1.1 Notes
+  * 2 Development
+  * 3 Graphical Desktop
+  * 4 Applications and utilities
+  * 5 Scientific software
+  * 6 Other
+  * 7 See also
+  * 8 External links
+
+  
+## [edit] Base system
+
+Name Description Provides Version 1 Date 1  
+Bash GNU's UNIX compatible shell bash 3.2 11-10-2006  
+coreutils Base commands fileutils: chgrp, chown, chmod, cp, dd, df, dir, du,
+ln, ls, mkdir, mkfifo, mknod, mv, rm etc.  
+
+textutils: cat, cksum, head, tail, md5sum, nl, oc, pr, tsort, join, wc, tac,
+paste etc.  
+shellutils: basename, chroot, date, dirname, echo, env, groups, hostname,
+nice, nohup, printf, sleep etc.
+
+6.12 01-6-2008  
+cpio archiving program cpio 2.6 20-12-2004  
+diffutils contains utilies to compare files diff, cmp, diff3, sdiff 2.8.1
+06-4-2002  
+findutils contains search utilities find, locate, xargs 4.2.28 05-8-2006  
+finger user information n/a 1.37 28-10-1992  
+fontutils font management utilities n/a 0.7 02-4-2002  
+grep search for strings in files grep 2.5.1a 19-11-2004  
+groff document processing system (groff) groff 1.19.2 4-9-2005  
+GRUB 2 GRand Unified Bootloader grub 1.96 03-2-2008  
+gzip compression program (gzip) gzip 1.3.12 13-4-2007  
+hurd 3 a microkernel-based set of servers that perform the same function as a
+UNIX kernel n/a 0.2? 12-6-1997  
+inetutils useful utils for networking ftp, telnet, rsh, rlogin, tftp 1.4.2
+23-12-2002  
+plotutils useful utils for plotting to different devices graph, libplot,
+libplotter 2.5 07-05-2006  
+readline useful library for reading command lines readline 5.1_p4 09-12-2005,
+16-3-2006  
+screen a terminal multiplexer screen 4.0.2 27-1-2004  
+tar Archiver able to creates and handles file archives in various formats tar
+1.16 21-10-2006  
+texinfo documentation system for producing online and printed manuals n/a 4.8a
+26-9-2006  
+time program to determine the duration of execution of a particular command
+time 1.7 11-7-1996  
+### [edit] Notes
+
+  1. Stable versions. Note that some distros (e.g Gentoo) use some development versions in case the stable versions are a bit old.
+  2. Note that GRUB does not have a stable version, since the program itself is unstable, although many distros use it as default.
+  3. Note that HURD is under active development. Because of that, there is no 'stable' version. The Hurd is distributed through version control systems.(cvs)
+
+## [edit] Development
+
+  1. GNU build system â contains autoconf and automake
+  2. Gnulib â portability library designed for use with the GNU build system
+  3. GNU Binutils â contains the GNU assembler (as) and the GNU linker (ld)
+  4. GNU make â the Make program for GNU
+  5. GNU Compiler Collection â optimizing compiler for many programming languages, including C, C++, Fortran, Ada, and Java.
+  6. GNU Debugger â an advanced debugger (gdb)
+  7. GNU C Library (glibc) â POSIX compliant C library
+  8. GNU pth â software threads for POSIX-compatible operating systems.
+  9. GNU libtool â Shared library support
+  10. GNU libmicrohttpd â embeddable HTTP server
+  11. GNU m4 â macro processor
+  12. GNU Gettext â internationalization library
+  13. GNU lightning \- just-in-time compilation that generating machine language
+  14. DotGNU â replacement for Microsoft .NET
+  15. GNU Classpath â libraries for Java
+  16. GNU bison â parser generator intended to replace yacc
+  17. GNU Guile â embeddable Scheme interpreter
+  18. BFD â object file library
+  19. GNU MDK â a development kit for programming in MIX
+  20. GNU indent â a program to indent C and C++ source code.
+  21. GNU FriBidi â a library that implements Unicode's Bidirectional Algorithm
+  22. MIT/GNU Scheme â interpreter, compiler and library for the Scheme programming language developed at the Massachusetts Institute of Technology.
+  23. SmartEiffel â the GNU Eiffel compiler
+  24. GNU Smalltalk â ANSI Smalltalk-98 implementation (interpreter and class library).
+  25. CLISP â ANSI Common Lisp implementation (compiler, debugger, and interpreter)
+  26. GNU Common Lisp â an implementation of Common Lisp
+  27. Gawk \- GNU awk implementation
+
+## [edit] Graphical Desktop
+
+  1. Dia â a vector graphics program for creating diagrams
+  2. GIMP â the GNU Image Manipulation Program is a bitmap image editor that rivals Photoshop
+  3. GTK+ â the GIMP Toolkit, contains the GTK+, GDK, and GLib set of libraries (used by the GIMP and GNOME)
+  4. GNOME â the GNU Network Object Model Environment, the official GNU Desktop
+  5. GNUstep â implementation of the OpenStep libraries and development tools for graphical applications
+
+## [edit] Applications and utilities
+
+  1. Bazaar â distributed revision control system
+  2. GNU arch \- a distributed revision control system
+  3. Gnash â player and browser plugin for the Adobe Flash file format
+  4. GNU Alexandria â package of the GNU system that makes use of GNU Bayonne to provide a means to deliver access to electronic content and services for the blind over the public telephone network
+  5. GNU Anubis â outgoing mail processor that sits between the MUA (Mail User Agent) and the MTA (Mail Transport Agent)
+  6. GNU Aspell â spell checker designed to eventually replace Ispell
+  7. GNU Accounting Utils â set of utilities providing statistics on users and processes (last, ac, accton, lastcomm, sa, dump-utmp, dump-acct)
+  8. GNU Cash â the GNU financial accounting application
+  9. GNU Emacs â the Emacs editor of the GNU operating system
+  10. Gnumeric â the GNU spreadsheet program
+  11. GNU libextractor â metadata extraction library and tool
+  12. GNU mailman \- a computer software application from the GNU project for managing electronic mailing lists
+  13. GNU Parted â Partitioning program
+  14. GNU Privacy Guard â PGP encryption replacement
+  15. GNU wget â advanced file retrieval from networks and the Internet
+  16. GNUnet â decentralized, peer-to-peer communication network designed to be resistant to censorship
+  17. GNU Robots â game for computer programmers
+  18. GnuTLS â TLS replacement protocol
+  19. GNU Typist â Universal (multi-lingual) typing tutor
+  20. Gnuzilla â Internet suite
+  21. GNU Ferret â Free Entity Relationship and Reverse Engineering Tool. SQL database designer
+  22. GOCR â GNU Optical Character Recognition
+
+## [edit] Scientific software
+
+  1. GNU Octave â a program for numerical computations similar to MATLAB
+  2. GSL â the GNU Scientific Library
+  3. GMP â arbitrary precision numerical calculation programming library
+  4. GDL â GNU data language, compatible with IDL
+  5. PSPP â A statistical program that rivals SPSS
+  6. GNU R \- a programming language and software environment for statistical computing and graphics
+
+## [edit] Other
+
+  1. GNU Miscfiles â several data files including standard airport, country, and language codes
+  2. GNU Chess
+  3. GNU Go
+  4. GnowSys â a kernel for semantic computing (a distributed agent oriented knowledge base.)
+  5. Gnucap â the GNU Circuit Analysis Package
+  6. Gnu Panorama â 3D Framework, ray tracing
+  7. Gnu Sovix â PHP-based website revision system
+  8. Gnu Maverik â Virtual Reality microkernel
+  9. 3DLDF â graphics package
+
+## [edit] See also
+
+<IMG> Free software portal  
+  * GNU Project
+  * Free software movement
+  * High Priority Free Software Projects
+
+## [edit] External links
+
+  * FSF/UNESCO Free Software Directory â All GNU Packages
+
+v â¢ d â¢ e
+
+GNU Project  
+History
+
+GNU Manifesto Â· Free Software Foundation Â· History of free software
+
+GNU is not a gnu  
+Licences
+
+GNU General Public License Â· GNU Lesser General Public License Â· Affero
+General Public License Â· GNU Free Documentation License Â· GPL linking
+exception  
+Software
+
+GNU (variants) Â· Hurd Â· GNOME Â· Gnuzilla Â· IceCat Â· Gnash Â· Bash Â· GCC
+Â· GNU Emacs Â· glibc Â· Coreutils Â· Build system Â· Bazaar Â· LilyPond Â·
+Other GNU packages and programs  
+Public speakers
+
+Robert J. Chassell Â· LoÃ¯c Dachary Â· Ricardo Galli Â· Joshua Gay Â· Georg C.
+F. Greve Â· Federico Heinz Â· Benjamin Mako Hill Â· Bradley M. Kuhn Â· Matt
+Lee Â· Eben Moglen Â· Alexandre Oliva Â· Richard Stallman Â· John Sullivan  
+Other topics
+
+GNU/Linux naming controversy Â· Revolution OS  
+Retrieved from "http://en.wikipedia.org/wiki/List_of_GNU_packages"
+
+Categories: GNU project | Lists of software | GNU project software
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+  * Suomi
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 21 April 2009, at 11:32 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

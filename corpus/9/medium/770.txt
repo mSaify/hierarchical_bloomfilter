@@ -1,0 +1,491 @@
+
+# Composting
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+Stable bedding collected for composting.
+
+Composting is the purposeful biodegradation of organic matter, such as yard
+and food waste. The decomposition is performed by micro-organisms, mostly
+bacteria, but also yeasts and fungi.[1] In low temperature phases a number of
+macro-organisms, such as springtails, ants, nematodes, isopods and earthworms
+also contribute to the process, as well as soldier fly, fruit flies and fungus
+gnats. There are a wide range of organisms in the decomposer community.[2]
+
+  * A biodegradable material is capable of being completely broken down under the action of microorganisms into carbon dioxide, water and biomass. It may take a very long time for some material to biodegrade depending on its environment (e.g. wood in an arid area versus paper in water), but it ultimately breaks down completely. Many contaminating materials not dealt with in common composting are in fact "biodegradeable", and may be dealt with via bioremediation, or other special composting approaches.[3]
+
+<IMG>
+
+<IMG>
+
+Stable bedding after shredding and three weeks of hot aerobic composting.
+
+  * A compostable material biodegrades substantially under specific composting conditions. It is metabolized by the microorganisms, being incorporated into the organisms or converted into humus. The size of the material is a factor in determining compostability, and mechanical particle size reduction can speed the process. Large pieces of hardwood may not be compostable under a specific set of composting conditions, whereas sawdust of the same type of wood may be. Some biodegradeable materials are only compostable under very specific conditions, usually with an industrial process.
+
+## Contents
+
+  * 1 Importance
+  * 2 Materials
+  * 3 Approaches
+  * 4 In nature
+  * 5 Vermicomposting
+  * 6 Industrial systems
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] Importance
+
+Composting upcycles organic kitchen and yard waste and manures into an
+extremely useful humus-like, soil end product, permitting the return of vital
+organic matter, nutrients, and particularly bacteria, that are vital to plant
+nutrition to the soil. Managed aerobic composting arranges environmental
+conditions so they are optimal for the natural processes to take place. There
+is a popular expression: "compost happens", but it is helpful to engineer the
+best possible circumstances for large amounts of organic waste to decompose
+quickly and efficiently, with the greatest conservation of useful nutrients
+and mass. Uncontrolled composting is when compost "happens", and although that
+may be functional in some circumstances, as with forest floor detritus, a
+neglected heap of kitchen and yard wastes will more likely result in "smells
+happen", or "rodents happen" long before useful compost does.
+
+Long used in subsistence farming and home gardening for creating garden-ready
+soil, composting is becoming increasingly important and better understood as a
+tool for reducing municipal solid waste,[4] and reducing the amount of green
+waste going into landfills. The decomposition of organic material sent to
+landfills is a principal cause of methane, an important greenhouse gas, making
+reduction of organic waste being landfilled a key element in the fight against
+climate change. In suburban and rural areas, much of the organic waste could
+be removed from the waste stream by promoting home composting, where consumers
+compost their yard waste and kitchen scraps on their own land, regardless of
+whether the material is ever actively re-used as "soil".[5] In urban areas
+with dwellings predominantly lacking individual yard space, there are indoor
+small scale composting alternatives, such as vermicomposting and bokashi
+composting.[6]
+
+## [edit] Materials
+
+<IMG>
+
+<IMG>
+
+Posters for compost education (European)
+
+Composting organisms require four equally important things to work
+effectively:
+
+  * Carbon ("C" or carbohydrates), for energy - the microbial oxidation of carbon produces the heat. 
+    * High carbon materials tend to be brown and dry.
+  * Nitrogen ("N" or protein), to grow and reproduce more organisms to oxidize the carbon. 
+    * High nitrogen materials tend to be green (or colorful, like fruits and vegetables) and wet.[7]
+  * Oxygen, for oxidizing the carbon, the decomposition process.
+  * Water, in the right amounts to maintain activity without causing anaerobic conditions.
+
+Certain ratios of these elements will provide beneficial bacteria with the
+nutrients to work at a rate that will heat up the pile. In that process much
+water will be released as vapor ("steam"), and the oxygen will be quickly
+depleted, explaining the need to actively manage the pile. The hotter the pile
+gets, the more often added air and water is necessary; the air/water balance
+is critical to maintaining high temperatures until the materials are broken
+down. At the same time, too much air or water also slows the process, as does
+too much C (or too little N).
+
+The most efficient composting occurs with a C:N mix of about 30 to 1. All
+organics have both carbon and nitrogen, but amounts vary widely, with
+characteristics noted above (dry/wet, brown/green).[8] Fresh grass clippings
+have an average ratio of about 15 to 1 and dry autumn leaves about 50 to 1
+depending on species. Mixing equal parts by volume approximates the ideal C:N
+range. Few individual situations will provide the ideal mix of materials at
+any point in time - in this respect, home composting is like horseshoes,
+perfect is great, but close still works. Observation of amounts, and
+consideration of different materials[9] as a pile is built over time can
+quickly achieve a workable technique for the individual situation.
+
+<IMG>
+
+<IMG>
+
+Home compost barrel in the Escuela Barreales, Chile.
+
+Ingredients that are primarily carbon include:
+
+  * Dry, straw-type material, such as cereal straws and corn stalks
+  * Dry leaves (best shredded, as with a rotary mower, to prevent matting)
+  * Wood, as coarse or fine (may compact) sawdust, or ground wood waste
+  * Paper, corrugated cardboard, box board, and office paper or newsprint (soy-based inks)
+
+Ingredients with relatively high nitrogen content include:
+
+  * Green plant material, like crop residues, hay (especially alfalfa), grass clippings and weeds.
+  * Manure from poultry, and herbivorous animals such as horses, cows and llamas.
+  * Kitchen waste - fruit and vegetable cooked waste and trimmings, juicing-pulp residue, tea and coffee grounds.
+
+For "back yard" composting, mixing the materials as they are added increases
+the rate of decomposition, as does reduced particle size (ie, chopped,
+shredded), or materials can be added in alternating layers, about 15
+centimeters (6 in) thick. Keeping a carbon "cache" handy to the pile for
+covering and mixing with fresh wet additions (lawn clippings, kitchen scraps)
+is simplest. Special additions or activators are not necessary, although some
+sprinklings of good garden loam as a first pile is built will aid more rapid
+working by inoculating it with beneficial soil bacteria, and some of the
+material from the first finished batch can be used in the subsequent mixes.
+Agricultural lime is not necessary - the bacteria prefer a slightly acidic pH,
+and their processing invariably results in a near-neutral product.[10] Seaweed
+meal, rock dust or rock flour, and other trace element amendments are best
+added to the finished compost, or directly to the garden.
+
+## [edit] Approaches
+
+Active (referring to aerobic microbial action), Most Fuss (for the operator).
+
+<IMG>
+
+<IMG>
+
+An active compost heap, steaming on a cool morning. The heap is kept warm by
+the exothermic action of the bacteria as they decompose the organic matter.
+
+Hot thermophilic composting is essential with some materials, such as meat and
+other animal products, dairy products, eggs, grease, cooking oil, manure of
+non-herbivores, and residuals from the treatment of wastewater, in order to
+kill pathogens; but these materials are not generally recommended in home
+composting because of the likelihood of creating odors and attracting rodents.
+Human waste can be composted by industrial methods as well as composting
+toilets. When high temperatures are reached, the resulting compost can be
+safely used for agricultural or horticultural purposes, providing local health
+regulations are met. Humanure fertilizer (as opposed to night soil) is used
+throughout the developing world and is becoming more accepted as a garden
+amendment in the developed world.
+
+Hot, aerobic composting is conducted at close to the ideal conditions noted
+above, allowing thermophilic bacteria to thrive. These aerobic bacteria break
+down material faster, producing less odor, fewer pathogens, and less
+greenhouse gas than cool, uncontrolled, or accidental anaerobic methods.
+Commercial scale composting operations actively control the composting
+conditions (C:N ration, moisture level and air), usually in a closed
+environment (in-vessel composting, tunnel composting or aerated static pile
+composting), where air is fan forced through the mass, and moisture added with
+sprayers, or conserved via the enclosure, with computer monitored probes
+detecting conditions.
+
+In Thailand an aerated static pile system is in use by farmer groups at over
+400 sites. The process needs only 30 days to finish without manual turning,
+with 10 metric tons of compost produced per month. A 38 cm (15 in) squirrel-
+cage blower with 2.2 kW (3 hp) motor is used to force air through 10 covered
+static piles of compost twice a day. The raw materials consist of agricultural
+wastes and animal manure in the ratio of 3:1 by volume.[11]
+
+High temperatures destroy insects, larvae, and weed seeds, but no compost will
+be totally sterilized by high temperatures alone. In a hot compost where the
+temperature exceeds 55 Â°C (130 Â°F) for several days, the ability of most
+organisms to survive is compromised, and there are temperature standards[12]
+set by various regulating authorities for commercial products[13]
+Nevertheless, there are many organisms in nature that can survive extreme
+temperatures, including a group of pathogenic Clostridium, so no compost is
+100% safe. The necessary second stage of hot composting is maturation, a
+period allowing the dissipation of any phyto-toxins[14] remaining from the
+process or contaminating ingredients (eg: chemical residues), and achieving a
+state of nutrient stability (low C:N ratio) that will not have an impact on
+Nitrogen availability in the receiving soil.[15]
+
+<IMG>
+
+<IMG>
+
+An alternative to manual turning, the "Wing Ding" compost aerator
+
+For backyard composters, carbon and nitrogen ratios in various ingredients and
+the calculations required to get the ideal mixture can be intimidating, so
+rules of thumb exist for approximating it by ingredient types and condition,
+as mentioned in Materials above. If the pile is built in a short period, and
+has a good mix of materials (C:N) and a coarse structure, with about 50%
+moisture ("like a squeezed out sponge"), the temperature should rise within
+days to as high as 60 Â°C (140 Â°F). When the temperature begins to fall, more
+air is needed, usually added by turning the pile or using an agitating tool,
+and moisture may be needed at the same time. Turning or other aeration is
+usually needed about every 6-10 days to maintain the highest heat levels until
+the material is fairly uniformly broken down to unrecognizability, and
+temperatures no longer rebound. A pile that has been maintained at peak
+temperatures may be ready for maturing in as little as 30 days. Another 30-60
+days maturing should suffice to allow passing the "germination test".[16]
+
+To achieve thermophilic decomposition, a compost bin is best about 1 cu.m (1
+cu.yd), or 1 m (3 ft) wide, 1 m (3 ft) tall, and as long as desired for
+windrow composting. This provides enough insulating mass to build up heat but
+also allows oxygen infiltration. The center of the pile heats up the most, so
+regular turning/mixing is needed for insuring all material spends some time in
+the hottest area. When turning the pile results in no further temperature
+rise, the active aerobic phase is complete, and the mass may be turned out to
+a maturing pile. When the matured material has a dark brown crumbly appearance
+and the smell of rich damp earth, it is ready to use.
+
+<IMG>
+
+<IMG>
+
+Turning a home compost bin
+
+The natural sequence of the decomposition community involved will be:  
+0-15 Â°C (32-59 Â°F) - psychrophiles predominate, beginning the heating
+process as they multiply  
+15-40 Â°C (60-104 Â°F) - mesophiles take over, psychrophiles die off or are
+relegated to the borders  
+40-70 Â°C (105-160 Â°F) - thermophiles work at their peak, including consuming
+many other bacteria  
+At the lower temperatures and around the borders, there will also be various
+fungal activity, as well as larger organisms, getting their share - a very
+dry, cooler pile may be attractive to ants, and gastropods may visit very wet
+piles. As the temperature returns to ambient at the end of the process, the
+sequence reverses, including new organisms that prefer the more degraded
+materials. Added heat and pile insulation may be useful in the coldest
+weather, but is not ordinarily necessary, and is not desirable if it
+interferes with aeration or natural convective evaporation. Keeping the top
+dry and burying fresh additions in the center of a pile will be effective
+during winter conditions until heating resumes in spring.
+
+Passive (a misnomer, there are always active biologic processes), or Some fuss
+- no fuss
+
+Cool or ambient temperature composting, when the level of physical
+intervention is minimal, usually results in temperatures never reaching above
+30Â°C (86Â°F). It is slower but effective, and is the more common type of
+composting in domestic gardening. Such composting systems may be in open or
+closed containers of wood or plastic, or in open exposed piles. Kitchen scraps
+are put in the garden compost bin and left untended. This scrap bin can have a
+very high water content which reduces aeration, and may become odorous. To
+improve drainage and airflow, and reduce odor, carbon-rich materials, or
+'browns', such as wood chips, shredded bark, leaves, or twigs may be added to
+mix and cover each wet addition, or holes made occasionally in the pile. The
+amount of attention may vary from none through occasional to "regular".
+
+## [edit] In nature
+
+An unusual form of composting in nature is seen in the case of the mound-
+builders (megapodes) of the Australasian region. These Megapodes are fowl-
+sized birds famous for building nests in the form of compost heaps containing
+organic litter, in which they incubate their eggs. The male birds work
+assiduously to maintain the correct incubation temperatures, by adding and
+removing litter from the compost pile. Good evidence that thermophilic
+composting is a process of nature, not man-made.
+
+Forest floor detritus is the natural fertilizing material in temperate
+forests. Soil dwelling organisms slowly decompose the continuously deposited
+litter from below, returning the nutrients to the soil for bacterial
+conversion to forms useful to the native vegation. This is a natural form of
+mulching or sheet composting. While some may be tempted to gather this rich,
+partially decomposed litter for use in a home garden, it is best left to the
+use of the forest.
+
+## [edit] Vermicomposting
+
+Worm composting or vermicomposting is a method using Red Wiggler worms in a
+container to process kitchen waste. Moistened high-carbon bedding such as
+shredded paper is used as a base to which the food waste is added, and the
+worms and micro-organisms convert the materials to rich compost called worm
+castings, a nutrient and microbially rich material. Worm composting can be
+done indoors, allowing year-round composting, and providing apartment dwellers
+with a means of recycling food waste.
+
+## [edit] Industrial systems
+
+Industrial composting systems are increasingly being installed as a waste
+management alternative to landfills, along with other advanced waste
+processing systems. Mechanical sorting of mixed waste streams combined with
+anaerobic digestion or in-vessel composting, is called mechanical biological
+treatment, increasingly used in developed countries due to regulations
+controlling the amount of organic matter allowed in landfills. Treating
+biodegradable waste before it enters a landfill reduces global warming from
+fugitive methane; untreated waste breaks down anaerobically in a landfill,
+producing landfill gas that contains methane, an even more potent greenhouse
+gas than carbon dioxide.
+
+Large-scale composting systems are used by many urban centers around the
+world. Co-composting is a technique which combines solid waste with de-watered
+biosolids, although difficulties controlling inert and plastic contamination
+from Municipal solid waste makes this approach less attractive. The world's
+largest MSW co-composter is the Edmonton Composting Facility in Edmonton,
+Alberta, Canada, which turns 220,000 tonnes of residential solid waste and
+22,500 dry tonnes of biosolids per year into 80,000 tonnes of compost. The
+facility is 38,690 meters2 (416,500 ft2), equivalent to 4Â½ Canadian football
+fields, and the operating structure is the largest stainless steel building in
+North America, the size of 14 NHL rinks.[17]
+
+## [edit] See also
+
+<IMG>
+
+<IMG>
+
+Compost educator showing the results of composting to students at a community
+compost education site.
+
+<IMG>
+
+<IMG>
+
+Showing the volume reduction of decomposing organics over time.
+
+  * Compost bin Home containers
+  * Container composting Small scale
+  * Compost The product
+  * Compost uses
+  * Compost tea
+  * Bokashi composting
+  * Comparison of anaerobic and aerobic digestion
+  * Decompiculture
+  * Ecological sanitation
+  * Humanure Composting
+  * In-vessel composting
+  * Jean Pain Farm-based compost bioenergy system
+  * List of composting systems
+  * Sustainable agriculture
+  * Biodegradable polythene film
+  * Bioplastic
+
+## [edit] References
+
+  1. ^ Compost microbes, Cornell Univ.
+  2. ^ Compost consumers, Cornell Univ
+  3. ^ Gypsum board composting
+  4. ^ Vancouver, B.C. Canada municipal program
+  5. ^ The Natural Resources Defense Council on Composting
+  6. ^ home made Effective Microorganisms for Bokashi composting
+  7. ^ Materials for composting - University of Illinois extension, retrieval date: 3/12/2009
+  8. ^ Klickitat County WA, USA Compost Mix Calculator
+  9. ^ Effect of lignan content on bio-availability
+  10. ^ Lime addition and pH
+  11. ^ Aerated Static Pile composting
+  12. ^ British Standards Institute Specifications
+  13. ^ US Composting Council testing parameters
+  14. ^ Phytotoxicity and maturation
+  15. ^ US Composting Council Standards
+  16. ^ abstract: Phytotoxicity of biosolids compost at different degrees of maturity compared
+  17. ^ Edmonton composting facility
+
+## [edit] External links
+
+  * Making Compost
+  * Composting tips
+  * Commercial scale systems
+  * US EPA regulations for commercial compost use
+  * State of Florida compost info page
+  * Riverside County CA home compost bin plans
+  * Washington State Extension Service on composting
+  * Maturity indicators for estimating phytotoxicity in compost-amended soil
+  * Understanding the microbiology of compost
+  * British Standards Institute spec's
+  * Cornell University Composting pages
+
+  
+
+v â¢ d â¢ e
+
+Topics related to waste management  
+Anaerobic digestion Â· Composting Â· Eco-industrial park Â· Incineration Â·
+Landfill Â· Mechanical biological treatment Â· Radioactive waste Â· High-level
+radioactive waste management Â· Reuse Â· Recycling Â· Regiving Â· Sewerage Â·
+Waste Â· Waste collection Â· Waste sorting Â· Waste hierarchy Â· Waste
+management concepts Â· Waste legislation Â· Waste treatment  
+v â¢ d â¢ e
+
+Topics related to environmental technology  
+Environmental impact assessment Â· Environmental design Â· Sustainable
+development  
+Pollution
+
+Industrial ecology Â· Solid waste treatment Â· Waste management Â· Air
+pollution (control Â· dispersion modeling) Â· Water (Wastewater treatment Â·
+Industrial wastewater treatment Â· Water purification)  
+Renewable energy
+
+Alternative energy Â· Energy development Â· Energy efficiency Â· Renewable
+energy (development) Â· Sustainable energy Â· Fuel (Alternative fuel Â·
+Biofuel Â· Hydrogen technologies) Â· Transportation (Electric vehicle Â·
+Hybrid vehicle)  
+Conservation
+
+Birth control Â· Permaculture Â· Conservation ethic Â· Recycling Â·
+Ecoforestry Â· Conservation biology Â· Environmental preservation Â·
+Remediation Â· Green computing Â· Building (Green Â· Natural Â· Sustainable
+architecture)  
+Retrieved from "http://en.wikipedia.org/wiki/Composting"
+
+Categories: Composting | Biodegradable waste management | Organic gardening
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Bosanski
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * Äesky
+  * Dansk
+  * Deutsch
+  * FranÃ§ais
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 4 April 2009, at 04:31.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

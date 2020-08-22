@@ -1,0 +1,143 @@
+
+# TACACS
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article does not cite any references or sources. Please help improve this
+article by adding citations to reliable sources (ideally, using inline
+citations). Unsourced material may be challenged and removed. (February 2008)  
+Terminal Access Controller Access-Control System (TACACS) is a remote
+authentication protocol that is used to communicate with an authentication
+server commonly used in UNIX networks. TACACS allows a remote access server to
+communicate with an authentication server in order to determine if the user
+has access to the network.
+
+TACACS allows a client to accept a username and password and send a query to a
+TACACS authentication server, sometimes called a TACACS daemon or simply
+TACACSD. This server was normally a program running on a host. The host would
+determine whether to accept or deny the request and send a response back. The
+TIP (routing node accepting dial-up line connections, which the user would
+normally want to log in into) would then allow access or not, based upon the
+response. In this way, the process of making the decision is "opened up" and
+the algorithms and data used to make the decision are under the complete
+control of whoever is running the TACACS daemon.
+
+A later version of TACACS introduced by Cisco in 1990 was called XTACACS
+(extended TACACS). These two versions have generally been replaced by TACACS+
+and RADIUS in newer or updated networks. TACACS+ is a completely new protocol
+and is therefore not compatible with TACACS or XTACACS.
+
+In spite of its name, TACACS+ is an entirely new protocol. TACACS+ and RADIUS
+have generally replaced the earlier protocols in more recently built or
+updated networks. TACACS+ uses the Transmission Control Protocol (TCP) and
+RADIUS uses the User Datagram Protocol (UDP). Some administrators recommend
+using TACACS+ because TCP is seen as a more reliable protocol. Whereas RADIUS
+combines authentication and authorization in a user profile, TACACS+ separates
+the two operations. TACACS is defined in RFC 1492, and uses (either TCP or
+UDP) port 49 by default.
+
+Software implementations:
+
+  * TACACS+
+  * tac_plus
+  * DialWays 3.0
+  * TacacsPlus
+
+  
+
+## [edit] Related RFCs
+
+  * RFC 1492 \- An Access Control Protocol, sometimes called TACACS
+  * RFC 0927 \- TACACS user identification Telnet option
+
+## [edit] See also
+
+  * List of authentication protocols
+  * RADIUS
+  * TACACS+
+  * Diameter
+  * Kerberos
+
+<IMG>This computer network-related article is a stub. You can help Wikipedia
+by expanding it.
+
+Retrieved from "http://en.wikipedia.org/wiki/TACACS"
+
+Categories: Authentication methods | Identity management systems | Computer
+network stubs
+
+Hidden categories: Articles lacking sources from February 2008 | All articles
+lacking sources
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Äesky
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * Italiano
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 24 January 2009, at 13:52.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

@@ -1,0 +1,175 @@
+
+# Plurk
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Plurk Image:Plurk.png  
+<IMG>  
+Screenshot of a Plurk timeline  
+URL Plurk.com  
+Commercial? Yes  
+Type of site Micro-blogging  
+Registration Required  
+Available language(s) Multilingual  
+Owner Plurk, Inc.  
+Created by The A-team[1]  
+Launched May 12, 2008[2]  
+Plurk is a free social networking and micro-blogging service that allows users
+to send updates (otherwise known as plurks) through short messages or links,
+which can be up to 140 text characters in length.
+
+Updates are then shown on the user's home page using a timeline which lists
+all the updates received in chronological order, and delivered to other users
+who have signed up to receive them. Users can respond to other users' updates
+from their timeline through the Plurk.com website, by instant messaging, or by
+text messaging.
+
+## Contents
+
+  * 1 History
+  * 2 Features and Technology
+  * 3 Availability in other languages
+  * 4 Reception
+  * 5 References
+  * 6 External links
+
+  
+## [edit] History
+
+Plurk was developed by and envisioned as a communication medium meant to form
+a balance between blogs and social networks, and between e-mail messaging and
+instant messaging. After months of development, Plurk was launched on May
+2008.[3]
+
+The etymology of the name was explained by the developers as such:[4]
+
+  * abbreviation of 'people' and 'lurk'
+  * portmanteau of 'play' and 'work'
+  * acronym of peace, love, unity, respect, and karma
+  * verb neologism, similar to how Google was eventually used as a verb
+
+## [edit] Features and Technology
+
+Plurk's interface shows updates in horizontal form through a scrollable
+timeline written in JavaScript and updated through AJAX. Users can post new
+messages with optional 'qualifiers', which are one-word verbs used to
+represent a thought (ex. "feels", "thinks", "loves", etc.). There are also
+advanced features such as sending updates only to a subset of your friends,
+posting updates on events earlier in the day, and sharing images, videos, and
+other media.[5]
+
+Plurk also supports group conversations between friends and allows usage of
+emoticons together with the usual text micro-blogging.[6]
+
+The Plurk.com developers does not yet have an API released to the public,
+however an unofficial but supported[7] Plurk API is hosted on Google Code.[8]
+
+## [edit] Availability in other languages
+
+To help translate their base list of qualifiers/verbs into a number of
+languages, Plurk hosts its own translation website where users can submit
+translations of the Plurk user interface in their own local language.[9] As of
+July 2008, Plurk is translated into over twenty languages.
+
+## [edit] Reception
+
+Plurk has often been considered to be a rival to Twitter, an earlier micro-
+blogging service.[10][11]
+
+In June 2008, Plurk received much online attention when it was featured by Leo
+Laporte and Amber MacArthur on their net@night show in the TWiT.tv podcast
+network.[12][13]
+
+## [edit] References
+
+  1. ^ Plurk.com. "The A-Team". Plurk Inc.. http://www.plurk.com/plurkteam. Retrieved on 2008-07-24.
+  2. ^ Amir Salihefendic (2008-05-12). "Plurk.com opens up". http://amix.dk/blog/viewEntry/19320. Retrieved on 2008-07-24.
+  3. ^ akan (2008-05-20). "das leben der anderen - a window into the lives of others.". Plurk Inc.. http://blog.plurk.com/2008/05/20/das-leben-der-anderen-a-window-into-the-lives-of-others/. Retrieved on 2008-07-23.
+  4. ^ akan (2008-06-02). "âPlurkâ? An etymological deconstruction of the word you love to hate". Plurk Inc.. http://blog.plurk.com/2008/06/02/why-plurk-an-etymological-deconstruction-of-the-word-you-love-to-hate/. Retrieved on 2008-07-23.
+  5. ^ Plurk.com. "FAQ". Plurk, Inc.. http://www.plurk.com/faq. Retrieved on 2008-07-23.
+  6. ^ Prashant Sharma. "Why Plurking is more fun than tweeting". TechPluto. http://www.techpluto.com/plurk-over-twitter/. Retrieved on 2008-09-20.
+  7. ^ Duncan Riley (2008-06-10). "Game On: Plurk API Available Tomorrow". The Inquisitr. http://www.inquisitr.com/939/game-on-plurk-to-release-api-tomorrow/. Retrieved on 2008-07-23.
+  8. ^ Ryan Lim. "RLPlurkAPI: The unofficial Plurk API". Google Inc.. http://code.google.com/p/rlplurkapi/.
+  9. ^ akan (2008-06-28). "Introducing the Plurk Collaborative Translation Project - Help Us Bring Plurk to your Language". Plurk Inc.. http://blog.plurk.com/2008/06/28/introducing-the-plurk-collaborative-translation-project/. Retrieved on 2008-07-23.
+  10. ^ Michael Muchmore (2008-06-23). "Plurk.com - Full Review - Reviews by PC Magazine". Ziff Davis Publishing Holdings Inc.. http://www.pcmag.com/article2/0,2817,2321480,00.asp. Retrieved on 2008-07-23.
+  11. ^ Stii Pretorius (2008-06-03). "Plurk, the new Twitter?". Mail & Guardian Online. http://www.techleader.co.za/stii/2008/06/03/plurk-the-new-twitter/. Retrieved on 2008-07-23.
+  12. ^ Amber MacArthur and Leo Laporte (2008-06-04). "net@night 55: Tiffany Roll". TwiT.tv. http://twit.tv/natn55. Retrieved on 2008-07-24.
+  13. ^ Rafe Needleman (2008-06-02). "Plurk: Like Twitter, in good and bad ways". CNET Networks, Inc.. http://news.cnet.com/8301-17939_109-9957487-2.html?tag=bl. Retrieved on 2008-07-23. "An influx of users over the weekend (which is being blamed on or credited to Leo Laporte) has apparently overloaded the system, and occasionally users may find elements of it not working."
+
+## [edit] External links
+
+  * Plurk.com homepage
+  * Plurk Collaborative Translation Project
+
+Retrieved from "http://en.wikipedia.org/wiki/Plurk"
+
+Categories: Social networks | Online social networking | Blog hosting services
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Bahasa Indonesia
+  * Italiano
+  * Magyar
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 8 April 2009, at 13:50 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

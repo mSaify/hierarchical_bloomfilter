@@ -1,0 +1,511 @@
+
+# Fallout shelter
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+A sign pointing to an old fallout shelter in New York City.
+
+Nuclear weapons  
+One of the first nuclear bombs.  
+History  
+Warfare  
+Arms race  
+Design  
+Testing  
+Effects  
+Delivery  
+Espionage  
+Proliferation  
+Arsenals  
+Terrorism  
+Civil defense  
+Nuclear-armed states  
+United States Â· Russia  
+Â· United Kingdom Â· France  
+China Â· India Â· Israel  
+Pakistan Â· North Korea Â·  
+South Africa  
+This box: view â¢ talk â¢ edit  
+A fallout shelter is an enclosed space specially designed to protect occupants
+from radioactive debris or fallout resulting from a nuclear explosion. Many
+such shelters were constructed as civil defence measures during the Cold War.
+
+After a nuclear explosion, matter vaporized in the resulting fireball is
+exposed to neutrons from the explosion, absorbs them, and becomes radioactive.
+When this material condenses in the cloud, it forms dust and light sandy
+material that resembles ground pumice. The fallout emits both beta particles
+and gamma rays. Much of this highly radioactive material then falls to earth,
+subjecting anything within the line of sight to radiation, a significant
+hazard. A fallout shelter is designed to allow its occupants to minimize
+exposure to harmful fallout until radioactivity has decayed to a safer level.
+
+## Contents
+
+  * 1 History
+  * 2 Details of shelter construction
+    * 2.1 Shielding
+    * 2.2 Climate control
+    * 2.3 Locations
+    * 2.4 Contents
+  * 3 Usage
+  * 4 Protection offered by the solid walls and roof of a structure
+    * 4.1 No shielding
+    * 4.2 10 cm concrete shielding
+    * 4.3 20 and 30 cm concrete shielding
+  * 5 Other matters and simple improvements
+    * 5.1 Measures to lower the beta dose
+    * 5.2 Measures to lower the gamma dose rate
+  * 6 Different types of radiation emitted by fallout
+  * 7 Weapons fallout
+  * 8 Pop culture
+  * 9 See also
+  * 10 References
+  * 11 External links
+
+  
+## [edit] History
+
+<IMG>
+
+<IMG>
+
+Ideal American fallout shelter from around 1957.
+
+During the Cold War many countries built fallout shelters for high-ranking
+government officials and crucial military facilities. Plans were made,
+however, to use existing buildings with sturdy below-ground-level basements as
+makeshift fallout shelters. These buildings were usually placarded with the
+yellow and black trefoil sign as shown in the top of this article. The initial
+blast of a nuclear attack might have rendered these basements either buried
+under many tons of rubble and thus impossible to leave, or removed their upper
+framework, thus leaving the basements unprotected.
+
+In the U.S. in September 1961 the Federal Government started the Community
+Fallout Shelter Program.[1][2] (A letter from President Kennedy advising the
+use of fallout shelters appeared in the September, 1961 issue of Life
+magazine.)[3]
+
+Switzerland built an extensive network of fallout shelters (mainly through
+extra hardening of government buildings such as schools) of a scale to protect
+and feed the entire population for two years after a nuclear attack. This
+nation has the highest ratio of shelter space to national population of any
+country. All these shelters are capable of withstanding nuclear fallout and
+biological or chemical (NBC) attacks but the blast-proof requirement varies
+depending on the size of the building. The largest buildings usually have
+dedicated shelters tunneled into solid rock. Similar projects have been
+undertaken in Finland, which requires all buildings with area over 600 mÂ² to
+have an NBC shelter, and Norway, which requires all buildings with an area
+over 1000 mÂ² to have a shelter.[4]
+
+The former Soviet Union and other Eastern Bloc countries often designed their
+underground mass-transit and subway tunnels to serve as bomb and fallout
+shelters in the event of an attack.
+
+Interest in fallout shelters has largely dropped, as the perceived threat of
+global nuclear war reduced after the end of the Cold War. In Switzerland, most
+residential shelters are no longer stocked with the food and water required
+for prolonged habitation and a large number have been converted by the owners
+to other uses (e.g. wine cellars, ski rooms, gyms). However, a renewed
+interest has been seen since 2001. These shelters also provide a safe haven
+from natural disasters such as tornadoes and hurricanes, although Switzerland
+is rarely subject to such natural phenomena.
+
+## [edit] Details of shelter construction
+
+<IMG>
+
+<IMG>
+
+Door to a light fallout shelter
+
+### [edit] Shielding
+
+A basic fallout shelter consists of shields that reduce gamma ray exposure by
+a factor of 1000. The required shielding can be accomplished with 10 times the
+amount of any quantity of material capable of cutting gamma ray effects in
+half. Shields that reduce gamma ray intensity by 50% (1/2) include 1 cm (0.4
+inch) of lead, 6 cm (2.4 inches) of concrete, 9 cm (3.6 inches) of packed dirt
+or 150 m (500 ft) of air. When multiple thicknesses are built, the shielding
+multiplies. Thus, a practical fallout shield is ten halving-thicknesses of
+packed dirt, reducing gamma rays by 1024 times (210).
+
+Usually, an expedient purpose-built fallout shelter is a trench, with a strong
+roof buried by ~1 m (3 ft) of dirt. The two ends of the trench have ramps or
+entrances at right angles to the trench, so that gamma rays cannot enter (they
+can travel only in straight lines). To make the overburden waterproof (in case
+of rain), a plastic sheet should be buried a few inches below the surface and
+held down with rocks or bricks.
+
+### [edit] Climate control
+
+Dry earth is a reasonably good thermal insulator, and over several weeks of
+habitation, a shelter will become too hot for comfort. The simplest form of
+effective fan to cool a shelter is a wide, heavy frame with flaps that swings
+in the shelter's doorway and can be swung from hinges on the ceiling. The
+flaps open in one direction and close in the other, pumping air. Attach a
+rope, and take turns swinging it. (This is a Kearny Air Pump, or KAP, named
+after the inventor.)
+
+<IMG>
+
+<IMG>
+
+Fallout shelter sign on a school dormitory in Mission, South Dakota
+
+Unfiltered air is safe, since the most dangerous fallout has the consistency
+of sand or finely ground pumice. Such large particles are not easily ingested
+into the soft tissues of the body, so extensive filters are not required. Any
+exposure to fine dust is far less hazardous than exposure to the gamma from
+the fallout outside the shelter. Dust fine enough to pass the entrance will
+probably pass through the shelter.
+
+### [edit] Locations
+
+Effective public shelters can be the middle floors of some tall buildings or
+parking structures, or below ground level in most buildings with more than 10
+floors. The thickness of the upper floors must form an effective shield, and
+the windows of the sheltered area must not view fallout-covered ground that is
+closer than 1.5 km (1 mi).
+
+### [edit] Contents
+
+A battery-powered radio is very helpful to get reports of fallout patterns and
+clearance. In many countries (including the U.S.) civilian radio stations have
+emergency generators with enough fuel to operate for extended periods without
+commercial electricity.
+
+It is possible to construct an electrometer-type radiation meter called the
+Kearny Fallout Meter from plans with just a coffee can or pail, gypsum board,
+monofilament fishing line, and aluminum foil. Plans are in the reference
+"Nuclear War Survival Skills" by Cresson Kearny.
+
+## [edit] Usage
+
+Inhabitants should plan to remain sheltered for at least two weeks, then work
+outside for gradually increasing amounts of time, to four hours a day at three
+weeks. The normal work is to sweep or wash fallout into shallow trenches to
+decontaminate the area. They should sleep in a shelter for several months.
+Evacuation at three weeks is recommended by official authorities.
+
+If available, inhabitants should take potassium iodide at the rate of 130
+mg/day per adult (65 mg/day per child) as an additional measure to protect the
+human thyroid gland from the uptake of dangerous radioactive iodine, a
+component of most fallout and reactor waste. (For more info, including
+storage, and use of an inexpensive saturated solution, see potassium iodide).
+
+## [edit] Protection offered by the solid walls and roof of a structure
+
+<IMG>
+
+<IMG>
+
+The contributions made by the different isotopes to the dose (in air) caused
+in the contaminated area in the time shortly after the accident with 30 cm of
+concrete shielding. [5]
+
+<IMG>
+
+<IMG>
+
+The contributions made by the different isotopes to the dose (in air) caused
+in the contaminated area in the time shortly after the accident. [5]  
+<IMG>
+
+<IMG>
+
+The contributions made by the different isotopes to the dose (in air) caused
+in the contaminated area in the time shortly after the accident with 10 cm of
+concrete shielding. [5]  
+<IMG>
+
+<IMG>
+
+The protection factor provided by 10 cm of concrete shielding where the source
+is the idealised Chernobyl fallout. [5]  
+<IMG>
+
+<IMG>
+
+The contributions made by the different isotopes to the dose (in air) caused
+in the contaminated area in the time shortly after the accident with 20 cm of
+concrete shielding. [5]  
+<IMG>
+
+<IMG>
+
+The protection factor provided by 20 cm of concrete shielding where the source
+is the idealised Chernobyl fallout. [5]  
+<IMG>
+
+<IMG>
+
+The protection factor provided by 30 cm of concrete shielding where the source
+is the idealised Chernobyl fallout. [5]  
+The fallout from either a weapon or an accident is a complex mixture of many
+radioisotopes. For weapons fallout the photon energy is assumed to be the same
+as the gamma rays from 60Co. Data collected after the Chernobyl accident can
+serve in a simulation of fallout shelter efficacy, reconstructing the
+contribution of different radioisotopes to the radiation dose over time. The
+simulation detailed below assumes that no chemical separation occurred during
+the transport of radioactivity to the site where the fallout fell (this in
+real life is not true), and that no decontamination or removal of fallout
+(e.g. weathering) occurs.
+
+### [edit] No shielding
+
+Using the data for the source term (radioactive release) from Chernobyl, and
+other literature data it is possible to estimate how much protection a wall of
+concrete will offer in the event of a Chernobyl like accident. These
+calculations are for a room with no windows or doors. The radioactive dust on
+the roof, and the windows and doors will make the estimation of the protection
+factor more difficult.
+
+### [edit] 10 cm concrete shielding
+
+These graphs show that thicker walls increase the protection factor. The
+protection factor is the ratio of the dose rate suffered by a person inside
+the shelter divided by the dose rate in the open. The protection factor
+changes as a function of time. This is because some of the short-lived
+isotopes such as 95Zr and 95Nb generate very high energy gamma photons, while
+the longer lived 137Cs have a lower photon energy.
+
+As the wall is made thicker the average gamma photon energy for those photons
+which pass through the wall becomes higher. So each additional layer of
+concrete has a smaller effect on the dose rate.
+
+### [edit] 20 and 30 cm concrete shielding
+
+(Refer to charts, at right) As the shield becomes thicker the very high photon
+energy emitters such as 140Ba/140La and 95Zr/95Nb become more and more
+important.
+
+## [edit] Other matters and simple improvements
+
+In the long term it is important to consider the protection which is offered
+by a person's home in the months and years after an event such as the
+Chernobyl accident. While the person's home may not be a purpose-made shelter,
+it can be thought of as a shelter if any action is taken to improve the degree
+of protection.
+
+### [edit] Measures to lower the beta dose
+
+The main threat from beta emitters is from a hot particle which is in contact
+or close to the skin of the person. Also a swallowed or inhaled hot particle
+could cause beta burns. As it is important to avoid bringing hot particles
+into the shelter, one option is to remove one's outer clothing on entry..
+
+### [edit] Measures to lower the gamma dose rate
+
+The gamma dose rate due to the contamination brought into the shelter on the
+clothing of a person is likely to be small compared to gamma radiation that
+penetrates through the walls of the shelter. The following measures can be
+taken to reduce the amount of gamma radiation entering the shelter:
+
+  * Roofs and gutters should be cleaned to lower the dose rate in the house.
+
+  * The top inch of soil in the area near the house should be either removed or dug up and mixed with the deeper layers of soil. This reduces the dose rate as the gamma photons have to pass through the soil before they can irradiate a person.
+
+  * Nearby roads can be rinsed and washed down to remove dust and debris; the contaminated materials would collect in the sewers and gutters for easier disposal. In Kiev after the Chernobyl accident a program of road washing was used to control the spread of radioactivity.
+
+  * Windows can be bricked up, or the sill raised to reduce the hole in the shielding formed by the wall.
+
+  * Gaps in the shielding can be blocked using water cans, such as bottles of water. While water only has a density which is one tenth that of lead, it is still able to absorb gamma rays.
+
+  * Earth can be heaped up against the exposed walls of the building, this forces the gamma rays to pass through a thicker layer of shielding before entering the house.
+
+  * Nearby trees can be removed to reduce the dose due to fallout which is on the branches and leaves. It has been suggested by the US government that a fallout shelter should not be dug close to trees for this reason.
+
+## [edit] Different types of radiation emitted by fallout
+
+Alpha
+
+In the vast majority of accidents and in all atomic bombs the threat due to
+beta and gamma emitters is far greater than that posed by the small amount of
+alpha emitters in the fallout. Alpha radiation can be very harmful, but only
+if radioactive materials are ingested or inhaled. Alpha particles can be
+blocked easily by a sheet of paper.
+
+Beta
+
+It is likely that even a light structure will give good protection against
+most beta emitters, but small particles of fallout can cause localised
+radiation injuries known as beta burns. It is thought that if a person
+entering a fallout shelter was to change their footwear and leave their outer
+clothing outside the main area then the persons inside will be protected from
+these beta burns. Beta rays are more penetrating than alpha rays, but internal
+exposure will tend to do less damage because the LET is lower.
+
+Three centimeters of aluminum can block the beta emissions from even a high
+energy beta emitter such as 90Sr, while a lower energy beta emitter such as
+tritium or 14C will be stopped by thinner objects.
+
+Gamma
+
+These are not charged particles but electromagnetic rays, and are thus more
+able to pass through objects and may pose a great threat to a person in a
+fallout shelter. Most of the design of a fallout shelter is intended to
+protect against gamma rays. The rays' intensity can be reduced by dense
+materials such as lead, steel, concrete or packed earth.
+
+## [edit] Weapons fallout
+
+The bulk of the radioactivity in nuclear accident fallout is more long-lived
+than that in weapons fallout. A good table of the nuclides such as that
+provided by the Korean Atomic Energy Research Institute includes the fission
+yields of the different nuclides. From this data it is possible to calculate
+the isotopic mixture in the fallout (due to fission products in bomb fallout).
+The mixture of radioisotopes present in used power reactor fuel can be more
+complex because neutron activation of fission products is possible, a good
+example of this is the caesium isotopic signature. In terms of activity
+(becquerels or curies), the activity in a power reactor fuel one hour after
+shutdown tends to be more long lived because the majority of the short lived
+fission products will have had time to decay.
+
+For example, some fissile material is used in a bomb, and that in 1012
+fissions an equal number of 131I and 137Cs atoms are formed. Because the 131I
+has such a short half life when compared with the 137Cs, the activity ratio of
+131I to 137Cs will be very much in favour of the 131I one hour after the
+fission event.
+
+If, on the other hand, a lump of fuel in a power reactor undergoes 1012
+fissions, which will generate a given amount of 131I, if the reactor was run
+at a constant power for one year then the majority of the 131I will have had
+time to decay. However the vast majority of the 137Cs atoms will not have had
+time to decay. So the 131I to 137Cs ratio is more in favour of 137Cs than the
+mixture formed.
+
+## [edit] Pop culture
+
+In popular culture, fallout shelters feature prominently in the Robert A.
+Heinlein novel Farnham's Freehold (Heinlein built a fairly extensive shelter
+near his home in Colorado Springs in 1963)[6], Pulling Through by Dean Ing, A
+Canticle for Leibowitz by Walter M. Miller and the David Brin novel Earth. The
+idealized fallout shelter can be seen in the motion picture Blast from the
+Past.
+
+The Twilight Zone episode The Shelter, from a Rod Serling script, deals with
+the consequences of actually using a shelter.
+
+In book 11 of the Cirque Du Freak book series, Darren and Harkat must go into
+an alternate world. They then find a fallout shelter with post cards on the
+refrigerator from the late 1940's and realized that they had gone back in
+time.
+
+In the Fallout series of video games, fallout shelter vaults, are supposed to
+safely house their 1000 inhabitants from nuclear war.
+
+## [edit] See also
+
+  * Blast shelter
+  * Bomb shelter
+  * Bunker
+  * Collective protection
+  * Command center
+  * Continuity of government
+  * Diefenbunker
+  * Fallout Protection
+  * Fission product
+  * Survivalism
+  * Retreat (survivalism)
+  * Survival Under Atomic Attack
+  * Urban exploration
+  * Sonnenberg Tunnel
+
+## [edit] References
+
+  1. ^ "Civil Defense Museum-Community Shelter Tours Main Page". www.civildefensemuseum.com. http://www.civildefensemuseum.com/cdmuseum2/commun.html. Retrieved on 2008-09-14.
+  2. ^ "FALLOUT FEVER: Civil Defense shelters dotted area cities during the Cold War - My Web Times". mywebtimes.com. http://mywebtimes.com/archives/ottawa/display.php?id=366305. Retrieved on 2008-09-14.
+  3. ^ DOE.gov
+  4. ^ [1]
+  5. ^ a b c d e f g Note that this image was drawn using data from the OECD report and the second edition of The Radiochemical Manual
+  6. ^ site: Robert A. Heinlein - Archives - PM 6/52 Article
+
+## [edit] External links
+
+  * Nuclear fallout decontamination device. (www.greeneyetech.com)
+
+  * Fallout exposure based on size of bomb and distance from explosion. (www.bomb-shelter.net)
+
+  * Bomb Shelter Questions and Answers (www.undergroundbombshelter.com)
+
+  * Arabs put nuclear bunkers in grounds of their houses (UK)
+
+  * Oregon Institute of Science and MedicineThis website offers the entire online version of Nuclear War Survival Skills with full graphics and web navigation, created with the permission of the author Cresson Kearny. This manual has proven technical info on expedient fallout shelter, shelter habitation, and assorted shelter system needs that can be created from common household items. OISM also offers free downloads of other civil defense and shelter information as well.
+
+  * SurvivalRing Hosts hundreds of freely downloadable PDF files including dozens of authentic fallout shelter plans, fallout shelter regulations, fallout technological data, and cold war related fallout shelter defense data.
+
+Retrieved from "http://en.wikipedia.org/wiki/Fallout_shelter"
+
+Categories: Civil defense | Cold War | Nuclear warfare | Radioactivity |
+Radiobiology | Rooms | Subterranea | Shelters | Survivalism
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * FranÃ§ais
+  * Italiano
+  * ×¢××¨××ª
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 April 2009, at 19:58 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

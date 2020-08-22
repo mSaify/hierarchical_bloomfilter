@@ -1,0 +1,1221 @@
+
+# Universal Serial Bus
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+"USB" redirects here. For other uses, see USB (disambiguation).
+
+USB  
+Universal Serial Bus  
+<IMG>  
+Original USB Logo  
+Year created: January 1996  
+Created by: Intel, Compaq, Microsoft, Digital, IBM, Northern Telecom  
+* * *  
+Width in bits: 1  
+Number of devices: 127 per host controller  
+Capacity 1.5 to 480 Mbit/s (0.2 to 60 MByte/s)  
+Style: Serial  
+Hotplugging? Yes  
+External? Yes  
+<IMG>
+
+<IMG>
+
+A USB Series âAâ plug, the most common USB plug
+
+<IMG>
+
+<IMG>
+
+The USB trident logo
+
+In information technology, Universal Serial Bus (USB) is a serial bus standard
+to connect devices to a host computer. USB was designed to allow many
+peripherals to be connected using a single standardized interface socket and
+to improve plug and play capabilities by allowing hot swapping; that is, by
+allowing devices to be connected and disconnected without rebooting the
+computer or turning off the device. Other convenient features include
+providing power to low-consumption devices, eliminating the need for an
+external power supply; and allowing many devices to be used without requiring
+manufacturer-specific device drivers to be installed.
+
+USB is intended to replace many varieties of serial and parallel ports. USB
+can connect computer peripherals such as mice, keyboards, PDAs, gamepads and
+joysticks, scanners, digital cameras, printers, personal media players, flash
+drives, and external hard drives. For many of those devices, USB has become
+the standard connection method. USB was designed for personal computers, but
+it has become commonplace on other devices such as PDAs and video game
+consoles, and as a power cord between a device and an AC adapter plugged into
+a wall plug for charging. As of 2008[update], there are about 2 billion USB
+devices sold per year, and about 6 billion total sold to date.[1]
+
+The design of USB is standardized by the USB Implementers Forum (USB-IF), an
+industry standards body incorporating leading companies from the computer and
+electronics industries. Notable members have included Agere (now merged with
+LSI Corporation), Apple Inc., Hewlett-Packard, Intel, NEC, and Microsoft.
+
+## Contents
+
+  * 1 History
+  * 2 Overview
+  * 3 Device classes
+    * 3.1 USB mass-storage
+    * 3.2 Human-interface devices (HIDs)
+  * 4 USB signaling
+  * 5 USB packets
+    * 5.1 Handshake packets
+    * 5.2 Token packets
+    * 5.3 Data packets
+    * 5.4 PRE "packet"
+  * 6 USB protocol analyzers
+  * 7 USB connector properties
+    * 7.1 Usability
+    * 7.2 Durability
+    * 7.3 Compatibility
+    * 7.4 Interface
+    * 7.5 Cables
+  * 8 Types of USB connector
+    * 8.1 USB-A
+    * 8.2 USB-B
+    * 8.3 Mini and micro
+    * 8.4 USB OTG Sockets: Mini-AB, Micro-AB
+    * 8.5 Proprietary connectors and formats
+  * 9 USB cables
+    * 9.1 Maximum useful distance
+  * 10 Power
+    * 10.1 Non-standard devices
+    * 10.2 Powered USB
+    * 10.3 Sleep-and-charge
+  * 11 USB compared with FireWire
+  * 12 Version history
+    * 12.1 Prereleases
+    * 12.2 USB 1.0
+    * 12.3 USB 2.0
+    * 12.4 USB 3.0
+      * 12.4.1 Features
+      * 12.4.2 Availability
+  * 13 Related technologies
+  * 14 See also
+  * 15 References
+  * 16 External links
+    * 16.1 USB 3.0
+
+  
+## [edit] History
+
+The USB 1.0 specification was introduced in 1994. USB was created by the core
+group of companies that consisted of Intel, Compaq, Microsoft, Digital, IBM,
+and Northern Telecom. Intel produced the UHCI host controller and open
+software stack; Microsoft produced a USB software stack for Windows and co-
+authored the OHCI host controller specification with National Semiconductor
+and Compaq; Philips produced early USB-Audio; and TI produced the most widely
+used hub chips. USB was intended to replace the multitude of connectors at the
+back of PCs, as well as to simplify software configuration of communication
+devices.
+
+The USB 2.0 specification was released in April 2000 and was standardized by
+the USB-IF at the end of 2001. Hewlett-Packard, Intel, Lucent (now LSI
+Corporation since its merger with Lucent spinoff Agere Systems), Microsoft,
+NEC, and Philips jointly led the initiative to develop a higher data transfer
+rate, 480 Mbit/s, than the 1.0 specification of 12 Mbit/s.
+
+The USB 3.0 specification was released on November 17, 2008 by the USB 3.0
+Promoter Group. It has a transfer rate of up to 10 times faster than the USB
+2.0 version and has been dubbed the SuperSpeed USB.[2]
+
+Equipment conforming with any version of the standard will also work with
+devices designed to any previous specification (a property known as backward
+compatibility).
+
+<IMG>
+
+<IMG>
+
+A conventional USB hub.
+
+## [edit] Overview
+
+A USB system has an asymmetric design, consisting of a host, a multitude of
+downstream USB ports, and multiple peripheral devices connected in a tiered-
+star topology. Additional USB hubs may be included in the tiers, allowing
+branching into a tree structure with up to five tier levels. A USB host may
+have multiple host controllers and each host controller may provide one or
+more USB ports. Up to 127 devices, including the hub devices, may be connected
+to a single host controller.
+
+USB devices are linked in series through hubs. There always exists one hub
+known as the root hub, which is built into the host controller. So-called
+"sharing hubs", which allow multiple computers to access the same peripheral
+device(s), also exist and work by switching access between PCs, either
+automatically or manually. They are popular in small-office environments. In
+network terms, they converge rather than diverge branches.
+
+A physical USB device may consist of several logical sub-devices that are
+referred to as device functions. A single device may provide several
+functions, for example, a webcam (video device function) with a built-in
+microphone (audio device function).
+
+<IMG>
+
+<IMG>
+
+USB endpoints actually reside on the connected device: the channels to the
+host are referred to as pipes.
+
+USB device communication is based on pipes (logical channels). Pipes are
+connections from the host controller to a logical entity on the device named
+an endpoint. The term endpoint is occasionally used to incorrectly refer to
+the pipe. A USB device can have up to 32 active pipes, 16 into the host
+controller and 16 out of the controller.
+
+Each endpoint can transfer data in one direction only, either into or out of
+the device, so each pipe is uni-directional. Endpoints are grouped into
+interfaces and each interface is associated with a single device function. An
+exception to this is endpoint zero, which is used for device configuration and
+which is not associated with any interface.
+
+When a USB device is first connected to a USB host, the USB device enumeration
+process is started. The enumeration starts by sending a reset signal to the
+USB device. The speed of the USB device is determined during the reset
+signaling. After reset, the USB device's information is read by the host, then
+the device is assigned a unique 7-bit address. If the device is supported by
+the host, the device drivers needed for communicating with the device are
+loaded and the device is set to a configured state. If the USB host is
+restarted, the enumeration process is repeated for all connected devices.
+
+The host controller directs traffic flow to devices, so no USB device can
+transfer any data on the bus without an explicit request from the host
+controller. In USB 2.0, host controller polls the bus for traffic, usually in
+a round-robin fashion. In SuperSpeed USB, connected devices can request
+service from host.
+
+## [edit] Device classes
+
+USB defines class codes used to identify a deviceâs functionality and to
+load a device driver based on that functionality. This enables a device driver
+writer to support devices from different manufacturers that comply with a
+given class code.
+
+Device classes include:[3]
+
+Class. Usage. Description. Examples.  
+00h Device Unspecifiedclass 0 (Device class is unspecified. Interface
+descriptors are used for determining the required drivers.)  
+01h Interface Audio Speaker, microphone, sound card  
+02h Both Communications and CDC Control Ethernet adapter, modem, serial port
+adapter  
+03h Interface Human Interface Device (HID) Keyboard, mouse, joystick  
+05h Interface Physical Interface Device (PID) Force feedback joystick  
+06h Interface Image Webcams  
+07h Interface Printer Laser printer, Inkjet printer  
+08h Interface Mass Storage USB flash drive, memory card reader, digital audio
+player, digital camera, external drives  
+09h Device USB hub Full speed hub, hi-speed hub  
+0Ah Interface CDC-Data (This class is used together with class 02h -
+Communications and CDC Control.)  
+0Bh Interface Smart Card USB smart card reader  
+0Dh Interface Content Security -  
+0Eh Interface Video Webcam  
+0Fh Interface Personal Healthcare -  
+DCh Both Diagnostic Device USB compliance testing device  
+E0h Interface Wireless Controller Wi-Fi adapter, Bluetooth adapter  
+EFh Both Miscellaneous ActiveSync device  
+FEh Interface Application Specific IrDA Bridge  
+FFh Both Vendor Specific (This class code indicates that the device needs
+vendor specific drivers.)  
+Note class 0: Use class information in the Interface Descriptors. This base
+class is defined to be used in Device Descriptors to indicate that class
+information should be determined from the Interface Descriptors in the device.
+
+### [edit] USB mass-storage
+
+Main article: USB mass storage device class
+
+<IMG>
+
+<IMG>
+
+A flash drive, a typical USB mass-storage device.
+
+USB implements connections to storage devices using a set of standards called
+the USB mass storage device class (referred to as MSC or UMS). This was
+initially intended for traditional magnetic and optical drives, but has been
+extended to support a wide variety of devices, particularly flash drives. This
+generality is because many systems can be controlled with the familiar idiom
+of file manipulation within directories (The process of making a novel device
+look like a familiar device is also known as extension).
+
+Though most newer computers are capable of booting off USB Mass Storage
+devices, USB is not intended to be a primary bus for a computer's internal
+storage: buses such as ATA (IDE), Serial ATA (SATA), and SCSI fulfill that
+role. However, USB has one important advantage in that it is possible to
+install and remove devices without opening the computer case, making it useful
+for external drives. Originally conceived and still used today for optical
+storage devices (CD-RW drives, DVD drives, etc.), a number of manufacturers
+offer external portable USB hard drives, or empty enclosures for drives, that
+offer performance comparable to internal drives[citation needed]. These
+external drives usually contain a translating device that interfaces a drive
+of conventional technology (IDE, ATA, SATA, ATAPI, or even SCSI) to a USB
+port. Functionally, the drive appears to the user just like an internal drive.
+Other competing standards that allow for external connectivity are eSATA and
+FireWire.
+
+Another use for USB Mass Storage devices is the portable execution of software
+applications without the need of installation on the host computer,[4] eg. Web
+Browser, VoIP,[5] etc.
+
+### [edit] Human-interface devices (HIDs)
+
+Mice and keyboards are frequently fitted with USB connectors, but because most
+PC motherboards still retain PS/2 connectors for the keyboard and mouse as of
+2007, they are often supplied with a small USB-to-PS/2 adaptor, allowing usage
+with either USB or PS/2 interface. There is no logic inside these adaptors:
+they make use of the fact that such HID interfaces are equipped with
+controllers that are capable of serving both the USB and the PS/2 protocol,
+and automatically detect which type of port they are plugged into. Joysticks,
+keypads, tablets and other human-interface devices are also progressively
+migrating from MIDI, PC game port, and PS/2 connectors to USB.
+
+## [edit] USB signaling
+
+USB supports following data rates:
+
+  * The Full Speed rate of 12 Mbit/s (1.5 MB/s) is the basic USB data rate defined by USB 1.1. All USB hubs support Full Speed.
+  * A Low Speed rate of 1.5 Mbit/s (187.5 kB/s) is defined by USB 1.0. It is very similar to full speed operation except that each bit takes 8 times as long to transmit. It is intended primarily to save cost in low-bandwidth Human Interface Devices (HID) such as keyboards, mice, and joysticks.
+  * A High-Speed (USB 2.0) rate of 480 Mbit/s (60 MB/s) was introduced in 2001. All high-speed devices are capable of falling back to full-speed operation if necessary.
+
+Experimental data rate:
+
+  * A SuperSpeed (USB 3.0) rate of 5.0 Gbit/s (625 MB/s). The USB 3.0 specification was released by Intel and its partners in August 2008, according to early reports from CNET news. Products using the 3.0 specification are expected to arrive in 2009 or 2010.[citation needed]
+
+USB signals are transmitted on a twisted pair data cable with 90Î© Â±15%
+impedance,[6] labeled D+ and Dâ. These collectively use half-duplex
+differential signaling to combat the effects of electromagnetic noise on
+longer lines. Transmitted signal levels are 0.0â0.3 volts for low and
+2.8â3.6 volts for high in Full Speed (FS) and Low Speed (LS) modes, and
+-10â10 mV for low and 360â440 mV for high in High Speed (HS) mode. In FS
+mode the cable wires are not terminated, but the HS mode has termination of
+45Î© to ground, or 90Î© differential to match the data cable impedance.
+
+A USB connection is always between a host or hub at the "A" connector end, and
+a device or hub's upstream port at the other end. The host includes 15 kÎ©
+pull-down resistors on each data line. When no device is connected, this pulls
+both data lines low into the so-called "single-ended zero" state (SE0 in the
+USB documentation), and indicates a reset or disconnected connection.
+
+A USB device pulls one of the data lines high with a 1.5 kÎ© resistor. This
+overpowers one of the pull-down resistors in the host and leaves the data
+lines in an idle state called "J". The choice of data line indicates a
+device's speed support; full-speed devices pull D+ high, while low-speed
+devices pull Dâ high.
+
+USB data is transmitted by toggling the data lines between the J state and the
+opposite K state. USB encodes data using the NRZI convention; a 0 bit is
+transmitted by toggling the data lines from J to K or vice-versa, while a 1
+bit is transmitted by leaving the data lines as-is. To ensure a minimum
+density of signal transitions, USB uses bit stuffing; an extra 0 bit is
+inserted into the data stream after any appearance of six consecutive 1 bits.
+Seven consecutive 1 bits is always an error.
+
+A USB frame begins with an 8-bit synchronization sequence 00000001. That is,
+after the initial idle state J, the data lines toggle KJKJKJKK. The final 1
+bit (repeated K state) marks the end of the sync pattern and the beginning of
+the USB frame proper.
+
+A USB frame's end, called EOP (end-of-packet), is indicated by the transmitter
+driving 2 bit times of SE0 (D+ and D- both below V_{il}\\, max) and 1 bit time
+of J state. After this, the transmitter ceases to drive the D+/Dâ lines and
+the aforementioned resistors hold it in the J (idle) state. A receiver may
+take extra time to decode the SE0 state, and will see the first bit time as a
+repetition of the last data bit. Since USB frames are always a multiple of 8
+bits long, this extra "dribble bit" can be detected and ignored.
+
+A USB bus is reset using a prolonged (10 to 20 milliseconds) SE0 signal.
+
+USB 2.0 devices use a special protocol during reset, called "chirping", to
+negotiate the High-Speed mode with the host/hub. A device that is HS capable
+first connects as an FS device (D+ pulled high), but upon receiving a USB
+RESET (both D+ and D- driven LOW by host for 10 to 20 mS) it pulls the D- line
+high. If the host/hub is also HS capable, it chirps (returns alternating J and
+K states on D- and D+ lines) letting the device know that the hub will operate
+at High Speed.
+
+Clock tolerance is 480.00 Mbit/s Â±500 ppm, 12.000 Mbit/s Â±2500 ppm, 1.50
+Mbit/s Â±15000 ppm.
+
+Though Hi-Speed devices are commonly referred to as "USB 2.0" and advertised
+as "up to 480 Mbit/s", not all USB 2.0 devices are Hi-Speed. The USB-IF
+certifies devices and provides licenses to use special marketing logos for
+either "Basic-Speed" (low and full) or Hi-Speed after passing a compliance
+test and paying a licensing fee. All devices are tested according to the
+latest spec, so recently-compliant Low-Speed devices are also 2.0 devices.
+
+The actual throughput currently (2006)[update] attained with real devices is
+about two thirds of the maximum theoretical bulk data transfer rate of 53.248
+MB/s. Typical hi-speed USB devices operate at lower speeds, often about 3 MB/s
+overall, sometimes up to 10â20 MB/s.[7]
+
+## [edit] USB packets
+
+USB communication takes the form of packets. Initially, all packets are sent
+from the host, via the root hub and possibly more hubs, to devices. Some of
+those packets direct a device to send some packets in reply.
+
+After the sync field described above, all packets are made of 8-bit bytes,
+transmitted least-significant bit first. The first byte is a packet identifier
+(PID) byte. The PID is actually 4 bits; the byte consists of the 4-bit PID
+followed by its bitwise complement. This redundancy helps detect errors. (Note
+also that a PID byte contains at most four consecutive 1 bits, and thus will
+never need bit-stuffing, even when combined with the final 1 bit in the sync
+byte. However, the OUT PID byte ends with three consecutive 1 bits, so if the
+following USB device address begins with three 1 bits, bit-stuffing will be
+required.)
+
+Packets come in three basic types, each with a different format and CRC
+(cyclic redundancy check):
+
+### [edit] Handshake packets
+
+Handshake packets consist of nothing but a PID byte, and are generally sent in
+response to data packets. The three basic types are ACK, indicating that data
+was successfully received, NAK, indicating that the data cannot be received at
+this time and should be retried, and STALL, indicating that the device has an
+error and will never be able to successfully transfer data until some
+corrective action (such as device initialization) is performed.
+
+USB 2.0 added two additional handshake packets, NYET which indicates that a
+split transaction is not yet complete, and an ERR handshake to indicate that a
+split transaction failed.
+
+The only handshake packet the USB host may generate is ACK; if it is not ready
+to receive data, it should not instruct a device to send any.
+
+### [edit] Token packets
+
+Token packets consist of a PID byte followed by 11 bits of address and a 5-bit
+CRC. Tokens are only sent by the host, never a device.â
+
+IN and OUT tokens contain a 7-bit device number and 4-bit function number (for
+multifunction devices) and command the device to transmit DATAx packets, or
+receive the following DATAx packets, respectively.
+
+An IN token expects a response from a device. The response may be a NAK or
+STALL response, or a DATAx frame. In the latter case, the host issues an ACK
+handshake if appropriate.
+
+An OUT token is followed immediately by a DATAx frame. The device responds
+with ACK, NAK, or STALL, as appropriate.
+
+SETUP operates much like an OUT token, but is used for initial device setup.
+
+Every millisecond (12000 full-speed bit times), the USB host transmits a
+special SOF (start of frame) token, containing an 11-bit incrementing frame
+number in place of a device address. This is used to synchronize isochronous
+data flows. High-speed USB 2.0 devices receive 7 additional duplicate SOF
+tokens per frame, each introducing a 125 Âµs "microframe".
+
+USB 2.0 added a PING token, which asks a device if it is ready to receive an
+OUT/DATA packet pair. The device responds with ACK, NAK, or STALL, as
+appropriate. This avoids the need to send the DATA packet if the device knows
+that it will just respond with NAK.
+
+USB 2.0 also added a larger SPLIT token with a 7-bit hub number, 12 bits of
+control flags, and a 5-bit CRC. This is used to perform split transactions.
+Rather than tie up the high-speed USB bus sending data to a slower USB device,
+the nearest high-speed capable hub receives a SPLIT token followed by one or
+two USB packets at high speed, performs the data transfer at full or low
+speed, and provides the response at high speed when prompted by a second SPLIT
+token. The details are complex; see the USB specification.
+
+### [edit] Data packets
+
+There are two basic data packets, DATA0 and DATA1. Both consist of a DATAx PID
+field, 0â1023 bytes of data payload (up to 1024 in high speed, at most 8 at
+low speed), and a 16-bit CRC. They must always be preceded by an address
+token, and are usually followed by a handshake token from the receiver back to
+the transmitter. The two packet types provide the 1-bit sequence number
+required by Stop-and-wait ARQ. If a USB host does not receive a response (such
+as an ACK) for data it has transmitted, it does not know if the data was
+received or not; the data might have been lost in transit, or it might have
+been received but the handshake response was lost.
+
+To solve this problem, the device keeps track of the type of DATAx packet it
+last accepted. If it receives another DATAx packet of the same type, it is
+acknowledged but ignored as a duplicate. Only a DATAx packet of the opposite
+type is actually received.
+
+When a device is reset with a SETUP packet, it expects a DATA0 packet next.
+
+USB 2.0 added DATA2 and MDATA packet types as well. They are used only by
+high-speed devices doing high-bandwidth isochronous transfers which need to
+transfer more than 1024 bytes per 125 Âµs "microframe" (8192 kB/s).
+
+### [edit] PRE "packet"
+
+Low-speed devices are supported with a special PID value, PRE. This marks the
+beginning of a low-speed packet, and is used by hubs which normally do not
+send full-speed packets to low-speed devices. Since all PID bytes include four
+0 bits, they leave the bus in the full-speed K state, which is the same as the
+low-speed J state. It is followed by a brief pause during which hubs enable
+their low-speed outputs, already idling in the J state, then a low-speed
+packet follows, beginning with a sync sequence and PID byte, and ending with a
+brief period of SE0. Full-speed devices other than hubs can simply ignore the
+PRE packet and its low-speed contents, until the final SE0 indicates that a
+new packet follows.
+
+## [edit] USB protocol analyzers
+
+Due to the complexities of the USB protocol, USB protocol analyzers are
+invaluable tools to USB device developers. USB analyzers are able to capture
+the data on USB and display information from low-level bus states to high-
+level data packets and class-level information.
+
+## [edit] USB connector properties
+
+<IMG>
+
+<IMG>
+
+Series "A" plug and receptacle.
+
+The connectors specified by the USB committee were designed to support a
+number of USB's underlying goals, and to reflect lessons learned from the
+varied menagerie of connectors then in service.
+
+### [edit] Usability
+
+  * It is difficult to incorrectly attach a USB connector. Connectors cannot be plugged in upside down, and it is clear from the appearance and kinesthetic sensation of making a connection when the plug and socket are correctly mated. However, it is not obvious at a glance to the inexperienced user (or to a user without sight of the installation) which way around the connector goes, thus it is often necessary to try both ways. More often than not, however, the side of the connector with the trident logo should be on top.
+  * Only moderate insertion / removal force is needed (by specification). USB cables and small USB devices are held in place by the gripping force from the receptacle (without the need for the screws, clips, or thumbturns that other connectors require). The force needed to make or break a connection is modest, allowing connections to be made in awkward circumstances or by those with motor disabilities.
+  * The connectors enforce the directed topology of a USB network: type A connectors on host devices that supply power and type B connectors on target devices that receive power. This prevents users from accidentally connecting two USB power supplies to each other, which could otherwise lead to dangerously high currents flowing. USB does not support cyclical networks and the connectors from incompatible USB devices are themselves incompatible. Unlike other communications systems (e.g. RJ-45 cabling) gender changers make little sense with USB and are almost never used.
+
+<IMG>
+
+<IMG>
+
+USB extension cord
+
+### [edit] Durability
+
+  * The connectors are designed to be robust. Many previous connector designs were fragile, with pins or other delicate components prone to bending or breaking, even with the application of only very modest force. The electrical contacts in a USB connector are protected by an adjacent plastic tongue, and the entire connecting assembly is usually further protected by an enclosing metal sheath. As a result USB connectors can safely be handled, inserted, and removed, even by a young child.
+  * The connector construction always ensures that the external sheath on the plug makes contact with its counterpart in the receptacle before the four connectors within are connected. This sheath is typically connected to the system ground, allowing otherwise damaging static charges to be safely discharged by this route (rather than via delicate electronic components). This means of enclosure also means that there is a (moderate) degree of protection from electromagnetic interference afforded to the USB signal while it travels through the mated connector pair (this is the only location when the otherwise twisted data pair must travel a distance in parallel). In addition, the power and common connections are made after the system ground but before the data connections. This type of staged make-break timing allows for safe hot-swapping and has long been common practice in the design of connectors in the aerospace industry.
+  * The newer Micro-USB receptacles are designed to allow up to 10,000 cycles of insertion and removal between the receptacle and plug, compared to 500 for the standard USB and Mini-USB receptacle. This is accomplished by adding a locking device and by moving the leaf-spring connector from the jack to the plug, so that the most-stressed part is on the cable side of the connection. This change was made so that the connector on the (inexpensive) cable would bear the most wear instead of the micro-USB device.
+
+### [edit] Compatibility
+
+  * The USB standard specifies relatively loose tolerances for compliant USB connectors, intending to minimize incompatibilities in connectors produced by different vendors (a goal that has been very successfully achieved). Unlike most other connector standards, the USB specification also defines limits to the size of a connecting device in the area around its plug. This was done to prevent a device from blocking adjacent ports due to its size. Compliant devices must either fit within the size restrictions or support a compliant extension cable which does.
+  * Two-way communication is also possible. In general, cables have only plugs, and hosts and devices have only receptacles: hosts having type-A receptacles and devices type-B. Type-A plugs only mate with type-A receptacles, and type-B with type-B. However, an extension to USB called USB On-The-Go allows a single port to act as either a host or a device â chosen by which end of the cable plugs into the socket on the unit. Even after the cable is hooked up and the units are talking, the two units may "swap" ends under program control. This facility targets units such as PDAs where the USB link might connect to a PC's host port as a device in one instance, yet connect as a host itself to a keyboard and mouse device in another instance. In USB 3.0, full-duplex communications are done when using SuperSpeed transfer.
+  * USB 3.0 receptacles are compatible with USB 2.0 device plugs for the respective physical form factors. However, only USB 2.0 Standard-A receptacles can accept USB 3.0 Standard-A device plugs.
+
+### [edit] Interface
+
+Receptacle Plug  
+USB-A USB-B Mini-B Micro-A Micro-B  
+USB-A Yes No No No No  
+USB-B No Yes No No No  
+Mini-B No No Yes No No  
+Micro-AB No No No Yes Yes  
+Micro-B No No No No Yes  
+### [edit] Cables
+
+Plug Plug  
+Micro-B Micro-A Mini-B USB-B USB-A  
+USB-A Yes NS Yes Yes NS  
+USB-B No NS No No  
+Mini-B No NS No  
+Micro-A Yes No  
+Micro-B No  
+NS: non-standard, existing for specific proprietary purposes not at the
+guidance of the USB-IF.
+
+In addition to these cable assemblies also a cable with Micro-A and Standard-A
+receptacle is compliant with USB specifications. Other combinations of
+connectors are not compliant. However, some older devices and cables with
+Mini-A connector have been certified by USB-IF; the Mini-A connector has been
+deprecated, and no new certification for assemblies using Mini-A connector
+will be allowed.[8]
+
+## [edit] Types of USB connector
+
+<IMG>
+
+<IMG>
+
+Schematic diagram of Standard, Mini, and Micro USB receptacles.
+
+<IMG>
+
+<IMG>
+
+Different types of USB connectors from left to right  
+â¢ 8-pin AGOX connector  
+â¢ Mini-B plug  
+â¢ Type B plug  
+â¢ Type A receptacle  
+â¢ Type A plug
+
+<IMG>
+
+<IMG>
+
+Pin configuration of the USB connectors Standard A/B, viewed from face of plug
+
+There are several types of USB connectors, including some that have been added
+while the specification progressed. The original USB specification detailed
+Standard-A and Standard-B plugs and receptacles. The first engineering change
+notice to the USB 2.0 specification added Mini-B plugs and receptacles.
+
+The data connectors in the A - Plug are actually recessed in the plug as
+compared to the outside power connectors. This permits the power to connect
+first which prevents data errors by allowing the device to power up first and
+then transfer the data. Some devices will operate in different modes depending
+on whether the data connection is made. This difference in connection can be
+exploited by inserting the connector only partially. For example, some
+battery-powered MP3 players switch into file transfer mode (and cannot play
+MP3 files) while a USB plug is fully inserted, but can be operated in MP3
+playback mode using USB power by inserting the plug only part way so that the
+power slots make contact while the data slots do not. This enables those
+devices to be operated in MP3 playback mode while getting power from the
+cable.
+
+### [edit] USB-A
+
+The Standard-A type of USB connector takes on the appearance of a flattened
+rectangle that plugs into downstream-port sockets on the USB host or a hub and
+receives power. This kind of connector is most frequently seen on cables that
+are permanently attached to a device, such as one on a cable that connects a
+keyboard or mouse to the computer.
+
+### [edit] USB-B
+
+Standard-B connectorsâwhich have a square shape with beveled exterior
+cornersâtypically plug into upstream sockets on devices that use a removable
+cable, e.g. between a hub and a printer. Type B plugs deliver power and are
+therefore analogous to a power socket. This two-connector scheme prevents a
+user from accidentally creating a loop.[9]
+
+### [edit] Mini and micro
+
+Various connectors have been used for smaller devices such as PDAs, mobile
+phones or digital cameras. These include the now-deprecated[10] (but
+standardized) Mini-A and the current standard Mini-B, Micro-A, and Micro-B
+connectors. The Mini-A and Mini-B plugs are approximately 3 by 7 mm, while the
+Micro plugs have a similar width but approximately half the thickness,
+enabling their integration into thinner portable devices.
+
+The Micro-USB connector was announced by the USB-IF on January 4, 2007 and the
+Mini-USB connectors were withdrawn.[11] As of February 2009[update], most
+available devices and cables still use Mini plugs, but the newer Micro
+connectors are becoming more widely adopted. The thinner Micro connectors are
+intended to replace the Mini plugs in new devices including smartphones and
+Personal digital assistants. The Micro plug design is rated for 10,000
+connect-disconnect cycles. The Universal Serial Bus Micro-USB Cables and
+Connectors Specification details the mechanical characteristics of Micro-A
+plugs, Micro-AB receptacles, and Micro-B plugs and receptacles, along with a
+Standard-A receptacle to Micro-A plug adapter. The carrier-led Open Mobile
+Terminal Platform (OMTP) group have recently endorsed micro-USB as the
+standard connector for data and power on mobile devices.[12] These include
+various types of battery chargers, allowing Micro-USB to be the single
+external cable link needed by some devices.
+
+### [edit] USB OTG Sockets: Mini-AB, Micro-AB
+
+Except for special standard-to-Mini-A and standard-to-Micro-A adapters, USB
+cables always have an A-connector and a B-connector, on opposite ends.
+A-connectors can always connect to A-sockets; B-connectors can always connect
+B-sockets. These sockets all come in standard, mini, and micro versions.
+
+For USB On-The-Go (or 'OTG') support for another socket type is defined: the
+AB, in both mini and micro versions. It can accept both A and B connector,
+through careful mechanical design. OTG software detects the difference by use
+of the ID pin, which is grounded in A-connectors and is otherwise floating.
+When an A-connector is connected to an AB socket, the socket supplies VBUS
+power to the cable and starts in the host role. When a B-connector is used,
+the socket consumes VBUS power and starts in the peripheral or device role.
+OTG allows those two roles to be switched by software, as needed for the task
+at hand.
+
+### [edit] Proprietary connectors and formats
+
+<IMG>
+
+<IMG>
+
+ExtUSB
+
+  * Microsoft's original Xbox game console uses standard USB 1.1 signaling in its controllers and memory cards, but features proprietary connectors and ports.
+  * IBM UltraPort uses standard USB signaling, but via a proprietary connection format.
+  * American Power Conversion uses USB signaling and HID device class on its uninterruptible power supplies using 10P10C connectors.
+  * HTC manufactures Windows Mobile-based Communicators and the T-Mobile G1 which have a proprietary connector called HTC ExtUSB. The ExtUSB combines mini-USB (with which it is backwards-compatible) with audio/video input and output in an 11-pin connector
+  * Nokia includes a USB connection as part of the Pop-Port connector on some older mobile phone models.
+  * The second-generation iPod Shuffle uses a TRS connector to carry USB, audio, or power signals.
+  * iriver added a fifth power pin within USB-A plugs for higher power and faster charging, used for the iriver U10 series. A mini-USB version contains a matching extra power pin for the cradle.
+
+## [edit] USB cables
+
+Pin Name Cable color Description  
+1 VCC Red +5V  
+2 Dâ White Data â  
+3 D+ Green Data +  
+4 GND Black Ground  
+The maximum length of a standard USB cable is 5.0 meters (16.4 ft). The
+primary reason for this limit is the maximum allowed round-trip delay of about
+1500 ns. If a USB device does not answer to host commands within the allowed
+time, the host considers the command to be lost. When adding up the USB device
+response time, delays from using the maximum number of hubs, and delays from
+the connecting cables, the maximum acceptable delay per cable turns out to be
+26 ns.[13] The USB 2.0 specification requires cable delay to be less than 5.2
+ns per meter (which is close to the maximum achievable speed for standard
+copper cable).[14] This allows for a 5 meter cable.
+
+Miniplug/Microplug Pin Name Color Description  
+1 VCC Red +5 V  
+2 Dâ White Data â  
+3 D+ Green Data +  
+4 ID none permits distinction of
+
+Micro-A- and Micro-B-Plug
+
+Type A: connected to Ground
+
+Type B: not connected  
+5 GND Black Signal Ground  
+The data cables are a Twisted pair to reduce noise and crosstalk.
+
+Image:USB Twisted Pair.svg
+
+### [edit] Maximum useful distance
+
+USB 1.1 maximum cable length is 3 metres (9.8 ft).[15] USB 2.0 maximum cable
+length is 5 metres (16 ft). Maximum hubs connected in series is 5. Maximum
+devices connected in total is 127.
+
+Although a single cable is limited to 5 metres, the USB 2.0 specification
+permits up to five USB hubs in a long chain of cables and hubs. This allows
+for a maximum distance of 30 metres (98 ft) between host and device, using six
+cables 5 metres (16 ft) long and five hubs. In actual use, since some USB
+devices have built-in cables for connecting to the hub, the maximum achievable
+distance is 25 metres (82 ft) + the length of the device's cable.
+
+USB 3.0 does not define cable assembly lengths, except that it can be of any
+length as long as it meets all the requirements defined in the specification.
+However, electronicdesign.com estimated that cables will be limited to 3
+metres at top speed.[16]
+
+Since USB provides power for devices connected to the bus, a special type of
+USB extender cable was created, consisting of a miniature one-port USB hub
+molded onto one end of a 5-metre cable. These mini-hubs are fully self-
+contained within the cable, requiring no separate bulky hub device and no
+external power. They are as simple to use as plugging cables together, with
+each hub drawing power through all the previous single-port hubs in the chain.
+Because bus power is limited, the most practical arrangement consists of four
+single-port hub extender cables, one plain 5-metre cable and, at the very end,
+a powered multiport hub to support multiple USB devices.
+
+## [edit] Power
+
+The USB specification provides a 5 V supply on a single wire from which
+connected USB devices may draw power. The specification provides for no more
+than 5.25 V and no less than 4.75 V (5 VÂ±5%) between the positive and
+negative bus power lines.[17]
+
+A unit load is defined as 100 mA in USB 2.0, and was raised to 150 mA in USB
+3.0. A maximum of 5 unit loads can be drawn from a port in USB 2.0, which was
+raised to 6 in USB 3.0. There are two types of devices: low-power and high-
+power. Low-power devices draw at most 1 unit load, with minimum operating
+voltage of 4.4 V in USB 2.0, and 4 V in USB 3.0. High-power devices draw the
+maximum number of unit loads supported by the standard. All devices default as
+low-power but the device's software may request high-power as long as the
+power is available on the providing bus.[18]
+
+A bus-powered hub is initialized at 1 unit load and transitions to maximum
+unit loads after hub configuration is obtained. Any device connected to the
+hub will draw 1 unit load regardless of the current draw of devices connected
+to other ports of the hub (i.e one device connected on a four-port hub will
+only draw 1 unit load despite the fact that all unit loads are being supplied
+to the hub).[18]
+
+A self-powered hub will supply maximum supported unit loads to any device
+connected to it. A battery-powered hub may supply maximum unit loads to port.
+In addition, the VBUS will supply 1 unit load upstream for communication if
+parts of the Hub are powered down.[18]
+
+In Battery Charging Specification, new powering modes are added to the USB
+specification. A host or hub charger can supply maximum 1.5 A when
+communicating at low-speed or full-speed, maximum 900 mA when communicating at
+hi-speed, no upper current limit when no communication is taking place. A
+dedicated charger can supply maximum 1.5 A of current. A portable device can
+draw up to 1.8 A from a dedicated charger. The dedicated charger shorts the D+
+and D- pins together and will not send or receive any information on those
+lines, allowing for the creation of very simple, high current chargers to be
+manufactured. The increased current (faster charging) will occur once the
+host/hub and devices both support the new charging specification.
+
+As of June 14, 2007, all new mobile phones applying for a license in China are
+required to use the USB port as a power port.[19][20]
+
+In September 2007, the Open Mobile Terminal Platformâa forum dominated by
+mobile network operators but including manufacturers such as Nokia, Samsung,
+Motorola, Sony Ericsson and LGâannounced that its members had agreed on
+micro-USB as the future common connector for mobile devices.[21][22]
+
+On 17 February 2009, the GSM Association announced[23] that they had agreed on
+a standard charger for mobile phones. The standard connector to be adopted by
+17 manufacturers including Nokia, Motorola and Samsung is to be the micro-USB
+connector (several media reports erroneously reported this as the mini-USB).
+The new chargers will be much more efficient than existing chargers. Having a
+standard charger for all phones, means that manufacturers will no longer have
+to supply a charger with every new phone.
+
+### [edit] Non-standard devices
+
+<IMG>
+
+<IMG>
+
+USB vacuum cleaner
+
+A number of USB devices require more power than is permitted by the
+specifications for a single port. This is a common requirement of external
+hard and optical disc drives and other devices with motors or lamps. Such
+devices can be used with an external power supply of adequate rating, which is
+allowed by the standard, or by means of a dual-input USB cable, one input of
+which is used for power and data transfer, the other solely for power, which
+makes the device a non-standard USB device. Some external hubs may, in
+practice, supply more power to USB devices than required by the specification
+but a standard-compliant device must not depend on this.
+
+Some non-standard USB devices use the 5 V power supply without participating
+in a proper USB network. These are usually referred to as USB decorations. The
+typical example is a USB-powered reading light; fans, mug heaters (though some
+may include USB hubs[24]), battery chargers (particularly for mobile
+telephones), miniature vacuum cleaners, a miniature Lava Lamp, and even toy
+missile launchers are available. In most cases, these items contain no
+digitally based circuitry, and thus are not proper USB devices at all. This
+can theoretically cause problems with some computersâthe USB specification
+requires that devices connect in a low-power mode (100 mA maximum) and state
+how much current they need, before switching, with the host's permission, into
+high-power mode.
+
+In addition to limiting the total average power used by the device, the USB
+specification limits the inrush current (to charge decoupling and bulk
+capacitors) when the device is first connected; otherwise, connecting a device
+could cause glitches in the host's internal power. Also, USB devices are
+required to automatically enter ultra low-power suspend mode when the USB host
+is suspended; many USB hosts do not cut off the power supply to USB devices
+when they are suspended since resuming from the suspended state would become a
+lot more complicated if they did.
+
+There are also devices at the host end that do not support negotiation, such
+as battery packs that can power USB-powered devices; some provide power, while
+others pass through the data lines to a host PC. USB power adapters convert
+utility power and/or power from a car's electrical system to run attached
+devices. Some of these devices can supply up to 1 A of current. Without
+negotiation, the powered USB device is unable to inquire if it is allowed to
+draw 100 mA, 500 mA, or 1 A.
+
+### [edit] Powered USB
+
+Main article: Powered USB
+
+Powered USB uses standard USB signaling with the addition of extra power
+lines. It uses four additional pins to supply up to 6 A at either 5 V, 12 V,
+or 24 V (depending on keying) to peripheral devices. The wires and contacts on
+the USB portion have been upgraded to support higher current on the 5 V line,
+as well. This is commonly used in retail systems and provides enough power to
+operate stationary barcode scanners, printers, pin pads, signature capture
+devices, etc. This proprietary implementation was developed by IBM, NCR, and
+FCI/Berg. It is essentially two connectors stacked such that the bottom
+connector accepts a standard USB plug and the top connector takes a power
+connector.
+
+### [edit] Sleep-and-charge
+
+Sleep-and-charge USB ports can be used to charge electronic devices even when
+the notebook is switched off. [25]
+
+## [edit] USB compared with FireWire
+
+USB was originally seen as a complement to FireWire (IEEE 1394), which was
+designed as a high-speed serial bus which could efficiently interconnect
+peripherals such as hard disks, audio interfaces, and video equipment. USB
+originally operated at a far lower data rate and used much simpler hardware,
+and was suitable for small peripherals such as keyboards and mice.
+
+The most significant technical differences between FireWire and USB include
+the following:
+
+  * USB networks use a tiered-star topology, while FireWire networks use a tree topology.
+  * USB 1.0, 1.1 and 2.0 use a "speak-when-spoken-to" protocol; peripherals cannot communicate with the host unless the host specifically requests communication. USB 3.0 is planned to allow for device-initiated communications towards the host (see USB 3.0 below). A FireWire device can communicate with any other node at any time, subject to network conditions.
+  * A USB network relies on a single host at the top of the tree to control the network. In a FireWire network, any capable node can control the network.
+  * USB runs with a 5 V power line, while Firewire can supply up to 30 V.
+
+These and other differences reflect the differing design goals of the two
+buses: USB was designed for simplicity and low cost, while FireWire was
+designed for high performance, particularly in time-sensitive applications
+such as audio and video. Although similar in theoretical maximum transfer
+rate, FireWire 400 tends to have the performance edge over USB 2.0 Hi-Speed in
+real-world uses, especially in high-bandwidth use such as external hard-
+drives.[26][27][28][29] The newer FireWire 800 standard is twice as fast as
+FireWire 400 and outperforms USB 2.0 Hi-Speed both theoretically and
+practically.[30] The chipset and drivers used to implement USB and Firewire
+have a crucial impact on how much of the bandwidth prescribed by the
+specification is achieved in the real world, along with compatibility with
+peripherals.[31] Audio peripherals in particular are affected by the USB
+driver implementation.[citation needed]
+
+Initially, cost was significant in USB being more widespread than FireWire.
+Over time, USB benefited from network effect.[citation needed]
+
+## [edit] Version history
+
+### [edit] Prereleases
+
+  * USB 0.7: Released in November 1994.
+  * USB 0.8: Released in December 1994.
+  * USB 0.9: Released in April 1995.
+  * USB 0.99: Released in August 1995.
+  * USB 1.0 Release Candidate: Released in November 1995.
+
+### [edit] USB 1.0
+
+  * USB 1.0: Released in January 1996.  
+Specified data rates of 1.5 Mbit/s (Low-Speed) and 12 Mbit/s (Full-Speed).
+Does not allow for extension cables or pass-through monitors (due to timing
+and power limitations). Few such devices actually made it to market.
+
+  * USB 1.1: Released in September 1998.  
+Fixed problems identified in 1.0, mostly relating to hubs. Earliest revision
+to be widely adopted.
+
+### [edit] USB 2.0
+
+<IMG>
+
+<IMG>
+
+Hi-Speed USB Logo
+
+  * USB 2.0: Released in April 2000.  
+Added higher maximum speed of 480 Mbit/s (now called Hi-Speed). Further
+modifications to the USB specification have been done via Engineering Change
+Notices (ECN). The most important of these ECNs are included into the USB 2.0
+specification package available from USB.org:
+
+    * Mini-B Connector ECN: Released in October 2000.  
+Specifications for Mini-B plug and receptacle. These should not be confused
+with Micro-B plug and receptacle.
+
+    * Errata as of December 2000: Released in December 2000.
+    * Pull-up/Pull-down Resistors ECN: Released in May 2002.
+    * Errata as of May 2002: Released in May 2002.
+    * Interface Associations ECN: Released in May 2003.  
+New standard descriptor was added that allows multiple interfaces to be
+associated with a single device function.
+
+    * Rounded Chamfer ECN: Released in October 2003.  
+A recommended, compatible change to Mini-B plugs that results in longer
+lasting connectors.
+
+    * Unicode ECN: Released in February 2005.  
+This ECN specifies that strings are encoded using UTF-16LE. USB 2.0 did
+specify that Unicode is to be used but it did not specify the encoding.
+
+    * Inter-Chip USB Supplement: Released in March 2006.
+    * On-The-Go Supplement 1.3: Released in December 2006.  
+USB On-The-Go makes it possible for two USB devices to communicate with each
+other without requiring a separate USB host. In practice, one of the USB
+devices acts as a host for the other device.
+
+    * Battery Charging Specification 1.0: Released in March 2007.  
+Adds support for dedicated chargers (power supplies with USB connectors), host
+chargers (USB hosts that can act as chargers) and the No Dead Battery
+provision which allows devices to temporarily draw 100 mA current after they
+have been attached. If a USB device is connected to dedicated charger, maximum
+current drawn by the device may be as high as 1.8A. (Note that this document
+is not distributed with USB 2.0 specification package.)
+
+    * Micro-USB Cables and Connectors Specification 1.01: Released in April 2007.
+    * Link Power Management Addendum ECN: Released in July 2007.  
+This adds a new power state between enabled and suspended states. Device in
+this state is not required to reduce its power consumption. However, switching
+between enabled and sleep states is much faster than switching between enabled
+and suspended states, which allows devices to sleep while idle.
+
+    * High-Speed Inter-Chip USB Electrical Specification Revision 1.0: Released in September 2007.
+
+### [edit] USB 3.0
+
+<IMG>
+
+This article or section contains information about computer hardware currently
+in development.  
+The content may change as the hardware development progresses.
+
+<IMG>  
+<IMG>
+
+<IMG>
+
+The USB 3.0 Logo
+
+<IMG>
+
+<IMG>
+
+The USB 3.0 Icon
+
+On September 18, 2007, Pat Gelsinger demonstrated USB 3.0 at the Intel
+Developer Forum. The USB 3.0 Promoter Group announced on November 17, 2008,
+that version 1.0 of the specification has been completed and is transitioned
+to the USB Implementers Forum (USB-IF), the managing body of USB
+specifications.[32] This move effectively opens the spec to hardware
+developers for implementation in future products.
+
+#### [edit] Features
+
+  * A new major feature is the SuperSpeed bus, which provides a fourth transfer mode at 5 Gbit/s. The raw throughput is 500 MByte/s, and the specification considers it reasonable to achieve 400 MByte/s or more after protocol overhead[33]
+  * USB 3.0 receptacles are compatible with USB 2.0 device plugs for the respective physical form factors. However, only USB 3.0 Standard-B receptacles can accept USB 3.0 Standard-B device plugs.
+  * When operating in SuperSpeed mode, dual-simplex signaling occurs over 2 differential pairs separate from the non-SuperSpeed differential pair. This results in USB 3.0 cables containing 2 wires for power, 2 wires for non-SuperSpeed data, and 4 wires for SuperSpeed data.[33]
+  * SuperSpeed establishes a communications pipe between the host and each device, in a host-directed protocol. In contrast, USB 2.0 broadcasts packet traffic to all devices.
+  * USB 3.0 extends the bulk transfer type in SuperSpeed with Streams. This extension allows a host and device to create and transfer multiple streams of data through a single bulk pipe.
+  * New power management features include support of idle, sleep and suspend states, as well as Link-, Device-, and Function-level power management.
+  * The bus power spec has been increased so that a unit load is 150mA (+50% over USB 2.0). An unconfigured device can still draw only 1 unit load, but a configured device can draw up to 6 unit loads (900mA, an 80% increase over USB 2.0). Minimum device operating voltage is dropped from 4.4V to 4V.
+  * USB 3.0 does not define cable assembly lengths, except that it can be of any length as long as it meets all the requirements defined in the specification. However, electronicdesign.com estimates cables will be limited to 3 m at Superspeed.[16]
+  * Technology is similar to PCI Express 2.0 (5-Gbit/s). It uses 8B10B encoding, linear feedback shift register (LFSR) scrambling for data, spread spectrum. It forces receivers to use low frequency periodic signaling (LFPS), dynamic equalization, and training sequences to ensure fast signal locking.
+
+#### [edit] Availability
+
+Consumer products are expected to become available in 2010.[34] USB 3.0
+devices supporting SuperSpeed bus are expected to be available in commercial
+controllers in the first half of 2010. However it will not be until the second
+half of 2010 when they become seen on products other than computers.
+
+Windows 7 drivers are under development but no public releases have been made
+available as of April 2009. The Linux Kernel supports USB 3.0 as of version
+2.6.30.
+
+## [edit] Related technologies
+
+The PictBridge standard allows for interconnecting consumer imaging devices.
+It typically uses USB for its underlying communication layer.
+
+The USB Implementers Forum is working on a wireless networking standard based
+on the USB protocol. Wireless USB is intended as a cable-replacement
+technology, and will use ultra-wideband wireless technology for data rates of
+up to 480 Mbit/s. Wireless USB is well suited to wireless connection of PC
+centric devices, just as Bluetooth is now widely used for mobile phone centric
+personal networks (at much lower data rates).
+
+## [edit] See also
+
+  * Serial cable (Bidirectional Communication)
+  * Serial ATA
+  * RS-232
+  * Serial Null Modem Cable
+  * FireWire
+  * HP-IL
+  * Sync cable
+  * Enhanced mini-USB
+  * USB On-The-Go (master / slave)
+  * Ethernet over USB
+  * Wireless USB
+  * USB streaming
+  * HCI (UHCI, EHCI {xHCI 0.9 SuperSpeed - USB 3.0}, WHCI 1.0,)
+  * CEA-936-A
+  * U3
+  * List of device bandwidths
+    * ACCESS.bus
+    * Apple Desktop Bus
+  * PS/2 connector
+  * DE-9 connector
+  * Secure USB drive
+
+## [edit] References
+
+  1. ^ "SuperSpeed USB 3.0: More Details Emerge". 6 Jan 2009. http://www.pcworld.com/article/156494/superspeed_usb_30_more_details_emerge.html.
+  2. ^ http://www.usb.org/press/USB-IF_Press_Releases/2008_11_17_USB_IF.pdf
+  3. ^ USB Class Codes at USB.org
+  4. ^ "100 Portable Apps for your USB Stick (both for Mac and Win)". http://www.makeuseof.com/tag/portable-software-usb/. Retrieved on 2008-10-30.
+  5. ^ "Skype VoIP USB Installation Guide". http://www.VoIP-Download.com/Skype.htm#USB/. Retrieved on 2008-10-30.
+  6. ^ "USB in a NutShellâChapter 2âHardware". Beyond Logic.org. http://www.beyondlogic.org/usbnutshell/usb2.htm. Retrieved on 2007-08-25.
+  7. ^ "How Fast Does A USB 2.0 Drive Go On The Newest Macs? How Does It Compare To FireWire?". Bare Facts. May 8, 2004. http://www.barefeats.com/usb2.html. Retrieved on 2007-08-25.
+  8. ^ Deprecation announcement of Mini-A and Mini-AB connectors by USB Implementers Forum Administration
+  9. ^ Quinnell, Richard A (1996). "USB: a neat package with a few loose ends - USB Fundamentals". EDN Magazine of Reed Properties Inc. http://www.edn.com/archives/1996/102496/df_01.htm#USB%20fundamentals. Retrieved on 2008-08-06.
+  10. ^ USB Implementers Forum (2007-05-27) (PDF). Deprecation of the Mini-A and Mini-AB Connectors. Press release. http://www.usb.org/developers/Deprecation_Announcement_052507.pdf. Retrieved on 2009-01-13.
+  11. ^ USB Implementers Forum (2007-01-04) (PDF). Mobile phones to adopt new, smaller USB connector. Press release. http://www.usb.org/press/pressroom/2007_01_04_usbif.pdf. Retrieved on 2007-01-08.
+  12. ^ "OMTP Local Connectivity: Data Connectivity". Open Mobile Terminal Platform. 17 September 2007. http://www.omtp.org/Publications/Display.aspx?Id=08d2e4e3-ebee-407c-a51b-94057e7f7b19. Retrieved on 2009-02-11.
+  13. ^ USB Frequently Asked Questions at USB.org
+  14. ^ "Propagation Delay". http://www.wildpackets.com/support/compendium/ethernet/propagation_delay. Retrieved on 2008-10-31.
+  15. ^ http://discountcablesusa.com/usb-2.html
+  16. ^ a b http://electronicdesign.com/Articles/ArticleID/19680/19680.html
+  17. ^ "â7.3.2 Bus Timing/Electrical Characteristicsâ". Universal Serial Bus Specification. USB.org. http://www.usb.org/developers/docs/.
+  18. ^ a b c http://www.usb.org/developers/docs/
+  19. ^ Cai Yan (2007-05-31). "China to enforce universal cell phone charger". EETimes.com. http://www.eetimes.com/rss/showArticle.jhtml?articleID=199800238&cid=RSSfeed_eetimes_newsRSS. Retrieved on 2007-08-25.
+  20. ^ (Chinese)The Chinese FCC's technical standard
+  21. ^ "Pros seem to outdo cons in new phone charger standard". news.com. September 20, 2007. http://www.news.com/2100-1041_3-6209247.html. Retrieved on 2007-11-26.
+  22. ^ "Press Release: Broad Manufacturer Agreement Gives Universal Phone Cable Green Light". OTMA. September 17, 2007. http://web.archive.org/web/20071220225110/www.omtp.org/news/news_pr_universal_cable.html. Retrieved on 2007-11-26.
+  23. ^ "GSM World agreement on Mobile phone Standard Charger". http://www.gsmworld.com/newsroom/press-releases/2009/2548.htm.
+  24. ^ http://www.dealextreme.com/details.dx/sku.3195
+  25. ^ http://www.usb-core.co.uk/03-04-2008-toshiba-announces-sleep-and-charge-usb-ports.html
+  26. ^ "FireWire vs. USB 2.0 - Speed Tests". http://www.cwol.com/firewire/firewire-vs-usb.htm. Retrieved on 2007-08-25.
+  27. ^ "USB 2.0 vs FireWire". Digit-Life. http://www.digit-life.com/articles/usb20vsfirewire. Retrieved on 2007-08-25.
+  28. ^ Metz, Cade. "The Great Interface-Off: FireWire Vs. USB 2.0". PC Magazine. http://www.pcmag.com/article2/0,4149,847716,00.asp. Retrieved on 2007-08-25.
+  29. ^ Heron, Robert. "USB 2.0 Versus FireWire". TechTV. http://www.g4tv.com/techtvvault/features/39129/USB_20_Versus_FireWire_pg3.html. Retrieved on 2007-08-25.
+  30. ^ "FireWire vs. USB 2.0". USB Ware. http://www.usb-ware.com/firewire-vs-usb.htm. Retrieved on 2007-03-19.
+  31. ^ Key, Gary (2005-11-15). "Firewire and USB Performance". http://www.anandtech.com/mb/showdoc.aspx?i=2602&p=15. Retrieved on 2008-02-01.
+  32. ^ http://www.usb.org/press/USB-IF_Press_Releases/2008_11_17_USB_IF.pdf
+  33. ^ a b [1]
+  34. ^ http://www.tgdaily.com/content/view/40225/135/
+
+## [edit] External links
+
+Sister project Wikimedia Commons has media related to: USB  
+Sister project The Wikibook Serial Programming:USB Technical Manual has a page
+on the topic of
+
+USB connectors  
+  * USB Overview and Plug / Receptacle Pinouts.
+  * Overview comparison between USB 2.0 and FireWire 400
+  * Home of USB Implementers Forum, Inc.
+    * USB 2.0 Specification
+    * USB Device Class documentation
+  * Intel Universal Host Controller Interface (UHCI)
+
+### [edit] USB 3.0
+
+  * USB Promoter Group - Mission Statement at USB.org
+  * Intel announces, demonstrates USB 3.0 Ars Technica 2007-09-18
+  * USB 3.0 guns for Firewire eeTimes 2007-09-18
+  * USB 3.0 final specification
+  * USB 3.0 vs. FireWire 3200
+
+Retrieved from "http://en.wikipedia.org/wiki/Universal_Serial_Bus"
+
+Categories: Beta hardware | USB | 1996 introductions
+
+Hidden categories: Articles containing potentially dated statements from 2008
+| All articles containing potentially dated statements | All articles with
+unsourced statements | Articles with unsourced statements since September 2008
+| Articles with unsourced statements since March 2009 | Articles containing
+potentially dated statements from 2006 | Articles containing potentially dated
+statements from February 2009 | Articles with unsourced statements since July
+2008 | Articles with unsourced statements since February 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Bosanski
+  * Brezhoneg
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Galego
+  * íêµ­ì´
+  * à¤¹à¤¿à¤¨à¥à¤¦à¥
+  * Hornjoserbsce
+  * Hrvatski
+  * Bahasa Indonesia
+  * Italiano
+  * ×¢××¨××ª
+  * LatvieÅ¡u
+  * LÃ«tzebuergesch
+  * LietuviÅ³
+  * Lumbaart
+  * Magyar
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * PiemontÃ¨is
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Shqip
+  * Sicilianu
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Basa Sunda
+  * Suomi
+  * Svenska
+  * Tagalog
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * Ø§Ø±Ø¯Ù
+  * ××Ö´×××©
+  * ç²µèª
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 11 April 2009, at 21:37 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

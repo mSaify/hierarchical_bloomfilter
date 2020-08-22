@@ -1,0 +1,360 @@
+
+# Image file formats
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Image file formats are standardized means of organizing and storing images.
+This entry is about digital image formats used to store photographic and other
+images; (for disk-image file formats see Disk image). Image files are composed
+of either pixel or vector (geometric) data that are rasterized to pixels when
+displayed (with few exceptions) in a vector graphic display. The pixels that
+compose an image are ordered as a grid (columns and rows); each pixel consists
+of numbers representing magnitudes of brightness and colour.
+
+## Contents
+
+  * 1 Image file sizes
+  * 2 Image file compression
+  * 3 Major graphic file formats
+    * 3.1 Raster formats
+      * 3.1.1 JPEG
+      * 3.1.2 TIFF
+      * 3.1.3 RAW
+      * 3.1.4 PNG
+      * 3.1.5 GIF
+      * 3.1.6 BMP
+      * 3.1.7 PPM, PGM, PBM, PNM
+    * 3.2 Vector formats
+      * 3.2.1 CGM
+      * 3.2.2 SVG
+      * 3.2.3 ODG
+      * 3.2.4 Others
+  * 4 References
+  * 5 See also
+  * 6 External links
+
+  
+## [edit] Image file sizes
+
+Image file sizeâexpressed as the number of bytesâincreases with the number
+of pixels composing an image, and the colour depth of the pixels. The greater
+the number of rows and columns, the greater the image resolution, and the
+larger the file. Also, each pixel of an image increases in size when its
+colour depth increasesâan 8-bit pixel (1 byte) stores 256 colours, a 24-bit
+pixel (3 bytes) stores 16 million colors, the latter known as truecolor.
+
+Image compression uses algorithms to decrease the size of a file. High
+resolution cameras produce large image files, ranging from hundreds of
+kilobytes to megabytes, per the camera's resolution and the image-storage
+format capacity. High resolution digital cameras record 8 megapixel (1MP =
+1,000,000 pixels / 1 million) images, or more, in truecolor. For example, an
+image recorded by an 8 MP camera; since each pixel uses 3 bytes to record
+truecolor, the uncompressed image would occupy 24,000,000 bytes of memoryâa
+great amount of digital storage for one image, given that cameras must record
+and store many images to be practical. Faced with large file sizes, both
+within the camera and a storage disc, image file formats were developed to
+store such large images. An overview of the major graphic file formats follows
+below.
+
+## [edit] Image file compression
+
+There are two types of image file compression algorithms: lossless and lossy.
+
+Lossless compression algorithms reduce file size without losing image quality,
+though they are not compressed into as small a file as a lossy compression
+file. When image quality is valued above file size, lossless algorithms are
+typically chosen.
+
+Lossy compression algorithms take advantage of the inherent limitations of the
+human eye and discard invisible information. Most lossy compression algorithms
+allow for variable quality levels (compression) and as these levels are
+increased, file size is reduced. At the highest compression levels, image
+deterioration becomes noticeable as "compression artifacting".
+
+The images below demonstrate the noticeable artifacting of lossy compression
+algorithms; select the thumbnail image to view the full size version.[1]
+
+<IMG>
+
+<IMG>
+
+Lossless Image Compression
+
+<IMG>
+
+<IMG>
+
+Lossy Image Compression
+
+  
+
+## [edit] Major graphic file formats
+
+Including proprietary types, there are hundreds of image file types.[2] The
+PNG, JPEG, and GIF formats are most often used to display images on the
+Internet. These graphic formats are listed and briefly described below,
+separated into the two main families of graphics: raster and vector.
+
+In addition to straight image formats, Metafile formats are portable formats
+which can include contain both raster and vector information. Examples are
+application-independent formats such as WMF and EMF. The metafile format is an
+intermediate format. Most Windows applications open metafiles and then save
+them in their own native format.[3][4] Page description language refers to
+formats used to describe the layout of a printed page containing text, objects
+and images. Examples are PostScript, PDF and PCL.
+
+### [edit] Raster formats
+
+These formats store images as bitmaps (also known as pixmaps). For a
+description of the technology aside from the format, see Raster graphics.
+
+##### [edit] JPEG
+
+JPEG (Joint Photographic Experts Group) files are (in most cases) a lossy
+format; the DOS filename extension is JPG (other operating systems may use
+JPEG). Nearly every digital camera can save images in the JPEG format, which
+supports 8 bits per color (red, green, blue) for a 24-bit total, producing
+relatively small files. When not too great, the compression does not
+noticeably detract from the image's quality, but JPEG files suffer
+generational degradation when repeatedly edited and saved. Photographic images
+may be better stored in a lossless non-JPEG format if they will be re-edited,
+or if small "artifacts" (blemishes caused by the JPEG's compression algorithm)
+are unacceptable. The JPEG format also is used as the image compression
+algorithm in many Adobe PDF files.
+
+The Exif (Exchangeable image file) format is an algorithm incorporated in the
+JPEG software used in most cameras. Its purpose is to record and to
+standardize the exchange of data between digital cameras and editing and
+viewing software. The data is recorded for individual images and includes such
+things as: camera settings, time and date, shutter speed, exposure, image
+size, compression, name of camera, color information, etc. When images are
+viewed or edited by image editors, such as Paint Shop Pro, all of this image
+information can be displayed.
+
+##### [edit] TIFF
+
+The TIFF (Tagged Image File Format) is a flexible format that normally saves 8
+bits or 16 bits per color (red, green, blue) for 24-bit and 48-bit totals,
+respectively, using either the TIFF or the TIF filenames. The TIFF's
+flexibility is both blessing and curse, because no single reader reads every
+type of TIFF file. TIFFs are lossy and lossless; some offer relatively good
+lossless compression for bi-level (black&white) images. Some digital cameras
+can save in TIFF format, using the LZW compression algorithm for lossless
+storage. The TIFF image format is not widely supported by web browsers. TIFF
+remains widely accepted as a photograph file standard in the printing
+business. The TIFF can handle device-specific colour spaces, such as the CMYK
+defined by a particular set of printing press inks. OCR (Optical Character
+Recognition) software packages commonly generate some (often monochromatic)
+form of TIFF image for scanned text pages.
+
+##### [edit] RAW
+
+RAW refers to a family of raw image formats that are options available on some
+digital cameras. These formats usually use a lossless or nearly-lossless
+compression, and produce file sizes much smaller than the TIFF formats of
+full-size processed images from the same cameras. The raw formats are not
+standardized or documented, and differ among camera manufacturers. Many
+graphic programs and image editors may not accept some or all of them, and
+some older ones have been effectively orphaned already. Adobe's Digital
+Negative specification is an attempt at standardizing a raw image format to be
+used by cameras, or for archival storage of image data converted from
+proprietary raw image formats.
+
+##### [edit] PNG
+
+The PNG (Portable Network Graphics) file format was created as the free, open-
+source successor to the GIF. The PNG file format supports truecolor (16
+million colors) while the GIF supports only 256 colors. The PNG file excels
+when the image has large, uniformly colored areas. The lossless PNG format is
+best suited for editing pictures, and the lossy formats, like JPG, are best
+for the final distribution of photographic images, because JPG files are
+smaller than PNG files. Many older browsers currently do not support the PNG
+file format, however, with Mozilla Firefox or Internet Explorer 7, all
+contemporary web browsers now support all common uses of the PNG format,
+including full 8-bit translucency (Internet Explorer 7 may display odd colors
+on translucent images ONLY when combined with IE's opacity filter). The
+Adam7-interlacing allows an early preview, even when only a small percentage
+of the image data has been transmitted. PNG, an extensible file format for the
+lossless, portable, well-compressed storage of raster images. PNG provides a
+patent-free replacement for GIF and can also replace many common uses of TIFF.
+Indexed-color, grayscale, and truecolor images are supported, plus an optional
+alpha channel. PNG is designed to work well in online viewing applications,
+such as the World Wide Web, so it is fully streamable with a progressive
+display option. PNG is robust, providing both full file integrity checking and
+simple detection of common transmission errors. Also, PNG can store gamma and
+chromaticity data for improved color matching on heterogeneous platforms.
+
+##### [edit] GIF
+
+GIF (Graphics Interchange Format) is limited to an 8-bit palette, or 256
+colors. This makes the GIF format suitable for storing graphics with
+relatively few colors such as simple diagrams, shapes, logos and cartoon style
+images. The GIF format supports animation and is still widely used to provide
+image animation effects. It also uses a lossless compression that is more
+effective when large areas have a single color, and ineffective for detailed
+images or dithered images.
+
+##### [edit] BMP
+
+The BMP file format (Windows bitmap) handles graphics files within the
+Microsoft Windows OS. Typically, BMP files are uncompressed, hence they are
+large; the advantage is their simplicity, wide acceptance, and use in Windows
+programs.
+
+##### [edit] PPM, PGM, PBM, PNM
+
+Netpbm format is a family including the portable pixmap file format (PPM), the
+portable graymap file format (PGM) and the portable bitmap file format (PBM).
+These are ASCII files that provide very basic functionality and serve as a
+lowest-common-denominator for converting pixmap, graymap, or bitmap files
+between different platforms. Several applications refer to them collectively
+as the PNM format (portable anymap).
+
+### [edit] Vector formats
+
+See also: Vector graphics
+
+As opposed to the raster image formats above (where the data describes the
+characteristics of each individual pixel), vector image formats contain a
+geometric description which can be rendered smoothly at any desired display
+size.
+
+Vector file formats can contain bitmap data as well. 3D graphic file formats
+are technically vector formats with pixel data texture mapping on the surface
+of a vector virtual object, warped to match the angle of the viewing
+perspective.
+
+At some point, all vector graphics must be rasterized in order to be displayed
+on digital monitors. However, vector images can be displayed with analog CRT
+technology such as that used in some electronic test equipment, medical
+monitors, radar displays, laser shows and early video games. Plotters are
+printers that use vector data rather than pixel data to draw graphics.
+
+#### [edit] CGM
+
+CGM (Computer Graphics Metafile) is a file format for 2D vector graphics,
+raster graphics, and text, and is defined by ISO/IEC 8632. All graphical
+elements can be specified in a textual source file that can be compiled into a
+binary file or one of two text representations. CGM provides a means of
+graphics data interchange for computer representation of 2D graphical
+information independent from any particular application, system, platform, or
+device. It has been adopted to some extent in the areas of technical
+illustration and professional design, but has largely been superseded by
+formats such as SVG and DXF.
+
+#### [edit] SVG
+
+SVG (Scalable Vector Graphics) is an open standard created and developed by
+the World Wide Web Consortium to address the need (and attempts of several
+corporations) for a versatile, scriptable and all-purpose vector format for
+the web and otherwise. The SVG format does not have a compression scheme of
+its own, but due to the textual nature of XML, an SVG graphic can be
+compressed using a program such as gzip. Because of its scripting potential,
+SVG is a key component in web applications: interactive web pages that look
+and act like applications.
+
+#### [edit] ODG
+
+ODG (Open Document Graphics) is an open standard.
+
+  
+
+#### [edit] Others
+
+Other image file formats of vector type include:
+
+  * Encapsulated PostScript
+  * PDF
+  * SWF
+  * Windows Metafile
+  * XML Paper Specification (XPS)
+
+## [edit] References
+
+  1. ^ NOTE: These two images are illustrative only, both were converted from a lossless, compressed RAW image in Adobe Photoshop CS2. The lossy image was repeatedly opened and resaved using a low JPEG quality setting to increase visual artifacting and then exported as a PNG, while the "lossless" image was saved once as a PNG to minimize visual artifacting.
+  2. ^ Image File Types
+  3. ^ MSDN: Windows Metafile Format Specification
+  4. ^ MSDN: Enhanced Metafile Format Specification
+
+## [edit] See also
+
+  * Comparison of graphics file formats
+
+## [edit] External links
+
+  * Description of Bitmap graphics file
+  * Educational treatment of GIF, PNG, and JPG file formats
+  * Dave Coffin's dcraw Converting digital camera raw image format files into other formats.
+  * Open Source Library supporting a large number of image formats
+  * Which image format is best? Compare BMP, JPG, GIF, PNG, TIFF, WMF and EMF image formats.
+  * Bitmap image file types list
+
+Retrieved from "http://en.wikipedia.org/wiki/Image_file_formats"
+
+Categories: Graphics file formats
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * æ¥æ¬èª
+  * Polski
+  * Svenska
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 20 April 2009, at 18:04 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

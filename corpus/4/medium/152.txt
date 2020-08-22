@@ -1,0 +1,570 @@
+
+# Nuclear winter
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Nuclear weapons  
+One of the first nuclear bombs.  
+History  
+Warfare  
+Arms race  
+Design  
+Testing  
+Effects  
+Delivery  
+Espionage  
+Proliferation  
+Arsenals  
+Terrorism  
+Civil defense  
+Nuclear-armed states  
+United States Â· Russia  
+Â· United Kingdom Â· France  
+China Â· India Â· Israel  
+Pakistan Â· North Korea Â·  
+South Africa  
+This box: view â¢ talk â¢ edit  
+Nuclear winter is a term that describes the predicted climatic effects of
+nuclear war. Severely cold weather and reduced sunlight for a period of months
+or years would be caused by detonating large numbers of nuclear weapons,
+especially over flammable targets such as cities, where large amounts of smoke
+and soot would be injected into the Earth's stratosphere. The term has also
+been applied to one of the after-effects of a comet or asteroid impact[1][2],
+also sometimes termed an impact winter, or of a supervolcano eruption, known
+as a volcanic winter.[3]
+
+## Contents
+
+  * 1 Mechanism
+  * 2 Consequences
+    * 2.1 Climatic effects
+    * 2.2 Ozone depletion
+  * 3 Recent modelling
+    * 3.1 2007 study on global nuclear war
+    * 3.2 Kuwait wells in the first Gulf War
+  * 4 History
+    * 4.1 1983
+    * 4.2 1986
+    * 4.3 1990
+    * 4.4 Scientific debate
+    * 4.5 Policy implications
+  * 5 Criticism of nuclear winter theory
+    * 5.1 1980s criticisms
+  * 6 See also
+  * 7 References
+    * 7.1 Footnotes
+  * 8 External links
+
+  
+## [edit] Mechanism
+
+The nuclear winter scenario predicts that the huge fires caused by Nuclear
+explosions (particularly from burning urban areas) would loft massive amounts
+of dark smoke and aerosol particles from the fires into the upper troposphere
+/ stratosphere. At 10-15 kilometers (6-9 miles) above the Earth's surface, the
+absorption of sunlight would further heat the smoke, lifting it into the
+stratosphere where the smoke would persist for years, with no rain to wash it
+out. This would block out much of the sun's light from reaching the surface,
+causing surface temperatures to drop drastically.
+
+## [edit] Consequences
+
+#### [edit] Climatic effects
+
+A study presented at the annual meeting of the American Geophysical Union in
+December 2006 found that even a small-scale, regional nuclear war could
+produce as many direct fatalities as all of World War II and disrupt the
+global climate for a decade or more. In a regional nuclear conflict scenario
+where two opposing nations in the subtropics would each use 50 Hiroshima-sized
+nuclear weapons (about 15 kiloton each) on major populated centres, the
+researchers estimated fatalities from 2.6 million to 16.7 million per country.
+Also, as much as five million tons of soot would be released, which would
+produce a cooling of several degrees over large areas of North America and
+Eurasia, including most of the grain-growing regions. The cooling would last
+for years and could be "catastrophic" according to the researchers. [4] [5]
+
+#### [edit] Ozone depletion
+
+A 2008 study published in the Proceedings of the National Academy of Science
+found that a nuclear weapons exchange between Pakistan and India using their
+current arsenals could create a near- global ozone hole, triggering human
+health problems and wreaking environmental havoc for at least a decade.[6] The
+computer-modeling study looked at a nuclear war between the two countries
+involving 50 Hiroshima-sized nuclear devices on each side, producing massive
+urban fires and lofting as much as five million metric tons of soot about 50
+miles into the stratosphere. The soot would absorb enough solar radiation to
+heat surrounding gases, setting in motion a series of chemical reactions that
+would break down the stratospheric ozone layer protecting Earth from harmful
+ultraviolet radiation.
+
+Column ozone losses could exceed 20% globally, 25-45% at mid-latitudes, and
+50-70% at northern high latitudes persisting for 5 years, with substantial
+losses continuing for 5 additional years. Column ozone amounts would remain
+near or below 220 Dobson units at all latitudes even after three years,
+constituting an extra-tropical âozone holeâ. Human health ailments like
+cataracts and skin cancer, as well as damage to plants, animals and ecosystems
+at mid-latitudes would likely rise sharply as ozone levels decreased and
+allowed more harmful UV light to reach Earth, according to the PNAS study.
+This study demonstrates that a small-scale, regional nuclear conflict is
+capable of triggering ozone losses even larger than losses that were predicted
+in the 1980s following a full-scale nuclear war. The missing piece back then
+was that the models at the time could not account for the rise of the smoke
+plume and consequent heating of the stratosphere.
+
+## [edit] Recent modelling
+
+Based on new work published in 2007 and 2008 by some of the pioneers of
+nuclear winter research who worked on the original studies, several things can
+now be said about this topic.
+
+New Science:
+
+  * A minor nuclear war (such as between India and Pakistan or in the Middle East), with each country using 50 Hiroshima-sized atom bombs as airbursts on urban areas, could produce climate change unprecedented in recorded human history. This is only 0.03% of the explosive power of the current global arsenal.
+  * This same scenario would produce global ozone depletion, because the heating of the stratosphere would enhance the chemical reactions that destroy ozone.
+  * A nuclear war between the United States and Russia today could produce nuclear winter, with temperatures plunging below freezing in the summer in major agricultural regions, threatening the food supply for most of the planet.
+  * The climatic effects of the smoke from burning cities and industrial areas would last for several years, much longer than previously thought. New climate model simulations, that have the capability of including the entire atmosphere and oceans, show that the smoke would be lofted by solar heating to the upper stratosphere, where it would remain for years.
+
+New Modelling
+
+The climatic effects of smoke from fires started by nuclear war depend on the
+amount of smoke. For 50 nuclear weapons dropped on two countries, on the
+targets that would produce the maximum amount of smoke, about 5 megatons (Tg)
+of black smoke would be produced, accounting for the amount emitted from the
+fires and the amount immediately washed out in rain. As the smoke is lofted
+into the stratosphere, it would be transported around the world by the
+prevailing winds.
+
+Two scenarios of war between the two superpowers who still maintain large
+nuclear arsenals, the United States and Russia were calculated. In one
+scenario, 50 Tg of black smoke would be produced and in another, 150 Tg of
+black smoke would be produced. The number of nuclear weapons required to
+produce this much smoke depends on the targets, but there are enough weapons
+in the current arsenals to produce either amount. In fact, there are only so
+many targets, once they are all hit by weapons, additional weapons would not
+produce much more smoke at all.
+
+Even after the current nuclear weapons reduction treaty between these
+superpowers is played out in 2012, with each having about 2,000 weapons, 150
+Tg of smoke could still be produced. These new results were made possible by
+the use of a state-of-the-art general circulation model of the climate.
+
+For the first time a complete calculation of not only atmospheric but also
+oceanic circulation was conducted, including the entire atmosphere from the
+surface up through the troposphere, stratosphere, and mesosphere, to an
+elevation of 80 kilometers (50 miles). Previous calculations had not been run
+for the 10 year simulations here, and had not allowed the smoke to be lofted
+into the upper stratosphere, where it would persist for many years. The
+climate response to the above scenarios was calculated.
+
+Compared to the global warming observed for the past century, all three
+scenarios show massive cooling. Compared to the climate change for the
+Northern Hemisphere for the past 1,000 years, the famous hockey stick diagram,
+the climate change from any of these scenarios is unprecedented.
+
+Compared to climate change for the past millennium, even the 5 Tg case (a war
+between India and Pakistan) would plunge the planet into temperatures colder
+than the Little Ice Age (approximately 1600-1850). This would be essentially
+take effect instantly, and agriculture would be severely threatened. Larger
+amounts of smoke would produce larger climate changes, and for the 150 Tg case
+produce a true nuclear winter, making agriculture impossible for years. In
+both cases, new climate model simulations show that the effects would last for
+more than a decade. [7]
+
+### [edit] 2007 study on global nuclear war
+
+A study published in the Journal of Geophysical Research in July 2007[8],
+Nuclear winter revisited with a modern climate model and current nuclear
+arsenals: Still catastrophic consequences[9], used current climate models to
+look at the consequences of a global nuclear war involving most or all of the
+world's current nuclear arsenals (which the authors described as being only
+about a third the size of the world's arsenals twenty years earlier). The
+authors used a global circulation model, ModelE from the NASA Goddard
+Institute for Space Studies, which they noted "has been tested extensively in
+global warming experiments and to examine the effects of volcanic eruptions on
+climate." The model was used to investigate the effects of a war involving the
+entire current global nuclear arsenal, projected to release about 150 Tg of
+smoke into the atmosphere (1 Tg is equal to 1012 grams), as well as a war
+involving about one third of the current nuclear arsenal, projected to release
+about 50 Tg of smoke. In the 150 Tg case they found that:
+
+> A global average surface cooling of â7Â°C to â8Â°C persists for years,
+and after a decade the cooling is still â4Â°C (Fig. 2). Considering that the
+global average cooling at the depth of the last ice age 18,000 yr ago was
+about â5Â°C, this would be a climate change unprecedented in speed and
+amplitude in the history of the human race. The temperature changes are
+largest over land ... Cooling of more than â20Â°C occurs over large areas of
+North America and of more than â30Â°C over much of Eurasia, including all
+agricultural regions.
+
+In addition, they found that this cooling caused a weakening of the global
+hydrological cycle, reducing global precipitation by about 45%. As for the 50
+Tg case involving 1/3 of current nuclear arsenals, they said that the
+simulation "produced climate responses very similar to those for the 150 Tg
+case, but with about half the amplitude", but that "the time scale of response
+is about the same." They did not discuss the implications for agriculture in
+depth, but noted that a 1986 study which assumed no food production for a year
+projected that "most of the people on the planet would run out of food and
+starve to death by then" and commented that their own results show that "this
+period of no food production needs to be extended by many years, making the
+impacts of nuclear winter even worse than previously thought."
+
+### [edit] Kuwait wells in the first Gulf War
+
+The burning of 526 Kuwaiti oil wells during the Persian Gulf War showed the
+effects of vast emissions of particulate matter into the atmosphere in a
+geographically limited area; directly underneath the smoke plume constrained
+model calculations suggested that daytime temperature may have dropped by
+~10Â°C within ~200 km of the source. [10]
+
+Cornell Professor Carl Sagan of the TTAPS study warned in January 1991 that so
+much smoke from the fires "might get so high as to disrupt agriculture in much
+of South Asia...." Sagan later conceded in his book The Demon-Haunted World
+that this prediction did not turn out to be correct: "it was pitch black at
+noon and temperatures dropped 4Â°-6Â°C over the Persian Gulf, but not much
+smoke reached stratospheric altitudes and Asia was spared." [11]
+
+The 2007 study discussed above noted that modern computer models have been
+applied to the Kuwait oil fires, finding that individual smoke plumes are not
+able to loft smoke into the stratosphere, but that smoke from fires covering a
+large area, like some forest fires[12][13][14][15] or the burning of cities
+that would be expected to follow a nuclear strike, would loft significant
+amounts of smoke into the stratosphere:
+
+> Stenchikov et al. [2006b][16] conducted detailed, high-resolution smoke
+plume simulations with the RAMS regional climate model [e.g., Miguez-Macho et
+al., 2005][17] and showed that individual plumes, such as those from the
+Kuwait oil fires in 1991, would not be expected to loft into the upper
+atmosphere or stratosphere, because they become diluted. However, much larger
+plumes, such as would be generated by city fires, produce large, undiluted
+mass motion that results in smoke lofting. New large eddy simulation model
+results at much higher resolution also give similar lofting to our results,
+and no small scale response that would inhibit the lofting [Jensen, 2006].[18]
+
+## [edit] History
+
+In 1982 a special issue of the journal Ambio was devoted to the possible
+environmental consequences of nuclear war; it included an article by Paul
+Crutzen and J. Birks presenting the rudiments of the nuclear winter scenario
+("The atmosphere after a nuclear war: Twilight at noon"; Ambio, 11, 114-125).
+The issue re-assessed and re-affirmed the consequences for the ozone layer
+noted in the 1975 National Academies of Science report (up to 70% of the ozone
+layer might be destroyed) and first raised by Hampson in 1974;[19] and drew
+attention for the first time to the likelihood that large amounts of smoke and
+dust would be created.
+
+### [edit] 1983
+
+In 1982 astrophysicist Carl Sagan and his colleagues undertook a computational
+modeling study of the atmospheric consequences of nuclear war. The report was
+dubbed "TTAPS" study from the initials of the last names of its authors, R.P.
+Turco, O.B. Toon, T.P. Ackerman, J.B. Pollack, and C. Sagan.
+
+In December 1983 the "TTAPS" study was published in Science [20]. The study
+was partly inspired to write the paper both by the suggestions of one Dr. A.M.
+Salzberg (who, unlike the TTAPS authors, believed that the initial dust thrown
+into the air would be primarily responsible for the climate changes) and by
+cooling effects due to dust storms on Mars[citation needed]. To carry out a
+calculation of the effect they used a very simplified two-dimensional model of
+the Earth's atmosphere that assumed that conditions at a given latitude were
+constant. The model also assumed a solid, smooth Earth.
+
+### [edit] 1986
+
+In 1984 the WMO commissioned G. S. Golitsyn and N. A. Phillips to review the
+state of the science. They found that studies generally assumed a scenario
+that half of the world's nuclear weapons would be used, ~5000 Mt, destroying
+approximately 1,000 cities, and creating large quantities of carbonaceous
+smoke - 1â2 Ã 1014 grams being mostly likely, with a range of 0.2 â 6.4
+Ã 1014 grams (NAS; TTAPS assumed 2.25 Ã 1014). The smoke resulting would be
+largely opaque to solar radiation but transparent to infra-red, thus cooling
+by blocking sunlight but not causing warming from enhancing the greenhouse
+effect. The optical depth of the smoke can be much greater than unity. Forest
+fires resulting from non-urban targets could increase aerosol production
+further. Dust from near-surface explosions against hardened targets also
+contributes; each Mt-equivalent of explosion could release up to 5 million
+tons of dust, but most would quickly fall out; high altitude dust is estimated
+at 0.1-1 million tons per Mt-equivalent of explosion. Burning of crude oil
+could also contribute substantially.
+
+The 1-D radiative-convective models used in these studies produced a range of
+results, with coolings up to 15-42 Â°C between 14 and 35 days after the war,
+with a "baseline" of about 20 Â°C. Somewhat more sophisticated calculations
+using 3-D GCMs (Alexandrov and Stenchikov (1983); Covey, Schneider and
+Thompson (1984); which would be considered primitive by modern standards)
+produced similar results: temperature drops of between 20 and 40 Â°C, though
+with regional variations.
+
+All calculations show large heating (up to 80 Â°C) at the top of the smoke
+layer at about 10 km; this implies a substantial modification of the
+circulation there and the possibility of advection of the cloud into low
+latitudes and the southern hemisphere.
+
+The report made no attempt to compare the likely human impacts of the post-war
+cooling to the direct deaths from explosions.
+
+### [edit] 1990
+
+In 1990, in a paper entitled "Climate and Smoke: An Appraisal of Nuclear
+Winter" , TTAPS give a more detailed description of the short- and long-term
+atmospheric effects of a nuclear war using a three-dimensional model:
+
+First 1 to 3 months:
+
+  * 10 to 25 % of soot injected is immediately removed by precipitation, while the rest is transported over the globe in 1 to 2 weeks
+
+  * SCOPE figures for July smoke injection:
+
+  *     * 22Â°C drop in mid-latitudes
+    * 10Â°C drop in humid climates
+
+  *     * 75 % decrease in rainfall in mid-latitudes
+
+  *     * Light level reduction of 0 % in low latitudes to 90 % in high smoke injection areas
+
+  * SCOPE figures for winter smoke injection:
+
+  *     * Temperature drops of 3Â° to 4Â°C
+
+Following 1 to 3 years:
+
+  * 25 to 40 % of injected smoke is stabilised in atmosphere (NCAR). Smoke stabilised for approximately 1 year.
+
+  * Land temperatures of several degrees below normal
+
+  * Ocean surface temperature drops of 2Â° to 6Â°C
+
+  * Ozone depletion of 50% leading to 200% increase in UV radiation incident on surface.
+
+### [edit] Scientific debate
+
+The TTAPS study was widely reported and criticized in the media. Later model
+runs in some cases predicted less severe effects, but continued to support the
+overall conclusion of significant global cooling.[21] [22] Recent studies
+(2006) substantiate that smoke from urban firestorms in a regional war would
+lead to long lasting global cooling but in a less dramatic manner than the
+nuclear winter scenario,[23][24] while a 2007 study of the effects of global
+nuclear war supported the conclusion that it would lead to full-scale nuclear
+winter.[8][9]
+
+### [edit] Policy implications
+
+In contrast to the obvious direct dangers of nuclear warfare, there is no
+clear evidence that the indirect dangers of nuclear winter made any
+substantial difference to policy.
+
+In response to the comment "In the 1980s, you warned about the unprecedented
+dangers of nuclear weapons and took very daring steps to reverse the arms
+race," in an interview in 2000, Mikhail Gorbachev said "Models made by Russian
+and American scientists showed that a nuclear war would result in a nuclear
+winter that would be extremely destructive to all life on Earth; the knowledge
+of that was a great stimulus to us, to people of honor and morality, to act in
+that situation."[25]
+
+## [edit] Criticism of nuclear winter theory
+
+### [edit] 1980s criticisms
+
+The original work by Sagan and others was criticized as a "myth" and
+"discredited theory" in the 1987 book Nuclear War Survival Skills, a civil
+defense manual by Cresson Kearny for the Oak Ridge National Laboratory.[26]
+Kearny described nuclear winter mostly as a propaganda story, and said the
+maximum estimated temperature drop would be only about by 20 degrees
+Fahrenheit, and that this amount of cooling would last only a few days (though
+he did not address the question of whether a lesser amount of global cooling
+might linger for years, or whether there might be greater localized cooling in
+agricultural areas, as predicted by the 2007 study). He suggested that a
+global nuclear war would indeed result in millions of deaths from hunger, but
+primarily due to cessation of international food supplies, rather than due to
+climate changes.[26]
+
+Kearny, who was not a climate scientist himself, based his conclusions almost
+entirely on the 1986 paper "Nuclear Winter Reappraised" by Starley Thompson
+and Stephen Schneider. However, a 1988 article by Brian Martin in Science and
+Public Policy[21] states that although their paper concluded the effects would
+be less severe then originally thought, with the authors describing these
+effects as a "nuclear autumn", other statements by Thompson and
+Schneider[27][28] show that they "resisted the interpretation that this means
+a rejection of the basic points made about nuclear winter". In addition, the
+authors of the 2007 study state that "because of the use of the term 'nuclear
+autumn' by Thompson and Schneider [1986], even though the authors made clear
+that the climatic consequences would be large, in policy circles the theory of
+nuclear winter is considered by some to have been exaggerated and disproved
+[e.g., Martin, 1988]."[8][9] And in 2007 Schneider emphasized the danger of
+serious climate changes from a limited nuclear war of the kind analyzed in the
+2006 study below, saying "The sun is much stronger in the tropics than it is
+in mid-latitudes. Therefore, a much more limited war [there] could have a much
+larger effect, because you are putting the smoke in the worst possible
+place."[29]
+
+A 1986 article by Russell Seitz in The National Interest reported that
+prominent physicist Freeman Dyson said of the TTAPS study that it was "an
+absolutely atrocious piece of science, but I quite despair of setting the
+public record straight....Who wants to be accused of being in favor of nuclear
+war?"[30] However, the Brian Martin article mentioned above reported that
+Dyson had no memory of making this comment, and had said "I don't believe I
+ever said what Russell Seitz said I said, but I can't prove it."[21] Seitz
+also mentioned that the Jan. 23, 1986 issue of Nature included a comment that
+nuclear winter research "has become notorious for its lack of scientific
+integrity." Steitz's assessment also introduced politics, stating that nuclear
+disarmament would lend an advantage to the Soviet Union, which harbored strong
+conventional forces.[30]
+
+## [edit] See also
+
+  * Nuclear weapon
+  * Doomsday device
+  * Nuclear summer
+  * Volcanic winter
+  * Asteroid impact
+  * Supervolcano
+
+## [edit] References
+
+  * Budyko, M. I., G. S. Golitsyn, Y. A. Izrael Global Climatic Catastrophes Springer, 99 pages, September 1988, ISBN 0-387-18647-6
+  * Paul J. Crutzen and John W. Birks, The Atmosphere After a Nuclear War: Twilight at Noon, Ambio, Vol 11, No 2-3, p 114, 1982.
+  * Golitsyn, G.S. and Phillips, N.A. WCRP, Possible climatic consequences of a major nuclear war, WCP-113, WMO/TD #99, 1986.
+  * R.P. Turco, O.B. Toon, T.P. Ackerman, J.B. Pollack, C. Sagan, Nuclear Winter: Global Consequences of Multiple Nuclear Explosions, Science, V. 222, No; 4630, December 23, 1983.
+  * Mark A. Harwell Nuclear Winter: The Human and Environmental Consequences of Nuclear War Springer, 179 pages , November 1984, ISBN 0-387-96093-7
+  * Mills, Michael J., Owen B. Toon, Richard P. Turco, Douglas E. Kinnison, Rolando R. Garcia, 2008, "Massive global ozone loss predicted following regional nuclear conflict," PNAS, doi:10.1073/pnas.0710058105.
+  * N. N. Moiseev, Man, nature and the future of civilization: "nuclear winter" and the problem of a "permissible threshold" Novosti Press Agency Pub. House, Moscow, 92 pages, January 1986, ASIN B0007B9FHG
+  * Guide to Nuclear Winter Study Papers, 1972-1993. Lawrence Livermore Laboratory
+  * Robock, Alan, Luke Oman, Georgiy L. Stenchikov, Owen B. Toon, Charles Bardeen, and Richard P. Turco, 2007a: Climatic consequences of regional nuclear conflicts. Atm. Chem. Phys., 7, 2003-2012.
+  * Robock, Alan, Luke Oman, and Georgiy L. Stenchikov, 2007b: Nuclear winter revisited with a modern climate model and current nuclear arsenals: Still catastrophic consequences. J. Geophys. Res., 112, D13107, doi:10.1029/2006JD008235.
+  * Toon, Owen B., Richard P. Turco, Alan Robock, Charles Bardeen, Luke Oman, and Georgiy L. Stenchikov, 2007a: Atmospheric effects and societal consequences of regional scale nuclear conflicts and acts of individual nuclear terrorism. Atm. Chem. Phys., 7, 1973-2002.
+  * Toon, Owen B., Alan Robock, Richard P. Turco, Charles Bardeen, Luke Oman, and Georgiy L. Stenchikov, 2007b: Consequences of regional-scale nuclear conflicts. Science, 315, 1224-1225.
+  * Toon, Owen B., Alan Robock, Richard P. Turco, 2008: Environmental consequences of nuclear war. Physics Today, December, 37-42.
+  * Turco, R.P., Toon, A.B., Ackerman, T.P., Pollack, J.B., Sagan, C. (TTAPS) (1990) "Climate and Smoke: An Appraisal of Nuclear Winter", Science, volume 247, pp. 167-168, January.
+
+### [edit] Footnotes
+
+  1. ^ Comet Caused Nuclear Winter
+  2. ^ A Fiery Death for Dinosaurs?
+  3. ^ Supervolcanoes could trigger global freeze
+  4. ^ Regional Nuclear War Could Devastate Global Climate, Science Daily, December 11, 2006
+  5. ^ The published papers that were first presented at the AGU Meeting.
+  6. ^ Mills et al., 2008, "Massive global ozone loss predicted following regional nuclear conflict," PNAS, doi:10.1073/pnas.0710058105.
+  7. ^ Climatic Consequences of Nuclear Conflict: Department of Environmental Sciences, Rutgers University http://envsci.rutgers.edu/%7Erobock
+  8. ^ a b c Abstract on Journal of Geophysical Research website
+  9. ^ a b c paper available online from Rutgers University website
+  10. ^ Environmental effects from burning oil wells in Kuwait by K. A. Browning, R. J. Allam, S. P. Ballard, R. T. H. Barnes, D. A. Bennetts, R. H. Maryon, P. J. Mason, D. McKenna, J. F. B. Mitchell, C. A. Senior, A. Slingo & F. B. Smith, Nature Publishing Group, 30 May 1991
+  11. ^ Sagan, Carl. The Demon-Haunted World. p. 257.
+  12. ^ In-situ observations of mid-latitude forest fire plumes deep in the stratosphere
+  13. ^ EO Newsroom: New Images - Smoke Soars to Stratospheric Heights
+  14. ^ Observations of Boreal Forest Fire Smoke in the Stratosphere
+  15. ^ Fromm et al., 2006, Smoke in the Stratosphere: What Wildfires have Taught Us About Nuclear Winter, Eos Trans. AGU, 87(52), Fall Meet. Suppl., Abstract U14A-04
+  16. ^ Stenchikov et al., 2006, Regional Simulations of Stratospheric Lofting of Smoke Plumes, Eos Trans. AGU, 87(52), Fall Meet. Suppl., Abstract U14A-05
+  17. ^ Regional Climate Simulations over North America: Interaction of Local Processes with Improved Large-Scale Flow
+  18. ^ Jensen, 2006, Lofting of Smoke Plumes Generated by Regional Nuclear Conflicts, Eos Trans. AGU, 87(52), Fall Meet. Suppl., Abstract U14A-06
+  19. ^ Possible ozone depletions following nuclear explosions
+  20. ^ Nuclear Winter: Global Consequences of Multple Nuclear Explosions, R. P. Turco, O. B. Toon, T. P. Ackerman, J. B. Pollack 2, and Carl Sagan, Science, vol. 23, December 1983, Vol. 222. no. 4630, pp. 1283 - 1292
+  21. ^ a b c Nuclear winter: science and politics
+  22. ^ Does Anybody Remember The Nuclear Winter?
+  23. ^ Atmospheric Chemistry and Physics Discussions (ACPD): Abstracts, by O. B. Toon, R. P. Turco, A. Robock, C. Bardeen, L. Oman, G. L. Stenchikov, Atmospheric Chemistry and Physics, 2006.
+  24. ^ Atmospheric Chemistry and Physics Discussions (ACPD): Abstracts, by A. Robock, L. Oman, G. L. Stenchikov, O. B. Toon, C. Bardeen, R. P. Turcos, Atmospheric Chemistry and Physics, 2006
+  25. ^ Mikhail Gorbachev explains what's rotten in Russia
+  26. ^ a b Kearny, Cresson (1987). Nuclear War Survival Skills. pp. 17â19. ISBN 0-942487-01-X. http://www.oism.org/nwss/.
+  27. ^ Stephen H. Schneider, letter, Wall Street Journal, 25 November 1986.
+  28. ^ 'Severe global-scale nuclear war effects reaffirmed', statement resulting from SCOPE-ENUWAR workshop in Bangkok, 9-12 February 1987.
+  29. ^ Climate scientist Stephen Schneider describes chilling consequences of a nuclear war
+  30. ^ a b The Melting of 'Nuclear Winter'
+
+## [edit] External links
+
+  * The Encyclopedia of Earth, Nuclear Winter Lead Author: Alan Robock. Last Updated: July 31, 2008
+  * Global Atmospheric Consequences of Nuclear War, the 1983 study conducted by TTAPS.
+  * Nuclear Winter Simulation Animation
+  * New studies of climatic consequences of regional nuclear conflict from Alan Robock, including links to new studies published in 2007.
+
+Retrieved from "http://en.wikipedia.org/wiki/Nuclear_winter"
+
+Categories: Nuclear weapons | Climatology | Climate forcing agents |
+Environmental disasters | Environmental issues with nuclear technology
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since April 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * íêµ­ì´
+  * Italiano
+  * ×¢××¨××ª
+  * LatvieÅ¡u
+  * LietuviÅ³
+  * Magyar
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÄina
+  * Suomi
+  * Svenska
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 30 March 2009, at 00:27 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

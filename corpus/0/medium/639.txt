@@ -1,0 +1,429 @@
+
+# Rational trigonometry
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article relies largely or entirely upon a single source. Please help
+improve this article by introducing appropriate citations of additional
+sources. (January 2009)  
+Divine Proportions: Rational Trigonometry to Universal Geometry is a book by
+Norman J. Wildberger, an outspoken critic of traditional mathematics,
+presenting his reformulation of trigonometry. Wildberger holds a Ph.D. in
+mathematics from Yale University, and taught at Stanford University from 1984
+to 1986 and at the University of Toronto from 1986 to 1989; he is currently an
+associate professor of mathematics at the University of New South Wales,
+Australia.
+
+## Contents
+
+  * 1 Quadrance and spread
+  * 2 Trigonometry over finite fields
+  * 3 Quadrance
+  * 4 Spread
+    * 4.1 Spread compared to angle
+  * 5 Laws of rational trigonometry
+    * 5.1 Triple quad formula
+    * 5.2 Pythagoras' theorem
+    * 5.3 Spread law
+    * 5.4 Cross law
+    * 5.5 Triple spread formula
+  * 6 Calculating quadrance and spread
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] Quadrance and spread
+
+Instead of distance and angle, rational trigonometry uses as its fundamental
+units quadrance (square of distance) and spread (square of sine of angle).[1]
+This choice of variables enables calculations to produce output results whose
+complexity matches that of the input data. For instance, in a typical
+trigonometry problem if rational numbers are assigned to all quadrances and
+spreads, then the calculated results will be rational numbers (or roots of
+rational numbers).
+
+This rationality is obtained at the expense of linearity. Unlike the
+traditional distance and angle units, doubling or halving a quadrance or
+spread does not double or halve a length or a rotation. Similarly, the sum of
+two lengths or rotations is not the sum of their individual quadrances or
+spreads.
+
+For distinction, Wildberger refers to the traditional trigonometry as
+classical trigonometry. It is otherwise broadly based on Cartesian analytic
+geometry, with a point defined as an ordered pair (x, y) and a line as a
+general linear equation
+
+    Ax + By + C = 0.\\,
+The mathematics of rational trigonometry is, applications aside, a special
+instance of the description of geometry in terms of linear algebra (using
+rational methods such as dot products and quadratic forms), but students who
+are first learning trigonometry are often not taught about the use of linear
+algebra in geometry. Changing this state of affairs is a stated aim of
+Wildberger's book (to paraphrase his comments).
+
+## [edit] Trigonometry over finite fields
+
+Rational trigonometry makes it possible to do trigonometry over finite fields
+in the same way as over the field of real numbers.
+
+## [edit] Quadrance
+
+The quadrance is the square of the distance.[1]
+
+Quadrance and distance are concerned with the separation of points. Quadrance
+differs from standard distance in that it squares the distance. Most
+immediately, this means that calculating the distance (or, more accurately,
+quadrance) between two points in 2-dimensional space is easier, as there is no
+need to find the square root of the sum of the squares of the differences in
+the x and y coordinates.
+
+In the (x, y)-plane, the quadrance Q(A1, A2) for the points A1 and A1 is
+defined as
+
+    Q\(A_1, A_2\) = \(x_2 - x_1\)^2 + \(y_2 - y_1\)^2.\\,[1]
+## [edit] Spread
+
+<IMG>
+
+<IMG>
+
+Suppose â 1 and â 2 intersect at the point A. Let C be the foot of the
+perpendicular from B to â 2. Then the spread is s = Q/R.
+
+<IMG>
+
+<IMG>
+
+The spread of two lines can be measured in four equivalent positions.
+
+Spread, a measure of the separation of lines, is a dimensionless number in the
+range [0, 1]. The value of the spread is the square of the sine of the
+angle.[1]
+
+Suppose two lines, â 1 and â 2, intersect at the point A as shown at
+right. Choose a point B â  A on â 1 and let C be the foot of the
+perpendicular from B to â 2. Then the spread s is
+
+    s\(\\ell_1, \\ell_2\) = \\frac{Q\(B, C\)}{Q\(A, B\)} = \\frac{Q}{R}.[1]
+See also spread polynomials.
+
+### [edit] Spread compared to angle
+
+In rational trigonometry, spread is a fundamental concept, somewhat but not
+precisely corresponding to the concept in traditional geometry of angle.
+Spread describes a relationship between two lines, whereas angle describes a
+relationship between two rays emanating from a common point.[1]
+
+The spread is the square of the sine of the angle.
+
+Degree Radian Spread  
+0 0 0  
+30 (1/6)Ï 1/4  
+45 (1/4)Ï 1/2  
+60 (1/3)Ï 3/4  
+90 (1/2)Ï 1  
+120 (2/3)Ï 3/4  
+135 (3/4)Ï 1/2  
+150 (5/6)Ï 1/4  
+180 Ï 0  
+Spread is not proportional to degrees or radians, and has a period of 180
+degrees (Ï radians).
+
+## [edit] Laws of rational trigonometry
+
+Wildberger states that there are five basic laws in rational trigonometry and
+these laws can be easily verified using high-school level mathematics. Some
+are equivalent to standard trigonometrical formulae with the variables
+expressed as quadrance and spread.[1]
+
+### [edit] Triple quad formula
+
+The three points A1,A2,A3 are collinear precisely when:
+
+    \(Q_{1} + Q_{2} + Q_{3}\)^2 = 2\(Q_{1}^{2} + Q_{2}^{2} + Q_{3}^{2}\).\\,
+This is equivalent to using Heron's formula, the condition for collinearity
+being that the triangle formed by the three points has zero area.
+
+It can either be proved by analytic geometry (the preferred means within
+rational trigonometry) or derived from Heron's formula, using the condition
+for collinearity that the triangle formed by the three points has zero area.
+
+Proof
+
+<IMG>
+
+<IMG>
+
+Illustration of nomenclature used in the proof.
+
+The line AB\\, has the general form:
+
+    ax + by + c = 0\\,
+where the (non-unique) parameters a\\,, b\\, and c\\,, can be expressed in
+terms of the coordinates of points A\\, and B\\, as:
+
+    a = A_y - B_y\\,
+    b = B_x - A_x\\,
+    c = A_xB_y - A_yB_x\\,
+so that, everywhere on the line:
+
+    \(A_y - B_y\)x + \(B_x - A_x\)y + \(A_xB_y - A_yB_x\) = 0.\\,
+But the line can also be specified by two simultaneous equations in a
+parameter t\\,, where t = 0\\, at point A\\, and t = 1\\, at point B\\,:
+
+    x = \(B_x - A_x\)t + A_x\\, and y = \(B_y - A_y\)t + A_y\\,
+or, in terms of the original parameters:
+
+    x = bt + A_x\\, and y = -at + A_y.\\,
+If the point C\\, is collinear with points A\\, and B\\,, there exists some
+value of t\\, (for distinct points, not equal to 0 or 1), call it \\lambda\\,,
+for which these two equations are simultaneously satisfied at the coordinates
+of the point C\\,, such that:
+
+    C_x = b\\lambda\\ + A_x and C_y = -a\\lambda\\ + A_y.\\,
+Now, the quadrances of the three line segments are given by the squared
+differences of their coordinates, which can be expressed in terms of
+\\lambda\\,:
+
+    \\begin{matrix}Q\(AB\) & \\equiv & \(B_x - A_x\)^2 + \(B_y - A_y\)^2 \\\\ \\ & = & b^2 + \(-a\)^2 \\\\ \\ & = & a^2 + b^2\\end{matrix}
+    \\begin{matrix}Q\(BC\) & \\equiv & \(C_x - B_x\)^2 + \(C_y - B_y\)^2 \\\\ \\ & = & \(\(b\\lambda\\ + A_x\) -B_x\)^2 + \(\(-a\\lambda\\ + A_y\) - B_y\)^2 \\\\ \\ & = & \(b\\lambda\\ + \(A_x -B_x\)\)^2 + \(-a\\lambda\\ + \(A_y - B_y\)\)^2\\\\ \\ & = & \(b\\lambda\\ + \(-b\)\)^2 + \(-a\\lambda\\ + a\)^2\\\\ \\ & = & b^2\(\\lambda\\ - 1\)^2 + a^2\(-\\lambda\\ + 1\)^2 \\\\ \\ & = & b^2\(\\lambda\\ - 1\)^2 + a^2\(\\lambda\\ - 1\)^2\\\\ \\ & = & \(a^2 + b^2\)\(\\lambda\\ - 1\)^2\\end{matrix}
+    \\begin{matrix}Q\(AC\) & \\equiv & \(C_x - A_x\)^2 + \(C_y - A_y\)^2 \\\\ \\ & = & \(\(b\\lambda\\ + A_x\) - A_x\)^2 + \(\(-a\\lambda\\ + A_y\) - A_y\)^2 \\\\ \\ & = & \(b\\lambda\\ + A_x - A_x\)^2 + \(-a\\lambda\\ + A_y - A_y\)^2\\\\ \\ & = & \(b\\lambda\)^2 + \(-a\\lambda\)^2\\\\ \\ & = & b^2\\lambda^2 + \(-a\)^2\\lambda^2\\\\ \\ & = & b^2\\lambda^2 + a^2\\lambda^2\\\\ \\ & = & \(a^2 + b^2\)\\lambda^2\\end{matrix}
+where use was made of the fact that \(-\\lambda\\ + 1\)^2 = \(\\lambda\\ -
+1\)^2.
+
+Substituting these quadrances into the equation to be proved:
+
+    \(Q\(AB\) + Q\(BC\) + Q\(AC\)\)^2 = 2\(Q\(AB\)^{2} + Q\(BC\)^{2} + Q\(AC\)^{2}\)\\,
+    \(\(a^2 + b^2\) + \(a^2 + b^2\)\(\\lambda\\ - 1\)^2 + \(a^2 + b^2\)\\lambda^2\)^2 = 2\(\(a^2 + b^2\)^2 + \(\(a^2 + b^2\)\(\\lambda\\ - 1\)^2\)^2 + \(\(a^2 + b^2\)\\lambda^2\)^2\)\\,
+    \(a^2 + b^2\)^2\(1 + \(\\lambda\\ - 1\)^2 + \\lambda^2\)^2 = 2\(a^2 + b^2\)^2\(1 + \(\(\\lambda\\ - 1\)^2\)^2 + \(\\lambda^2\)^2\)\\,
+Now, if A\\, and B\\, represent distinct points, such that \(a^2 + b^2\)\\, is
+not zero, we may divide both sides by Q\(AB\)^2 = \(a^2 + b^2\)^2\\,:
+
+    \(1 + \\lambda^2 -2\\lambda\\ + 1 + \\lambda^2\)^2 = 2\(1 + \(\\lambda^2 -2\\lambda\\ + 1\)^2 + \\lambda^4\)\\,
+    \(2\\lambda^2 - 2\\lambda\\ + 2\)^2 = 2\(1 + \\lambda^4 - 2\\lambda^3 + \\lambda^2 - 2\\lambda^3 + 4\\lambda^2 - 2\\lambda + \\lambda^2 - 2\\lambda + 1 + \\lambda^4\)\\,
+    4\(\\lambda^2 - \\lambda\\ + 1\)^2 = 2\(2\\lambda^4 - 4\\lambda^3 + 6\\lambda^2 - 4\\lambda + 2\)\\,
+    4\(\\lambda^4 - \\lambda^3 + \\lambda^2 - \\lambda^3 + \\lambda^2 - \\lambda + \\lambda^2 - \\lambda + 1\) = 4\(\\lambda^4 - 2\\lambda^3 + 3\\lambda^2 - 2\\lambda + 1\)\\,
+    \\lambda^4 - 2\\lambda^3 + 3\\lambda^2 - 2\\lambda + 1 = \\lambda^4 - 2\\lambda^3 + 3\\lambda^2 - 2\\lambda + 1\\,
+Q.E.D.
+
+### [edit] Pythagoras' theorem
+
+The lines A1A3 and A2A3 are perpendicular precisely when:
+
+    Q_{1} + Q_{2}= Q_{3}.\\,
+This is equivalent to the Pythagorean theorem.
+
+There are many classical proofs of Pythagoras' theorem; this one is framed in
+the terms of rational trigonometry.
+
+The spread of an angle is the square of its sine. Given the triangle ABC with
+a spread of 1 between sides AB and AC,
+
+    Q\(AB\) + Q\(AC\) = Q\(BC\)\\,
+where Q is the "quadrance", i.e. the square of the distance.
+
+Proof
+
+<IMG>
+
+<IMG>
+
+Illustration of nomenclature used in the proof.
+
+Construct a line AD dividing the spread of 1, with the point D on line BC, and
+making a spread of 1 with DB and DC. The triangles ABC, DBA and DAC are
+similar (have the same spreads but not the same quadrances).
+
+This leads to two equations in ratios, based on the spreads of the sides of
+the triangle:
+
+    s_C = \\frac{Q\(AB\)}{Q\(BC\)} = \\frac{Q\(BD\)}{Q\(AB\)} = \\frac{Q\(AD\)}{Q\(AC\)}.
+    s_B = \\frac{Q\(AC\)}{Q\(BC\)} = \\frac{Q\(DC\)}{Q\(AC\)} = \\frac{Q\(AD\)}{Q\(AB\)}.
+Now in general, the two spreads resulting from dividing a spread into two
+parts, as line AD does for spread CAB, do not add up to the original spread
+since spread is a non-linear function. So we first prove that dividing a
+spread of 1, results in two spreads that do add up to the original spread of
+1.
+
+For convenience, but with no loss of generality, we orient the lines
+intersecting with a spread of 1 to the coordinate axes, and label the dividing
+line with coordinates (x1,y1) and (x2,y2). Then the two spreads are given by:
+
+    s_1 = \\frac{\(x_2 - x_2\)^2 + \(y_2 - y_1\)^2}{\(x_2 - x_1\)^2 + \(y_2 - y_1\)^2}
+= \\frac{\(y_2 - y_1\)^2}{\(x_2 - x_1\)^2 + \(y_2 - y_1\)^2},
+
+    s_2 = \\frac{\(x_2 - x_1\)^2 + \(y_2 - y_2\)^2}{\(x_2 - x_1\)^2 + \(y_2 - y_1\)^2}
+= \\frac{\(x_2 - x_1\)^2}{\(x_2 - x_1\)^2 + \(y_2 - y_1\)^2}.
+
+Hence:
+
+    s_1 + s_ 2 = \\frac{\(x_2 - x_1\)^2 + \(y_2 - y_1\)^2}{\(x_2 - x_1\)^2 + \(y_2 - y_1\)^2}
+= 1.\\,
+
+So that:
+
+    s_C + s_B = 1.\\,
+Using the first two ratios from the first set of equations, this can be
+rewritten:
+
+    \\frac{Q\(AB\)}{Q\(BC\)} + \\frac{Q\(AC\)}{Q\(BC\)} = 1.\\,
+Multiplying both sides by Q(BC):
+
+    Q\(AB\) + Q\(AC\) = Q\(BC\).\\,
+Q.E.D.
+
+### [edit] Spread law
+
+For any triangle \\overline{A_{1} A_{2} A_{3}} with non zero quadrances:
+
+    \\frac{s_{1}}{Q_{1}}=\\frac{s_{2}}{Q_{2}}=\\frac{s_{3}}{Q_{3}}.\\,
+This is equivalent to the law of sines.
+
+### [edit] Cross law
+
+For any triangle \\overline{A_{1} A_{2} A_{3}} define the cross c3 as c3 = 1
+â s3. Then:
+
+    \(Q_1 + Q_2 - Q_3\)^2 = 4Q_1 Q_2 c_3.\\,
+This is equivalent to the law of cosines.
+
+### [edit] Triple spread formula
+
+For any triangle \\overline{A_1 A_2 A_3},
+
+    \(s_1 + s_2 + s_3\)^2 = 2\(s_1^2 + s_2^2 + s_3^2\) + 4s_1 s_ 2 s_ 3 .\\,
+This corresponds (roughly) to the angle sum formulae for sine and cosine.
+
+## [edit] Calculating quadrance and spread
+
+<IMG>
+
+<IMG>
+
+Spread calculation
+
+Given the coordinates of two points (x1, y1) and (x2, y2), the quadrance
+between them is
+
+    Q = \(x_2 -x_1\)^2 + \(y_2 - y_1\)^2.\\,
+Given two line segments A1A3 and A1A3 (forming an angle at point A3, the
+spread between them is
+
+    
+\\begin{align}
+
+s & = 1 - \\frac{\(Q_1 + Q_2 - Q_3 \)^2}{4Q_1 Q_2} \\\\\[6pt\]
+
+  & = \\frac{ 2Q_1 Q_2 + 2Q_1 Q_3 + 2Q_2 Q_3 - Q_1^2 - Q_2^2 - Q_3^2}{4Q_1
+Q_2}
+
+\\end{align}
+
+where Q1 is the quadrance of the side opposite the vertex A1, Q2 is the
+quadrance of the side opposite the vertex A2, Q3 is the quadrance of the side
+opposite the vertex A3.
+
+Given the coordinates of two points on each of two lines (x11,y11), (x12,y12)
+and (x21,y21) (x22,y22), the spread s between them can be calculated as:
+
+    s = \\frac{\(\(x_{12} - x_{11}\)\(y_{22} - y_{21}\) - \(x_{22} - x_{21}\)\(y_{12} - y_{11}\)\)^2}{\(\(x_{12}-x_{11}\)^2+\(y_{12}-y_{11}\)^2\) \(\(x_{22}-x_{21}\)^2+\(y_{22}-y_{21}\)^2\)}
+or
+
+    s = \\frac{\(\\Delta x_1 \\, \\Delta y_2  - \\Delta x_2\\, \\Delta y_1\)^{2}}{Q_1 Q_2}.\\,
+If the lines described by the points emanate from or are shifted to the origin
+by subtracting the coordinates of the first point from each line, as
+illustrated on the right, the computation simplifies to
+
+    s = \\frac{\(x_1 y_2 - x_2 y_1\)^2}{Q_1 Q_2}.\\,
+## [edit] See also
+
+  * Spread polynomials
+
+## [edit] References
+
+  1. ^ a b c d e f g Wildberger, Norman J. (2007), "A Rational Approach to Trigonometry", Math Horizons (Washington, DC: Mathematical Association of America) November 2007: 16â20, ISSN 1072-4117
+
+  * Wildberger's rational trigonometry site, including downloadable papers and sections of his book
+  * A comparison of classical and rational trigonometry
+  * Alexander Bogomolny (2007). "A brief introduction to Rational Trigonometry". Cut-the-knot. http://www.cut-the-knot.org/pythagoras/RationalTrig/CutTheKnot.shtml.
+
+## [edit] External links
+
+  * Print a protractor to measure spread
+  * N. J. Wildberger's YouTube channelâlectures on rational trigonometry
+
+Retrieved from "http://en.wikipedia.org/wiki/Rational_trigonometry"
+
+Categories: Trigonometry
+
+Hidden categories: Articles lacking reliable references from January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Esperanto
+  * FranÃ§ais
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 13 April 2009, at 19:46 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

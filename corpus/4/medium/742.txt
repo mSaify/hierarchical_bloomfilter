@@ -1,0 +1,448 @@
+
+# World Wide Web Consortium
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+"WWWC" redirects here. For the radio station, see WWWC (AM).
+
+World Wide Web Consortium <IMG>  
+Type Consortium  
+Founded October 1994  
+Founder(s) Tim Berners-Lee  
+Headquarters MIT/CSAIL in USA  
+ERCIM in France  
+Keio University in Japan  
+and many other offices around the world  
+Website www.w3.orgâHistory  
+The World Wide Web Consortium (W3C) is the main international standards
+organization for the World Wide Web (abbreviated WWW or W3). It is arranged as
+a consortium where member organizations maintain full-time staff for the
+purpose of working together in the development of standards for the World Wide
+Web. As of February 2008, the W3C had 434 members.[1]
+
+W3C also engages in education and outreach, develops software and serves as an
+open forum for discussion about the Web. It was founded and is headed by Sir
+Tim Berners-Lee.[2]
+
+## Contents
+
+  * 1 History
+  * 2 Recommendations and certifications
+  * 3 Administration
+  * 4 Membership
+    * 4.1 Fees Schedule for 2007
+  * 5 Criticism
+    * 5.1 Domination by large organizations
+  * 6 Standards
+  * 7 See also
+  * 8 References
+  * 9 External links
+
+  
+## [edit] History
+
+HTML  
+  * HTML and HTML 5
+  * Dynamic HTML
+  * XHTML
+  * XHTML Mobile Profile
+  * Character encodings
+  * Font family
+  * HTML editor
+  * HTML element
+  * HTML scripting
+  * Layout engine
+  * Quirks mode
+  * Style sheets
+  * Unicode and HTML
+  * W3C
+  * Web colors
+  * Comparison of 
+    * document markup languages
+    * web browsers
+    * layout engines for 
+      * HTML
+      * HTML 5
+      * Non-standard HTML
+      * XHTML
+
+  
+This box: view â¢ talk â¢ edit  
+The World Wide Web Consortium (W3C) was founded by Tim Berners-Lee after he
+left the European Organization for Nuclear Research (CERN) in October, 1994.
+It was founded at the Massachusetts Institute of Technology Laboratory for
+Computer Science (MIT/LCS) with support from the Defense Advanced Research
+Projects Agency (DARPA) -- which had pioneered the Internet \-- and the
+European Commission.
+
+W3C was created to ensure compatibility and agreement among industry members
+in the adoption of new standards. Prior to its creation, incompatible versions
+of HTML were offered by different vendors, increasing the potential for
+inconsistency between web pages. The consortium was created to get all those
+vendors to agree on a set of core principles and components which would be
+supported by everyone.
+
+It was originally intended that CERN host the European branch of W3C; however,
+CERN wished to focus on particle physics, not information technology. In April
+1995 the Institut national de recherche en informatique et en automatique
+(INRIA) became the European host of W3C, with Keio University becoming the
+Japanese branch in September 1996. Starting in 1997, W3C created regional
+offices around the world; as of October 2007 it has sixteen World Offices
+covering Australia, the Benelux countries (the Netherlands, Luxemburg, and
+Belgium), China, Finland, Germany and Austria, Greece, Hungary, India,
+Ireland, Israel, Italy, Japan, South Korea, Korea, Morocco, South Africa,
+Spain, Sweden, and the United Kingdom.
+
+In January 2003, the European host was transferred from INRIA to the European
+Research Consortium for Informatics and Mathematics (ERCIM), an organization
+that represents European national computer science laboratories.
+
+## [edit] Recommendations and certifications
+
+Cascading Style Sheets  
+CSS Animations  
+Comparison of layout engines (CSS)  
+Comparison of stylesheet languages  
+CSS framework  
+CSS Zen Garden  
+CSSTidy  
+Style sheet  
+Tableless web design
+
+This box: view â¢ talk â¢ edit  
+In accord with the W3C Process Document, a Recommendation progresses through
+five maturity levels:
+
+  1. Working Draft (WD)
+  2. Last Call Working Draft
+  3. Candidate Recommendation (CR)
+  4. Proposed Recommendation (PR)
+  5. W3C Recommendation (REC)
+
+A Recommendation may be updated by separately published Errata until enough
+substantial edits accumulate, at which time a new edition of the
+Recommendation may be produced (e.g., XML is now in its fourth edition). W3C
+also publishes various kinds of informative Notes which are not intended to be
+treated as standards.
+
+W3C leaves it up to manufacturers to follow the Recommendations. Many of its
+standards define levels of conformance, which the developers must follow if
+they wish to label their product W3C-compliant. Like any standards of other
+organizations, W3C recommendations are sometimes implemented partially. The
+Recommendations are under a royalty-free patent license, allowing anyone to
+implement them.
+
+Unlike the ISOC and other international standards bodies, the W3C does not
+have a certification program. A certification program is a process which has
+benefits and drawbacks; the W3C has decided, for now, that it is not suitable
+to start such a program owing to the risk of creating more drawbacks for the
+community than benefits.
+
+## [edit] Administration
+
+Scalable Vector Graphics  
+  * SXBL
+  * SVG Working Group
+  * SVG filter effects
+  * Precision Graphics Markup Language
+  * Vector Markup Language
+  * XHTML+MathML+SVG
+  * SVG animation
+  * Comparison of layout engines (SVG)
+
+  
+This box: view â¢ talk â¢ edit  
+The Consortium is jointly administered by the MIT Computer Science and
+Artificial Intelligence Laboratory (CSAIL) in the USA, the European Research
+Consortium for Informatics and Mathematics (ERCIM) (in Sophia Antipolis,
+France), and Keio University (in Japan). The W3C also has World Offices in
+sixteen regions around the world. The W3C Offices work with their regional Web
+communities to promote W3C technologies in local languages, broaden W3C's
+geographical base, and encourage international participation in W3C
+Activities.
+
+## [edit] Membership
+
+The domain w3.org attracted at least 11 million visitors annually by 2008
+according to a Compete.com study.[3]
+
+The Consortium is governed by its membership, which in September 2008
+comprised 419 organizations. The list of members is available to the
+public.[4] Members include only businesses, nonprofit organizations,
+universities, and governmental entities. There is no provision for individual
+membership.[5]
+
+Membership requirements are transparent except for one requirement. An
+application for membership must be reviewed and approved by W3C. Many
+guidelines and requirements are stated in detail, but there is no final
+guideline about the process or standards by which membership might be finally
+approved or denied.[6]
+
+The cost of membership is given on a sliding scale, depending on the character
+of the organization applying and the country in which it is located.[7]
+Countries are categorized by the World Bank's most recent grouping by GNI
+("Gross National Income") per capita.[8]
+
+### [edit] Fees Schedule for 2007
+
+European, Middle Eastern, and African organizations pay dues denominated in
+Euros, as follows:
+
+  * The fee charged to for-profit companies with annual gross revenues exceeding â¬51 million was â¬65,000, regardless of location.
+  * The fee charged to for-profit companies with annual gross revenues under â¬51 million but greater than the "Other organization" cap (see below) was â¬6,500, regardless of location.
+  * Smaller and non-profit organizations located in lower GNI countries enjoy two price advantages: 
+    * In High Income Countries (HIC) such as France and Israel, non-profit organizations and for-profit organizations with AGR under â¬51 million are charged â¬6,500.
+    * In Upper Middle Income Countries (UMC) such as Poland and South Africa, nonprofit organizations and for-profit companies with AGR under â¬30.6 million pay â¬3,900.
+    * In Lower Middle Income Countries (LMC) such as Ukraine and Jordan, nonprofit organizations and for-profit companies with AGR under â¬15.3 million pay â¬1,950.
+    * In Lower Income Countries (LIC) such as Pakistan and Kenya, nonprofit organizations and for-profit companies with AGR under â¬7.65 million pay â¬975.
+
+Similar scales apply to dues denominated in yen for some Asian countries, and
+US dollars for all others.
+
+## [edit] Criticism
+
+### [edit] Domination by large organizations
+
+The W3C has been criticized as being dominated by larger organizations and
+thus writing standards that represent their interests. For example, a member
+of the Web Content Accessibility Guidelines Working Group (WCAG WG)[9]
+complained that:
+
+> The process is stacked in favour of multinationals with expense accounts who
+can afford to talk on the phone for two hours a week and jet to world capitals
+for meetings.[10]
+
+A similar criticism, responding to large software company complaints about the
+slow pace of W3C's formulation of XML/web services standards, appeared in
+Cnet's news.com in 2002:
+
+> "I'm not convinced that developers are too bothered," said Edd Dumbill,
+editor of XML.com, who has worked as a software developer on Web services. "I
+think developers are being poorly served by the fact that the big companies
+have dominated the work of the W3C over the last year. The W3C does more or
+less what its members tell it to. So I don't have a huge amount of sympathy
+for the complaints of large companies."[11]
+
+## [edit] Standards
+
+W3C/IETF Standards (over Internet protocol suite):
+
+  * CSS
+  * CGI
+  * DOM
+  * GRDDL
+  * HTML
+  * OWL
+  * RDF
+  * SVG
+  * SISR
+
+  * SOAP
+  * SPARQL
+  * SMIL
+  * SRGS
+  * SSML
+  * VoiceXML
+  * WCAG
+  * WSDL
+  * XACML
+  * XForms
+
+  * XHTML
+  * XHTML+Voice
+  * XML
+  * XML Events
+  * XML Information Set
+  * XML Schema
+  * XPath
+  * XQuery
+  * XSLT
+
+  
+## [edit] See also
+
+  * Device Independence
+  * Mobile Web
+  * Request for Comments
+  * Semantic Web
+  * W3C Markup Validation Service
+  * WAI
+  * Web page
+  * Web server
+  * Web services
+  * Web template
+  * World Wide Web Foundation
+  * XMLHttpRequest
+
+## [edit] References
+
+  1. ^ W3C (February 2008). member organizations "World Wide Web Consortium (W3C) Members". http://www.w3.org/Consortium/Member/List member organizations. Retrieved on 2008-02-06.
+  2. ^ Search and Go (undated). "Birth of the Browser (part 3)". http://www.searchandgo.com/articles/internet/browser-birth-3.php. Retrieved on 2008-02-06.
+  3. ^ W3C attracts 11m visitors online yearly
+  4. ^ W3C (2008). "World Wide Web Consortium (W3C) Members". http://www.w3.org/Consortium/Member/List. Retrieved on 2008-09-14.
+  5. ^ W3C (2008). "About W3C Membership". http://www.w3.org/Consortium/membership. Retrieved on 2008-09-14.
+  6. ^ Jacobs, Ian (2008). "How to Become a W3C Member". http://www.w3.org/Consortium/join. Retrieved on 2008-09-14.
+  7. ^ W3C Membership Fee Calculator
+  8. ^ World Bank Country Classification
+  9. ^ WCAG website
+  10. ^ Joe Clark writing in A List Apart
+  11. ^ Critics clamor for Web services standards - CNET News.com
+
+## [edit] External links
+
+<IMG>
+
+This article's external links may not follow Wikipedia's content policies or
+guidelines. Please improve this article by removing excessive or inappropriate
+external links.  
+  * W3C homepage (with links to local Offices, and many others)
+  * About the World Wide Web Consortium
+  * W3C Technical Reports and Publications
+  * W3C HTML homepage
+  * W3C Process Document
+  * World Wide Web (German)
+  * W3C Quality Assurance Specifications Guidelines
+  * W3C Sites
+  * W3C Markup Validation Service
+  * A tutorial on the W3C and the current standards, from W3Schools.com
+  * How to read W3C specs
+
+v â¢ d â¢ e
+
+Standards of the World Wide Web Consortium  
+Recommendations
+
+Canonical XML Â· CDF Â· CSS Â· DOM Â· HTML Â· MathML Â· OWL Â· P3P Â· PLS Â·
+RDF Â· RDF Schema Â· SISR Â· SMIL Â· SOAP Â· SRGS Â· SSML Â· SVG Â· SPARQL Â·
+Timed Text Â· VoiceXML Â· WSDL Â· XForms Â· XHTML Â· XLink Â· XML Â· XML Base
+Â· XML Encryption Â· XML Events Â· XML Information Set Â· XML Schema Â· XML
+Signature Â· XPath Â· XPointer Â· XQuery Â· XSL Â· XSL-FO Â· XSLT  
+Notes
+
+XAdES Â· XHTML+SMIL  
+Working Drafts
+
+CCXML Â· CURIE Â· HTML 5 Â· InkML Â· WICD Â· XFDL Â· XFrames Â· XBL Â·
+XHTML+MathML+SVG Â· XProc Â· OWL 2  
+Guidelines
+
+Web Content Accessibility Guidelines  
+deprecated
+
+HDML Â· JSSS Â· PGML Â· VML  
+Retrieved from "http://en.wikipedia.org/wiki/World_Wide_Web_Consortium"
+
+Categories: 1994 establishments | Consortia | Standards organizations | Web
+services | Web development | International nongovernmental organizations |
+World Wide Web Consortium
+
+Hidden categories: Wikipedia external links cleanup
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * Asturianu
+  * Bosanski
+  * Brezhoneg
+  * CatalÃ 
+  * Äesky
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * Gaeilge
+  * Galego
+  * íêµ­ì´
+  * à¤¹à¤¿à¤¨à¥à¤¦à¥
+  * Hrvatski
+  * Bahasa Indonesia
+  * Interlingua
+  * Ãslenska
+  * Italiano
+  * ×¢××¨××ª
+  * LatvieÅ¡u
+  * LietuviÅ³
+  * Magyar
+  * Bahasa Melayu
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Polski
+  * PortuguÃªs
+  * RomÃ¢nÄ
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Simple English
+  * SlovenÄina
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * Suomi
+  * Svenska
+  * à¹à¸à¸¢
+  * Tiáº¿ng Viá»t
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 14 March 2009, at 20:19.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

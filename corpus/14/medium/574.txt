@@ -1,0 +1,199 @@
+
+# Kilobyte
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+Prefixes for bit and byte multiples  
+Decimal  
+Value SI  
+1000 k kilo-  
+10002 M mega-  
+10003 G giga-  
+10004 T tera-  
+10005 P peta-  
+10006 E exa-  
+10007 Z zetta-  
+10008 Y yotta-  
+Binary  
+Value IEC JEDEC  
+1024 Ki kibi- K kilo-  
+10242 Mi mebi- M mega-  
+10243 Gi gibi- G giga-  
+10244 Ti tebi-  
+10245 Pi pebi-  
+10246 Ei exbi-  
+10247 Zi zebi-  
+10248 Yi yobi-  
+Kilobyte (derived from the SI prefix "kilo-", meaning 1,000) is a unit of
+digital information storage equal to either 1,024 bytes (210) or 1,000 bytes
+(103), depending on context.
+
+It is abbreviated in a number of ways: KB, kB, K and Kbyte.
+
+## Contents
+
+  * 1 Ambiguity
+  * 2 See also
+  * 3 External links
+  * 4 References
+
+  
+## [edit] Ambiguity
+
+Main article: Binary prefix
+
+The exact number of bytes in a kilobyte has traditionally been ambiguous.
+Locations in electronic memory circuits are identified by binary numbers,
+which means that the number of addressable locations naturally becomes a power
+of 2, and memory sizes are therefore not integer multiples (or fractions) of
+1000. However, as 210 = 1024 â 1000, the established "k" (for "kilo") was
+early on employed as a convenient "approximate" prefix for memory capacities
+in multiples of 1024. On the other hand, for products where (some) capacity
+factors were not equally bound to powers of two, such as magnetic disks
+(sector and track numbers) and networking equipment (bit rates), strict
+decimal-based units were used.
+
+Some have suggested that the capitalized prefix "K" be used to distinguish
+this quantity from the SI prefix "k", but this has never been formally
+mandated. Further, it is not extensible to higher-order prefixes, as SI
+already uses the prefixes "m" and "M" to mean "milli-" and "mega-"
+respectively. There are also proposals to capitalize all greater-than-unity
+prefixes (D, H, K, M, G, ...), which would conflict with this. See SI prefix.
+
+These prefixes are therefore used with either decimal (powers of 1000) or
+binary (powers of 1024) values, depending on context:
+
+  * 1024 bytes (210): This unit is used when expressing quantities which are based on powers of two, such as memory chip capacities. Most software also expresses storage capacity in units of 1024 bytes. Although the use of "kilobyte" for this unit is common, this usage has been expressly forbidden by the SI standard[1] and other standards organisations. To indicate a quantity of 1024 bytes, the term "kibibyte" ("KiB") has been recommended instead.[2][3]
+
+  * 1000 bytes (103): This definition is recommended for all uses by international standards organizations such as IEC, IEEE, and ISO,[3] with the abbreviation "kB". This unit is common for quantities which are not based on powers of two, such as bitrates. This term is starting to be adopted by some software, such as the Linux kernel.[4]
+
+Kilobyte (abbreviated as "KB") is not to be confused with the term kilobit
+(abbreviated as kb).
+
+## [edit] See also
+
+  * Orders of magnitude (data)
+  * Megabyte
+  * Gigabyte
+  * Kilobit
+
+## [edit] External links
+
+  * "Kilobyte" \- an xkcd comic lampooning the aforementioned ambiguity of the term
+
+## [edit] References
+
+  1. ^ The International System of Units (SI), 7th edition, 1998, section 3.1, page 103, marginal note
+  2. ^ Prefixes for Binary Multiples â The NIST Reference on Constants, Units, and Uncertainty
+  3. ^ a b IEEE Std 260.1-2004, IEEE Standard Letter Symbols for Units of Measurement (SI Units, Customary Inch-Pound Units, and Certain Other Units), Revision of IEEE Std 260.1-1993 (IEEE, New York, 2004)
+  4. ^ Post on Linux Kernel Mailing List announcing the change.
+
+v â¢ d â¢ e
+
+Units of information  
+Base units
+
+Bit Â· Byte  
+Related units
+
+Nibble Â· Word Â· Octet  
+Traditional units
+
+Kilobyte Â· Megabyte Â· Gigabyte Â· Terabyte Â· Petabyte Â· Exabyte Â·
+Zettabyte Â· Yottabyte  
+IEC standard units
+
+Kibibyte Â· Mebibyte Â· Gibibyte Â· Tebibyte Â· Pebibyte Â· Exbibyte Â·
+Zebibyte Â· Yobibyte  
+Retrieved from "http://en.wikipedia.org/wiki/Kilobyte"
+
+Categories: Units of information
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Afrikaans
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * CatalÃ 
+  * Dansk
+  * ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+  * EspaÃ±ol
+  * Esperanto
+  * Euskara
+  * ÙØ§Ø±Ø³Û
+  * íêµ­ì´
+  * Bahasa Indonesia
+  * Italiano
+  * ÒÐ°Ð·Ð°ÒÑÐ°
+  * Nederlands
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * âªNorsk (nynorsk)â¬
+  * Polski
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * Shqip
+  * Simple English
+  * SlovenÄina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * à¹à¸à¸¢
+  * TÃ¼rkÃ§e
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 24 February 2009, at 02:21.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

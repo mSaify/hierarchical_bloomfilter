@@ -1,0 +1,164 @@
+
+# Fantastico (web hosting)
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+This article includes a list of references or external links, but its sources
+remain unclear because it has insufficient inline citations. Please help to
+improve this article by introducing more precise citations where appropriate.
+(June 2008)  
+Fantastico is a commercial script library that automates the installation of
+web applications to a website. Fantastico scripts are executed from the
+administration area of a website control panel such as cPanel. Fantastico's
+web site claims that they are installed on ten thousand servers, with a
+million users worldwide, which would make it the leading product of its type.
+
+## Contents
+
+  * 1 Typical usage
+  * 2 Criticism of Hosting Providers Offering Fantastico
+  * 3 See also
+  * 4 References
+  * 5 External links
+
+  
+## [edit] Typical usage
+
+Fantastico scripts are usually executed when a new website is created, or a
+new application is added to an existing website. The scripts typically create
+tables in a database, install software, adjust permissions, and modify web
+server configuration files. Although Fantastico is typically associated with
+open-source software, a handful of scripts are also available that install
+proprietary products. Once installed, these are available to all of the
+domains hosted by a physical server; such as web site builder SohoLaunch,
+PerlDesk customer support software, and AccountLab Plus software for
+interacting with Internet registrars.
+
+There are more than 50 applications that have Fantastico scripts associated
+with them. The most commonly added systems include:
+
+  1. Web content management system
+  2. Shopping cart software
+  3. Wikis
+  4. Blogs
+  5. Photo sharing
+
+A full list of Fantastico-supported applications and versions is available.[1]
+
+## [edit] Criticism of Hosting Providers Offering Fantastico
+
+<IMG>
+
+This section contains weasel words, vague phrasing that often accompanies
+biased or unverifiable information. Such statements should be clarified or
+removed. (January 2009)  
+Hosting providers offering Fantastico have been criticized [2] [3] in several
+areas:
+
+  1. The installation scripts, although easy to use, are frequently not maintained by the ISP or webhost, and thus older releases of products with known security problems are in current use.
+  2. The default configuration for many applications may not be secure. So although the systems are easy to set up, it also provides opportunities; for example for spammers to write automated scripts which post spam messages on websites.
+
+Although Fantastico includes its own installers, since open source projects do
+not all have the financial and legal resources to prevent third parties from
+creating alternate installers, there may be many versions in circulation. In
+such circumstances, users may have to shoulder the updating of their scripts
+themselves, which is often a technically daunting process for beginners.
+However, there are two schools of thought on the matter of recent updates:
+eager to improve user experience and heighten security, some[who?] like to
+have an update as soon as a new release is available, while others[who?]
+prefer to use old IT wisdom, waiting and letting others test a new release to
+see if it introduces any new and serious problems, before offering it as an
+update to their own client base.
+
+## [edit] See also
+
+  * cPanel \-- the platform which Fantastico runs on.
+  * installapp \-- Script Installer for Lxadmin
+  * Installatron \-- alternative script installer for cPanel...
+  * Softaculous \-- alternative script installer for cPanel
+
+## [edit] References
+
+  1. ^ netenberg.com || creating possibilities
+  2. ^ http://www.shaibanii.com/2008/09/why-you-shouldnt-use-fantastico-for-anything/
+  3. ^ http://drupal.org/forum/fantastico-de-luxe
+
+## [edit] External links
+
+  * Netenberg \-- the developer of Fantastico.
+  * (French) Fantastico, Systeme automatique d'installation de scripts. Scripts installer \-- references and details of Fantastico script installer
+  * Fantastico De Luxe: an Insecure Recipe for Disaster \-- a disclaimer at the Drupal website, an open source project which is commonly installed by Fantastico.
+
+Retrieved from "http://en.wikipedia.org/wiki/Fantastico_(web_hosting)"
+
+Categories: Web hosting
+
+Hidden categories: Articles lacking in-text citations from June 2008 |
+Articles with weasel words from January 2009 | All pages needing cleanup |
+Articles with specifically-marked weasel-worded phrases since January 2009
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * FranÃ§ais
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 27 April 2009, at 06:58 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

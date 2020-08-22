@@ -1,0 +1,224 @@
+
+# TOEFL
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+The Test of English as a Foreign Language (or TOEFL, pronounced "toe-full")
+evaluates the potential success of an individual to use and understand
+academic English at a college level. It is required for non-native applicants
+at many English-speaking colleges and universities. Additionally, institutions
+such as government agencies, businesses, or scholarship programs may require
+this test. A TOEFL score is valid for two years and then is deleted from the
+official database. Colleges and universities usually consider only the most
+recent TOEFL score.
+
+The TOEFL test is a registered trademark of Educational Testing Service (ETS)
+and is administered worldwide. The test was first administered in 1964 and has
+since been taken by nearly 20 million students.
+
+## Contents
+
+  * 1 Formats and contents
+    * 1.1 Internet-Based Test
+    * 1.2 Paper-Based Test
+  * 2 Test Scores
+    * 2.1 Internet-Based Test
+    * 2.2 Computer-Based Test
+    * 2.3 Paper-Based Test
+  * 3 References
+
+  
+## [edit] Formats and contents
+
+### [edit] Internet-Based Test
+
+Since its introduction in late 2005, the Internet-Based test (iBT) has
+progressively replaced both the computer-based (CBT) and paper-based (PBT)
+tests. The iBT has been introduced in phases, with the United States, Canada,
+France, Germany, and Italy in 2005 and the rest of the world in 2006, with
+test centers added regularly.
+
+Although the demand for test seats was very high, and candidates had to wait
+for months, it is now possible to take the test within one to four weeks in
+most countries.[1] The four-hour test consists of four sections, each
+measuring mainly one of the basic language skills (although some tasks may
+require multiple skills) focusing on language used in an academic, higher-
+education environment. Note-taking is allowed during the iBT. The test cannot
+be taken more than once a week. For taking Test of English as a Foreign
+Language, TOEFL Test no minimum educational qualification is required. The
+test administrator âEducational Testing Servicesâ recommend that 11th
+grade level or above is suitable qualification for taking this test.[2]
+
+  1. Reading
+    The reading section consists of 3â5 long passages and questions about the passages. The passages are on academic topics; they are the kind of material that might be found in an undergraduate university textbook. Students answer questions about main ideas, details, inferences, sentence restatements, sentence insertion, vocabulary, function and overall ideas. New types of questions in the iBT require paraphrasing, filling out tables, or completing summaries. Generally prior knowledge of the subject under discussion is not necessary to come to the correct answer, though prior knowledge may help.
+  2. Listening
+    It consists of six long passages and questions about the passages. The passages consist of two student conversations and four academic lectures or discussions. The questions ask the students to determine main ideas, details, function, stance, inferences, and overall organization.
+  3. Speaking
+    It consists of six tasks (two independent tasks and four integrated tasks). In the two independent tasks, students must answer opinion questions about some aspect of academic life. In two integrated reading, listening, and speaking tasks, students must read a passage, listen to a passage, and speak about how the ideas in the two passages are related. In two integrated listening and speaking tasks, students must listen to long passages and then summarize and offer opinions on the information in the passages. Test takers are expected to convey information, explain ideas, and defend opinions clearly, coherently, and accurately.
+  4. Writing
+    The Writing Section consists of two tasks, one integrated task and one independent task. In the integrated task, students must read an academic passage, listen to an academic passage, and write about how the ideas in the two passages are related. In the independent task, students must write a personal essay.
+
+Task iBT Approx. time  
+READING 3 passages and 39 questions or 5 passages and 70 questions 60 minutes
+or 100 minutes  
+LISTENING 6 passages and 34 questions 50 minutes  
+SPEAKING 6 tasks and 6 questions 20 minutes  
+WRITING 2 tasks and 2 questions 55 minutes  
+It should be noted that at least one of the sections of the test will include
+extra, uncounted material. Educational Testing Service includes extra material
+to try out material for future tests. If the test taker is given a longer
+section, he must work hard on all of the materials because he does not know
+which material counts and which material is extra. For example, if there are
+four reading passages instead of three, three of the passages will count and
+one of the passages will not be counted. It is possible that the uncounted
+passage could be any of the four passages.
+
+(Detailed descriptions and samples are available at the official website.)
+
+### [edit] Paper-Based Test
+
+In areas where the iBT and CBT are not available, a paper-based test (PBT) is
+given. Because test takers cannot register at the testing center on the test
+date, they must register in advance using the registration form provided in
+the Supplemental Paper TOEFL Bulletin. They should register in advance of the
+given deadlines to ensure a place because the test centers have limited
+seating and may fill up early. Tests are administered only several times each
+year.
+
+The PBT tests essentially the same skills as the CBT, albeit with some
+differences, noticeably the number of questions (which is higher in the PBT)
+and the score scales. The test lasts 4 hours more or less. Students can take
+the test as many times as they wish. However, colleges and universities
+usually consider only the most recent score.
+
+  1. Listening (30â40 minutes) 
+    It consists of three parts. The first one contains 30 questions about short conversations. The second part has 8 questions about longer conversations. The last part asks 12 questions about lectures or talks.
+  2. Structure and Written Expression (25 minutes) 
+    This part has 15 exercises of completing sentences correctly and 25 exercises of identifying errors.
+  3. Reading Comprehension (55 minutes) 
+    It has 50 questions about reading passages.
+  4. Writing (30 minutes) 
+    One essay with 250-300 words in average.
+
+## [edit] Test Scores
+
+### [edit] Internet-Based Test
+
+  * The iBT version of the TOEFL test is scored on a scale of 0 to 120 points.
+  * Each of the four sections (Reading, Listening, Speaking, and Writing) receives a scaled score from 0 to 30. The scaled scores from the four sections are added together to determine the overall score.
+  * Speaking is initially given a score of 0 to 4, and writing is initially given a score of 0 to 5. These scores are converted to scaled scores of 0 to 30.
+
+### [edit] Computer-Based Test
+
+  * Three subscores are obtained, each of which is given on a 0â30 scale: Listening, Structure/Writing (combined), and Reading. These subscores are averaged to obtain the final score, which is on a 0â300 scale.
+  * The score for Writing is a component of the score for the Structure Section. Even though the college or university where the test taker applied did not require a score for Writing, the test taker had to write the essay to complete the test.
+  * The Writing test is scored on a scale from 0 to 6. A score of 6 showed strong writing abilities, 5 average writing abilities, and 4 minimal writing abilities. A score of 3, 2 or 1 showed a lack of writing technique. The essay was read by two testing evaluators. Each one gave the essay a score. The two scores are averaged to produce the final Writing scores. If the evaluators were more than 1 point different in their assessment, a third evaluator scored the essay.
+
+### [edit] Paper-Based Test
+
+  * The final PBT score ranges between 310 and 677 and is based on three subscores: Listening (31â68), Structure (31â68), and Reading (31â67). Unlike the CBT, the score of the Writing section (referred to as the Test of Written English, TWE) is not part of the final score; instead, it is reported separately on a scale of 0â6.
+  * The score test takers receive on the Listening, Structure and Reading parts of the TOEFL test is not the percentage of correct answers. The score is converted to take into account the fact that some tests are more difficult than others. The converted scores correct these differences. Therefore, the converted score is a more accurate reflection of the ability than the correct answer score is.
+
+Most colleges use your TOEFL scores as only one factor in their admission
+process. A sampling of required TOEFL admissions scores shows that a total
+score of 74.2 for undergraduate admissions and 82.6 for graduate admissions
+may be required. It is recommended that students check with their prospective
+institutions directly to understand TOEFL admissions requirements.[3]
+
+ETS has released tables to convert between iBT, CBT and PBT scores.
+
+## [edit] References
+
+  1. ^ TOEFL iBT Locations and Dates
+  2. ^ TOEFL eligibility
+  3. ^ Required TOEFL Scores for College Admissions, Test-Guide.com, Retrieved on March 09.
+
+Retrieved from "http://en.wikipedia.org/wiki/TOEFL"
+
+Hidden categories: Articles containing non-English language text
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Ø§ÙØ¹Ø±Ø¨ÙØ©
+  * AzÉrbaycan
+  * ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸
+  * Deutsch
+  * EspaÃ±ol
+  * ÙØ§Ø±Ø³Û
+  * FranÃ§ais
+  * íêµ­ì´
+  * Bahasa Indonesia
+  * Italiano
+  * LietuviÅ³
+  * æ¥æ¬èª
+  * O'zbek
+  * Polski
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * SlovenÅ¡Äina
+  * Ð¡ÑÐ¿ÑÐºÐ¸ / Srpski
+  * à¹à¸à¸¢
+  * TÃ¼rkÃ§e
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+  * Tiáº¿ng Viá»t
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 8 April 2009, at 10:48 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

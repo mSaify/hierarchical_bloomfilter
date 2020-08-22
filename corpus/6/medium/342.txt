@@ -1,0 +1,403 @@
+
+# Timeline of mathematics
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+A timeline of pure and applied mathematics
+
+## Contents
+
+  * 1 Before 1000 BC
+  * 2 1st millennium BC
+  * 3 1st millennium
+  * 4 1000â1500
+  * 5 16th century
+  * 6 17th century
+  * 7 18th century
+  * 8 19th century
+  * 9 20th century
+  * 10 21st century
+  * 11 Notes
+  * 12 References
+  * 13 External links
+
+  
+### [edit] Before 1000 BC
+
+  * ca. 70,000 BC â South Africa, ochre rocks adorned with scratched geometric patterns [1]
+  * ca. 35,000 BC to 20,000 BC â Africa and France, earliest known prehistoric attempts to quantify time ([2], [3], [4])
+  * ca. 20,000 BC â Nile Valley, Ishango Bone: possibly the earliest reference to prime numbers and Egyptian multiplication
+  * ca. 3400 BC â Mesopotamia, the Sumerians invent the first numeral system, and a system of weights and measures
+  * ca. 3100 BC â Egypt, earliest known decimal system allows indefinite counting by way of introducing new symbols, [5]
+  * ca. 2800 BC â Indus Valley Civilization on the Indian subcontinent, earliest use of decimal ratios in a uniform system of ancient weights and measures, the smallest unit of measurement used is 1.704 millimetres and the smallest unit of mass used is 28 grams.
+  * 2700 BC â Egypt, precision surveying
+  * 2400 BC â Egypt, precise astronomical calendar, used even in the Middle Ages for its mathematical regularity
+  * ca. 2000 BC â Mesopotamia, the Babylonians use a base-60 decimal system, and compute the first known approximate value of Ï at 3.125
+  * ca. 2000 BC â Scotland, Carved Stone Balls exhibit a variety of symmetries including all of the symmetries of Platonic solids.
+  * 1800 BC â Moscow Mathematical Papyrus, findings volume of a frustum
+  * 1650 BC â Rhind Mathematical Papyrus, copy of a lost scroll from around 1850 BC, the scribe Ahmes presents one of the first known approximate values of Ï at 3.16, the first attempt at squaring the circle, earliest known use of a sort of cotangent, and knowledge of solving first order linear equations
+  * 1300 BC â Berlin papyrus (19th dynasty) contains a quadratic equation and its solution. [6]
+
+### [edit] 1st millennium BC
+
+  * ca 1000 BC â Vulgar fractions used by the Egyptians.
+  * first half of 1st millennium BC â Vedic India â Yajnavalkya, in his Shatapatha Brahmana, describes the motions of the sun and the moon, and advances a 95-year cycle to synchronize the motions of the sun and the moon
+  * ca 8th century BC â the Yajur Veda, one of the four Hindu Vedas, contains the earliest concept of infinity, and states that âif you remove a part from infinity or add a part to infinity, still what remains is infinityâ
+  * 800 BC â Baudhayana, author of the Baudhayana Sulba Sutra, a Vedic Sanskrit geometric text, contains quadratic equations, and calculates the square root of 2 correct to five decimal places
+  * early 6th century BC â Thales of Miletus has various theorems attributed to him
+  * ca. 600 BC â the other Vedic âSulba Sutrasâ (ârule of chordsâ in Sanskrit) use Pythagorean triples, contain of a number of geometrical proofs, and approximate Ï at 3.16
+  * second half of 1st millennium BC â The Lo Shu Square, the unique normal magic square of order three, was discovered in China.
+  * 5th century BC â Hippocrates of Chios utilizes lunes in an attempt to square the circle
+  * 5th century BC â Apastamba, author of the Apastamba Sulba Sutra, another Vedic Sanskrit geometric text, makes an attempt at squaring the circle and also calculates the square root of 2 correct to five decimal places
+  * 530 BC â Pythagoras studies propositional geometry and vibrating lyre strings; his group also discover the irrationality of the square root of two,
+  * ca. 500 BC â Indian grammarian PÄnini writes the Astadhyayi, which contains the use of metarules, transformations and recursions, originally for the purpose of systematising the grammar of Sanskrit
+  * ca. 400 BC â Jaina mathematicians in India write the âSurya Prajinaptiâ, a mathematical text which classifies all numbers into three sets: enumerable, innumerable and infinite. It also recognises five different types of infinity: infinite in one and two directions, infinite in area, infinite everywhere, and infinite perpetually.
+  * 300s BC â Indian texts use the Sanskrit word âShunyaâ to refer to the concept of âvoidâ (zero)
+  * 370 BC â Eudoxus states the method of exhaustion for area determination
+  * 350 BC â Aristotle discusses logical reasoning in Organon
+  * 300 BC â Jaina mathematicians in India write the âBhagabati Sutraâ, which contains the earliest information on combinations
+  * 300 BC â Euclid in his Elements studies geometry as an axiomatic system, proves the infinitude of prime numbers and presents the Euclidean algorithm; he states the law of reflection in Catoptrics, and he proves the fundamental theorem of arithmetic
+  * ca. 300 BC â Brahmi numerals are conceived in India
+  * 300 BC â Mesopotamia, the Babylonians invent the earliest calculator, the abacus
+  * ca. 300 BC â Indian mathematician Pingala writes the âChhandah-shastraâ, which contains the first Indian use of zero as a digit (indicated by a dot) and also presents a description of a binary numeral system, along with the first use of Fibonacci numbers and Pascal's triangle
+  * 260 BC â Archimedes proved that the value of Ï lies between 3 + 1/7 (approx. 3.1429) and 3 + 10/71 (approx. 3.1408), that the area of a circle was equal to Ï multiplied by the square of the radius of the circle and that the area enclosed by a parabola and a straight line is 4/3 multiplied by the area of a triangle with equal base and height. He also gave a very accurate estimate of the value of the square root of 3.
+  * ca. 250 BC â late Olmecs had already begun to use a true zero (a shell glyph) several centuries before Ptolemy in the New World. See 0 (number).
+  * 240 BC â Eratosthenes uses his sieve algorithm to quickly isolate prime numbers,
+  * 225 BC â Apollonius of Perga writes On Conic Sections and names the ellipse, parabola, and hyperbola,
+  * 150 BC â Jain mathematicians in India write the âSthananga Sutraâ, which contains work on the theory of numbers, arithmetical operations, geometry, operations with fractions, simple equations, cubic equations, quartic equations, and permutations and combinations
+  * 140 BC â Hipparchus develops the bases of trigonometry.
+  * 50 BC â Indian numerals, the first positional notation base-10 numeral system, begins developing in India
+  * final centuries BC â Indian astronomer Lagadha writes the âVedanga Jyotishaâ, a Vedic text on astronomy that describes rules for tracking the motions of the sun and the moon, and uses geometry and trigonometry for astronomy
+
+### [edit] 1st millennium
+
+  * 1st century â Heron of Alexandria, the earliest fleeting reference to square roots of negative numbers.
+  * ca. 200s â Ptolemy of Alexandria wrote the Almagest
+  * 250 â Diophantus uses symbols for unknown numbers in terms of syncopated algebra, and writes Arithmetica, one of the earliest treatises on algebra
+  * 300 â the earliest known use of zero as a decimal digit is introduced by Indian mathematicians
+  * ca. 340 â Pappus of Alexandria states his hexagon theorem and his centroid theorem
+  * ca. 400 â the âBakhshali manuscriptâ is written by Jaina mathematicians, which describes a theory of the infinite containing different levels of infinity, shows an understanding of indices, as well as logarithms to base 2, and computes square roots of numbers as large as a million correct to at least 11 decimal places
+  * 450 â Zu Chongzhi computes Ï to seven decimal places,
+  * 500 â Aryabhata writes the âAryabhata-Siddhantaâ, which first introduces the trigonometric functions and methods of calculating their approximate numerical values. It defines the concepts of sine and cosine, and also contains the earliest tables of sine and cosine values (in 3.75-degree intervals from 0 to 90 degrees)
+  * 500s â Aryabhata gives accurate calculations for astronomical constants, such as the solar eclipse and lunar eclipse, computes Ï to four decimal places, and obtains whole number solutions to linear equations by a method equivalent to the modern method
+  * 550 â Hindu mathematicians give zero a numeral representation in the positional notation Indian numeral system
+  * 600s â Bhaskara I gives a rational approximation of the sine function
+  * 600s â Brahmagupta invents the method of solving indeterminate equations of the second degree and is the first to use algebra to solve astronomical problems. He also develops methods for calculations of the motions and places of various planets, their rising and setting, conjunctions, and the calculation of eclipses of the sun and the moon
+  * 628 â Brahmagupta writes the Brahma-sphuta-siddhanta, where zero is clearly explained, and where the modern place-value Indian numeral system is fully developed. It also gives rules for manipulating both negative and positive numbers, methods for computing square roots, methods of solving linear and quadratic equations, and rules for summing series, Brahmagupta's identity, and the Brahmagupta theorem
+  * 700s â Virasena gives explicit rules for the Fibonacci sequence, gives the derivation of the volume of a frustum using an infinite procedure, and also deals with the logarithm to base 2 and knows its laws
+  * 700s â Shridhara gives the rule for finding the volume of a sphere and also the formula for solving quadratic equations
+  * 773 â Kanka brings Brahmagupta's Brahma-sphuta-siddhanta to Baghdad to explain the Indian system of arithmetic astronomy and the Indian numeral system
+  * 773 â Al Fazaii translates the Brahma-sphuta-siddhanta into Arabic upon the request of King Khalif Abbasid Al Mansoor
+  * 800s â Govindsvamin discovers the Newton-Gauss interpolation formula, and gives the fractional parts of Aryabhata's tabular sines
+  * 810 â The House of Wisdom is built in Baghdad for the translation of Greek and Sanskrit mathematical works into Arabic.
+  * 820 â Al-Khwarizmi â Persian mathematician, father of algebra, writes the Al-Jabr, later transliterated as Algebra, which introduces systematic algebraic techniques for solving linear and quadratic equations. Translations of his book on arithmetic will introduce the Hindu-Arabic decimal number system to the Western world in the 12th century. The term algorithm is also named after him.
+  * 820 â Al-Mahani conceived the idea of reducing geometrical problems such as doubling the cube to problems in algebra.
+  * ca. 850 â Al-Kindi pioneers cryptanalysis and frequency analysis in his book on cryptography.
+  * 895 â Thabit ibn Qurra: the only surviving fragment of his original work contains a chapter on the solution and properties of cubic equations. He also generalized the Pythagorean theorem, and discovered the theorem by which pairs of amicable numbers can be found, (i.e., two numbers such that each is the sum of the proper divisors of the other).
+  * ca. 900 â Abu Kamil of Egypt had begun to understand what we would write in symbols as x^n \\cdot x^m = x^{m+n}
+  * 940 â Abu'l-Wafa al-Buzjani extracts roots using the Indian numeral system.
+  * 953 â The arithmetic of the Hindu-Arabic numeral system at first required the use of a dust board (a sort of handheld blackboard) because âthe methods required moving the numbers around in the calculation and rubbing some out as the calculation proceeded.â Al-Uqlidisi modified these methods for pen and paper use. Eventually the advances enabled by the decimal system led to its standard use throughout the region and the world.
+  * 953 â Al-Karaji is the âfirst person to completely free algebra from geometrical operations and to replace them with the arithmetical type of operations which are at the core of algebra today. He was first to define the monomials x, x2, x3, â¦ and 1 / x, 1 / x2, 1 / x3, â¦ and to give rules for products of any two of these. He started a school of algebra which flourished for several hundreds of yearsâ. He also discovered the binomial theorem for integer exponents, which âwas a major factor in the development of numerical analysis based on the decimal system.â
+  * 975 â Al-Batani â Extended the Indian concepts of sine and cosine to other trigonometrical ratios, like tanÂ­gent, secant and their inverse functions. Derived the formula:  \\sin \\alpha = \\tan \\alpha / \\sqrt{1+\\tan^2 \\alpha}  and  \\cos \\alpha = 1 / \\sqrt{1 + \\tan^2 \\alpha}.
+
+### [edit] 1000â1500
+
+  * ca. 1000 â AbÅ« Sahl al-QÅ«hÄ« (Kuhi) solves equations higher than the second degree.
+  * ca. 1000 â Abu-Mahmud al-Khujandi first states a special case of Fermat's Last Theorem.
+  * ca. 1000 â Law of sines is discovered by Muslim mathematicians, but it is uncertain who discovers it first between Abu-Mahmud al-Khujandi, Abu Nasr Mansur, and Abu al-Wafa.
+  * ca. 1000 â Pope Sylvester II introduces the abacus using the Hindu-Arabic numeral system to Europe.
+  * 1000 â Al-Karaji writes a book containing the first known proofs by mathematical induction. He used it to prove the binomial theorem, Pascal's triangle, and the sum of integral cubes.[1] He was âthe first who introduced the theory of algebraic calculus.â[2]
+  * ca. 1000 â Al-Baghdadi studied a slight variant of Thabit ibn Qurra's theorem on amicable numbers, and he also made improvements on the decimal system.
+  * 1020 â Abul WÃ¡fa â Gave this famous formula: sin (Î± + Î²) = sin Î± cos Î² + sin Î² cos Î±. Also discussed the quadrature of the parabola and the volume of the paraboloid.
+  * 1021 â Ibn al-Haytham completes his Book of Optics, which formulated and solved âAlhazen's problemâ geometrically, and developed and proved the earliest general formula for infinitesimal and integral calculus using mathematical induction.
+  * 1030 â Ali Ahmad Nasawi writes a treatise on the decimal and sexagesimal number systems. His arithmetic explains the division of fractions and the extraction of square and cubic roots (square root of 57,342; cubic root of 3, 652, 296) in an almost modern manner.[3]
+  * 1070 â Omar KhayyÃ¡m begins to write Treatise on Demonstration of Problems of Algebra and classifies cubic equations.
+  * ca. 1100 â Omar KhayyÃ¡m âgave a complete classification of cubic equations with geometric solutions found by means of intersecting conic sections.â He became the first to find general geometric solutions of cubic equations and laid the foundations for the development of analytic geometry and non-Euclidean geometry. He also extracted roots using the decimal system (Hindu-Arabic numeral system).
+  * 1100s â Indian numerals have been modified by Arab mathematicians to form the modern Hindu-Arabic numeral system (used universally in the modern world)
+  * 1100s â the Hindu-Arabic numeral system reaches Europe through the Arabs
+  * 1100s â Bhaskara Acharya writes the Lilavati, which covers the topics of definitions, arithmetical terms, interest computation, arithmetical and geometrical progressions, plane geometry, solid geometry, the shadow of the gnomon, methods to solve indeterminate equations, and combinations
+  * 1100s â Bhaskara Acharya writes the âBijaganitaâ (âAlgebraâ), which is the first text to recognize that a positive number has two square roots
+  * 1100s â Bhaskara Acharya conceives differential calculus, and also develops Rolle's theorem, Pell's equation, a proof for the Pythagorean Theorem, proves that division by zero is infinity, computes Ï to 5 decimal places, and calculates the time taken for the earth to orbit the sun to 9 decimal places
+  * 1130 â Al-Samawal gave a definition of algebra: â[it is concerned] with operating on unknowns using all the arithmetical tools, in the same way as the arithmetician operates on the known.â[4]
+  * 1135 â Sharafeddin Tusi followed al-Khayyam's application of algebra to geometry, and wrote a treatise on cubic equations which ârepresents an essential contribution to another algebra which aimed to study curves by means of equations, thus inaugurating the beginning of algebraic geometry.â[4]
+  * 1202 â Leonardo Fibonacci demonstrates the utility of Hindu-Arabic numerals in his Book of the Abacus.
+  * 1260 â Al-Farisi gave a new proof of Thabit ibn Qurra's theorem, introducing important new ideas concerning factorization and combinatorial methods. He also gave the pair of amicable numbers 17296 and 18416 which have also been joint attributed to Fermat as well as Thabit ibn Qurra.[5]
+  * ca. 1250 â Nasir Al-Din Al-Tusi attempts to develop a form of non-Euclidean geometry.
+  * 1303 â Zhu Shijie publishes Precious Mirror of the Four Elements, which contains an ancient method of arranging binomial coefficients in a triangle.
+  * 1300s â Madhava is considered the father of mathematical analysis, who also worked on the power series for p and for sine and cosine functions, and along with other Kerala school mathematicians, founded the important concepts of Calculus
+  * 1300s â Parameshvara, a Kerala school mathematician, presents a series form of the sine function that is equivalent to its Taylor series expansion, states the mean value theorem of differential calculus, and is also the first mathematician to give the radius of circle with inscribed cyclic quadrilateral
+  * 1400 â Madhava discovers the series expansion for the inverse-tangent function, the infinite series for arctan and sin, and many methods for calculating the circumference of the circle, and uses them to compute Ï correct to 11 decimal places
+  * ca. 1400 â Ghiyath al-Kashi âcontributed to the development of decimal fractions not only for approximating algebraic numbers, but also for real numbers such as pi. His contribution to decimal fractions is so major that for many years he was considered as their inventor. Although not the first to do so, al-Kashi gave an algorithm for calculating nth roots which is a special case of the methods given many centuries later by Ruffini and Horner.â He is also the first to use the decimal point notation in arithmetic and Arabic numerals. His works include The Key of arithmetics, Discoveries in mathematics, The Decimal point, and The benefits of the zero. The contents of the Benefits of the Zero are an introduction followed by five essays: âOn whole number arithmeticâ, âOn fractional arithmeticâ, âOn astrologyâ, âOn areasâ, and âOn finding the unknowns [unknown variables]â. He also wrote the Thesis on the sine and the chord and Thesis on finding the first degree sine.
+  * 1400s â Ibn al-Banna and al-Qalasadi introduced symbolic notation for algebra and for mathematics in general.[4]
+  * 1400s â Nilakantha Somayaji, a Kerala school mathematician, writes the âAryabhatiya Bhasyaâ, which contains work on infinite-series expansions, problems of algebra, and spherical geometry
+  * 1424 â Ghiyath al-Kashi computes Ï to sixteen decimal places using inscribed and circumscribed polygons.
+  * 1427 â Al-Kashi completes The Key to Arithmetic containing work of great depth on decimal fractions. It applies arithmetical and algebraic methods to the solution of various problems, including several geometric ones.
+  * 1478 â An anonymous author writes the Treviso Arithmetic.
+
+### [edit] 16th century
+
+  * 1501 â Nilakantha Somayaji writes the âTantra Samgrahaâ, which lays the foundation for a complete system of fluxions (derivatives), and expands on concepts from his previous text, the âAryabhatiya Bhasyaâ.
+  * 1520 â Scipione dal Ferro develops a method for solving âdepressedâ cubic equations (cubic equations without an x2 term), but does not publish.
+  * 1535 â Niccolo Tartaglia independently develops a method for solving depressed cubic equations but also does not publish.
+  * 1539 â Gerolamo Cardano learns Tartaglia's method for solving depressed cubics and discovers a method for depressing cubics, thereby creating a method for solving all cubics.
+  * 1540 â Lodovico Ferrari solves the quartic equation.
+  * 1544 â Michael Stifel publishes âArithmetica integraâ.
+  * 1550 â Jyeshtadeva, a Kerala school mathematician, writes the âYuktibhasaâ, the world's first calculus text, which gives detailed derivations of many calculus theorems and formulae.
+  * 1596 â Ludolf van Ceulen computes Ï to twenty decimal places using inscribed and circumscribed polygons.
+
+### [edit] 17th century
+
+  * 1600s \- Putumana Somayaji writes the "Paddhati", which presents a detailed discussion of various trigonometric series
+  * 1614 \- John Napier discusses Napierian logarithms in Mirifici Logarithmorum Canonis Descriptio,
+  * 1617 \- Henry Briggs discusses decimal logarithms in Logarithmorum Chilias Prima,
+  * 1618 \- John Napier publishes the first references to e in a work on logarithms.
+  * 1619 \- RenÃ© Descartes discovers analytic geometry (Pierre de Fermat claimed that he also discovered it independently),
+  * 1619 \- Johannes Kepler discovers two of the Kepler-Poinsot polyhedra.
+  * 1629 \- Pierre de Fermat develops a rudimentary differential calculus,
+  * 1634 \- Gilles de Roberval shows that the area under a cycloid is three times the area of its generating circle,
+  * 1636 \- Muhammad Baqir Yazdi jointly discovered the pair of amicable numbers 9,363,584 and 9,437,056 along with Descartes (1636).[6]
+  * 1637 \- Pierre de Fermat claims to have proven Fermat's Last Theorem in his copy of Diophantus' Arithmetica,
+  * 1637 \- First use of the term imaginary number by RenÃ© Descartes; it was meant to be derogatory.
+  * 1654 \- Blaise Pascal and Pierre de Fermat create the theory of probability,
+  * 1655 \- John Wallis writes Arithmetica Infinitorum,
+  * 1658 \- Christopher Wren shows that the length of a cycloid is four times the diameter of its generating circle,
+  * 1665 \- Isaac Newton works on the fundamental theorem of calculus and develops his version of infinitesimal calculus,
+  * 1668 \- Nicholas Mercator and William Brouncker discover an infinite series for the logarithm while attempting to calculate the area under a hyperbolic segment,
+  * 1671 \- James Gregory develops a series expansion for the inverse-tangent function (originally discovered by Madhava)
+  * 1673 \- Gottfried Leibniz also develops his version of infinitesimal calculus,
+  * 1675 \- Isaac Newton invents an algorithm for the computation of functional roots,
+  * 1680s \- Gottfried Leibniz works on symbolic logic,
+  * 1691 \- Gottfried Leibniz discovers the technique of separation of variables for ordinary differential equations,
+  * 1693 \- Edmund Halley prepares the first mortality tables statistically relating death rate to age,
+  * 1696 \- Guillaume de L'HÃ´pital states his rule for the computation of certain limits,
+  * 1696 \- Jakob Bernoulli and Johann Bernoulli solve brachistochrone problem, the first result in the calculus of variations,
+
+### [edit] 18th century
+
+  * 1706 \- John Machin develops a quickly converging inverse-tangent series for Ï and computes Ï to 100 decimal places,
+  * 1712 \- Brook Taylor develops Taylor series,
+  * 1722 \- Abraham de Moivre states de Moivre's formula connecting trigonometric functions and complex numbers,
+  * 1724 \- Abraham De Moivre studies mortality statistics and the foundation of the theory of annuities in Annuities on Lives,
+  * 1730 \- James Stirling publishes The Differential Method,
+  * 1733 \- Giovanni Gerolamo Saccheri studies what geometry would be like if Euclid's fifth postulate were false,
+  * 1733 \- Abraham de Moivre introduces the normal distribution to approximate the binomial distribution in probability,
+  * 1734 \- Leonhard Euler introduces the integrating factor technique for solving first-order ordinary differential equations,
+  * 1735 \- Leonhard Euler solves the Basel problem, relating an infinite series to Ï,
+  * 1736 \- Leonhard Euler solves the problem of the Seven bridges of KÃ¶nigsberg, in effect creating graph theory,
+  * 1739 \- Leonhard Euler solves the general homogeneous linear ordinary differential equation with constant coefficients,
+  * 1742 \- Christian Goldbach conjectures that every even number greater than two can be expressed as the sum of two primes, now known as Goldbach's conjecture,
+  * 1748 \- Maria Gaetana Agnesi discusses analysis in Instituzioni Analitiche ad Uso della Gioventu Italiana,
+  * 1761 \- Thomas Bayes proves Bayes' theorem,
+  * 1762 \- Joseph Louis Lagrange discovers the divergence theorem,
+  * 1789 \- Jurij Vega improves Machin's formula and computes Ï to 140 decimal places,
+  * 1794 \- Jurij Vega publishes Thesaurus Logarithmorum Completus,
+  * 1796 \- Carl Friedrich Gauss proves that the regular 17-gon can be constructed using only a compass and straightedge
+  * 1796 \- Adrien-Marie Legendre conjectures the prime number theorem,
+  * 1797 \- Caspar Wessel associates vectors with complex numbers and studies complex number operations in geometrical terms,
+  * 1799 \- Carl Friedrich Gauss proves the fundamental theorem of algebra (every polynomial equation has a solution among the complex numbers),
+  * 1799 \- Paolo Ruffini partially proves the AbelâRuffini theorem that quintic or higher equations cannot be solved by a general formula,
+
+### [edit] 19th century
+
+  * 1801 \- Disquisitiones Arithmeticae, Carl Friedrich Gauss's number theory treatise, is published in Latin
+  * 1805 \- Adrien-Marie Legendre introduces the method of least squares for fitting a curve to a given set of observations,
+  * 1806 \- Louis Poinsot discovers the two remaining Kepler-Poinsot polyhedra.
+  * 1806 \- Jean-Robert Argand publishes proof of the Fundamental theorem of algebra and the Argand diagram,
+  * 1807 \- Joseph Fourier announces his discoveries about the trigonometric decomposition of functions,
+  * 1811 \- Carl Friedrich Gauss discusses the meaning of integrals with complex limits and briefly examines the dependence of such integrals on the chosen path of integration,
+  * 1815 \- SimÃ©on-Denis Poisson carries out integrations along paths in the complex plane,
+  * 1817 \- Bernard Bolzano presents the intermediate value theorem\---a continuous function which is negative at one point and positive at another point must be zero for at least one point in between,
+  * 1822 \- Augustin-Louis Cauchy presents the Cauchy integral theorem for integration around the boundary of a rectangle in the complex plane,
+  * 1824 \- Niels Henrik Abel partially proves the AbelâRuffini theorem that the general quintic or higher equations cannot be solved by a general formula involving only arithmetical operations and roots,
+  * 1825 \- Augustin-Louis Cauchy presents the Cauchy integral theorem for general integration paths -- he assumes the function being integrated has a continuous derivative, and he introduces the theory of residues in complex analysis,
+  * 1825 \- Johann Peter Gustav Lejeune Dirichlet and Adrien-Marie Legendre prove Fermat's Last Theorem for n = 5,
+  * 1825 \- AndrÃ©-Marie AmpÃ¨re discovers Stokes' theorem,
+  * 1828 \- George Green proves Green's theorem,
+  * 1829 \- Bolyai, Gauss, and Lobachevsky invent hyperbolic non-Euclidean geometry,
+  * 1831 \- Mikhail Vasilievich Ostrogradsky rediscovers and gives the first proof of the divergence theorem earlier described by Lagrange, Gauss and Green,
+  * 1832 \- Ãvariste Galois presents a general condition for the solvability of algebraic equations, thereby essentially founding group theory and Galois theory,
+  * 1832 \- Peter Dirichlet proves Fermat's Last Theorem for n = 14,
+  * 1835 \- Peter Dirichlet proves Dirichlet's theorem about prime numbers in arithmetical progressions,
+  * 1837 \- Pierre Wantsel proves that doubling the cube and trisecting the angle are impossible with only a compass and straightedge, as well as the full completion of the problem of constructability of regular polygons
+  * 1841 \- Karl Weierstrass discovers but does not publish the Laurent expansion theorem,
+  * 1843 \- Pierre-Alphonse Laurent discovers and presents the Laurent expansion theorem,
+  * 1843 \- William Hamilton discovers the calculus of quaternions and deduces that they are non-commutative,
+  * 1847 \- George Boole formalizes symbolic logic in The Mathematical Analysis of Logic, defining what is now called Boolean algebra,
+  * 1849 \- George Gabriel Stokes shows that solitary waves can arise from a combination of periodic waves,
+  * 1850 \- Victor Alexandre Puiseux distinguishes between poles and branch points and introduces the concept of essential singular points,
+  * 1850 \- George Gabriel Stokes rediscovers and proves Stokes' theorem,
+  * 1854 \- Bernhard Riemann introduces Riemannian geometry,
+  * 1854 \- Arthur Cayley shows that quaternions can be used to represent rotations in four-dimensional space,
+  * 1858 \- August Ferdinand MÃ¶bius invents the MÃ¶bius strip,
+  * 1859 \- Bernhard Riemann formulates the Riemann hypothesis which has strong implications about the distribution of prime numbers,
+  * 1870 \- Felix Klein constructs an analytic geometry for Lobachevski's geometry thereby establishing its self-consistency and the logical independence of Euclid's fifth postulate,
+  * 1873 \- Charles Hermite proves that e is transcendental,
+  * 1873 \- Georg Frobenius presents his method for finding series solutions to linear differential equations with regular singular points,
+  * 1874 \- Georg Cantor shows that the set of all real numbers is uncountably infinite but the set of all algebraic numbers is countably infinite. Contrary to widely held beliefs, his method was not his famous diagonal argument, which he published three years later. (Nor did he formulate set theory at this time.)
+  * 1878 \- Charles Hermite solves the general quintic equation by means of elliptic and modular functions
+  * 1882 \- Ferdinand von Lindemann proves that Ï is transcendental and that therefore the circle cannot be squared with a compass and straightedge,
+  * 1882 \- Felix Klein invents the Klein bottle,
+  * 1895 \- Diederik Korteweg and Gustav de Vries derive the KdV equation to describe the development of long solitary water waves in a canal of rectangular cross section,
+  * 1895 \- Georg Cantor publishes a book about set theory containing the arithmetic of infinite cardinal numbers and the continuum hypothesis,
+  * 1896 \- Jacques Hadamard and Charles Jean de la VallÃ©e-Poussin independently prove the prime number theorem,
+  * 1896 \- Hermann Minkowski presents Geometry of numbers,
+  * 1899 \- Georg Cantor discovers a contradiction in his set theory,
+  * 1899 \- David Hilbert presents a set of self-consistent geometric axioms in Foundations of Geometry,
+  * 1900 \- David Hilbert states his list of 23 problems which show where some further mathematical work is needed.
+
+### [edit] 20th century
+
+  * 1901 \- Ãlie Cartan develops the exterior derivative,
+  * 1903 \- Carle David Tolme Runge presents a fast Fourier Transform algorithm,
+  * 1903 \- Edmund Georg Hermann Landau gives considerably simpler proof of the prime number theorem.
+  * 1905 \- Einstein's theory of special relativity.
+  * 1908 \- Ernst Zermelo axiomizes set theory, thus avoiding Cantor's contradictions,
+  * 1908 \- Josip Plemelj solves the Riemann problem about the existence of a differential equation with a given monodromic group and uses Sokhotsky - Plemelj formulae,
+  * 1912 \- Luitzen Egbertus Jan Brouwer presents the Brouwer fixed-point theorem,
+  * 1912 \- Josip Plemelj publishes simplified proof for the Fermat's Last Theorem for exponent n = 5,
+  * 1913 \- Srinivasa Aaiyangar Ramanujan sends a long list of complex theorems without proofs to G. H. Hardy,
+  * 1914 \- Srinivasa Aaiyangar Ramanujan publishes Modular Equations and Approximations to Ï,
+  * 1916 \- Einstein's theory of general relativity.
+  * 1910s \- Srinivasa Aaiyangar Ramanujan develops over 3000 theorems, including properties of highly composite numbers, the partition function and its asymptotics, and mock theta functions. He also makes major breakthroughs and discoveries in the areas of gamma functions, modular forms, divergent series, hypergeometric series and prime number theory
+  * 1919 \- Viggo Brun defines Brun's constant B2 for twin primes,
+  * 1928 \- John von Neumann begins devising the principles of game theory and proves the minimax theorem,
+  * 1930 \- Casimir Kuratowski shows that the three-cottage problem has no solution,
+  * 1931 \- Kurt GÃ¶del proves his incompleteness theorem which shows that every axiomatic system for mathematics is either incomplete or inconsistent,
+  * 1931 \- Georges de Rham develops theorems in cohomology and characteristic classes,
+  * 1933 \- Karol Borsuk and Stanislaw Ulam present the Borsuk-Ulam antipodal-point theorem,
+  * 1933 \- Andrey Nikolaevich Kolmogorov publishes his book Basic notions of the calculus of probability (Grundbegriffe der Wahrscheinlichkeitsrechnung) which contains an axiomatization of probability based on measure theory,
+  * 1940 \- Kurt GÃ¶del shows that neither the continuum hypothesis nor the axiom of choice can be disproven from the standard axioms of set theory,
+  * 1942 \- G.C. Danielson and Cornelius Lanczos develop a Fast Fourier Transform algorithm,
+  * 1943 \- Kenneth Levenberg proposes a method for nonlinear least squares fitting,
+  * 1948 \- John von Neumann mathematically studies self-reproducing machines,
+  * 1949 \- John von Neumann computes Ï to 2,037 decimal places using ENIAC,
+  * 1950 \- Stanislaw Ulam and John von Neumann present cellular automata dynamical systems,
+  * 1953 \- Nicholas Metropolis introduces the idea of thermodynamic simulated annealing algorithms,
+  * 1955 \- H. S. M. Coxeter et al. publish the complete list of uniform polyhedron,
+  * 1955 \- Enrico Fermi, John Pasta, and Stanislaw Ulam numerically study a nonlinear spring model of heat conduction and discover solitary wave type behavior,
+  * 1960 \- C. A. R. Hoare invents the quicksort algorithm,
+  * 1960 \- Irving S. Reed and Gustave Solomon present the Reed-Solomon error-correcting code,
+  * 1961 \- Daniel Shanks and John Wrench compute Ï to 100,000 decimal places using an inverse-tangent identity and an IBM-7090 computer,
+  * 1962 \- Donald Marquardt proposes the Levenberg-Marquardt nonlinear least squares fitting algorithm,
+  * 1963 \- Paul Cohen uses his technique of forcing to show that neither the continuum hypothesis nor the axiom of choice can be proven from the standard axioms of set theory,
+  * 1963 \- Martin Kruskal and Norman Zabusky analytically study the Fermi-Pasta-Ulam heat conduction problem in the continuum limit and find that the KdV equation governs this system,
+  * 1963 \- meteorologist and mathematician Edward Norton Lorenz published solutions for a simplified mathematical model of atmospheric turbulence - generally known as chaotic behaviour and strange attractors or Lorenz Attractor \- also the Butterfly Effect,
+  * 1965 \- Iranian mathematician Lotfi Asker Zadeh founded fuzzy set theory as an extension of the classical notion of set and he founded the field of Fuzzy Mathematics,
+  * 1965 \- Martin Kruskal and Norman Zabusky numerically study colliding solitary waves in plasmas and find that they do not disperse after collisions,
+  * 1965 \- James Cooley and John Tukey present an influential Fast Fourier Transform algorithm,
+  * 1966 \- E.J. Putzer presents two methods for computing the exponential of a matrix in terms of a polynomial in that matrix,
+  * 1966 \- Abraham Robinson presents Non-standard analysis.
+  * 1967 \- Robert Langlands formulates the influential Langlands program of conjectures relating number theory and representation theory,
+  * 1968 \- Michael Atiyah and Isadore Singer prove the Atiyah-Singer index theorem about the index of elliptic operators,
+  * 1973 \- Lotfi Zadeh founded the field of fuzzy logic,
+  * 1975 \- BenoÃ®t Mandelbrot publishes Les objets fractals, forme, hasard et dimension,
+  * 1976 \- Kenneth Appel and Wolfgang Haken use a computer to prove the Four color theorem,
+  * 1983 \- Gerd Faltings proves the Mordell conjecture and thereby shows that there are only finitely many whole number solutions for each exponent of Fermat's Last Theorem,
+  * 1983 \- the classification of finite simple groups, a collaborative work involving some hundred mathematicians and spanning thirty years, is completed,
+  * 1985 \- Louis de Branges de Bourcia proves the Bieberbach conjecture,
+  * 1987 \- Yasumasa Kanada, David Bailey, Jonathan Borwein, and Peter Borwein use iterative modular equation approximations to elliptic integrals and a NEC SX-2 supercomputer to compute Ï to 134 million decimal places,
+  * 1991 \- Alain Connes and John W. Lott develop non-commutative geometry,
+  * 1994 \- Andrew Wiles proves part of the Taniyama-Shimura conjecture and thereby proves Fermat's Last Theorem,
+  * 1998 \- Thomas Callister Hales (almost certainly) proves the Kepler conjecture,
+  * 1999 \- the full Taniyama-Shimura conjecture is proved,
+  * 2000 \- the Clay Mathematics Institute proposes the seven Millennium Prize Problems of unsolved important classic mathematical questions.
+
+### [edit] 21st century
+
+  * 2002 \- Manindra Agrawal, Nitin Saxena, and Neeraj Kayal of IIT Kanpur present an unconditional deterministic polynomial time algorithm to determine whether a given number is prime,
+  * 2002 \- Yasumasa Kanada, Y. Ushiro, Hisayasu Kuroda, Makoto Kudoh and a team of nine more compute Ï to 1241.1 billion digits using a Hitachi 64-node supercomputer,
+  * 2002 \- Preda MihÄilescu proves Catalan's conjecture,
+  * 2003 \- Grigori Perelman proves the PoincarÃ© conjecture,
+  * 2007 \- a team of researches throughout North America and Europe used networks of computers to map E8.[7]
+
+## [edit] Notes
+
+  1. This article is based on a timeline developed by Niel Brandt (1994) who has given permission for its use in Wikipedia. (See Talk:Timeline of mathematics.)
+  2. In 1966 IBM printed a famous timeline poster called Men of Modern Mathematics for the years 1000 AD to 1950 AD. It was based on personal stories about (mainly Western) mathematicians and their mathematical achievements. The poster was designed by the famous Charles Eames, with the content concerning mathematicians contributed by Professor Raymond Redheffer of UCLA.
+
+## [edit] References
+
+  1. ^ Victor J. Katz (1998). History of Mathematics: An Introduction, p. 255â259. Addison-Wesley. ISBN 0321016181.
+  2. ^ F. Woepcke (1853). Extrait du Fakhri, traitÃ© d'AlgÃ¨bre par Abou Bekr Mohammed Ben Alhacan Alkarkhi. Paris.
+  3. ^ O'Connor, John J.; Robertson, Edmund F., "Abu l'Hasan Ali ibn Ahmad Al-Nasawi", MacTutor History of Mathematics archive
+  4. ^ a b c Arabic mathematics, MacTutor History of Mathematics archive, University of St Andrews, Scotland
+  5. ^ Various AP Lists and Statistics
+  6. ^ Various AP Lists and Statistics
+  7. ^ Elizabeth A. Thompson, MIT News Office, Math research team maps E8 http://www.huliq.com/15695/mathematicians-map-e8
+
+## [edit] External links
+
+  * O'Connor, John J.; Robertson, Edmund F., "A Mathematical Chronology", MacTutor History of Mathematics archive
+
+Retrieved from "http://en.wikipedia.org/wiki/Timeline_of_mathematics"
+
+Categories: History of mathematics | Mathematics timelines
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Italiano
+  * Malti
+  * PortuguÃªs
+  * Simple English
+  * Svenska
+  * à¹à¸à¸¢
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 24 March 2009, at 15:12.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

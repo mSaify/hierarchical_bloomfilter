@@ -1,0 +1,334 @@
+
+# Scrip
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+This article is about the currency substitute. For a definition of the word
+"scrip", see the Wiktionary entry scrip.
+
+## Contents
+
+  * 1 History
+  * 2 Modern use
+    * 2.1 Community-issued scrip
+    * 2.2 Gift certificates
+      * 2.2.1 Scrip fundraising
+    * 2.3 Online games
+  * 3 Issues
+  * 4 Military scrip
+  * 5 Scrip bid
+  * 6 See also
+  * 7 References
+  * 8 External links
+
+  
+Scrip is any substitute for currency which is not legal tender and is often a
+form of credit. Scrips were created as company payment of employees and also
+as a means of payment in times where regular money is unavailable, such as
+remote coal towns or occupied countries in war time. Other forms of scrip
+include subway tokens, arcade tokens and tickets, and "points" on some
+websites.
+
+Scrips have gained historical importance and become a subject of study in
+numismatics and exonumia due to their wide variety and recurring use.
+
+## [edit] History
+
+Company scrip was a credit against the accrued wages of employees. In the
+United States, where everything in a mining or logging camp was run, created
+and owned by a company, scrip provided the worker with credit when their wages
+had been depleted. These remote locations were cash poor. Workers had very
+little choice but to purchase meals and goods at a company store. In this way,
+the company could place enormous markups on goods in a company store, making
+workers completely dependent on the company, thus enforcing their "loyalty" to
+the company. While scrip was a de facto form of currency, employees were
+rarely paid in scrip. Additionally, while employees could exchange scrip for
+cash, it was rarely done so at face value. Scrip in this context was valid
+only within that area or town where it was issued. While store owners in
+neighboring communities could accept the scrip as currency, they rarely
+provided a 1 for 1 exchange. This was to avoid the risk of having
+coins/currency that were worthless anywhere else.
+
+When U.S. President Andrew Jackson issued his Specie Circular of 1836 due to
+credit shortages, Virginia Scrip was accepted as payments for federal lands.
+
+In nineteenth-century Western Canada, the federal government devised a system
+of land grants called scrip. Notes in the form of money scrip (valued at $160
+or $240) or land scrip, valued at 160 acres (0.65 km2) or 240 acres (0.97 km2)
+were offered to the MÃ©tis people in exchange for their Aboriginal rights.[1]
+
+During the Great Depression, many local governments were forced to pay
+employees in scrip at the height of the crisis.[2].
+
+Scrip as a de facto form of currency within the setting of the mining or
+logging industry was discontinued around 1952.
+
+Scrip is also related to the stock market where companies pay dividends in the
+form of scrip rather than paying actual currency.[citation needed] It is also
+a written document that acknowledges debt.
+
+After World War 1 and the Second World War, scrip was used in Germany and
+Austria; detailed accounts are in Notgeld.
+
+Thought should also be given to 'chips'. Commonly used as currency with which
+to gamble, the use of chips as company currency in the early 1800s in Devon,
+England in Wheal Friendship [3]copper mine gave its name to a local village
+and Inn. Chipshop and Chipshop Inn.
+
+## [edit] Modern use
+
+Scrip survives in modern times in various forms.
+
+### [edit] Community-issued scrip
+
+The use of locally-issued scrip accepted by multiple businesses within a
+community has increased during the Late-2000s recession. Community-wide scrip
+usage has begun or is on the rise in Ithaca, Detroit, The Berkshires,
+Pittsboro, North Carolina and Lamar, Colorado.[4]
+
+Thailand's township, Amphoe Kut Chum, once issued its own local scrip called
+Bia Kut Chum: Bia is Thai for cowry shell, which was once used as small
+change, and still so used in metaphorical expressions. To side-step
+implications that the community intended their scrip as an unlawful substitute
+for currency, it now issues exchange coupons called Boon Kut Chum.[5]
+
+### [edit] Gift certificates
+
+Scrip is now issued in the form of gift certificates (alternatively gift
+vouchers), or gift cards. The two are essentially the same except that the
+cards automate the checkout and accounting processes. Cards usually have a
+barcode or magnetic strip, which can be processed through a standard
+electronic credit card machine.
+
+Cards do not have any value until they are sold, at which time the cashier
+enters the amount which the customer wishes to put on the card. This amount is
+rarely stored on the card but is instead noted in the store's database, which
+is crosslinked to the card ID. The major exception is in many public transport
+systems and library photocopiers, where a simplified system (with no network)
+stores the value only on the card itself (a stored-value card). To thwart
+counterfeiting, the data is encrypted, though not very strongly given the
+relatively low amounts of money involved. The magstripe is also often placed
+differently than on credit cards, so they cannot be read or written with
+standard equipment.
+
+#### [edit] Scrip fundraising
+
+In the late 1980s, the term scrip evolved to include a fundraising method
+popular with non-profit organizations like schools, bands and athletic groups.
+With scrip fundraising, retailers offer the gift certificates and gift cards
+to non-profit organizations at a discount. The non-profit organizations sell
+the gift cards to member families at full face value. The families redeem the
+gift cards at full face value, and the discount or rebate is retained by the
+non-profit organization as revenue. Great Lakes Scrip Center, the nationâs
+largest broker of scrip gift cards, reports that more than 3 million US
+households and 13,000 non-profit organizations use scrip fundraising.
+
+Gifts cards are increasingly being offered as consumer incentives at no cost
+or for a substantial discount. For example, reward points given for the use of
+credit cards can be exchanged for a variety of gift cards and some companies
+will offer high value gift cards at a discount. Gift cards are readily
+available at a discount using online trading services.
+
+There are websites that allow users to trade, donate, buy and sell gift cards.
+Sellers use these websites because the gift card is not to a store of their
+liking, and buyers because this provides opportunities to buy these cards for
+less than they are nominally worth at the business.
+
+### [edit] Online games
+
+    See also: Virtual economy
+Many online games (MMORPGs) provide a type of virtual currency that can only
+be earned within the game and/or be purchased with real legal tender from
+outside the game. Typically this currency cannot be exchanged for real legal
+tender after it has been acquired, but there are exceptions. Some games are
+free, but sometimes players are required to donate currency in exchange for
+additional items or gaming options, which can be traded among the gaming
+community and used as currency or traded back for real money. The ability to
+exchange real money for virtual currency or scrip and then back into real
+money raises a great many new issues, some of which parallel traditional
+issues with scrip and some of which are new.
+
+While other online games may not provide scrip in the form of virtual currency
+or may not redeem it for real legal tender, an active market in trading
+virtual assets acquired in-game may still exist outside the game. In some
+cases, this may involve payments in real legal tender (e.g., trading of in-
+game assets on eBay). This, too, can be considered a modern form of scrip.
+
+The amount of trade in these forms of online scrip can be very substantial,
+although the very nature of scrip strongly constrains its influence to the
+environment in which it was issued. Nevertheless, as the amount of trade grows
+and its value in real-world currency increases, many new and unexplored
+economic, legal, and policy questions arise.
+
+## [edit] Issues
+
+Unless the gift card is obtained at a discount (paying less than the actual
+value of the card), some point out that trading real money for scrip is
+unproductive as it then ties up that money until it is used, and usually it
+may only be used at one store. Furthermore, not all gift cards issued are
+redeemed. In 2006, the value of unredeemed gift cards has been estimated at
+almost US$8 billion.[6]
+
+VISA, MasterCard and American Express gift cards are initially funded by a
+credit card or bank account, after which the funding account and gift card are
+not connected to one another. Therefore, once the predetermined funds are
+consumed, the card number expires. Gift card holders are thus able to make
+riskier Internet purchases, without the fear of having to persuade a merchant
+to stop pulling funds from them.
+
+VISA and MasterCard also have re-loadable debit cards.
+
+One disadvantage of gift scrip is that some gift card providers charge
+"maintenance fees" on the cards, particularly if they are not used after a
+certain period of time, or the card will expire after a given period of
+time.[7] Some provinces and states in North America (e.g. California, Ontario,
+Massachusetts, Washington) have enacted laws to eliminate non-use fees or
+expirations,[8] but because the laws often only apply to single-merchant
+cards[9] buyers have to review the gift card conditions prior to purchase to
+determine exact restrictions and fees. [10] Additionally, if a retailer goes
+bankrupt, gift cards can suddenly become worthless. Even if stores do not
+close immediately, the company may stop accepting the cards[11]. This became a
+significant issue during the Global financial crisis of 2008â2009, prompting
+the Consumers Union to call upon the Federal Trade Commission to regulate the
+issue[12].
+
+## [edit] Military scrip
+
+<IMG>
+
+<IMG>
+
+Examples of occupation and military scrip used on the British Channel Island
+of Guernsey during the German Occupation (1940-45)
+
+Military personnel deployed abroad (protective or occupation) are generally
+paid in military scrip, which prevents legal tender from going into the black
+market, plus it is an excellent way of keeping tabs on military payments and
+spending. This type of scrip can be exchanged through the military for legal
+tender upon return to the home nation. Military occupying powers have also
+been known to issue occupation scrip for local civilian use as a means of
+controlling the local economies.
+
+## [edit] Scrip bid
+
+Main article: Scrip bid
+
+In Australia, the term "scrip bid" is used to describe a takeover offer where
+shares are offered partly or wholly in place of cash. By receiving shares
+instead of cash the realisation of the capital asset can be delayed to take
+better advantage of capital loss offsets. Additionally, tax payers are only
+taxed on half the capital gains tax if they hold the asset for more than 12
+months.
+
+## [edit] See also
+
+  * Canadian Tire money
+  * Chiemgauer
+  * Disney dollar
+  * Electronic money
+  * Ithaca Hours
+  * Local currency
+  * Microsoft Points
+  * Private currency
+  * Scrip of Edo period Japan
+  * SVM (company)
+  * Spintria
+  * Truck system
+
+## [edit] References
+
+  1. ^ "Free Land!" in Moving Here, Staying Here: The Canadian Immigrant Experience at Library and Archives Canada
+  2. ^ Chatters, Charles H. "Is Municipal Scrip a Panacea?" Public Management, March 1933
+  3. ^ (http://crying-fox.com/mine01.htm)
+  4. ^ Homegrown Stimulus
+  5. ^ A Boon to Kut Chum archive
+  6. ^ "Gift cards popular, unused", The Cincinnati Enquirer, December 2, 2007
+  7. ^ "Gift cards may bear unwanted fees", Post-Gazette, February 11, 2007
+  8. ^ "State Gift Card Consumer Protection Laws", Consumers Union, September 14, 2007
+  9. ^ "Keeping the change", December 29, 2007Press Democrat
+  10. ^ "Card games: Read the fine print on gift cards", Republican-American, November 4, 2007
+  11. ^ But what happens when the store files for bankruptcy? Instead of a gift you may be stuck with a worthless piece of plastic. Earlier this year, when Sharper Image filed for Chapter 11, people holding its gift cards were told that they could not get their money back or use the card to make a purchase. 
+    "Gift Cards: The gift that can stop giving", Defend Your Dollars, Consumers Union, September 12, 2008
+  12. ^ [http://consumerist.com/5049097/ftc-protect-gift-card-holders-when-companies-go-bankrupt " FTC: Protect Gift Card Holders When Companies Go Bankrupt"], Consumerist, September 12, 2008
+
+## [edit] External links
+
+  * Journal of Economic Perspectives Article: The market for gift cards
+  * Regional currencies in Germany - Local competition for the Euro?
+  * Local Currencies: Catalysts for Sustainable Regional Economies
+  * Sample of Coal Mining Scrip with history from Whitby, West Virginia
+  * stamp scrip of WÃ¶rgl, Austria
+  * The Gift-Card Economy. NYT Magazine.
+  * Stamp Scrip: Money People Paid to Use Bruce Champ 04.01.2008
+
+Retrieved from "http://en.wikipedia.org/wiki/Scrip"
+
+Categories: Exonumia | Free economy
+
+Hidden categories: All articles with unsourced statements | Articles with
+unsourced statements since November 2008
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Deutsch
+  * Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 21 April 2009, at 10:58 (UTC).
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+

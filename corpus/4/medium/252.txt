@@ -1,0 +1,482 @@
+
+# Global Peace Index
+
+### From Wikipedia, the free encyclopedia
+
+Jump to: navigation, search
+
+<IMG>
+
+<IMG>
+
+World map of the Global Peace Index. Countries appearing more blue are ranked
+as more peaceful on the Index, countries appearing more red are ranked as less
+peaceful.
+
+The Global Peace Index (GPI) is an attempt to measure the relative position of
+nationsâ and regionsâ peacefulness. It is maintained by the Institute for
+Economics and Peace and developed in consultation with an international panel
+of peace experts from peace institutes and think tanks, together with the
+Centre for Peace and Conflict Studies, University of Sydney, Australia with
+data analysed by the Economist Intelligence Unit. The list was launched first
+in May 2007 and then recently in May 2008 and is claimed to be the first study
+to rank countries around the world according to their peacefulness. The study
+is the brainchild of Australian entrepreneur Steve Killelea and is endorsed by
+individuals such as the Dalai Lama, archbishop Desmond Tutu, Muhammad Yunus,
+economist Jeffrey Sachs, former president of Ireland Mary Robinson and former
+US president Jimmy Carter. Factors examined by the authors include internal
+factors such as levels of violence and crime within the country and factors in
+a country's external relations such as military expenditure and wars.
+
+## Contents
+
+  * 1 Methodology
+  * 2 Criticism and response to criticism
+  * 3 2007-2008 Global Peace Index rankings
+  * 4 References
+  * 5 External links
+
+  
+## [edit] Methodology
+
+The research team was headed by The Economist Intelligence Unit in conjunction
+with academics and experts in the field of peace. They measured countries'
+peacefulness based on wide range of indicators, 24 in all. A table of the
+indicators is below.[1] In the table, UCDP stands for the Uppsala Conflict
+Data Program maintained by the University of Uppsala in Sweden, EIU for The
+Economist Intelligence Unit, UNSCT for the United Nations Survey of Criminal
+Trends and Operations of Criminal Justice Systems, ICPS is the International
+Center for Prison Studies at King's College London, IISS for the International
+Institute for Strategic Studies publication The Military Balance 2007, SIPRI
+for the Stockholm International Peace Research Institute Arms Transfers
+Database, and BICC for the Bonn International Center for Conversion.
+
+#  
+Indicator  
+Source  
+Year(s)  
+Coding  
+  
+1 Number of external and internal wars fought UCDP 2000 to 2005 Total
+number[2]  
+2 Estimated deaths due to external wars UCDP 2004 to 2005 Total number[2]  
+3 Estimated deaths due to internal wars UCDP 2004 to 2005 Total number[2]  
+4 Level of organized internal conflict EIU 2007 Qualitative scale, ranked 1 to
+5  
+5 Relations with neighbouring countries EIU 2007 Qualitative scale, ranked 1
+to 5  
+6 Level of distrust in other citizens EIU 2007 Qualitative scale, ranked 1 to
+5  
+7 Number of displaced persons as percentage of population World Bank 2003
+Refugee population by percentage of the origin country's population  
+8 Political instability EIU 2007 Qualitative scale, ranked 1 to 5  
+9 Level of respect for human rights (political terror scale) Amnesty
+International 2005 Qualitative measure  
+10 Potential for terrorist acts EIU 2007 Qualitative scale, ranked 1 to 5  
+11 Number of homicides UNSCT 2004 and 2002 Intentional homicides, including
+infanticide, per 100,000 people  
+12 Level of violent crime EIU 2007 Qualitative scale, ranked 1 to 5  
+13 Likelihood of violent demonstrations EIU 2007 Qualitative scale, ranked 1
+to 5  
+14 Number of jailed persons ICPS 2006 Persons incarcerated per 100,000 people  
+15 Number of police and security officers UNSCT 2002 and 2000 Civil security
+officers per 100,000 people[3]  
+16 Military expenditure as a percentage of GDP IISS 2004 Cash outlays for
+armed forces, as a percentage of GDP[4]  
+17 Number of armed services personnel IISS 2004 Full-time military personnel
+per 100,000 people  
+18 Imports of major conventional weapons SIPRI 2001 to 2005 Imports of major
+conventional weapons per 100,000 people[5]  
+19 Exports of major conventional weapons SIPRI 2001 to 2005 Exports of major
+conventional weapons per 100,000 people[5]  
+20 United Nations deployments IISS 2006 to 2007 Total number  
+21 Non-United Nations deployments IISS 2006 to 2007 Total number  
+22 Number of heavy weapons BICC 2003 Weapons per 100,000 people[6]  
+23 Ease of access to small arms and light weapons EIU 2007 Qualitative scale,
+ranked 1 to 5  
+24 Military capability or sophistication EIU 2007 Qualitative scale, ranked 1
+to 5  
+Indicators not already ranked on a 1 to 5 scale were converted by using the
+following formula: x=(x-Min(x))/(Max(x)-Min(x)) where Max(x) and Min(x) are
+the highest and lowest values for that indicator of the countries ranked in
+the index. The 0 to 1 scores that resulted were then converted to the 1 to 5
+scale. Individual indicators were then weighted according to the research
+team's judgment of their importance. The scores were then tabulated into two
+weighted sub-indices: internal peace, weighted at 60% of a country's final
+score, and external peace, weighted at 40% of a country's final score.[7]
+
+The main findings of the Global Peace Index are:
+
+  * Peace correlated to indicators such as income, schooling and the level of regional integration
+  * Peaceful countries often shared high levels of transparency of government and low corruption
+  * Small, stable countries which are part of regional blocks are most likely to get a higher ranking.[8]
+
+Statistical analysis was applied to discover more specific drivers of peace.
+Specifically, the research team looked for indicators that were included and
+excluded from the index that had high levels of correlation with the overall
+score and rank of countries. Among the statistically significant indicators
+that were not used in the analysis were the functionality of a country's
+government, regional integration, hostility to foreigners, importance of
+religion in national life, and GDP per capita.[9]
+
+Notably absent from the 2007 study are Belarus, Iceland, many African nations,
+Mongolia, North Korea and Afghanistan. They were not included because reliable
+data for the 24 indicators was not available.[10]
+
+## [edit] Criticism and response to criticism
+
+The Economist, in publishing the index, admitted that, "the index will run
+into some flak." Specifically, according to The Economist, the weighting of
+military expenditure "may seem to give heart to freeloaders: countries that
+enjoy peace precisely because others (often the USA) care for their defense."
+The true utility of the index may lie not in its specific rankings of
+countries now, but in how those rankings change over time, thus tracking when
+and how countries become more or less peaceful.[11]
+
+The Peace Index has been criticised for not including indicators specifically
+relating to violence against women and children. Riane Eisler, writing in the
+Christian Science Monitor, argued that, "to put it mildly, this blind spot
+makes the index very inaccurate." She mentions a number of specific cases,
+including Egypt, where she claims 90% of women are subject to genital
+mutilation, China, where, she says, "female infanticide is still a problem,"
+and Chile, where 26% of women "suffered at least one episode of violence by a
+partner, according to a 2000 UNICEF study."[12]
+
+The Index has received endorsements from a number of major international
+figures, including the Dalai Lama, archbishop Desmond Tutu, Muhammad Yunus and
+former United States President Jimmy Carter.[13] Steve Killelea, the
+Australian philanthropist who conceived the idea of the Index and created a
+definition for the Peace Industry, argues that the Index "is a wake-up call
+for leaders around the globe."[14]
+
+## [edit] 2007-2008 Global Peace Index rankings
+
+Nations considered more peaceful have lower index scores. Countries with
+rankings in green are in the most peaceful 20% for that year; those in red are
+in the bottom 20%.[15]
+
+Country 2008 Rank 2008 Score 2007 Rank 2007 Score 2007â2008 Change  
+Flag of Iceland Iceland 1 1.176  
+Flag of Denmark Denmark 2 1.343 3 1.377 +01  
+Flag of Norway Norway 3 1.343 1 1.357 â02  
+Flag of New Zealand New Zealand 4 1.350 2 1.363 â02  
+Flag of Japan Japan 5 1.358 5 1.413 0  
+Flag of Ireland Ireland 6 1.410 4 1.396 â02  
+Flag of Portugal Portugal 7 1.412 9 1.481 +02  
+Flag of Finland Finland 8 1.432 6 1.447 â02  
+Flag of Luxembourg Luxembourg 9 1.446  
+Flag of Austria Austria 10 1.449 10 1.483 0  
+Flag of Canada Canada 11 1.451 8 1.481 â03  
+Flag of Switzerland Switzerland 12 1.465 14 1.526 +02  
+Flag of Sweden Sweden 13 1.468 7 1.478 â06  
+Flag of Germany Germany 14 1.475 12 1.523 â02  
+Flag of Belgium Belgium 15 1.485 11 1.498 â04  
+Flag of Slovenia Slovenia 16 1.491 15 1.539 â01  
+Flag of the Czech Republic Czech Republic 17 1.501 13 1.524 â04  
+Flag of Hungary Hungary 18 1.576 18 1.575 0  
+Flag of Chile Chile 19 1.576 16 1.568 â03  
+Flag of Slovakia Slovakia 20 1.576 17 1.571 â03  
+Flag of Uruguay Uruguay 21 1.606 24 1.661 +03  
+Flag of the Netherlands Netherlands 22 1.607 20 1.620 â02  
+Flag of Hong Kong Hong Kong 23 1.608 23 1.657 0  
+Flag of Romania Romania 24 1.611 26 1.682 +02  
+Flag of Oman Oman 25 1.612 22 1.641 â03  
+Flag of Bhutan Bhutan 26 1.616 19 1.611 â07  
+Flag of Australia Australia 27 1.652 25 1.664 â02  
+Flag of Italy Italy 28 1.653 33 1.724 +05  
+Flag of Singapore Singapore 29 1.673 29 1.692 0  
+Flag of Spain Spain 30 1.683 21 1.633 â09  
+Flag of Poland Poland 31 1.687 27 1.683 â04  
+Flag of South Korea South Korea 32 1.691 32 1.719 0  
+Flag of Qatar Qatar 33 1.694 30 1.702 â03  
+Flag of Costa Rica Costa Rica 34 1.701 31 1.702 â03  
+Flag of Estonia Estonia 35 1.702 28 1.684 â07  
+Flag of France France 36 1.707 34 1.729 â02  
+Flag of Vietnam Vietnam 37 1.720 35 1.729 â02  
+Flag of Malaysia Malaysia 37 1.721 37 1.744 0  
+Flag of Latvia Latvia 39 1.723 47 1.848 +08  
+Flag of Ghana Ghana 40 1.723 40 1.765 0  
+Flag of Lithuania Lithuania 41 1.723 43 1.788 +02  
+Flag of the United Arab Emirates United Arab Emirates 42 1.745 38 1.747 â04  
+Flag of Madagascar Madagascar 43 1.770 41 1.766 â02  
+Flag of the Republic of China Taiwan 44 1.779 36 1.731 â08  
+Flag of Kuwait Kuwait 45 1.786 46 1.818 +01  
+Flag of Botswana Botswana 46 1.792 42 1.786 â04  
+Flag of Tunisia Tunisia 47 1.797 39 1.762 â08  
+Flag of Panama Panama 48 1.797 45 1.798 â03  
+Flag of the United Kingdom United Kingdom 49 1.801  
+Flag of Mozambique Mozambique 50 1.803 50 1.909 0  
+Flag of Laos Laos 51 1.810  
+Flag of Cyprus Cyprus 52 1.847 51 1.915 â01  
+Flag of Zambia Zambia 53 1.856 53 1.930 0  
+Flag of Greece Greece 54 1.867 44 1.791 â10  
+Flag of Gabon Gabon 55 1.878 56 1.952 +01  
+Flag of Argentina Argentina 56 1.895 52 1.923 +01  
+Flag of Bulgaria Bulgaria 57 1.903 54 1.936 â03  
+Flag of Tanzania Tanzania 58 1.919 57 1.966 â01  
+Flag of Nicaragua Nicaragua 59 1.919 66 2.020 +07  
+Flag of Croatia Croatia 60 1.926 67 2.030 +07  
+Flag of Libya Libya 61 1.927 58 1.967 â03  
+Flag of Cuba Cuba 62 1.954 59 1.968 â03  
+Flag of Morocco Morocco 63 1.954 48 1.893 â15  
+Flag of Equatorial Guinea Equatorial Guinea 64 1.964 71 2.059 +07  
+Flag of Jordan Jordan 65 1.969 63 1.997 â02  
+Flag of Bosnia and Herzegovina Bosnia and Herzegovina 66 1.974 75 2.089 +09  
+Flag of the People's Republic of China China 67 1.981 60 1.980 â07  
+Flag of Indonesia Indonesia 68 1.983 78 2.111 +10  
+Flag of Egypt Egypt 69 1.987 73 2.068 +04  
+Flag of Paraguay Paraguay 70 1.997 55 1.946 â15  
+Flag of Senegal Senegal 71 2.011 65 2.017 â06  
+Flag of Kazakhstan Kazakhstan 72 2.018 61 1.995 â11  
+Flag of Malawi Malawi 73 2.024 68 2.038 â05  
+Flag of Bahrain Bahrain 74 2.025 62 1.995 â12  
+Flag of Syria Syria 75 2.027 77 2.106 +02  
+Flag of Rwanda Rwanda 76 2.030  
+Flag of Namibia Namibia 77 2.042 64 2.003 â13  
+Flag of Bolivia Bolivia 78 2.043 69 2.052 â09  
+Flag of Albania Albania 79 2.044  
+Flag of Peru Peru 80 2.046 70 2.056 â10  
+Flag of Burkina Faso Burkina Faso 81 2.062  
+Flag of the Dominican Republic Dominican Republic 82 2.069 74 2.071 â08  
+Flag of Moldova Moldova 83 2.091 72 2.059 â11  
+Flag of Ukraine Ukraine 84 2.096 80 2.150 â04  
+Flag of Serbia Serbia 85 2.110 84 2.181 â01  
+Flag of Bangladesh Bangladesh 86 2.118 86 2.219 0  
+Flag of the Republic of Macedonia Republic of Macedonia 87 2.119 82 2.170
+â05  
+Flag of Mongolia Mongolia 88 2.155  
+Flag of El Salvador El Salvador 89 2.163 89 2.244 0  
+Flag of Brazil Brazil 90 2.168 83 2.173 â07  
+Flag of Cambodia Cambodia 91 2.179 85 2.197 â06  
+Flag of Cameroon Cameroon 92 2.182 76 2.093 â16  
+Flag of Mexico Mexico 93 2.191 79 2.125 â14  
+Flag of Belarus Belarus 94 2.194  
+Flag of Papua New Guinea Papua New Guinea 95 2.224 88 2.223 â07  
+Flag of Jamaica Jamaica 96 2.226 81 2.164 â15  
+Flag of the United States United States of America 97 2.227 96 2.317 â01  
+Flag of Trinidad and Tobago Trinidad and Tobago 98 2.230 94 2.286 â04  
+Flag of Mali Mali 99 2.238  
+Flag of Ecuador Ecuador 100 2.274 87 2.219 â13  
+Flag of Azerbaijan Azerbaijan 101 2.287 101 2.448 0  
+Flag of Turkmenistan Turkmenistan 102 2.302  
+Flag of Guatemala Guatemala 103 2.328 93 2.285 â10  
+Flag of Honduras Honduras 104 2.335 98 2.390 â06  
+Flag of Iran Iran 105 2.341 97 2.320 â08  
+Flag of Yemen Yemen 106 2.352 95 2.309 â11  
+Flag of India India 107 2.355 109 2.530 +02  
+Flag of Saudi Arabia Saudi Arabia 108 2.357 90 2.246 â18  
+Flag of Haiti Haiti 109 2.362  
+Flag of Angola Angola 110 2.364 112 2.587 +02  
+Flag of Uzbekistan Uzbekistan 111 2.377 110 2.542 â01  
+Flag of Algeria Algeria 112 2.378 107 2.503 â05  
+Flag of the Philippines Philippines 113 2.385 100 2.428 â13  
+Flag of Uganda Uganda 114 2.391 104 2.489 â10  
+Flag of Turkey Turkey 115 2.403 92 2.272 â23  
+Flag of South Africa South Africa 116 2.412 99 2.399 â17  
+Flag of the Republic of the Congo Republic of the Congo 117 2.417  
+Flag of Thailand Thailand 118 2.424 105 2.491 â13  
+Flag of Kenya Kenya 119 2.429 91 2.258 â28  
+Flag of Mauritania Mauritania 120 2.435  
+Flag of Ethiopia Ethiopia 121 2.439 103 2.479 â18  
+Flag of CÃ´te d'Ivoire Cote d'Ivoire 122 2.451 113 2.638 â09  
+Flag of Venezuela Venezuela 123 2.505 102 2.453 â21  
+Flag of Zimbabwe Zimbabwe 124 2.513 106 2.495 â18  
+Flag of Sri Lanka Sri Lanka 125 2.584 111 2.575 â14  
+Flag of Burma Myanmar 126 2.590 108 2.524 â18  
+Flag of the Democratic Republic of the Congo Democratic Republic of the Congo
+128 2.707  
+Flag of Nigeria Nigeria 129 2.724 117 2.898 â12  
+Flag of Colombia Colombia 130 2.757 116 2.770 â14  
+Flag of Russia Russia 131 2.777 118 2.903 â13  
+Flag of Lebanon Lebanon 132 2.840 114 2.662 â18  
+Flag of North Korea North Korea 133 2.850  
+Flag of the Central African Republic Central African Republic 134 2.857  
+Flag of Chad Chad 135 3.007  
+Flag of Israel Israel 136 3.052 119 3.033 â17  
+Flag of Afghanistan Afghanistan 137 3.126  
+Flag of Sudan Sudan 138 3.189 120 3.182 â18  
+Flag of Somalia Somalia 139 3.293  
+Flag of Iraq Iraq 140 3.514 121 3.437 â19  
+## [edit] References
+
+  1. ^ All information in indicator table from "Global Peace Index: Indicators". Vision of Humanity. http://www.visionofhumanity.com/GPI_Indicators/index.php. Retrieved on 2007-10-07.
+  2. ^ a b c In this case, a conflict is defined as, "a contested incompatibility that concerns government and/or territory where the use of armed force between two parties, of which at least one is the government of a state, results in at least 25 battle-related deaths in a year."
+  3. ^ Excludes militia and national guard forces.
+  4. ^ This includes, "cash outlays of central or federal government to meet the costs of national armed forcesâincluding strategic, land, naval, air, command, administration and support forces as well as paramilitary forces, customs forces and border guards if these are trained and equipped as a military force."
+  5. ^ a b This includes transfers, purchases, or gifts of aircraft, armoured vehicles, artillery, radar systems, missiles, ships, engines
+  6. ^ Weapons defined in four categories: armoured vehicles, artillery, combat aircraft, major fighting ships.
+  7. ^ "Global Peace Index: Methodology". Vision of Humanity. http://www.visionofhumanity.com/WPI_Methodology/index.php. Retrieved on 2007-10-07.
+  8. ^ First Global Peace Index Ranks 121 Countries, PP Newswire
+  9. ^ "Global Peace Index: Drivers of Peace". Vision of Humanity. http://www.visionofhumanity.com/WPI_PeaceDrivers/index.php. Retrieved on 2007-10-07.
+  10. ^ Charles, Deborah (May 30, 2007). "New Peace Index Ranks US Among Worst Nations". Reuters. http://www.commondreams.org/archive/2007/05/30/1553/. Retrieved on 2007-08-09.
+  11. ^ "Give peace a rating". The Economist. May 31, 2007. http://www.economist.com/world/international/displaystory.cfm?story_id=9266967. Retrieved on 2007-08-09.
+  12. ^ Eisler, Riane (July 26, 2007). "Dark underbelly of the world's most 'peaceful' countries". Christian Science Monitor. http://www.csmonitor.com/2007/0726/p09s01-coop.htm. Retrieved on 2007-08-09.
+  13. ^ "Endorsers for GPI". Vision of Humanity. http://www.visionofhumanity.com/endorsementsForGPI/index.php. Retrieved on 2008-08-09.
+  14. ^ "Global Peace Index Launched Today". Press Release (Note:This link is to a PDF document). Vision of Humanity. http://www.visionofhumanity.com/artman/uploads/1/GPI_Launched_Press_Release.pdf. Retrieved on 2008-08-09.
+  15. ^ All information in the table of rankings from: 
+    * Institute for Economics and Peace, Economist Intelligence Unit (2008). "Global Peace Index: 2008 Methodology, Results & Findings" (PDF). 58. http://www.visionofhumanity.org/images/content/Documents/2008%20GPi%20EIU%20Report.pdf. Retrieved on 2008-06-17.
+    * Institute for Economics and Peace, Economist Intelligence Unit (2007). "Global Peace Index: Methodology, Results & Findings" (PDF). 44. http://www.visionofhumanity.org/images/content/Documents/2007%20GPI%20EIU%20Report.pdf. Retrieved on 2008-06-17.
+Both are linked from: Vision of Humanity (2008). "EIU Reports - Documents -
+Global Peace Index". http://www.visionofhumanity.org/gpi/documents/results-
+report.php. Retrieved on 2008-06-17.
+
+## [edit] External links
+
+  * Vision of Humanity - Official Global Peace Index Site
+
+v â¢ d â¢ e
+
+Lists of countries with rankings  
+Geography  
+Agriculture
+
+Area: land use Â· forest Â· water Â· Border Â· Coastline Â· EEZ Â· Time zones
+Â· Extreme points: N Â· S Â· W Â· E Â· highest Â· lowest Â· Freshwater:
+withdrawal Â· irrigation Â· Agricultural output: fish Â· milk Â· fruit Â·
+banana Â· apple Â· tomato Â· orange Â· citrus Â· tobacco Â· coffee Â· cacao Â·
+tea Â· wine Â· sugarcane Â· maize Â· rice Â· wheat Â· triticale Â· rye Â·
+barley Â· oat Â· buckwheat Â· millet Â· sorghum Â· soybean Â· sunflower Â·
+potato Â· sugar beet  
+Population  
+Well-being
+
+Population: density Â· growth Â· history Â· Life expectancy Â· Sex ratio Â·
+Fertility Â· Birth rate Â· Infant mortality Â· Death rate Â· Immigrants Â·
+HDI: education Â· Undernourishment Â· HIV/AIDS Â· Literacy Â· English speakers
+Â· School leaving age Â· Student performance Â· IQ Â· Innovation Â· Patents Â·
+Labour force Â· Employment Â· Unemployment Â· Gender Gap Â· Income equality Â·
+Billionaires Â· Social welfare Â· Poverty Â· Charity Â· Consumption of: tea Â·
+coffee Â· tobacco Â· beer Â· wine Â· alcohol Â· Prosperity Â· Quality-of-life
+Â· Satisfaction with Life Â· Happiness Â· EPI Â· Ecology Â· Bioreserves Â· WH
+Sites Â· Tourism: visits Â· competitiveness Â· Nation Brands  
+Religion  
+Law
+
+Religion: Buddhism Â· Christianity (Orthodoxy Â· Protestantism Â· Roman
+Catholicism) Â· Hinduism Â· Islam Â· Judaism Â· Sikhism Â· Irreligion Â· Age
+of: legal drinking Â· consent Â· legal marriage Â· 1st marriage Â· Divorces Â·
+Cannabis use: annual Â· lifetime Â· Cocaine Â· Opiates Â· Abortion Â·
+Euthanasia Â· Suicides Â· Homicides Â· Guns: ownership Â· deaths Â· Death
+penalty Â· Incarceration Â· Prisoners  
+GDP  
+Finance
+
+Nominal: per capita Â· past Â· future Â· future per capita Â· PPP: per capita
+Â· per hour Â· past Â· future Â· future per capita Â· GNI: nominal Â· PPP Â·
+Growth: real Â· per capita Â· 2000-2007 Â· industry Â· Sectors Â· FDI: at home
+Â· abroad Â· GFI Â· Debt: external Â· public Â· Imports Â· Exports: per capita
+Â· Account: % GDP Â· Forex reserve Â· SWF Â· Pension fund Â· Minimum wage Â·
+Income Â· Taxes: revenue Â· Inflation Â· Interest Â· $ exchange  
+Energy  
+Industry
+
+Energy: consumption Â· intensity Â· Electricity Â· Oil Â· Natural gas Â· Coal:
+reserves Â· production Â· Uranium: reserves Â· production Â· Nuclear power Â·
+Renewable energy: hydro Â· wind Â· Minerals: bentonite Â· feldspar Â· fluorite
+Â· mica Â· asbestos Â· salt Â· diamond Â· Chemicals: As Â· Sb Â· I Â· Hg Â·
+Metallurgy: iron Â· steel Â· bauxite Â· Al2O3 Â· Al Â· Mn Â· Co Â· Ni Â· Cu Â·
+Zn Â· Sr Â· Zr Â· Nb Â· Mo Â· Cd Â· Sn Â· W Â· Bi Â· Pd Â· Pt Â· Ag Â· Au Â·
+Cement Â· Automobiles Â· Ships Â· Emissions: CO2 Â· CO2 per capita Â· GDP per
+CO2  
+Transport  
+Media
+
+Airports Â· Railways: usage Â· Rapid transit Â· Roadways: vehicles Â·
+fatalities Â· Waterways Â· Merchant marine Â· Pipelines Â· Telephone lines Â·
+TV stations Â· TV sets Â· Mobile phones Â· Books Â· Internet: broadband Â·
+censorship Â· hosts Â· E-readiness: E-Government  
+Politics  
+Military
+
+Freedom: press Â· economic Â· Privacy Â· Corruption Â· Bribes Â· Property
+rights Â· Ease of business Â· Competitiveness Â· Globalization Â· Democracy Â·
+Stability Â· Date of nationhood Â· Police officers Â· Armed forces Â· Active
+troops: per capita Â· Conscription Â· Defense budget Â· Aircraft carriers Â·
+Nuclear weapons Â· Arms exports Â· UN peacekeepers Â· Global Peace  
+Sports  
+Culture
+
+Olympics: medals Â· hosts Â· FIFA World Cup: winners Â· hosts Â· rankings Â·
+Beach soccer Â· Futsal Â· Curling: men Â· women Â· Ice hockey: men Â· women Â·
+rankings Â· Field hockey: men Â· women Â· Bandy Â· Cricket: Test Â· ODI Â·
+Basketball: men Â· women Â· Handball: men Â· women Â· Volleyball Â· Davis Cup
+Â· Fed Cup Â· Badminton: men Â· women Â· Athletics Â· Figure skating Â·
+Bobsleigh Â· Luge: natural track Â· Nordic skiing Â· Alpine skiing Â· Chess Â·
+Academy Awards  
+Featured list
+
+Retrieved from "http://en.wikipedia.org/wiki/Global_Peace_Index"
+
+Categories: Index numbers | Peace and conflict studies | Lists of countries by
+international rankings
+
+##### Views
+
+  * Article
+  * Discussion
+  * Edit this page
+  * History
+
+##### Personal tools
+
+  * Log in / create account
+
+##### Navigation
+
+  * Main page
+  * Contents
+  * Featured content
+  * Current events
+  * Random article
+
+##### Search
+
+
+
+##### Interaction
+
+  * About Wikipedia
+  * Community portal
+  * Recent changes
+  * Contact Wikipedia
+  * Donate to Wikipedia
+  * Help
+
+##### Toolbox
+
+  * What links here
+  * Related changes
+  * Upload file
+  * Special pages
+  * Printable version
+  * Permanent link
+  * Cite this page
+
+##### Languages
+
+  * Dansk
+  * Deutsch
+  * EspaÃ±ol
+  * FranÃ§ais
+  * á¥áá áá£áá
+  * æ¥æ¬èª
+  * âªNorsk (bokmÃ¥l)â¬
+  * PortuguÃªs
+  * Ð ÑÑÑÐºÐ¸Ð¹
+  * ä¸­æ
+
+Powered by MediaWiki
+
+Wikimedia Foundation
+
+  * This page was last modified on 14 March 2009, at 16:51.
+  * All text is available under the terms of the GNU Free Documentation License. (See Copyrights for details.)   
+Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a U.S.
+registered 501(c)(3) tax-deductible nonprofit charity.  
+
+  * Privacy policy
+  * About Wikipedia
+  * Disclaimers
+
+
+
